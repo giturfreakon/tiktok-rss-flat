@@ -3,7 +3,11 @@
 
 ## index
 
-- [iamtabithabrown](https://tiktokrss.uselesslesbians.gay/rss/iamtabithabrown.xml]
+- [iamtabithabrown](https://tiktokrss.uselesslesbians.gay/rss/iamtabithabrown.xml)
+- [mirandagoesoutside](https://tiktokrss.uselesslesbians.gay/rss/mirandagoesoutside.xml)
+- [scottseiss](https://tiktokrss.uselesslesbians.gay/rss/scottseiss.xml)
+- [texasbeeworks](https://tiktokrss.uselesslesbians.gay/rss/texasbeeworks.xml)
+- [visitballyhoura](https://tiktokrss.uselesslesbians.gay/rss/visitballyhoura.xml)
 
 ## about
 
