@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-05T09:47:00+00:00</updated>
+  <updated>2023-04-05T18:56:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7217925308953939246</id>
-    <title>A throwback sound </title>
-    <updated>2023-04-03T20:36:49+00:00</updated>
-    <content>A throwback sound </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7217925308953939246" rel="alternate"/>
-    <published>2023-04-03T20:36:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7217993875342822699</id>
     <title>8pm what kind of pasta should I make</title>
@@ -91,5 +83,13 @@
     <content>This song holds so many memories </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7218499690524937515" rel="alternate"/>
     <published>2023-04-05T09:47:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7218641607346638123</id>
+    <title>Tag yourself, I’m the bowl of dirt in the back </title>
+    <updated>2023-04-05T18:56:27+00:00</updated>
+    <content>Tag yourself, I’m the bowl of dirt in the back </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7218641607346638123" rel="alternate"/>
+    <published>2023-04-05T18:56:27+00:00</published>
   </entry>
 </feed>
