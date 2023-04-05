@@ -27,7 +27,7 @@ async def runAll():
 			run(row['username']) for row in csv.DictReader(f, fieldnames=['username'])])
 	
 	nextSubscriptionsFileToRun += 1
-	if (nextSubscriptionFileToRun > subscriptionFileCount)
+	if (nextSubscriptionFileToRun > subscriptionFileCount):
 		nextSubscriptionFileToRun = 1
 	print(f'Next file to run is subscriptions{nextSubscriptionFileToRun}.csv')
 
