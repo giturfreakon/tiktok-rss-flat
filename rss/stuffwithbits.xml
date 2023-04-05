@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-04-04T22:08:27+00:00</updated>
+  <updated>2023-04-05T18:40:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7217206097030008110</id>
-    <title>Replying to @its_sage_8itches #reply #draft (recorded 1/2023) I feel like I didn't answer your question, but thanks for letting me talk. #solardidsystem #ssryn </title>
-    <updated>2023-04-01T22:05:52+00:00</updated>
-    <content>Replying to @its_sage_8itches #reply #draft (recorded 1/2023) I feel like I didn't answer your question, but thanks for letting me talk. #solardidsystem #ssryn </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7217206097030008110" rel="alternate"/>
-    <published>2023-04-01T22:05:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7217229948422032683</id>
-    <title>#reply this rhetoric is honestly so incredibly damaging, especially to systems struggling with denial and imposter syndrome #solardidsystem #ssdrexel </title>
-    <updated>2023-04-01T23:38:27+00:00</updated>
-    <content>#reply this rhetoric is honestly so incredibly damaging, especially to systems struggling with denial and imposter syndrome #solardidsystem #ssdrexel </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7217229948422032683" rel="alternate"/>
-    <published>2023-04-01T23:38:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7217495683085897002</id>
     <title>The depression gives me my sense of humor #solardidsystem #ssdrexel </title>
@@ -91,5 +75,21 @@
     <content>Sleepy baby 🥰 #solardidsystem #ladybug #cat #cats #catsoftiktok #esa </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7218320006512201002" rel="alternate"/>
     <published>2023-04-04T22:08:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7218637297334488362</id>
+    <title>Not sure why you would want to advertise yourself as disabled but go off I guess #solardidsystem #ssryn #servicedog #esa </title>
+    <updated>2023-04-05T18:39:51+00:00</updated>
+    <content>Not sure why you would want to advertise yourself as disabled but go off I guess #solardidsystem #ssryn #servicedog #esa </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7218637297334488362" rel="alternate"/>
+    <published>2023-04-05T18:39:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7218637375382015274</id>
+    <title>sleepy kitty 🥰 #solardidsystem #ssryn #catsoftiktok #cats #cat #ladybug </title>
+    <updated>2023-04-05T18:40:03+00:00</updated>
+    <content>sleepy kitty 🥰 #solardidsystem #ssryn #catsoftiktok #cats #cat #ladybug </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7218637375382015274" rel="alternate"/>
+    <published>2023-04-05T18:40:03+00:00</published>
   </entry>
 </feed>
