@@ -17,13 +17,16 @@ subscriptionFileCount = 4
 
 
 async def runAll():
-	print('runAll start')
+	print('-------------------- runAll start --------------------')
 	
 	currentFileNumber = 0
+	print(f'-------------------- currentFileNumber = {currentFileNumber} --------------------')
 	with open('currentFileNumber.py') as f:
 		currentFileNumber = f.read()
+	print(f'-------------------- currentFileNumber = {currentFileNumber} --------------------')
+	
 	fileToRun = 'subscriptions' + currentFileNumber + '.csv'
-	print(f'Running for file {fileToRun}')
+	print(f'-------------------- fileToRun = {fileToRun} --------------------')
 	
 	with open(fileToRun) as f:
 		# TODO: Switch to 3.11 TaskGroup or trio nursery
@@ -33,16 +36,17 @@ async def runAll():
 	nextFileNumber = int(currentFileNumber) + 1
 	if (nextFileNumber > subscriptionFileCount):
 		nextFileNumber = 1
+	print(f'-------------------- nextFileNumber = {nextFileNumber} --------------------')
 	
-	print(f'Next file to run is subscriptions{nextFileNumber}.csv')
+	print(f'next file to run is subscriptions{nextFileNumber}.csv')
 	with open('nextFileNumber.py') as f:
 		f.write(nextFileNumber)
 	
-	print('runAll end')
+	print('-------------------- runAll end --------------------')
 
 
 async def run(csvuser):
-	print(f'run start {csvuser}')
+	print(f'-------------------- run start {csvuser} --------------------')
 	try:
 		print(f'Running for user \'{csvuser}\'')
 		
@@ -90,7 +94,7 @@ async def run(csvuser):
 		print(f"Some error: {e}")
 		pass
 	
-	print(f'run end {csvuser}')
+	print(f'-------------------- run end {csvuser} --------------------')
 
 
 
