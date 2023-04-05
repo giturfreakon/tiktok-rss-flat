@@ -18,7 +18,10 @@ nextSubscriptionFileToRun = 2
 
 
 async def runAll():
-	with open('subscriptions' + nextSubscriptionFileToRun + '.csv') as f:
+	fileToRun = 'subscriptions' + nextSubscriptionFileToRun + '.csv'
+	print(f'Running for file {fileToRun}')
+	
+	with open(fileToRun) as f:
 		# TODO: Switch to 3.11 TaskGroup or trio nursery
 		await asyncio.gather(*[
 			run(row['username']) for row in csv.DictReader(f, fieldnames=['username'])])
@@ -26,6 +29,7 @@ async def runAll():
 	nextSubscriptionsFileToRun += 1
 	if (nextSubscriptionFileToRun > subscriptionFileCount)
 		nextSubscriptionFileToRun = 1
+	print(f'Next file to run is subscriptions{nextSubscriptionFileToRun}.csv')
 
 
 async def run(csvuser):
