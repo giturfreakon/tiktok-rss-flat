@@ -1,15 +1,6 @@
 ![TikTok RSS Logo](https://tiktokrss.uselesslesbians.gay/favicon-32x32.png)
 # TikTok RSS Using GitHub OCTO Flat Data
 
-## index
-
-- [username](https://tiktokrss.uselesslesbians.gay/rss/username.xml)
-- [avery.wade.kelley](https://tiktokrss.uselesslesbians.gay/rss/avery.wade.kelley.xml)
-- [lactoseintolerantcharlie](https://tiktokrss.uselesslesbians.gay/rss/lactoseintolerantcharlie.xml)
-- [maladytheclown](https://tiktokrss.uselesslesbians.gay/rss/maladytheclown.xml)
-
-## about
-
 **NOTE January 2023: This is now working again due to an alternative TikTok library.**
 
 * Generate usable RSS feeds from TikTok using [GitHub OCTO Flat Data](https://octo.github.com/projects/flat-data), GitHub Actions and GitHub Pages.
