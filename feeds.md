@@ -15,7 +15,7 @@
 - [grizzoworld](https://tiktokrss.uselesslesbians.gay/rss/grizzoworld.xml)
 - [iambeckydee](https://tiktokrss.uselesslesbians.gay/rss/iambeckydee.xml)
 - [itsyaboygriffin](https://tiktokrss.uselesslesbians.gay/rss/itsyaboygriffin.xml)
-- [jacontheseahorse](https://tiktokrss.uselesslesbians.gay/rss/jacontheseahorse.xml)
+- [jacobtheseahorse](https://tiktokrss.uselesslesbians.gay/rss/jacobtheseahorse.xml)
 - [jodellemicahferland](https://tiktokrss.uselesslesbians.gay/rss/jodellemicahferland.xml)
 - [juliafox038711](https://tiktokrss.uselesslesbians.gay/rss/juliafox038711.xml)
 - [kamehalani](https://tiktokrss.uselesslesbians.gay/rss/kamehalani.xml)
