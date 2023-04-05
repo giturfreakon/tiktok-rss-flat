@@ -28,7 +28,7 @@ async def runAll():
 		await asyncio.gather(*[
 			run(row['username']) for row in csv.DictReader(f, fieldnames=['username'])])
 	
-	nextSubscriptionsFileToRun += 1
+	nextSubscriptionFileToRun += 1
 	if (nextSubscriptionFileToRun > subscriptionFileCount):
 		nextSubscriptionFileToRun = 1
 	
