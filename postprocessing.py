@@ -14,10 +14,12 @@ ghPagesURL = "https://tiktokrss.uselesslesbians.gay/"
 
 maxItems = 10
 subscriptionFileCount = 4
-nextSubscriptionFileToRun = 2
 
 
 async def runAll():
+	nextSubscriptionFileToRun = 0
+	with open('nextSubscriptionFileToRun.py') as f:
+		nextSubscriptionFileToRun = f.read()
 	fileToRun = 'subscriptions' + nextSubscriptionFileToRun + '.csv'
 	print(f'Running for file {fileToRun}')
 	
@@ -29,7 +31,10 @@ async def runAll():
 	nextSubscriptionsFileToRun += 1
 	if (nextSubscriptionFileToRun > subscriptionFileCount):
 		nextSubscriptionFileToRun = 1
+	
 	print(f'Next file to run is subscriptions{nextSubscriptionFileToRun}.csv')
+	with open('nextSubscriptionFileToRun.py') as f:
+		f.write(nextSubscriptionFileToRun)
 
 
 async def run(csvuser):
