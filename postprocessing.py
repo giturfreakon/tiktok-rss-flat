@@ -17,6 +17,8 @@ subscriptionFileCount = 4
 
 
 async def runAll():
+	print('runAll start')
+	
 	currentFileNumber = 0
 	with open('currentFileNumber.py') as f:
 		currentFileNumber = f.read()
@@ -35,9 +37,12 @@ async def runAll():
 	print(f'Next file to run is subscriptions{nextFileNumber}.csv')
 	with open('nextFileNumber.py') as f:
 		f.write(nextFileNumber)
+	
+	print('runAll end')
 
 
 async def run(csvuser):
+	print(f'run start {csvuser}')
 	try:
 		print(f'Running for user \'{csvuser}\'')
 		
@@ -84,6 +89,8 @@ async def run(csvuser):
 	except Exception as e:
 		print(f"Some error: {e}")
 		pass
+	
+	print(f'run end {csvuser}')
 
 
 
