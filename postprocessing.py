@@ -39,8 +39,8 @@ async def runAll():
 			nextFileNumber = 1
 		print( f'-------------------- nextFileNumber = {nextFileNumber} --------------------' )
 		
-		print( f'-------------------- attempt to store next subscription file number to run \( subscriptions{nextFileNumber}.csv\ ) --------------------' )
-		with open( 'nextSubscriptionFileToRun.py' ) as f:
+		print( f'-------------------- attempt to store next subscription file number to run ( subscriptions{nextFileNumber}.csv ) --------------------' )
+		with open( 'nextSubscriptionFileToRun.py', 'w' ) as f:
 			f.write( str( nextFileNumber ) )
 	except Exception as e:
 		print( f'-------------------- an error occurred: {e} --------------------' )
