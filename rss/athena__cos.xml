@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-04-02T21:02:17+00:00</updated>
+  <updated>2023-04-05T22:53:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7213105803622894891</id>
-    <title>Replying to @bigfireballc  well everyone looks like i will be retiring from martial arts since homeboy said i don’t do martial arts  Please everyone listen to the sound of the worlds smallest violin #mma #gjj #graciejiujitsu #bjj #girlswholift #women #man</title>
-    <updated>2023-03-21T20:54:41+00:00</updated>
-    <content>Replying to @bigfireballc  well everyone looks like i will be retiring from martial arts since homeboy said i don’t do martial arts  Please everyone listen to the sound of the worlds smallest violin #mma #gjj #graciejiujitsu #bjj #girlswholift #women #manbaby </content>
-    <link href="https://tiktok.com/@athena__cos/video/7213105803622894891" rel="alternate"/>
-    <published>2023-03-21T20:54:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7214591134910188846</id>
     <title>Its the blank stare right before snapping my spine that’s my favorite  #mrholmes #jojo #jojopose #cosplay #techwear #darkwear #futurewear #dystopian #apocalypse </title>
@@ -91,5 +83,13 @@
     <content>In another Multiverse…💙❤️ This was my FIRST time wearing a spidey suit outside an apartment and it was so fun dancing in it!  Suits borrowed from @dieselfz6r  Other spidey is @dylanpool_  #spidey #spiderman #spidermancosplay #spiderverse #multiverse #spiderwoman #marvelcosplay #couplesdance #slowdance </content>
     <link href="https://tiktok.com/@athena__cos/video/7217560791841590574" rel="alternate"/>
     <published>2023-04-02T21:02:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7218702644519472426</id>
+    <title>Outfit inspo from @buffcheekss and @justinsaiyann  #bodybuilding #aot #aotcosplay #leathergear #odm #gymtok #buffwomen </title>
+    <updated>2023-04-05T22:53:17+00:00</updated>
+    <content>Outfit inspo from @buffcheekss and @justinsaiyann  #bodybuilding #aot #aotcosplay #leathergear #odm #gymtok #buffwomen </content>
+    <link href="https://tiktok.com/@athena__cos/video/7218702644519472426" rel="alternate"/>
+    <published>2023-04-05T22:53:17+00:00</published>
   </entry>
 </feed>
