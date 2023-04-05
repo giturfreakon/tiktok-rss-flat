@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@avi.akbar</id>
+  <title>@avi.akbar | TikTok</title>
+  <updated>2023-04-05T02:38:17+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://tiktokrss.uselesslesbians.gay/rss/avi.akbar.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
+  <subtitle>Latest TikToks from @avi.akbar</subtitle>
+  <entry>
+    <id>https://tiktok.com/@avi.akbar/video/7216862539634707754</id>
+    <title>#pov: You start to hear voices warning you of things... PART 1 (ib: @princcesskatiee ) #aviakbarpov </title>
+    <updated>2023-03-31T23:52:39+00:00</updated>
+    <content>#pov: You start to hear voices warning you of things... PART 1 (ib: @princcesskatiee ) #aviakbarpov </content>
+    <link href="https://tiktok.com/@avi.akbar/video/7216862539634707754" rel="alternate"/>
+    <published>2023-03-31T23:52:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avi.akbar/video/7217239850515189034</id>
+    <title>#pov: you start to hear voices warning you of things... PART 2 #aviakbarpov </title>
+    <updated>2023-04-02T00:16:46+00:00</updated>
+    <content>#pov: you start to hear voices warning you of things... PART 2 #aviakbarpov </content>
+    <link href="https://tiktok.com/@avi.akbar/video/7217239850515189034" rel="alternate"/>
+    <published>2023-04-02T00:16:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avi.akbar/video/7217582278074010926</id>
+    <title>#pov: the cops thought they'd catch you but you fooled them... (Ib: @miuka.povs )</title>
+    <updated>2023-04-02T22:25:37+00:00</updated>
+    <content>#pov: the cops thought they'd catch you but you fooled them... (Ib: @miuka.povs )</content>
+    <link href="https://tiktok.com/@avi.akbar/video/7217582278074010926" rel="alternate"/>
+    <published>2023-04-02T22:25:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avi.akbar/video/7217937255132843306</id>
+    <title>#pov the mystery ticket... (IB: @devincaherly ) #aviakbarpov </title>
+    <updated>2023-04-03T21:23:06+00:00</updated>
+    <content>#pov the mystery ticket... (IB: @devincaherly ) #aviakbarpov </content>
+    <link href="https://tiktok.com/@avi.akbar/video/7217937255132843306" rel="alternate"/>
+    <published>2023-04-03T21:23:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avi.akbar/video/7218389565982248234</id>
+    <title>#pov the mystery ticket... PART 2 @avi.akbar #aviakbarpov </title>
+    <updated>2023-04-05T02:38:17+00:00</updated>
+    <content>#pov the mystery ticket... PART 2 @avi.akbar #aviakbarpov </content>
+    <link href="https://tiktok.com/@avi.akbar/video/7218389565982248234" rel="alternate"/>
+    <published>2023-04-05T02:38:17+00:00</published>
+  </entry>
+</feed>

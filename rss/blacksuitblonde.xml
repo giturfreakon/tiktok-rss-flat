@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@blacksuitblonde</id>
+  <title>@blacksuitblonde | TikTok</title>
+  <updated>2023-04-04T18:03:51+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://tiktokrss.uselesslesbians.gay/rss/blacksuitblonde.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
+  <subtitle>Latest TikToks from @blacksuitblonde</subtitle>
+  <entry>
+    <id>https://tiktok.com/@blacksuitblonde/video/7213832762636176683</id>
+    <title>How’s this? #fashion #style #suit </title>
+    <updated>2023-03-23T19:55:42+00:00</updated>
+    <content>How’s this? #fashion #style #suit </content>
+    <link href="https://tiktok.com/@blacksuitblonde/video/7213832762636176683" rel="alternate"/>
+    <published>2023-03-23T19:55:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@blacksuitblonde/video/7214195486520036654</id>
+    <title>Evidence Article I: the best bag I’ve ever had</title>
+    <updated>2023-03-24T19:23:07+00:00</updated>
+    <content>Evidence Article I: the best bag I’ve ever had</content>
+    <link href="https://tiktok.com/@blacksuitblonde/video/7214195486520036654" rel="alternate"/>
+    <published>2023-03-24T19:23:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@blacksuitblonde/video/7216039713541754158</id>
+    <title>Replying to @gencallme nothing beats this feeling #aerial #aerialhammock </title>
+    <updated>2023-03-29T18:39:44+00:00</updated>
+    <content>Replying to @gencallme nothing beats this feeling #aerial #aerialhammock </content>
+    <link href="https://tiktok.com/@blacksuitblonde/video/7216039713541754158" rel="alternate"/>
+    <published>2023-03-29T18:39:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@blacksuitblonde/video/7217913025381092651</id>
+    <title>Sometimes its just like that #ootd </title>
+    <updated>2023-04-03T19:49:13+00:00</updated>
+    <content>Sometimes its just like that #ootd </content>
+    <link href="https://tiktok.com/@blacksuitblonde/video/7217913025381092651" rel="alternate"/>
+    <published>2023-04-03T19:49:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@blacksuitblonde/video/7218256985127669038</id>
+    <title>I’m ok, I promise. The fight continues.</title>
+    <updated>2023-04-04T18:03:51+00:00</updated>
+    <content>I’m ok, I promise. The fight continues.</content>
+    <link href="https://tiktok.com/@blacksuitblonde/video/7218256985127669038" rel="alternate"/>
+    <published>2023-04-04T18:03:51+00:00</published>
+  </entry>
+</feed>
