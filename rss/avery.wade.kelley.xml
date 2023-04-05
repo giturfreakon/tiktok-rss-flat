@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-04-04T23:12:07+00:00</updated>
+  <updated>2023-04-05T15:53:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7213006368943525166</id>
-    <title>Trans uncle mode. We won't stop until you're protected and safe. I promise. #fyp #trans </title>
-    <updated>2023-03-21T14:28:48+00:00</updated>
-    <content>Trans uncle mode. We won't stop until you're protected and safe. I promise. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7213006368943525166" rel="alternate"/>
-    <published>2023-03-21T14:28:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7213049993379319082</id>
     <title>#duet with @infoxicated14 We need all allies. Thank you so very much. #fyp #trans </title>
@@ -91,5 +83,13 @@
     <content>Replying to @putitback23 Haha, sure! #fyp #Trans #tattoos </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7218336419129953578" rel="alternate"/>
     <published>2023-04-04T23:12:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7218594409472937262</id>
+    <title>10 months already?! #fyp #trans </title>
+    <updated>2023-04-05T15:53:26+00:00</updated>
+    <content>10 months already?! #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7218594409472937262" rel="alternate"/>
+    <published>2023-04-05T15:53:26+00:00</published>
   </entry>
 </feed>
