@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lactoseintolerantcharlie</id>
   <title>@lactoseintolerantcharlie | TikTok</title>
-  <updated>2023-04-03T18:39:20+00:00</updated>
+  <updated>2023-04-05T12:28:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lactoseintolerantcharlie</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lactoseintolerantcharlie/video/7210195547238747438</id>
-    <title>Why hello there, it’s been a while hasn’t it 😋 #girlsgaysandtheys </title>
-    <updated>2023-03-14T00:41:24+00:00</updated>
-    <content>Why hello there, it’s been a while hasn’t it 😋 #girlsgaysandtheys </content>
-    <link href="https://tiktok.com/@lactoseintolerantcharlie/video/7210195547238747438" rel="alternate"/>
-    <published>2023-03-14T00:41:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lactoseintolerantcharlie/video/7210199294085827883</id>
     <title>Making up for the sass and confidence I have neglected to serve in the last few months on my hiatus💅 </title>
@@ -91,5 +83,13 @@
     <content>The ✨CABUSSY✨</content>
     <link href="https://tiktok.com/@lactoseintolerantcharlie/video/7217895009759087914" rel="alternate"/>
     <published>2023-04-03T18:39:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lactoseintolerantcharlie/video/7218541603441495342</id>
+    <title>You guys should go check out my cosplay account! @charliechicken789 😎 </title>
+    <updated>2023-04-05T12:28:42+00:00</updated>
+    <content>You guys should go check out my cosplay account! @charliechicken789 😎 </content>
+    <link href="https://tiktok.com/@lactoseintolerantcharlie/video/7218541603441495342" rel="alternate"/>
+    <published>2023-04-05T12:28:42+00:00</published>
   </entry>
 </feed>
