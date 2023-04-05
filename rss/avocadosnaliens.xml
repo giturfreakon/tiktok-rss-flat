@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@avocadosnaliens</id>
+  <title>@avocadosnaliens | TikTok</title>
+  <updated>2023-03-23T18:48:23+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://tiktokrss.uselesslesbians.gay/rss/avocadosnaliens.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
+  <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7210863388916763946</id>
+    <title>Always here to remind you🫶 #foryou </title>
+    <updated>2023-03-15T19:52:50+00:00</updated>
+    <content>Always here to remind you🫶 #foryou </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7210863388916763946" rel="alternate"/>
+    <published>2023-03-15T19:52:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7210922199656582443</id>
+    <title>No Title</title>
+    <updated>2023-03-15T23:41:04+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7210922199656582443" rel="alternate"/>
+    <published>2023-03-15T23:41:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7211280998829411627</id>
+    <title>Not much of a story but yea. Off to work! #SeeHerGreatness #storytime</title>
+    <updated>2023-03-16T22:53:23+00:00</updated>
+    <content>Not much of a story but yea. Off to work! #SeeHerGreatness #storytime</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7211280998829411627" rel="alternate"/>
+    <published>2023-03-16T22:53:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7212344234727263534</id>
+    <title>#greenscreen #greenscreenvideo #sobrietyjourney #sobrietytips #alcoholfreejourney #alcoholfreelife </title>
+    <updated>2023-03-19T19:39:23+00:00</updated>
+    <content>#greenscreen #greenscreenvideo #sobrietyjourney #sobrietytips #alcoholfreejourney #alcoholfreelife </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7212344234727263534" rel="alternate"/>
+    <published>2023-03-19T19:39:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7213815440504605994</id>
+    <title>#grwm #storytime </title>
+    <updated>2023-03-23T18:48:23+00:00</updated>
+    <content>#grwm #storytime </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7213815440504605994" rel="alternate"/>
+    <published>2023-03-23T18:48:23+00:00</published>
+  </entry>
+</feed>

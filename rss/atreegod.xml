@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@atreegod</id>
+  <title>@atreegod | TikTok</title>
+  <updated>2023-04-04T17:17:04+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://tiktokrss.uselesslesbians.gay/rss/atreegod.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
+  <subtitle>Latest TikToks from @atreegod</subtitle>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7217595454094167342</id>
+    <title>Hi #wlw</title>
+    <updated>2023-04-02T23:16:48+00:00</updated>
+    <content>Hi #wlw</content>
+    <link href="https://tiktok.com/@atreegod/video/7217595454094167342" rel="alternate"/>
+    <published>2023-04-02T23:16:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7217640938749824298</id>
+    <title>Ashnikko &lt;3 #wlw </title>
+    <updated>2023-04-03T02:13:15+00:00</updated>
+    <content>Ashnikko &lt;3 #wlw </content>
+    <link href="https://tiktok.com/@atreegod/video/7217640938749824298" rel="alternate"/>
+    <published>2023-04-03T02:13:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7217868028388855086</id>
+    <title>Just woke up #wlw </title>
+    <updated>2023-04-03T16:54:41+00:00</updated>
+    <content>Just woke up #wlw </content>
+    <link href="https://tiktok.com/@atreegod/video/7217868028388855086" rel="alternate"/>
+    <published>2023-04-03T16:54:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7218206152511868202</id>
+    <title>Talk ab my skin and ill cry but 👁 #wlw </title>
+    <updated>2023-04-04T14:46:39+00:00</updated>
+    <content>Talk ab my skin and ill cry but 👁 #wlw </content>
+    <link href="https://tiktok.com/@atreegod/video/7218206152511868202" rel="alternate"/>
+    <published>2023-04-04T14:46:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7218244944786361643</id>
+    <title>I wanna see more mascs use this mf sound 💀 #wlw #lgbtq </title>
+    <updated>2023-04-04T17:17:04+00:00</updated>
+    <content>I wanna see more mascs use this mf sound 💀 #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7218244944786361643" rel="alternate"/>
+    <published>2023-04-04T17:17:04+00:00</published>
+  </entry>
+</feed>
