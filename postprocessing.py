@@ -12,7 +12,7 @@ from tiktokapipy.async_api import AsyncTikTokAPI
 # Custom Domain
 ghPagesURL = "https://tiktokrss.uselesslesbians.gay/"
 
-maxItems = 5
+maxItems = 10
 subscriptionFileCount = 4
 nextSubscriptionFileToRun = 2
 
