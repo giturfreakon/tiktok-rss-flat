@@ -17,39 +17,40 @@ subscriptionFileCount = 4
 
 
 async def runAll():
-	print('-------------------- runAll start --------------------')
-	
-	currentFileNumber = 0
-	print(f'-------------------- currentFileNumber = {currentFileNumber} --------------------')
-	with open('currentFileNumber.py') as f:
-		currentFileNumber = f.read()
-	print(f'-------------------- currentFileNumber = {currentFileNumber} --------------------')
-	
-	fileToRun = 'subscriptions' + currentFileNumber + '.csv'
-	print(f'-------------------- fileToRun = {fileToRun} --------------------')
-	
-	with open(fileToRun) as f:
-		# TODO: Switch to 3.11 TaskGroup or trio nursery
-		await asyncio.gather(*[
-			run(row['username']) for row in csv.DictReader(f, fieldnames=['username'])])
-	
-	nextFileNumber = int(currentFileNumber) + 1
-	if (nextFileNumber > subscriptionFileCount):
-		nextFileNumber = 1
-	print(f'-------------------- nextFileNumber = {nextFileNumber} --------------------')
-	
-	print(f'next file to run is subscriptions{nextFileNumber}.csv')
-	with open('nextFileNumber.py') as f:
-		f.write(nextFileNumber)
+	try:
+		print('-------------------- runAll start --------------------')
+		
+		currentFileNumber = 0
+		print(f'-------------------- attempt to load subscription file number to run --------------------')
+		with open('nextSubscriptionFileToRun.py') as f:
+			currentFileNumber = f.read()
+			print(f'-------------------- currentFileNumber = {currentFileNumber} --------------------')
+		
+		fileToRun = 'subscriptions' + currentFileNumber + '.csv'
+		print(f'-------------------- fileToRun = {fileToRun} --------------------')
+		
+		with open(fileToRun) as f:
+			# TODO: Switch to 3.11 TaskGroup or trio nursery
+			await asyncio.gather(*[
+				run(row['username']) for row in csv.DictReader(f, fieldnames=['username'])])
+		
+		nextFileNumber = int(currentFileNumber) + 1
+		if (nextFileNumber > subscriptionFileCount):
+			nextFileNumber = 1
+		print(f'-------------------- nextFileNumber = {nextFileNumber} --------------------')
+		
+		print(f'-------------------- attempt to store next subscription file number to run \(subscriptions{nextFileNumber}.csv\) --------------------')
+		with open('nextSubscriptionFileToRun.py') as f:
+			f.write(nextFileNumber)
+	except Exception as e:
+		print(f'-------------------- an error occurred: {e} --------------------')
 	
 	print('-------------------- runAll end --------------------')
 
 
 async def run(csvuser):
 	print(f'-------------------- run start {csvuser} --------------------')
-	try:
-		print(f'Running for user \'{csvuser}\'')
-		
+	try:		
 		fg = FeedGenerator()
 		fg.id('https://tiktok.com/@' + csvuser)
 		fg.title('@' + csvuser + ' | TikTok')
@@ -91,7 +92,7 @@ async def run(csvuser):
 		fg.updated(updated)
 		fg.atom_file('rss/' + csvuser + '.xml', pretty=True) # Write the RSS feed to a file
 	except Exception as e:
-		print(f"Some error: {e}")
+		print(f"-------------------- an error occurred: {e} --------------------")
 		pass
 	
 	print(f'-------------------- run end {csvuser} --------------------')
