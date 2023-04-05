@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-04-04T22:02:58+00:00</updated>
+  <updated>2023-04-05T10:09:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7214929540517317931</id>
-    <title>I DO NOT feel bonita #bonita </title>
-    <updated>2023-03-26T18:51:41+00:00</updated>
-    <content>I DO NOT feel bonita #bonita </content>
-    <link href="https://tiktok.com/@punktoad/video/7214929540517317931" rel="alternate"/>
-    <published>2023-03-26T18:51:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7215206031427783982</id>
     <title>lets talk about states rights… #localgovernment #latestagecapitalism #parksandrec </title>
@@ -91,5 +83,13 @@
     <content>i just broke my own heart 😞  #videogamecharacters #goodbyefriend #prettysad </content>
     <link href="https://tiktok.com/@punktoad/video/7218318593912491306" rel="alternate"/>
     <published>2023-04-04T22:02:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7218505641369799978</id>
+    <title>Ive brought you an old sweater and a lamp #mothman #pointpleasant #mothdaddy </title>
+    <updated>2023-04-05T10:09:49+00:00</updated>
+    <content>Ive brought you an old sweater and a lamp #mothman #pointpleasant #mothdaddy </content>
+    <link href="https://tiktok.com/@punktoad/video/7218505641369799978" rel="alternate"/>
+    <published>2023-04-05T10:09:49+00:00</published>
   </entry>
 </feed>
