@@ -37,4 +37,5 @@
 - [thedarcymichael](https://tiktokrss.uselesslesbians.gay/rss/thedarcymichael.xml)
 - [tracksuitsandredwine_](https://tiktokrss.uselesslesbians.gay/rss/tracksuitsandredwine_.xml)
 - [trancendent_tess](https://tiktokrss.uselesslesbians.gay/rss/trancendent_tess.xml)
+- [unbrandedchaos](https://tiktokrss.uselesslesbians.gay/rss/unbrandedchaos.xml)
 - [zayden_222](https://tiktokrss.uselesslesbians.gay/rss/zayden_222.xml)
