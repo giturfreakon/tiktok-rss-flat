@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-04-03T22:33:00+00:00</updated>
+  <updated>2023-04-04T23:43:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,38 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7214517801774484742</id>
+    <title>gonna be draft dumping this weekend on both accounts.  #dancesinshadows #areyoudecent? #dragmakeup #altstyle #altmakeup #maladytheclown #comedy </title>
+    <updated>2023-03-25T16:13:47+00:00</updated>
+    <content>gonna be draft dumping this weekend on both accounts.  #dancesinshadows #areyoudecent? #dragmakeup #altstyle #altmakeup #maladytheclown #comedy </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7214517801774484742" rel="alternate"/>
+    <published>2023-03-25T16:13:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7214534836503989509</id>
+    <title>🖤🖤🖤🖤 #draculaura #monsterhigh #monsterhighmakeup #monsterhighcosplay #draculauracosplay </title>
+    <updated>2023-03-25T17:19:54+00:00</updated>
+    <content>🖤🖤🖤🖤 #draculaura #monsterhigh #monsterhighmakeup #monsterhighcosplay #draculauracosplay </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7214534836503989509" rel="alternate"/>
+    <published>2023-03-25T17:19:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7214620980587646213</id>
+    <title>😏😏😏 #maladytheclown #altmakeup #altstyle #dragmakeup #dancesinshadows </title>
+    <updated>2023-03-25T22:54:12+00:00</updated>
+    <content>😏😏😏 #maladytheclown #altmakeup #altstyle #dragmakeup #dancesinshadows </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7214620980587646213" rel="alternate"/>
+    <published>2023-03-25T22:54:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7214881699140881669</id>
+    <title>clearing out drafts  💙 #dancesinshadows #elfmakeup #elfcosplay #elf #fantasycharacters </title>
+    <updated>2023-03-26T15:45:55+00:00</updated>
+    <content>clearing out drafts  💙 #dancesinshadows #elfmakeup #elfcosplay #elf #fantasycharacters </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7214881699140881669" rel="alternate"/>
+    <published>2023-03-26T15:45:55+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7214887380044614918</id>
     <title>I get told I look like this guy alot 😅 Nicholas Cage and Lady Gaga are the other two I get compared to as well #fivehargreeves #fivehargreevescosplay #umbrellaacademy #umbrellaacademyfive </title>
@@ -51,5 +83,13 @@
     <content>another from drafts... #jinx #jinxarcane #arcaneleagueoflegends #arcanecosplay #jinxcosplay #dancesinshadows </content>
     <link href="https://tiktok.com/@maladytheclown/video/7217955292078722310" rel="alternate"/>
     <published>2023-04-03T22:33:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7218344631493299461</id>
+    <title>#duet with @maladytheclown #miniseries #dancesinshadows #dragmakeup #mischiefthedemon #dragking #dragkingmakeup #maddamcure </title>
+    <updated>2023-04-04T23:43:50+00:00</updated>
+    <content>#duet with @maladytheclown #miniseries #dancesinshadows #dragmakeup #mischiefthedemon #dragking #dragkingmakeup #maddamcure </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7218344631493299461" rel="alternate"/>
+    <published>2023-04-04T23:43:50+00:00</published>
   </entry>
 </feed>
