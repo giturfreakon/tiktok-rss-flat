@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@transcendent_tess</id>
   <title>@transcendent_tess | TikTok</title>
-  <updated>2023-03-25T16:37:28+00:00</updated>
+  <updated>2023-04-05T16:34:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @transcendent_tess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@transcendent_tess/video/7212374483145887022</id>
-    <title>#duet with @Milo Mooney I... I didn't even need the mic, omg I'm going to hell for that.</title>
-    <updated>2023-03-19T21:36:45+00:00</updated>
-    <content>#duet with @Milo Mooney I... I didn't even need the mic, omg I'm going to hell for that.</content>
-    <link href="https://tiktok.com/@transcendent_tess/video/7212374483145887022" rel="alternate"/>
-    <published>2023-03-19T21:36:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@transcendent_tess/video/7213178835586616619</id>
     <title>Oh my god. #funny #xyzbca #fyp #transtrucker #truckinglife #alphabetmafia🌈 #lgbt🌈 #mtftrans #truckerlife #trucker </title>
@@ -91,5 +83,13 @@
     <content>#duet with @three raccoons in a trenchcoat I can take it or leave it honestly.</content>
     <link href="https://tiktok.com/@transcendent_tess/video/7214523842180549930" rel="alternate"/>
     <published>2023-03-25T16:37:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@transcendent_tess/video/7218605129648344363</id>
+    <title>#duet with @Mikaela ✨ I love and hate how you always seem to hit my psyche on the head with point blanc accuracy. #lgbt🌈 </title>
+    <updated>2023-04-05T16:34:56+00:00</updated>
+    <content>#duet with @Mikaela ✨ I love and hate how you always seem to hit my psyche on the head with point blanc accuracy. #lgbt🌈 </content>
+    <link href="https://tiktok.com/@transcendent_tess/video/7218605129648344363" rel="alternate"/>
+    <published>2023-04-05T16:34:56+00:00</published>
   </entry>
 </feed>
