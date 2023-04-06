@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-06T17:46:30+00:00</updated>
+  <updated>2023-04-06T21:29:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7218455098257886510</id>
-    <title>RIP my sleep schedule </title>
-    <updated>2023-04-05T06:53:38+00:00</updated>
-    <content>RIP my sleep schedule </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7218455098257886510" rel="alternate"/>
-    <published>2023-04-05T06:53:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7218499690524937515</id>
     <title>This song holds so many memories </title>
@@ -91,5 +83,13 @@
     <content>Anything for my favorite lady</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7218994662940413230" rel="alternate"/>
     <published>2023-04-06T17:46:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7219052200947879211</id>
+    <title>I haven’t seen any anime since chainsaw man ended</title>
+    <updated>2023-04-06T21:29:41+00:00</updated>
+    <content>I haven’t seen any anime since chainsaw man ended</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7219052200947879211" rel="alternate"/>
+    <published>2023-04-06T21:29:41+00:00</published>
   </entry>
 </feed>
