@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-04-06T03:16:22+00:00</updated>
+  <updated>2023-04-06T12:09:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7215583226000166187</id>
-    <title>His full name is Sir Reginald #catsoftiktok #newcatowner #catdaddy #sirreginaldthecat </title>
-    <updated>2023-03-28T13:08:19+00:00</updated>
-    <content>His full name is Sir Reginald #catsoftiktok #newcatowner #catdaddy #sirreginaldthecat </content>
-    <link href="https://tiktok.com/@punktoad/video/7215583226000166187" rel="alternate"/>
-    <published>2023-03-28T13:08:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7216351540913655082</id>
     <title>Shhhhheeeeeeit </title>
@@ -91,5 +83,13 @@
     <content>y’all not ready #kublaikhantx #workvibes #hardcore  </content>
     <link href="https://tiktok.com/@punktoad/video/7218770439890341162" rel="alternate"/>
     <published>2023-04-06T03:16:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7218907707888110894</id>
+    <title>i’m v lucky @deadliestpatch #truelove #couplesgoals #imweird </title>
+    <updated>2023-04-06T12:09:30+00:00</updated>
+    <content>i’m v lucky @deadliestpatch #truelove #couplesgoals #imweird </content>
+    <link href="https://tiktok.com/@punktoad/video/7218907707888110894" rel="alternate"/>
+    <published>2023-04-06T12:09:30+00:00</published>
   </entry>
 </feed>
