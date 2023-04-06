@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-04-05T10:09:49+00:00</updated>
+  <updated>2023-04-06T03:16:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7215206031427783982</id>
-    <title>lets talk about states rights… #localgovernment #latestagecapitalism #parksandrec </title>
-    <updated>2023-03-27T12:44:39+00:00</updated>
-    <content>lets talk about states rights… #localgovernment #latestagecapitalism #parksandrec </content>
-    <link href="https://tiktok.com/@punktoad/video/7215206031427783982" rel="alternate"/>
-    <published>2023-03-27T12:44:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7215583226000166187</id>
     <title>His full name is Sir Reginald #catsoftiktok #newcatowner #catdaddy #sirreginaldthecat </title>
@@ -91,5 +83,13 @@
     <content>Ive brought you an old sweater and a lamp #mothman #pointpleasant #mothdaddy </content>
     <link href="https://tiktok.com/@punktoad/video/7218505641369799978" rel="alternate"/>
     <published>2023-04-05T10:09:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7218770439890341162</id>
+    <title>y’all not ready #kublaikhantx #workvibes #hardcore  </title>
+    <updated>2023-04-06T03:16:22+00:00</updated>
+    <content>y’all not ready #kublaikhantx #workvibes #hardcore  </content>
+    <link href="https://tiktok.com/@punktoad/video/7218770439890341162" rel="alternate"/>
+    <published>2023-04-06T03:16:22+00:00</published>
   </entry>
 </feed>

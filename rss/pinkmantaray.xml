@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-04-03T17:23:28+00:00</updated>
+  <updated>2023-04-06T00:52:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7210200544231869742</id>
-    <title>Gender affirming care was lifesaving and life-giving. Everyone should have access to this care. If youre looking for reapirces regarding top surgery visit pinkmantaray.com/top-surgery! #transgender #trans #transman #topsurgery #genderaffirmingsurgery #gen</title>
-    <updated>2023-03-14T01:00:46+00:00</updated>
-    <content>Gender affirming care was lifesaving and life-giving. Everyone should have access to this care. If youre looking for reapirces regarding top surgery visit pinkmantaray.com/top-surgery! #transgender #trans #transman #topsurgery #genderaffirmingsurgery #genderaffirmation #gender #lgbtq #pride #ftm #transsurgery #drgarramone #transition#greenscreen </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7210200544231869742" rel="alternate"/>
-    <published>2023-03-14T01:00:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7211600900580756782</id>
     <title>A little insight into how I stay organzied when I travel! #transgender #trans #transadvocate #advocacy #lgbtq #gender #travel #adayinmylife #hotel </title>
@@ -91,5 +83,13 @@
     <content>I want to share more of my experience in healthcare because I know it's something many trans folks fear accessing - validly so! We often experience transphobia from doctors. #transgender #transcare #genderaffirmingcare #transman #healthcare #doctors #dermatology #transness #gender </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7217875475195006254" rel="alternate"/>
     <published>2023-04-03T17:23:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7218733350188535083</id>
+    <title>Working on an exciting project out here in LA! Releasing april 10 🙌🏼 #transgender #trans #losangeles </title>
+    <updated>2023-04-06T00:52:24+00:00</updated>
+    <content>Working on an exciting project out here in LA! Releasing april 10 🙌🏼 #transgender #trans #losangeles </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7218733350188535083" rel="alternate"/>
+    <published>2023-04-06T00:52:24+00:00</published>
   </entry>
 </feed>
