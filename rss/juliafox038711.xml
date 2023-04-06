@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-04-04T20:55:24+00:00</updated>
+  <updated>2023-04-06T19:01:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7215764034530872618</id>
-    <title>i fell victim </title>
-    <updated>2023-03-29T00:49:58+00:00</updated>
-    <content>i fell victim </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7215764034530872618" rel="alternate"/>
-    <published>2023-03-29T00:49:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7215789576646839595</id>
     <title>No Title</title>
@@ -91,5 +83,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@juliafox038711/video/7218301205091568938" rel="alternate"/>
     <published>2023-04-04T20:55:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7219013974816427310</id>
+    <title>baby girl sleepin😚</title>
+    <updated>2023-04-06T19:01:27+00:00</updated>
+    <content>baby girl sleepin😚</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7219013974816427310" rel="alternate"/>
+    <published>2023-04-06T19:01:27+00:00</published>
   </entry>
 </feed>
