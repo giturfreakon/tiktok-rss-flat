@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-04-06T00:10:41+00:00</updated>
+  <updated>2023-04-06T19:19:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7216110464244272390</id>
-    <title>#stitch with @Darcy &amp; Jer The executive dysfunction has actually been really hard this week, I know we like to make light of it a lot but its important that we keep it real too and right now, my adhd is struggling, but im using my calendar and alarms and </title>
-    <updated>2023-03-29T23:14:08+00:00</updated>
-    <content>#stitch with @Darcy &amp; Jer The executive dysfunction has actually been really hard this week, I know we like to make light of it a lot but its important that we keep it real too and right now, my adhd is struggling, but im using my calendar and alarms and all the tools I have to help stay on track but i also spent 2 hours zoned out on the couch unable to move. To anyone else out there having a hard go, im with you friend ❤️ #adhd #neurospicy </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7216110464244272390" rel="alternate"/>
-    <published>2023-03-29T23:14:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7216345484040981765</id>
     <title>The celebration kick at the end </title>
@@ -91,5 +83,13 @@
     <content>A little sample of the chaos of Darcy unleashed. #standupcomedy #standup #darcyandjer #justforlaughs </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7218722622933126405" rel="alternate"/>
     <published>2023-04-06T00:10:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7219018735737195782</id>
+    <title>And thats the tea on bud #budlight #dylanmulvaney #satire </title>
+    <updated>2023-04-06T19:19:42+00:00</updated>
+    <content>And thats the tea on bud #budlight #dylanmulvaney #satire </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7219018735737195782" rel="alternate"/>
+    <published>2023-04-06T19:19:42+00:00</published>
   </entry>
 </feed>

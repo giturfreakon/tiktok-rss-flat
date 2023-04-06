@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ryn_rrj</id>
   <title>@ryn_rrj | TikTok</title>
-  <updated>2023-03-29T20:48:01+00:00</updated>
+  <updated>2023-04-06T19:08:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ryn_rrj</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ryn_rrj/video/7208662852658367786</id>
-    <title>CW: top surgery incisions that arent fully healed Fun fact: i did see a mental health professional and they agreed i should yeet the teat. Its almost like random cis dudes dont actually know whats best for our bodies So yeah uh if you know Joe, a 6’4” whi</title>
-    <updated>2023-03-09T21:33:46+00:00</updated>
-    <content>CW: top surgery incisions that arent fully healed Fun fact: i did see a mental health professional and they agreed i should yeet the teat. Its almost like random cis dudes dont actually know whats best for our bodies So yeah uh if you know Joe, a 6’4” white dude who did a masters in engineering at cal tech circa 2018 and is now in his late 20s, just know he’s transphobic, violently misogynistic, and tried to SA me himself several times soooooo there’s that #trans #ftm #transpride #pride #lgbt #queer #topsurgery </content>
-    <link href="https://tiktok.com/@ryn_rrj/video/7208662852658367786" rel="alternate"/>
-    <published>2023-03-09T21:33:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ryn_rrj/video/7209028540942142763</id>
     <title>Always set up your autosaves and manually save frequently, folks #CapCut #software #computers #tech #audio #protools #production </title>
@@ -91,5 +83,13 @@
     <content>I work from home so uhhhh yeah i have discovered that I do not, in fact, like shirts #trans #transjoy #lgbt #transmasc #ftm #topsurgery #catchmeifyoucan #shirt </content>
     <link href="https://tiktok.com/@ryn_rrj/video/7216072790988967214" rel="alternate"/>
     <published>2023-03-29T20:48:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ryn_rrj/video/7219015804560444714</id>
+    <title>Heck Capitalism #buynothing #capitalism #gift #gifteconomy #community #support </title>
+    <updated>2023-04-06T19:08:35+00:00</updated>
+    <content>Heck Capitalism #buynothing #capitalism #gift #gifteconomy #community #support </content>
+    <link href="https://tiktok.com/@ryn_rrj/video/7219015804560444714" rel="alternate"/>
+    <published>2023-04-06T19:08:35+00:00</published>
   </entry>
 </feed>
