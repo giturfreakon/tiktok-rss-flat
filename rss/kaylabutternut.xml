@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-06T03:19:38+00:00</updated>
+  <updated>2023-04-06T07:02:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7218109901074205994</id>
-    <title>Red bottom heels to match the lipstick</title>
-    <updated>2023-04-04T08:33:13+00:00</updated>
-    <content>Red bottom heels to match the lipstick</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7218109901074205994" rel="alternate"/>
-    <published>2023-04-04T08:33:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7218252004681026862</id>
-    <title>No Title</title>
-    <updated>2023-04-04T17:44:31+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7218252004681026862" rel="alternate"/>
-    <published>2023-04-04T17:44:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7218352380113571118</id>
-    <title>Outfit check</title>
-    <updated>2023-04-05T00:14:02+00:00</updated>
-    <content>Outfit check</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7218352380113571118" rel="alternate"/>
-    <published>2023-04-05T00:14:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7218455098257886510</id>
     <title>RIP my sleep schedule </title>
@@ -91,5 +67,29 @@
     <content>I get so nervous to do face videos idk why</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7218771285189332266" rel="alternate"/>
     <published>2023-04-06T03:19:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7218813100219206955</id>
+    <title>Idk why I keep doing these </title>
+    <updated>2023-04-06T06:02:12+00:00</updated>
+    <content>Idk why I keep doing these </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7218813100219206955" rel="alternate"/>
+    <published>2023-04-06T06:02:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7218821353837972782</id>
+    <title>I need to make a spam account </title>
+    <updated>2023-04-06T06:34:31+00:00</updated>
+    <content>I need to make a spam account </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7218821353837972782" rel="alternate"/>
+    <published>2023-04-06T06:34:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7218828488906804526</id>
+    <title>Kayla, stop treating tiktok like a diary</title>
+    <updated>2023-04-06T07:02:08+00:00</updated>
+    <content>Kayla, stop treating tiktok like a diary</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7218828488906804526" rel="alternate"/>
+    <published>2023-04-06T07:02:08+00:00</published>
   </entry>
 </feed>
