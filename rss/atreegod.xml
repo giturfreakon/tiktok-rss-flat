@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-04-05T23:02:49+00:00</updated>
+  <updated>2023-04-06T00:19:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -77,19 +77,19 @@
     <published>2023-04-05T18:41:25+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@atreegod/video/7218640373227244843</id>
-    <title>Real #wlw </title>
-    <updated>2023-04-05T18:51:49+00:00</updated>
-    <content>Real #wlw </content>
-    <link href="https://tiktok.com/@atreegod/video/7218640373227244843" rel="alternate"/>
-    <published>2023-04-05T18:51:49+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@atreegod/video/7218705112410098986</id>
     <title>I have rlly dark brown hair but i still wanted to do this lol #wlw #lgbtq  </title>
     <updated>2023-04-05T23:02:49+00:00</updated>
     <content>I have rlly dark brown hair but i still wanted to do this lol #wlw #lgbtq  </content>
     <link href="https://tiktok.com/@atreegod/video/7218705112410098986" rel="alternate"/>
     <published>2023-04-05T23:02:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7218724828017151278</id>
+    <title>Weird girl things 🤪 #wlw </title>
+    <updated>2023-04-06T00:19:18+00:00</updated>
+    <content>Weird girl things 🤪 #wlw </content>
+    <link href="https://tiktok.com/@atreegod/video/7218724828017151278" rel="alternate"/>
+    <published>2023-04-06T00:19:18+00:00</published>
   </entry>
 </feed>

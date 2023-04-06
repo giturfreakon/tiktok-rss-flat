@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avi.akbar</id>
   <title>@avi.akbar | TikTok</title>
-  <updated>2023-04-05T02:38:17+00:00</updated>
+  <updated>2023-04-06T01:42:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avi.akbar</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avi.akbar/video/7214598683952827694</id>
-    <title>#pov: it's perfectly natural... #aviakbarpov </title>
-    <updated>2023-03-25T21:27:46+00:00</updated>
-    <content>#pov: it's perfectly natural... #aviakbarpov </content>
-    <link href="https://tiktok.com/@avi.akbar/video/7214598683952827694" rel="alternate"/>
-    <published>2023-03-25T21:27:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avi.akbar/video/7214931291068796202</id>
     <title>#duet with @avi.akbar Which side is more menacing? 🧐⬇️ IB: @james_hoyles #aviakbarpov </title>
@@ -91,5 +83,13 @@
     <content>#pov the mystery ticket... PART 2 @avi.akbar #aviakbarpov </content>
     <link href="https://tiktok.com/@avi.akbar/video/7218389565982248234" rel="alternate"/>
     <published>2023-04-05T02:38:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avi.akbar/video/7218746257899212078</id>
+    <title>#pov everyday you get a new ability, today you can read minds... (IB: @devincaherly ) #aviakbarpov </title>
+    <updated>2023-04-06T01:42:33+00:00</updated>
+    <content>#pov everyday you get a new ability, today you can read minds... (IB: @devincaherly ) #aviakbarpov </content>
+    <link href="https://tiktok.com/@avi.akbar/video/7218746257899212078" rel="alternate"/>
+    <published>2023-04-06T01:42:33+00:00</published>
   </entry>
 </feed>
