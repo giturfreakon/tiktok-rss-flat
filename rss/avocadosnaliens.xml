@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-03-23T18:48:23+00:00</updated>
+  <updated>2023-04-06T03:32:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7208681875638897963</id>
-    <title>No Title</title>
-    <updated>2023-03-09T22:47:34+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7208681875638897963" rel="alternate"/>
-    <published>2023-03-09T22:47:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7208711428025421098</id>
     <title>#aries #cancermoon #piscesrising. Im just all water disguised with fire </title>
@@ -91,5 +83,13 @@
     <content>#grwm #storytime </content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7213815440504605994" rel="alternate"/>
     <published>2023-03-23T18:48:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7218774575859911979</id>
+    <title>No Title</title>
+    <updated>2023-04-06T03:32:30+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7218774575859911979" rel="alternate"/>
+    <published>2023-04-06T03:32:30+00:00</published>
   </entry>
 </feed>
