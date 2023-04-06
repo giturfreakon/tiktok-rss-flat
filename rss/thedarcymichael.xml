@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-04-04T21:18:25+00:00</updated>
+  <updated>2023-04-06T00:10:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7215271897846582533</id>
-    <title>Welp. Here goes. Tix on sale friday 🤓  Info: Today, TikTok’s favourite power couple Darcy &amp; Jer are thrilled to announce The No Refunds Tour – taking their comedy from screen to stage with a North American run of dates beginning June 22 in Pittsburgh, PA </title>
-    <updated>2023-03-27T17:00:03+00:00</updated>
-    <content>Welp. Here goes. Tix on sale friday 🤓  Info: Today, TikTok’s favourite power couple Darcy &amp; Jer are thrilled to announce The No Refunds Tour – taking their comedy from screen to stage with a North American run of dates beginning June 22 in Pittsburgh, PA through June 28 in Calgary, AB. After just three years of creating content online (and one fateful day in 2021 when Darcy launched a TikTok account), the pair have amassed a combined total of over 4.5 million cross-platform followers with an average of 50 million views per month. Known for their hilarious videos around their relationship, ADHD, plants and more, Darcy &amp; Jer have quickly become household names with a global audience.   Artist pre-sale begins Tuesday, March 28th at 1:00 p.m. ET with public on-sale beginning Friday, March 31st at 1:00 p.m. ET.    A couple for over 20 years and proud dads to their daughter Grace and golden retriever Yuma, the self-proclaimed “accidental TikTok stars” have cultivated their audience with their incredible sense of humour, joyful personalities, and unique content. Their lived experience as members of the LGBTQ+ community and navigating the ins and outs of daily life through the candid lens of neurodiversity has allowed them to build an inclusive community that celebrates conversations around mental health, relationships, politics, and living a happier life.   Fresh off a sold-out show at the Just For Laughs Festival in Vancouver, and with the addition of dates in Detroit, Chicago, Minneapolis, Edmonton, and more, Darcy &amp; Jer have their sights set on a full comedy tour across North America, with more dates to be announced. Next up, the duo will follow-up their hit road trip series Darcy &amp; Jer Do America with a much-anticipated season two; Darcy &amp; Jer Do Europe coming later this spring.  #standupcomedy #darcyandjer #popquiz </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7215271897846582533" rel="alternate"/>
-    <published>2023-03-27T17:00:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7216110464244272390</id>
     <title>#stitch with @Darcy &amp; Jer The executive dysfunction has actually been really hard this week, I know we like to make light of it a lot but its important that we keep it real too and right now, my adhd is struggling, but im using my calendar and alarms and </title>
@@ -91,5 +83,13 @@
     <content>And it was at the end that I realized: he was indeed paddington bear all along. </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7218307156364283141" rel="alternate"/>
     <published>2023-04-04T21:18:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7218722622933126405</id>
+    <title>A little sample of the chaos of Darcy unleashed. #standupcomedy #standup #darcyandjer #justforlaughs </title>
+    <updated>2023-04-06T00:10:41+00:00</updated>
+    <content>A little sample of the chaos of Darcy unleashed. #standupcomedy #standup #darcyandjer #justforlaughs </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7218722622933126405" rel="alternate"/>
+    <published>2023-04-06T00:10:41+00:00</published>
   </entry>
 </feed>
