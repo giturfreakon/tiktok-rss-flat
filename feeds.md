@@ -20,6 +20,7 @@
 - [kit_the_beefcake](https://tiktokrss.uselesslesbians.gay/rss/kit_the_beefcake.xml)
 - [lactoseintolerantcharlie](https://tiktokrss.uselesslesbians.gay/rss/lactoseintolerantcharlie.xml)
 - [maladytheclown](https://tiktokrss.uselesslesbians.gay/rss/maladytheclown.xml)
+- [mikaelaistired](https://tiktokrss.uselesslesbians.gay/rss/mikaelaistired.xml)
 - [ohgobliin](https://tiktokrss.uselesslesbians.gay/rss/ohgobliin.xml)
 - [oh.robin](https://tiktokrss.uselesslesbians.gay/rss/oh.robin.xml)
 - [paaz_11](https://tiktokrss.uselesslesbians.gay/rss/paaz_11.xml)
