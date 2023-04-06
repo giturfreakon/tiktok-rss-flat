@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-04-05T22:53:17+00:00</updated>
+  <updated>2023-04-06T19:24:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7214591134910188846</id>
-    <title>Its the blank stare right before snapping my spine that’s my favorite  #mrholmes #jojo #jojopose #cosplay #techwear #darkwear #futurewear #dystopian #apocalypse </title>
-    <updated>2023-03-25T20:58:26+00:00</updated>
-    <content>Its the blank stare right before snapping my spine that’s my favorite  #mrholmes #jojo #jojopose #cosplay #techwear #darkwear #futurewear #dystopian #apocalypse </content>
-    <link href="https://tiktok.com/@athena__cos/video/7214591134910188846" rel="alternate"/>
-    <published>2023-03-25T20:58:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7214968464040152362</id>
     <title>Athena does an anime dance?!? 😱  @webwarriorsworkshop vid cred!  Outfit sent by @nevstudio  #animeedit #anime #catgirl #catlickdance #techwear #darkwear #dystopian </title>
@@ -91,5 +83,13 @@
     <content>Outfit inspo from @buffcheekss and @justinsaiyann  #bodybuilding #aot #aotcosplay #leathergear #odm #gymtok #buffwomen </content>
     <link href="https://tiktok.com/@athena__cos/video/7218702644519472426" rel="alternate"/>
     <published>2023-04-05T22:53:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7219019929998134570</id>
+    <title>Tik tok please stop butchering my vid quality 😭 #aotcosplay #buffwomen #women </title>
+    <updated>2023-04-06T19:24:36+00:00</updated>
+    <content>Tik tok please stop butchering my vid quality 😭 #aotcosplay #buffwomen #women </content>
+    <link href="https://tiktok.com/@athena__cos/video/7219019929998134570" rel="alternate"/>
+    <published>2023-04-06T19:24:36+00:00</published>
   </entry>
 </feed>
