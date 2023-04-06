@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-04-05T16:06:28+00:00</updated>
+  <updated>2023-04-06T00:20:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7212010156178083114</id>
-    <title>That was the last time i ever compared myself to a non poc or tried to be with someone who would openly compare me to others </title>
-    <updated>2023-03-18T22:02:58+00:00</updated>
-    <content>That was the last time i ever compared myself to a non poc or tried to be with someone who would openly compare me to others </content>
-    <link href="https://tiktok.com/@kamehalani/video/7212010156178083114" rel="alternate"/>
-    <published>2023-03-18T22:02:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7215270117070916910</id>
     <title>My day in paris today! Im trying!!!! They have been so kind here! #francais #travel #paris </title>
@@ -91,5 +83,13 @@
     <content>#stitch with @bird21s yuckkkkkkyyyyyy</content>
     <link href="https://tiktok.com/@kamehalani/video/7218597752320642347" rel="alternate"/>
     <published>2023-04-05T16:06:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7218725229097389354</id>
+    <title>#stitch with @buketgokdogan yes i agree </title>
+    <updated>2023-04-06T00:20:51+00:00</updated>
+    <content>#stitch with @buketgokdogan yes i agree </content>
+    <link href="https://tiktok.com/@kamehalani/video/7218725229097389354" rel="alternate"/>
+    <published>2023-04-06T00:20:51+00:00</published>
   </entry>
 </feed>

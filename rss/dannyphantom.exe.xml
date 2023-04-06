@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-04-05T02:18:29+00:00</updated>
+  <updated>2023-04-06T02:15:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7216528271205272878</id>
-    <title>tag ur best friend </title>
-    <updated>2023-03-31T02:15:33+00:00</updated>
-    <content>tag ur best friend </content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7216528271205272878" rel="alternate"/>
-    <published>2023-03-31T02:15:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7216899232098225451</id>
-    <title>why he lookin at me like that 😏 - snap is dannyphantom.ex</title>
-    <updated>2023-04-01T02:15:27+00:00</updated>
-    <content>why he lookin at me like that 😏 - snap is dannyphantom.ex</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7216899232098225451" rel="alternate"/>
-    <published>2023-04-01T02:15:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7216899414156184874</id>
     <title>ah yes i love making up scenarios in my head</title>
@@ -91,5 +75,21 @@
     <content>tag someone who does this</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7218384434096082222" rel="alternate"/>
     <published>2023-04-05T02:18:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7218754789591616811</id>
+    <title>WHEN??? FR????</title>
+    <updated>2023-04-06T02:15:36+00:00</updated>
+    <content>WHEN??? FR????</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7218754789591616811" rel="alternate"/>
+    <published>2023-04-06T02:15:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7218754813197028651</id>
+    <title>tag someone with parents like this</title>
+    <updated>2023-04-06T02:15:56+00:00</updated>
+    <content>tag someone with parents like this</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7218754813197028651" rel="alternate"/>
+    <published>2023-04-06T02:15:56+00:00</published>
   </entry>
 </feed>

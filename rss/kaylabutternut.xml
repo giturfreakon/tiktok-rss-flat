@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-05T18:56:27+00:00</updated>
+  <updated>2023-04-06T03:08:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7217993875342822699</id>
-    <title>8pm what kind of pasta should I make</title>
-    <updated>2023-04-04T01:02:47+00:00</updated>
-    <content>8pm what kind of pasta should I make</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7217993875342822699" rel="alternate"/>
-    <published>2023-04-04T01:02:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7218002523934821675</id>
-    <title>Obsessed with the fact that this is trending</title>
-    <updated>2023-04-04T01:36:22+00:00</updated>
-    <content>Obsessed with the fact that this is trending</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7218002523934821675" rel="alternate"/>
-    <published>2023-04-04T01:36:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7218042671531593002</id>
-    <title>What did you dream about last night?</title>
-    <updated>2023-04-04T04:12:09+00:00</updated>
-    <content>What did you dream about last night?</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7218042671531593002" rel="alternate"/>
-    <published>2023-04-04T04:12:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7218050824092667182</id>
     <title>No Title</title>
@@ -91,5 +67,29 @@
     <content>Tag yourself, I’m the bowl of dirt in the back </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7218641607346638123" rel="alternate"/>
     <published>2023-04-05T18:56:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7218746580709625134</id>
+    <title>Trying to keep this trend alive all by myself </title>
+    <updated>2023-04-06T01:43:46+00:00</updated>
+    <content>Trying to keep this trend alive all by myself </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7218746580709625134" rel="alternate"/>
+    <published>2023-04-06T01:43:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7218761688881827115</id>
+    <title>It’s how I ✨espress myself✨</title>
+    <updated>2023-04-06T02:42:22+00:00</updated>
+    <content>It’s how I ✨espress myself✨</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7218761688881827115" rel="alternate"/>
+    <published>2023-04-06T02:42:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7218768324358851883</id>
+    <title>And gamer boys</title>
+    <updated>2023-04-06T03:08:08+00:00</updated>
+    <content>And gamer boys</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7218768324358851883" rel="alternate"/>
+    <published>2023-04-06T03:08:08+00:00</published>
   </entry>
 </feed>

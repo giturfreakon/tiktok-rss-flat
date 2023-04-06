@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-04-05T20:09:27+00:00</updated>
+  <updated>2023-04-06T00:50:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7214877155161935109</id>
-    <title>still have to finish this wig. I plan to thicken the braids up before I take to conventions 😅 #jinx #jinxarcane #jinxarcanecosplay #dancesinshadows #arcaneleagueoflegends #arcanejinx </title>
-    <updated>2023-03-26T15:28:16+00:00</updated>
-    <content>still have to finish this wig. I plan to thicken the braids up before I take to conventions 😅 #jinx #jinxarcane #jinxarcanecosplay #dancesinshadows #arcaneleagueoflegends #arcanejinx </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7214877155161935109" rel="alternate"/>
-    <published>2023-03-26T15:28:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7214880738016087301</id>
     <title>❤❤❤ #dancesinshadows #maladytheclown #altmakeup #drag #dragqueen </title>
@@ -91,5 +83,13 @@
     <content>❤️ song @Royal &amp; the Serpent ❤️  #spring #springvibes #dancesinshadows #makeupartist #maladytheclown #springfashion </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7218660468846513413" rel="alternate"/>
     <published>2023-04-05T20:09:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7218732845202722053</id>
+    <title>No way, I dont believe it... 😳 #makeupartist #dragmakeup #beetlejuice #maladytheclown #dancesinshadows </title>
+    <updated>2023-04-06T00:50:19+00:00</updated>
+    <content>No way, I dont believe it... 😳 #makeupartist #dragmakeup #beetlejuice #maladytheclown #dancesinshadows </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7218732845202722053" rel="alternate"/>
+    <published>2023-04-06T00:50:19+00:00</published>
   </entry>
 </feed>
