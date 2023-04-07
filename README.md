@@ -15,7 +15,7 @@
 	* Set Actions to be allowed under Settings -> Actions -> General -> Actions Permissions
 	* Set Workflow permissions to read-write under Settings -> Actions -> General -> Workflow Permissions
 
-* It's set to run once per hour and generates one RSS XML file per user in the rss output directory.
+* It's set to run twice per hour and generates one RSS XML file per user in the rss output directory.
 
 * You then subscribe to each feed in [Feedly](https://www.feedly.com) or another feed reader using a GitHub Pages URL. Those URLs are constructed like so. E.g.:
 
