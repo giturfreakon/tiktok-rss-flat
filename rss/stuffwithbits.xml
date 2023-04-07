@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-04-07T17:25:50+00:00</updated>
+  <updated>2023-04-07T21:21:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7218258757380361515</id>
-    <title>Replying to @thewhitelotussystem #reply #sssaphira #solardidsystem #gatekeeper </title>
-    <updated>2023-04-04T18:10:44+00:00</updated>
-    <content>Replying to @thewhitelotussystem #reply #sssaphira #solardidsystem #gatekeeper </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7218258757380361515" rel="alternate"/>
-    <published>2023-04-04T18:10:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7218294343420038446</id>
     <title>Some ground rules for the meet and greet! Can't wait to see you all! #solardidsystem #ssryn #boundaries </title>
@@ -91,5 +83,13 @@
     <content>We'll get through it, it just feels like there's a black hole occupying the top right portion of our brain. #solardidsystem #ssdevereaux #dissociativeidentitydisorder </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7219360454232100138" rel="alternate"/>
     <published>2023-04-07T17:25:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7219421107537841451</id>
+    <title>This body is so small and fragile #solardidsystem #dissociativeidentitydisorder #ssarchelaus #alterintro #alterintroduction #demonalter </title>
+    <updated>2023-04-07T21:21:10+00:00</updated>
+    <content>This body is so small and fragile #solardidsystem #dissociativeidentitydisorder #ssarchelaus #alterintro #alterintroduction #demonalter </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7219421107537841451" rel="alternate"/>
+    <published>2023-04-07T21:21:10+00:00</published>
   </entry>
 </feed>
