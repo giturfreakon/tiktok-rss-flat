@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-04-06T14:58:41+00:00</updated>
+  <updated>2023-04-07T12:29:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7217437594341231915</id>
-    <title>LET ME WEAR YOU #kitthebeefcake </title>
-    <updated>2023-04-02T13:04:35+00:00</updated>
-    <content>LET ME WEAR YOU #kitthebeefcake </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7217437594341231915" rel="alternate"/>
-    <published>2023-04-02T13:04:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7217598148657548587</id>
     <title>I call it "toxic independence" and I don't take it out on others but the feels are very real #kitthebeefcake </title>
@@ -91,5 +83,13 @@
     <content>and life is toooooo fun #kitthebeefcake </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7218951396261891370" rel="alternate"/>
     <published>2023-04-06T14:58:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7219284149985758510</id>
+    <title>sharing is caring #kitthebeefcake </title>
+    <updated>2023-04-07T12:29:48+00:00</updated>
+    <content>sharing is caring #kitthebeefcake </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7219284149985758510" rel="alternate"/>
+    <published>2023-04-07T12:29:48+00:00</published>
   </entry>
 </feed>
