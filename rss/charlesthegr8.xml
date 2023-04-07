@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-04-04T18:05:57+00:00</updated>
+  <updated>2023-04-07T00:08:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7216725538851802411</id>
-    <title>Worst fear!!! 😱😱😱 #iykyk #4u #smh #charlesthegr8 </title>
-    <updated>2023-03-31T15:01:10+00:00</updated>
-    <content>Worst fear!!! 😱😱😱 #iykyk #4u #smh #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7216725538851802411" rel="alternate"/>
-    <published>2023-03-31T15:01:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7216730388809469226</id>
     <title>Had a whole epiphany!!!🤯 #iykyk #4u #pickyeater #charlesthegr8 #greenscreen </title>
@@ -91,5 +83,13 @@
     <content>Guilty 😅 #4u #foryou #charlesthegr8.            ig:official.charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7218257523021827371" rel="alternate"/>
     <published>2023-04-04T18:05:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7219093003661577514</id>
+    <title>Lost for words #4u #iykyk #charlesthegr8 ig:official.charlesthegr8 </title>
+    <updated>2023-04-07T00:08:04+00:00</updated>
+    <content>Lost for words #4u #iykyk #charlesthegr8 ig:official.charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7219093003661577514" rel="alternate"/>
+    <published>2023-04-07T00:08:04+00:00</published>
   </entry>
 </feed>
