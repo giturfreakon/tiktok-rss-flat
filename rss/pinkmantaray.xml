@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-04-06T00:52:24+00:00</updated>
+  <updated>2023-04-07T16:35:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7211600900580756782</id>
-    <title>A little insight into how I stay organzied when I travel! #transgender #trans #transadvocate #advocacy #lgbtq #gender #travel #adayinmylife #hotel </title>
-    <updated>2023-03-17T19:34:48+00:00</updated>
-    <content>A little insight into how I stay organzied when I travel! #transgender #trans #transadvocate #advocacy #lgbtq #gender #travel #adayinmylife #hotel </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7211600900580756782" rel="alternate"/>
-    <published>2023-03-17T19:34:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7213168013153930538</id>
     <title>Trans siblings out there: you are allowed to wish for things that will IMPROVE your life. You are allowed to want BETTER. You are allowed to seek what brings you peace. #transgender #trans #gender #peace #transition #genderaffirmingcare #genderaffirmingsu</title>
@@ -91,5 +83,13 @@
     <content>Working on an exciting project out here in LA! Releasing april 10 🙌🏼 #transgender #trans #losangeles </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7218733350188535083" rel="alternate"/>
     <published>2023-04-06T00:52:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7219347469283577134</id>
+    <title>Gender affirming healthcare is safe, medically necesary, and can be lifesaving. All sources at pinkmantaray.com/facts. #transgender #genderaffirmingcare #genderaffirmingsurgery #gender #lgbtq #transkids #transition #gendertransition #hrt #hormones #transm</title>
+    <updated>2023-04-07T16:35:28+00:00</updated>
+    <content>Gender affirming healthcare is safe, medically necesary, and can be lifesaving. All sources at pinkmantaray.com/facts. #transgender #genderaffirmingcare #genderaffirmingsurgery #gender #lgbtq #transkids #transition #gendertransition #hrt #hormones #transman #transwoman #pride #scienceisreal </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7219347469283577134" rel="alternate"/>
+    <published>2023-04-07T16:35:28+00:00</published>
   </entry>
 </feed>

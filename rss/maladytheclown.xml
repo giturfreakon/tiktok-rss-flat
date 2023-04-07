@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-04-06T00:54:24+00:00</updated>
+  <updated>2023-04-07T16:39:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7214534836503989509</id>
-    <title>🖤🖤🖤🖤 #draculaura #monsterhigh #monsterhighmakeup #monsterhighcosplay #draculauracosplay </title>
-    <updated>2023-03-25T17:19:54+00:00</updated>
-    <content>🖤🖤🖤🖤 #draculaura #monsterhigh #monsterhighmakeup #monsterhighcosplay #draculauracosplay </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7214534836503989509" rel="alternate"/>
-    <published>2023-03-25T17:19:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7214620980587646213</id>
     <title>😏😏😏 #maladytheclown #altmakeup #altstyle #dragmakeup #dancesinshadows </title>
@@ -91,5 +83,13 @@
     <content>#drag #dragkingmakeup #dragkingsoftiktok #dancesinshadows #glumthesupernaturalhitman #icouldbeabetterboyfriendthanhim </content>
     <link href="https://tiktok.com/@maladytheclown/video/7218733898799369478" rel="alternate"/>
     <published>2023-04-06T00:54:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7219348475136331014</id>
+    <title>a rare interview with Maddam Cure. Feel free to duet #makeuplooks #makeupartist #dancesinshadows #maddamcure </title>
+    <updated>2023-04-07T16:39:16+00:00</updated>
+    <content>a rare interview with Maddam Cure. Feel free to duet #makeuplooks #makeupartist #dancesinshadows #maddamcure </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7219348475136331014" rel="alternate"/>
+    <published>2023-04-07T16:39:16+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-04-06T19:12:09+00:00</updated>
+  <updated>2023-04-07T15:11:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7217908961704545579</id>
-    <title>I know who i am</title>
-    <updated>2023-04-03T19:33:28+00:00</updated>
-    <content>I know who i am</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7217908961704545579" rel="alternate"/>
-    <published>2023-04-03T19:33:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7218167209443577134</id>
     <title>Pop quiz</title>
@@ -91,5 +83,13 @@
     <content>Legen - wait for it</content>
     <link href="https://tiktok.com/@mikaelaistired/video/7219016749717474606" rel="alternate"/>
     <published>2023-04-06T19:12:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7219325810195451179</id>
+    <title>Correct</title>
+    <updated>2023-04-07T15:11:27+00:00</updated>
+    <content>Correct</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7219325810195451179" rel="alternate"/>
+    <published>2023-04-07T15:11:27+00:00</published>
   </entry>
 </feed>
