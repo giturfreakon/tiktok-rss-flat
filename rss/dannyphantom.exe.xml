@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-04-06T02:15:56+00:00</updated>
+  <updated>2023-04-07T02:16:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7216899414156184874</id>
-    <title>ah yes i love making up scenarios in my head</title>
-    <updated>2023-04-01T02:15:45+00:00</updated>
-    <content>ah yes i love making up scenarios in my head</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7216899414156184874" rel="alternate"/>
-    <published>2023-04-01T02:15:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7216899599640841514</id>
-    <title>UR DISTRACTED BYY WHAT VILLAIN?????</title>
-    <updated>2023-04-01T02:16:26+00:00</updated>
-    <content>UR DISTRACTED BYY WHAT VILLAIN?????</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7216899599640841514" rel="alternate"/>
-    <published>2023-04-01T02:16:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7217270417596288302</id>
     <title>…</title>
@@ -91,5 +75,21 @@
     <content>tag someone with parents like this</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7218754813197028651" rel="alternate"/>
     <published>2023-04-06T02:15:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7219126042676530474</id>
+    <title>tag ur trio @birlap_ @wholewheatpeet  #greenscreen </title>
+    <updated>2023-04-07T02:16:16+00:00</updated>
+    <content>tag ur trio @birlap_ @wholewheatpeet  #greenscreen </content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7219126042676530474" rel="alternate"/>
+    <published>2023-04-07T02:16:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7219126088541179182</id>
+    <title>tag your best friend/sibling </title>
+    <updated>2023-04-07T02:16:23+00:00</updated>
+    <content>tag your best friend/sibling </content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7219126088541179182" rel="alternate"/>
+    <published>2023-04-07T02:16:23+00:00</published>
   </entry>
 </feed>
