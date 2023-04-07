@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-04-06T14:35:12+00:00</updated>
+  <updated>2023-04-07T16:27:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7215208825136188678</id>
-    <title>#duet with @Angel I guess, it depends on your idea of "nice" #dragmakeup #miniseries #cosplay #maddamcure #mischiefthedemon #originalcosplay </title>
-    <updated>2023-03-27T12:55:19+00:00</updated>
-    <content>#duet with @Angel I guess, it depends on your idea of "nice" #dragmakeup #miniseries #cosplay #maddamcure #mischiefthedemon #originalcosplay </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7215208825136188678" rel="alternate"/>
-    <published>2023-03-27T12:55:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7215576952185539845</id>
     <title>better do as she says... #blackandwhitevid #themagnusarchives #originalcosplay #cosplay #maddamcure #miniseries #glamormakeup </title>
@@ -91,5 +83,13 @@
     <content>#springvibes #spring #dancesinshadows #makeupartist #springfashion </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7218945418409905414" rel="alternate"/>
     <published>2023-04-06T14:35:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7219345364493602053</id>
+    <title>#duet with @Angel  think he knows about Mischief... #dragmakeup #makeupartist #miniseries #glumthesupernaturalhitman #maddamcure #dancesinshadows </title>
+    <updated>2023-04-07T16:27:11+00:00</updated>
+    <content>#duet with @Angel  think he knows about Mischief... #dragmakeup #makeupartist #miniseries #glumthesupernaturalhitman #maddamcure #dancesinshadows </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7219345364493602053" rel="alternate"/>
+    <published>2023-04-07T16:27:11+00:00</published>
   </entry>
 </feed>
