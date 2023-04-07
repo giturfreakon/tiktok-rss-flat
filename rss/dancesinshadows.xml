@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-04-07T16:27:11+00:00</updated>
+  <updated>2023-04-07T19:28:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7215576952185539845</id>
-    <title>better do as she says... #blackandwhitevid #themagnusarchives #originalcosplay #cosplay #maddamcure #miniseries #glamormakeup </title>
-    <updated>2023-03-28T12:43:50+00:00</updated>
-    <content>better do as she says... #blackandwhitevid #themagnusarchives #originalcosplay #cosplay #maddamcure #miniseries #glamormakeup </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7215576952185539845" rel="alternate"/>
-    <published>2023-03-28T12:43:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7215765282227473669</id>
     <title>#duet with @maladytheclown #originalcosplay #blackandwhitevid #dragmakeup #mischiefthedemon #maddamcure #miniseries </title>
@@ -91,5 +83,13 @@
     <content>#duet with @Angel  think he knows about Mischief... #dragmakeup #makeupartist #miniseries #glumthesupernaturalhitman #maddamcure #dancesinshadows </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7219345364493602053" rel="alternate"/>
     <published>2023-04-07T16:27:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7219392061265530118</id>
+    <title>oh my ...  😅  feel free to duet #dragking #dragkingmakeup #glumthesupernaturalhitman #dancesinshadows #dragmakeup #roleplay </title>
+    <updated>2023-04-07T19:28:23+00:00</updated>
+    <content>oh my ...  😅  feel free to duet #dragking #dragkingmakeup #glumthesupernaturalhitman #dancesinshadows #dragmakeup #roleplay </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7219392061265530118" rel="alternate"/>
+    <published>2023-04-07T19:28:23+00:00</published>
   </entry>
 </feed>
