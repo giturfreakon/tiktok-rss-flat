@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-04-06T19:19:42+00:00</updated>
+  <updated>2023-04-08T19:14:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7216345484040981765</id>
-    <title>The celebration kick at the end </title>
-    <updated>2023-03-30T14:26:07+00:00</updated>
-    <content>The celebration kick at the end </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7216345484040981765" rel="alternate"/>
-    <published>2023-03-30T14:26:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7216756437563854085</id>
     <title>cant wait to see (most of) you 🤓 #busydonkey #popquiz #marriedlife #standupcomedy #couplegoals #darcyandjer </title>
@@ -91,5 +83,13 @@
     <content>And thats the tea on bud #budlight #dylanmulvaney #satire </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7219018735737195782" rel="alternate"/>
     <published>2023-04-06T19:19:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7219759439790787845</id>
+    <title>Welcome back to Couch talk with darcy &amp; jer</title>
+    <updated>2023-04-08T19:14:01+00:00</updated>
+    <content>Welcome back to Couch talk with darcy &amp; jer</content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7219759439790787845" rel="alternate"/>
+    <published>2023-04-08T19:14:01+00:00</published>
   </entry>
 </feed>
