@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-08T08:56:23+00:00</updated>
+  <updated>2023-04-08T18:47:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7218771285189332266</id>
-    <title>I get so nervous to do face videos idk why</title>
-    <updated>2023-04-06T03:19:38+00:00</updated>
-    <content>I get so nervous to do face videos idk why</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7218771285189332266" rel="alternate"/>
-    <published>2023-04-06T03:19:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7218813100219206955</id>
     <title>Idk why I keep doing these </title>
@@ -91,5 +83,13 @@
     <content>For legal reasons this is a joke</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7219600029252586794" rel="alternate"/>
     <published>2023-04-08T08:56:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7219752629302234411</id>
+    <title>This song does something to me</title>
+    <updated>2023-04-08T18:47:41+00:00</updated>
+    <content>This song does something to me</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7219752629302234411" rel="alternate"/>
+    <published>2023-04-08T18:47:41+00:00</published>
   </entry>
 </feed>
