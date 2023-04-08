@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-04-05T17:20:19+00:00</updated>
+  <updated>2023-04-08T22:06:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7208700829082094891</id>
-    <title>The weak spot this song has  *flash ⚠️ *</title>
-    <updated>2023-03-10T00:01:06+00:00</updated>
-    <content>The weak spot this song has  *flash ⚠️ *</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7208700829082094891" rel="alternate"/>
-    <published>2023-03-10T00:01:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7209351464236387626</id>
     <title>Okay but deff redoin this transtion 😮‍💨</title>
@@ -91,5 +83,13 @@
     <content>Always man 😭</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7218616824168992043" rel="alternate"/>
     <published>2023-04-05T17:20:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7219803854638959918</id>
+    <title>Honestly…</title>
+    <updated>2023-04-08T22:06:28+00:00</updated>
+    <content>Honestly…</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7219803854638959918" rel="alternate"/>
+    <published>2023-04-08T22:06:28+00:00</published>
   </entry>
 </feed>
