@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-04-07T19:49:06+00:00</updated>
+  <updated>2023-04-08T19:59:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7215006388005784874</id>
-    <title>Im kind of in love with the tech aesthetic 🖤 anyone notice the different color eyes?  The whole fit is from @nevstudio  Vid by @webwarriorsworkshop and @dylanpool_  #darkwear #techcosplay #techwear #dystopian #cosplay #cyberpunk #edgerunner </title>
-    <updated>2023-03-26T23:49:53+00:00</updated>
-    <content>Im kind of in love with the tech aesthetic 🖤 anyone notice the different color eyes?  The whole fit is from @nevstudio  Vid by @webwarriorsworkshop and @dylanpool_  #darkwear #techcosplay #techwear #dystopian #cosplay #cyberpunk #edgerunner </content>
-    <link href="https://tiktok.com/@athena__cos/video/7215006388005784874" rel="alternate"/>
-    <published>2023-03-26T23:49:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7215332416397888811</id>
     <title>I need an occasion to wear this more 😩  @webwarriorsworkshop  vid cred  @nevstudio outfit!  #techwear #nevstudiostreetwear #streetwear #darkwear #dystopian #cyberpunk </title>
@@ -91,5 +83,13 @@
     <content>It’s just gonna be character </content>
     <link href="https://tiktok.com/@athena__cos/video/7219397380226010411" rel="alternate"/>
     <published>2023-04-07T19:49:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7219771171594620203</id>
+    <title>Its MUSCLE QUEEN SEASON #wonderwoman #wonderwomancosplay #musclequeen #muscle #buffwomen #cosplay </title>
+    <updated>2023-04-08T19:59:39+00:00</updated>
+    <content>Its MUSCLE QUEEN SEASON #wonderwoman #wonderwomancosplay #musclequeen #muscle #buffwomen #cosplay </content>
+    <link href="https://tiktok.com/@athena__cos/video/7219771171594620203" rel="alternate"/>
+    <published>2023-04-08T19:59:39+00:00</published>
   </entry>
 </feed>
