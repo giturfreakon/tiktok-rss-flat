@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@claudcirillo</id>
   <title>@claudcirillo | TikTok</title>
-  <updated>2023-04-07T22:54:19+00:00</updated>
+  <updated>2023-04-08T00:18:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @claudcirillo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7216068917477887234</id>
-    <title>#pov You want to stay in (ib: @Shawn Sutton @Jezelle Catherine) #fyp #foryou #foryoupage #fypシ </title>
-    <updated>2023-03-29T20:33:00+00:00</updated>
-    <content>#pov You want to stay in (ib: @Shawn Sutton @Jezelle Catherine) #fyp #foryou #foryoupage #fypシ </content>
-    <link href="https://tiktok.com/@claudcirillo/video/7216068917477887234" rel="alternate"/>
-    <published>2023-03-29T20:33:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@claudcirillo/video/7216316656518319361</id>
     <title>We simply could not take ourselves seriously enough… NOW GO WISH NOAH A HAPPY BIRTHDAY!!</title>
@@ -91,5 +83,13 @@
     <content>#pov The popular girl made a day all about herself (ib: @Lexie Leith) #fyp #foryou #foryoupage #fypシ </content>
     <link href="https://tiktok.com/@claudcirillo/video/7219445106850450690" rel="alternate"/>
     <published>2023-04-07T22:54:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7219466681838603522</id>
+    <title>Replying to @mydancelife.com  In my defence i film standing on my bed, im unsteady as it is… #fyp #povblooper #blooper </title>
+    <updated>2023-04-08T00:18:06+00:00</updated>
+    <content>Replying to @mydancelife.com  In my defence i film standing on my bed, im unsteady as it is… #fyp #povblooper #blooper </content>
+    <link href="https://tiktok.com/@claudcirillo/video/7219466681838603522" rel="alternate"/>
+    <published>2023-04-08T00:18:06+00:00</published>
   </entry>
 </feed>
