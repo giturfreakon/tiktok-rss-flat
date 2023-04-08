@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-04-07T02:16:23+00:00</updated>
+  <updated>2023-04-08T02:16:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7217270417596288302</id>
-    <title>…</title>
-    <updated>2023-04-02T02:15:28+00:00</updated>
-    <content>…</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7217270417596288302" rel="alternate"/>
-    <published>2023-04-02T02:15:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7217270494985309482</id>
-    <title>WHY WOULD U FOOL ME LIKE THIS</title>
-    <updated>2023-04-02T02:15:47+00:00</updated>
-    <content>WHY WOULD U FOOL ME LIKE THIS</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7217270494985309482" rel="alternate"/>
-    <published>2023-04-02T02:15:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7218012580995009835</id>
-    <title>THERES NOTHING WRONG W ME I SWEAR</title>
-    <updated>2023-04-04T02:15:22+00:00</updated>
-    <content>THERES NOTHING WRONG W ME I SWEAR</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7218012580995009835" rel="alternate"/>
-    <published>2023-04-04T02:15:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7218012720333983018</id>
     <title>tag ur friend but dont tell them which ine they are</title>
@@ -91,5 +67,29 @@
     <content>tag your best friend/sibling </content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7219126088541179182" rel="alternate"/>
     <published>2023-04-07T02:16:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7219497043067276587</id>
+    <title>NEVER #greenscreen </title>
+    <updated>2023-04-08T02:15:52+00:00</updated>
+    <content>NEVER #greenscreen </content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7219497043067276587" rel="alternate"/>
+    <published>2023-04-08T02:15:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7219497143713778986</id>
+    <title>No Title</title>
+    <updated>2023-04-08T02:16:13+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7219497143713778986" rel="alternate"/>
+    <published>2023-04-08T02:16:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7219497256658062638</id>
+    <title>ur srsly asking me WHAT HAPPENED??!!</title>
+    <updated>2023-04-08T02:16:32+00:00</updated>
+    <content>ur srsly asking me WHAT HAPPENED??!!</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7219497256658062638" rel="alternate"/>
+    <published>2023-04-08T02:16:32+00:00</published>
   </entry>
 </feed>

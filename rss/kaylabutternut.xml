@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-08T00:09:43+00:00</updated>
+  <updated>2023-04-08T02:48:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7218746580709625134</id>
-    <title>Trying to keep this trend alive all by myself </title>
-    <updated>2023-04-06T01:43:46+00:00</updated>
-    <content>Trying to keep this trend alive all by myself </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7218746580709625134" rel="alternate"/>
-    <published>2023-04-06T01:43:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7218761688881827115</id>
-    <title>It’s how I ✨espress myself✨</title>
-    <updated>2023-04-06T02:42:22+00:00</updated>
-    <content>It’s how I ✨espress myself✨</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7218761688881827115" rel="alternate"/>
-    <published>2023-04-06T02:42:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7218768324358851883</id>
     <title>And gamer boys</title>
@@ -91,5 +75,21 @@
     <content>I didn’t learn the dance </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7219464539295812907" rel="alternate"/>
     <published>2023-04-08T00:09:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7219499408495332651</id>
+    <title>Last time with this sound </title>
+    <updated>2023-04-08T02:25:00+00:00</updated>
+    <content>Last time with this sound </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7219499408495332651" rel="alternate"/>
+    <published>2023-04-08T02:25:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7219505372363623722</id>
+    <title>If you can identify the plushie I will marry you</title>
+    <updated>2023-04-08T02:48:10+00:00</updated>
+    <content>If you can identify the plushie I will marry you</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7219505372363623722" rel="alternate"/>
+    <published>2023-04-08T02:48:10+00:00</published>
   </entry>
 </feed>
