@@ -13,7 +13,7 @@ from tiktokapipy.async_api import AsyncTikTokAPI
 ghPagesURL = "https://tiktokrss.uselesslesbians.gay/"
 
 maxItems = 10
-subscriptionFileCount = 4
+subscriptionFileCount = 5
 
 
 async def runAll():
