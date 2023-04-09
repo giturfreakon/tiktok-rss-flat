@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@transcendent_tess</id>
   <title>@transcendent_tess | TikTok</title>
-  <updated>2023-04-05T16:34:56+00:00</updated>
+  <updated>2023-04-09T16:24:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @transcendent_tess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@transcendent_tess/video/7213178835586616619</id>
-    <title>Oh my god. #funny #xyzbca #fyp #transtrucker #truckinglife #alphabetmafia🌈 #lgbt🌈 #mtftrans #truckerlife #trucker </title>
-    <updated>2023-03-22T01:38:05+00:00</updated>
-    <content>Oh my god. #funny #xyzbca #fyp #transtrucker #truckinglife #alphabetmafia🌈 #lgbt🌈 #mtftrans #truckerlife #trucker </content>
-    <link href="https://tiktok.com/@transcendent_tess/video/7213178835586616619" rel="alternate"/>
-    <published>2023-03-22T01:38:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@transcendent_tess/video/7213370375911017770</id>
     <title>#duet with @Mikaela ✨ sad, true, and then more sad.</title>
@@ -91,5 +83,13 @@
     <content>#duet with @Mikaela ✨ I love and hate how you always seem to hit my psyche on the head with point blanc accuracy. #lgbt🌈 </content>
     <link href="https://tiktok.com/@transcendent_tess/video/7218605129648344363" rel="alternate"/>
     <published>2023-04-05T16:34:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@transcendent_tess/video/7220086725887036718</id>
+    <title>I'm not dead, just got sad from doom scrolling. </title>
+    <updated>2023-04-09T16:24:14+00:00</updated>
+    <content>I'm not dead, just got sad from doom scrolling. </content>
+    <link href="https://tiktok.com/@transcendent_tess/video/7220086725887036718" rel="alternate"/>
+    <published>2023-04-09T16:24:14+00:00</published>
   </entry>
 </feed>
