@@ -7,95 +7,116 @@ from tiktokapipy.async_api import AsyncTikTokAPI
 # Now using a new TikTok library https://github.com/Russell-Newton/TikTokPy
 
 # Normal GitHub Pages URL
-# ghPagesURL = "https://sparklitwizzl.github.io/tiktok-rss-flat/"
+# githubPagesUrl = "https://sparklitwizzl.github.io/tiktok-rss-flat/"
 
 # Custom Domain
-ghPagesURL = "https://tiktokrss.uselesslesbians.gay/"
+githubPagesUrl = "https://tiktokrss.uselesslesbians.gay/"
 
 maxItems = 10
 subscriptionFileCount = 5
 
 
+def log( message ):
+	print( f'-------------------- {message} --------------------' )
+
+
+def logError( exception ):
+	log( '!!!!! ERROR !!!!!')
+	log( exception )
+
+
 async def runAll():
 	try:
-		print( '-------------------- runAll start --------------------' )
+		log( 'runAll start' )
 		
 		currentFileNumber = 0
-		print( f'-------------------- attempt to load subscription file number to run --------------------' )
+		log( 'attempt to load subscription file number to run' )
 		with open( 'nextSubscriptionFileToRun.py' ) as f:
 			currentFileNumber = f.read()
-			print( f'-------------------- currentFileNumber = {currentFileNumber} --------------------' )
+			log( f'currentFileNumber = {currentFileNumber}' )
 		
 		fileToRun = 'subscriptions' + currentFileNumber + '.csv'
-		print( f'-------------------- fileToRun = {fileToRun} --------------------' )
+		log( f'fileToRun = {fileToRun}' )
 		
 		with open( fileToRun ) as f:
 			# TODO: Switch to 3.11 TaskGroup or trio nursery
 			await asyncio.gather( *[
-				run( row['username'] ) for row in csv.DictReader( f, fieldnames=['username'] ) ] )
+				run( row['username'] ) for row in csv.DictReader( f, fieldnames = ['username'] ) ] )
 		
 		nextFileNumber = int( currentFileNumber ) + 1
 		if ( nextFileNumber > subscriptionFileCount ):
 			nextFileNumber = 1
-		print( f'-------------------- nextFileNumber = {nextFileNumber} --------------------' )
+		log( f'nextFileNumber = {nextFileNumber}' )
 		
-		print( f'-------------------- attempt to store next subscription file number to run ( subscriptions{nextFileNumber}.csv ) --------------------' )
+		log( f'attempt to store next subscription file number to run ( subscriptions{nextFileNumber}.csv )' )
 		with open( 'nextSubscriptionFileToRun.py', 'w' ) as f:
 			f.write( str( nextFileNumber ) )
 	except Exception as e:
-		print( f'-------------------- an error occurred: {e} --------------------' )
+		logError( e )
 	
-	print( '-------------------- runAll end --------------------' )
+	log( 'runAll end' )
 
 
-async def run( csvuser ):
-	print( f'-------------------- run start {csvuser} --------------------' )
-	try:		
-		fg = FeedGenerator()
-		fg.id( 'https://tiktok.com/@' + csvuser )
-		fg.title( '@' + csvuser + ' | TikTok' )
-		fg.author( {'name':'Conor ONeill','email':'conor@conoroneill.com'} )
-		fg.link( href='http://tiktok.com', rel='alternate' )
-		fg.logo( ghPagesURL + 'tiktok-rss.png' )
-		fg.subtitle( 'Latest TikToks from @' + csvuser )
-		fg.link( href=ghPagesURL + 'rss/' + csvuser + '.xml', rel='self' )
-		fg.language( 'en' )
+async def run( username ):
+	log( f'run start ( {username} )' )
+	try:
+		feedGenerator = FeedGenerator()
+		feedGenerator.id( 'https://tiktok.com/@' + username )
+		feedGenerator.title( '@' + username + ' | TikTok' )
+		feedGenerator.author( {'name':'Conor ONeill','email':'conor@conoroneill.com'} )
+		feedGenerator.link( href = 'http://tiktok.com', rel = 'alternate' )
+		feedGenerator.logo( githubPagesUrl + 'tiktok-rss.png' )
+		feedGenerator.subtitle( 'Latest TikToks from @' + username )
+		feedGenerator.link( href = githubPagesUrl + 'rss/' + username + '.xml', rel = 'self' )
+		feedGenerator.language( 'en' )
 		
 		# Set the last modification time for the feed to be the most recent post, else now.
-		updated=None
+		updated = None
 		
-		async with AsyncTikTokAPI( navigation_retries=3, navigation_timeout=60 ) as api:
-			tiktokuser = await api.user( csvuser, video_limit=maxItems )
-			async for video in tiktokuser.videos:
-				# print( video.create_time, video.desc )
-				print( "URL = " + "https://tiktok.com/@" + csvuser + "/video/" + str( video.id ) )
-				fe = fg.add_entry()
-				link = "https://tiktok.com/@" + csvuser + "/video/" + str( video.id )
-				fe.id( link )
-				ts = video.create_time
-				print( ts )
-				fe.published( ts )
-				fe.updated( ts )
-				updated = max( ts, updated ) if updated else ts
-				if video.desc:
-					fe.title( video.desc[0:255] )
-				else:
-				  fe.title( "No Title" )
-				fe.link( href=link )
-				#fe.description( "<img src='" + tiktok.as_dict['video']['cover'] + "' />" )
-				if video.desc:
-					fe.description( video.desc )
-				else:
-					fe.description( "No Description" )
-				#print( fg.rss_str( pretty=True ) )
+		async with AsyncTikTokAPI( navigation_retries = 3, navigation_timeout = 60 ) as api:
+			tiktokUser = await api.username( username, video_limit = maxItems )
+			async for video in tiktokUser.videos:
+				try:
+					# print( video.create_time, video.desc )
+					print( "URL = " + "https://tiktok.com/@" + username + "/video/" + str( video.id ) )
+					
+					feedEntry = feedGenerator.add_entry()
+					link = "https://tiktok.com/@" + username + "/video/" + str( video.id )
+					feedEntry.id( link )
+					
+					timestamp = video.create_time
+					# print( timestamp )
+					feedEntry.published( timestamp )
+					feedEntry.updated( timestamp )
+					updated = max( timestamp, updated ) if updated else timestamp
+					
+					if video.desc:
+						feedEntry.title( video.desc[0:255] )
+					else:
+						feedEntry.title( "[no title]" )
+					
+					feedEntry.link( href = link )
+					
+					#feedEntry.description( "<img src = '" + tiktok.as_dict['video']['cover'] + "' />" )
+					if video.desc:
+						feedEntry.description( video.desc )
+					else:
+						feedEntry.description( "[no description]" )
+					
+				except Exception as e:
+					logError( e )
 		
-		fg.updated( updated )
-		fg.atom_file( 'rss/' + csvuser + '.xml', pretty=True ) # Write the RSS feed to a file
+		feedGenerator.updated( updated )
+		
+		feedFileName = 'rss/' + username + '.xml'
+		log( f'attempt to write feed to file {feedFileName}' )
+		feedGenerator.atom_file( feedFileName, pretty = True ) # Write the RSS feed to a file
+		
 	except Exception as e:
-		print( f"-------------------- an error occurred: {e} --------------------" )
+		logError( e )
 		pass
 	
-	print( f'-------------------- run end {csvuser} --------------------' )
+	log( f'run end ( {username} )' )
 
 
 
