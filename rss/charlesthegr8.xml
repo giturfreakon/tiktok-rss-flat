@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-04-07T15:23:09+00:00</updated>
+  <updated>2023-04-09T21:09:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7216737211369213227</id>
-    <title>Plot Twist 🫢 #iykyk #plottwist #4u #charlesthegr8 </title>
-    <updated>2023-03-31T15:46:22+00:00</updated>
-    <content>Plot Twist 🫢 #iykyk #plottwist #4u #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7216737211369213227" rel="alternate"/>
-    <published>2023-03-31T15:46:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7216755085643238699</id>
     <title>Whats your top 3? 🤔 #4u #iykyk #anime #charlesthegr8 </title>
@@ -91,5 +83,13 @@
     <content>The art of restraint! 🙏🏽 #4u #iykyk #charlesthegr8 ig:official.charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7219328830283009323" rel="alternate"/>
     <published>2023-04-07T15:23:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7220160150953299242</id>
+    <title>Closure!!😔 #4u #iykyk #charlesthegr8 ig:official.charlesthegr8 </title>
+    <updated>2023-04-09T21:09:09+00:00</updated>
+    <content>Closure!!😔 #4u #iykyk #charlesthegr8 ig:official.charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7220160150953299242" rel="alternate"/>
+    <published>2023-04-09T21:09:09+00:00</published>
   </entry>
 </feed>
