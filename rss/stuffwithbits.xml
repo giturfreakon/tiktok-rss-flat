@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-04-08T23:46:56+00:00</updated>
+  <updated>2023-04-09T18:48:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7218637375382015274</id>
-    <title>sleepy kitty 🥰 #solardidsystem #ssryn #catsoftiktok #cats #cat #ladybug </title>
-    <updated>2023-04-05T18:40:03+00:00</updated>
-    <content>sleepy kitty 🥰 #solardidsystem #ssryn #catsoftiktok #cats #cat #ladybug </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7218637375382015274" rel="alternate"/>
-    <published>2023-04-05T18:40:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7218683542899838250</id>
     <title>I LOVE IT SO MUCH #solardidsystem #ssalex </title>
@@ -91,5 +83,13 @@
     <content>Replying to @lipton.diet.citrus_tea_1 #reply this was actually really fun to talk about. also I love how the captions auto corrects 'inner world' to 'in our world' because it's kinda true. In our world 🥰 #ssdrexel #solardidsystem #nonhuman #nonhumanalter #dissociativeidentitydisorder </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7219829746400546090" rel="alternate"/>
     <published>2023-04-08T23:46:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7220124023357787435</id>
+    <title>Replying to @fireangel1616 #reply #solardidsystem #dissociativeidentitydisorder #ssalex </title>
+    <updated>2023-04-09T18:48:55+00:00</updated>
+    <content>Replying to @fireangel1616 #reply #solardidsystem #dissociativeidentitydisorder #ssalex </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7220124023357787435" rel="alternate"/>
+    <published>2023-04-09T18:48:55+00:00</published>
   </entry>
 </feed>
