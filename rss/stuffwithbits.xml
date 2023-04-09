@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-04-09T18:48:55+00:00</updated>
+  <updated>2023-04-09T23:12:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7218683542899838250</id>
-    <title>I LOVE IT SO MUCH #solardidsystem #ssalex </title>
-    <updated>2023-04-05T21:39:11+00:00</updated>
-    <content>I LOVE IT SO MUCH #solardidsystem #ssalex </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7218683542899838250" rel="alternate"/>
-    <published>2023-04-05T21:39:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7219007093225934122</id>
-    <title>Replying to @theselfsystem #reply Alex talks about different types of splitting in DID #solardidsystem #ssalex #dissociativeidentitydisorder </title>
-    <updated>2023-04-06T18:34:42+00:00</updated>
-    <content>Replying to @theselfsystem #reply Alex talks about different types of splitting in DID #solardidsystem #ssalex #dissociativeidentitydisorder </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7219007093225934122" rel="alternate"/>
-    <published>2023-04-06T18:34:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7219354583422881067</id>
     <title>PLEASE be mindful of what you are saying to a complete stranger. The amount of inappropriate comments we receive is honestly ridiculous #ssdevereaux #solardidsystem </title>
@@ -91,5 +75,21 @@
     <content>Replying to @fireangel1616 #reply #solardidsystem #dissociativeidentitydisorder #ssalex </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7220124023357787435" rel="alternate"/>
     <published>2023-04-09T18:48:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7220175185570270510</id>
+    <title>It's fairly easy nowadays to keep em calm inside but if ey fully fronts, all hell breaks loose #ssalex #solardidsystem #dissociativeidentitydisorder </title>
+    <updated>2023-04-09T22:07:28+00:00</updated>
+    <content>It's fairly easy nowadays to keep em calm inside but if ey fully fronts, all hell breaks loose #ssalex #solardidsystem #dissociativeidentitydisorder </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7220175185570270510" rel="alternate"/>
+    <published>2023-04-09T22:07:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7220191953114172715</id>
+    <title>#duet with @project.jdm  stimmy 🥰 @spamandriel  #solardidsystem #ssalex #ssduets </title>
+    <updated>2023-04-09T23:12:32+00:00</updated>
+    <content>#duet with @project.jdm  stimmy 🥰 @spamandriel  #solardidsystem #ssalex #ssduets </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7220191953114172715" rel="alternate"/>
+    <published>2023-04-09T23:12:32+00:00</published>
   </entry>
 </feed>
