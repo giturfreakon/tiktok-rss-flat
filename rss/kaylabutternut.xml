@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-09T01:56:53+00:00</updated>
+  <updated>2023-04-09T02:32:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7218994662940413230</id>
-    <title>Anything for my favorite lady</title>
-    <updated>2023-04-06T17:46:30+00:00</updated>
-    <content>Anything for my favorite lady</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7218994662940413230" rel="alternate"/>
-    <published>2023-04-06T17:46:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7219052200947879211</id>
-    <title>I haven’t seen any anime since chainsaw man ended</title>
-    <updated>2023-04-06T21:29:41+00:00</updated>
-    <content>I haven’t seen any anime since chainsaw man ended</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7219052200947879211" rel="alternate"/>
-    <published>2023-04-06T21:29:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7219460861906406702</id>
     <title>New color just dropped </title>
@@ -91,5 +75,21 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7219863209803566379" rel="alternate"/>
     <published>2023-04-09T01:56:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7219871690963078443</id>
+    <title>I know</title>
+    <updated>2023-04-09T02:29:42+00:00</updated>
+    <content>I know</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7219871690963078443" rel="alternate"/>
+    <published>2023-04-09T02:29:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7219872525537447214</id>
+    <title>Can’t get rid of me</title>
+    <updated>2023-04-09T02:32:58+00:00</updated>
+    <content>Can’t get rid of me</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7219872525537447214" rel="alternate"/>
+    <published>2023-04-09T02:32:58+00:00</published>
   </entry>
 </feed>

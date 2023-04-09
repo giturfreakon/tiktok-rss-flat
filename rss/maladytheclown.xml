@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-04-07T16:39:16+00:00</updated>
+  <updated>2023-04-09T00:08:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7214620980587646213</id>
-    <title>😏😏😏 #maladytheclown #altmakeup #altstyle #dragmakeup #dancesinshadows </title>
-    <updated>2023-03-25T22:54:12+00:00</updated>
-    <content>😏😏😏 #maladytheclown #altmakeup #altstyle #dragmakeup #dancesinshadows </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7214620980587646213" rel="alternate"/>
-    <published>2023-03-25T22:54:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7214881699140881669</id>
     <title>clearing out drafts  💙 #dancesinshadows #elfmakeup #elfcosplay #elf #fantasycharacters </title>
@@ -91,5 +83,13 @@
     <content>a rare interview with Maddam Cure. Feel free to duet #makeuplooks #makeupartist #dancesinshadows #maddamcure </content>
     <link href="https://tiktok.com/@maladytheclown/video/7219348475136331014" rel="alternate"/>
     <published>2023-04-07T16:39:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7219835314859216134</id>
+    <title>oh no...  #cosplay #dancesinshadows #maddamcure #makeupartist #miniseries </title>
+    <updated>2023-04-09T00:08:27+00:00</updated>
+    <content>oh no...  #cosplay #dancesinshadows #maddamcure #makeupartist #miniseries </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7219835314859216134" rel="alternate"/>
+    <published>2023-04-09T00:08:27+00:00</published>
   </entry>
 </feed>
