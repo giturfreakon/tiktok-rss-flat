@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-04-09T01:40:52+00:00</updated>
+  <updated>2023-04-09T12:09:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7218585438464888107</id>
-    <title>Ill take it</title>
-    <updated>2023-04-05T15:18:39+00:00</updated>
-    <content>Ill take it</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7218585438464888107" rel="alternate"/>
-    <published>2023-04-05T15:18:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7218905837966740779</id>
     <title>Thanks for the support in advance</title>
@@ -70,9 +62,9 @@
   </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7219691843146206510</id>
-    <title>No Title</title>
+    <title>[no title]</title>
     <updated>2023-04-08T14:51:57+00:00</updated>
-    <content>No Description</content>
+    <content>[no description]</content>
     <link href="https://tiktok.com/@mikaelaistired/video/7219691843146206510" rel="alternate"/>
     <published>2023-04-08T14:51:57+00:00</published>
   </entry>
@@ -86,10 +78,18 @@
   </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7219859101520547114</id>
-    <title>No Title</title>
+    <title>[no title]</title>
     <updated>2023-04-09T01:40:52+00:00</updated>
-    <content>No Description</content>
+    <content>[no description]</content>
     <link href="https://tiktok.com/@mikaelaistired/video/7219859101520547114" rel="alternate"/>
     <published>2023-04-09T01:40:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7220020975063059755</id>
+    <title>Why</title>
+    <updated>2023-04-09T12:09:40+00:00</updated>
+    <content>Why</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7220020975063059755" rel="alternate"/>
+    <published>2023-04-09T12:09:40+00:00</published>
   </entry>
 </feed>
