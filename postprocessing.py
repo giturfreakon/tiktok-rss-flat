@@ -74,7 +74,7 @@ async def run( username ):
 		updated = None
 		
 		async with AsyncTikTokAPI( navigation_retries = 3, navigation_timeout = 60 ) as api:
-			tiktokUser = await api.username( username, video_limit = maxItems )
+			tiktokUser = await api.user( username, video_limit = maxItems )
 			async for video in tiktokUser.videos:
 				try:
 					# print( video.create_time, video.desc )
