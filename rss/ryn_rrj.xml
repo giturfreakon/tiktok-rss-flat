@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ryn_rrj</id>
   <title>@ryn_rrj | TikTok</title>
-  <updated>2023-04-06T19:08:35+00:00</updated>
+  <updated>2023-04-10T22:34:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ryn_rrj</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ryn_rrj/video/7209028540942142763</id>
-    <title>Always set up your autosaves and manually save frequently, folks #CapCut #software #computers #tech #audio #protools #production </title>
-    <updated>2023-03-10T21:12:44+00:00</updated>
-    <content>Always set up your autosaves and manually save frequently, folks #CapCut #software #computers #tech #audio #protools #production </content>
-    <link href="https://tiktok.com/@ryn_rrj/video/7209028540942142763" rel="alternate"/>
-    <published>2023-03-10T21:12:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ryn_rrj/video/7210101209020026154</id>
     <title>Honestly it wasnt bad if you just wanted to see #AdamDriver shoot #dinosaurs but my dino brain would not shut up about the fact that real dinos were high key much cooler. Also dont judge me for using megalovania ok it was the best i could think of #movie </title>
@@ -91,5 +83,13 @@
     <content>Heck Capitalism #buynothing #capitalism #gift #gifteconomy #community #support </content>
     <link href="https://tiktok.com/@ryn_rrj/video/7219015804560444714" rel="alternate"/>
     <published>2023-04-06T19:08:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ryn_rrj/video/7220553253489085739</id>
+    <title>For legal reasons this is a joke. Also, i believe everyone should have a hobby they arent particularly good at and embroidery is mine. Ik its not great but it makes me happy #hobby #piano #embroidery #craft #fabric #music #joke #funny </title>
+    <updated>2023-04-10T22:34:38+00:00</updated>
+    <content>For legal reasons this is a joke. Also, i believe everyone should have a hobby they arent particularly good at and embroidery is mine. Ik its not great but it makes me happy #hobby #piano #embroidery #craft #fabric #music #joke #funny </content>
+    <link href="https://tiktok.com/@ryn_rrj/video/7220553253489085739" rel="alternate"/>
+    <published>2023-04-10T22:34:38+00:00</published>
   </entry>
 </feed>
