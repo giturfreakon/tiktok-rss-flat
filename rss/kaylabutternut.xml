@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-10T14:58:36+00:00</updated>
+  <updated>2023-04-10T21:23:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7219872525537447214</id>
-    <title>Can’t get rid of me</title>
-    <updated>2023-04-09T02:32:58+00:00</updated>
-    <content>Can’t get rid of me</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7219872525537447214" rel="alternate"/>
-    <published>2023-04-09T02:32:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7219948259454749995</id>
-    <title>I still graduated with a science degree so</title>
-    <updated>2023-04-09T07:27:17+00:00</updated>
-    <content>I still graduated with a science degree so</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7219948259454749995" rel="alternate"/>
-    <published>2023-04-09T07:27:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7220014914658684202</id>
     <title>Hey :)</title>
@@ -91,5 +75,21 @@
     <content>One of my favorite sounds</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7220435710061350187" rel="alternate"/>
     <published>2023-04-10T14:58:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7220516583859359018</id>
+    <title>[no title]</title>
+    <updated>2023-04-10T20:12:19+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7220516583859359018" rel="alternate"/>
+    <published>2023-04-10T20:12:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7220534830486801706</id>
+    <title>Singing this like she gets any action</title>
+    <updated>2023-04-10T21:23:02+00:00</updated>
+    <content>Singing this like she gets any action</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7220534830486801706" rel="alternate"/>
+    <published>2023-04-10T21:23:02+00:00</published>
   </entry>
 </feed>
