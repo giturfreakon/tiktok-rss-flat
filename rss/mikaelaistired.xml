@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-04-10T15:23:00+00:00</updated>
+  <updated>2023-04-10T15:57:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -85,11 +85,11 @@
     <published>2023-04-09T23:08:55+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7220442014670949678</id>
-    <title>I guess thats fair</title>
-    <updated>2023-04-10T15:23:00+00:00</updated>
-    <content>I guess thats fair</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7220442014670949678" rel="alternate"/>
-    <published>2023-04-10T15:23:00+00:00</published>
+    <id>https://tiktok.com/@mikaelaistired/video/7220450764974525738</id>
+    <title>Hows it going</title>
+    <updated>2023-04-10T15:57:07+00:00</updated>
+    <content>Hows it going</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7220450764974525738" rel="alternate"/>
+    <published>2023-04-10T15:57:07+00:00</published>
   </entry>
 </feed>
