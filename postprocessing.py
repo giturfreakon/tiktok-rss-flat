@@ -74,13 +74,11 @@ async def run( tiktokUsername ):
 		updated = None
 		
 		async with AsyncTikTokAPI( navigation_retries = 3, navigation_timeout = 90 ) as api:
+			tiktokUser = await api.user( tiktokUsername, video_limit = maxItems )
 			async for video in tiktokUser.videos:
 				log( f"processing video from @{ tiktokUsername }" )
 				try:
-					tiktokUser = await api.user( tiktokUsername, video_limit = maxItems )
 					videoLink = f"https://tiktok.com/@{ tiktokUsername }/video/{ str( video.id ) }"
-					# print( video.create_time, video.desc )
-					
 					feedEntry = feedGenerator.add_entry()
 					feedEntry.id( videoLink )
 					
