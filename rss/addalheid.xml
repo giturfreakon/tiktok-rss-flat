@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@addalheid</id>
   <title>@addalheid | TikTok</title>
-  <updated>2023-04-10T13:53:31+00:00</updated>
+  <updated>2023-04-10T19:21:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @addalheid</subtitle>
-  <entry>
-    <id>https://tiktok.com/@addalheid/video/7217091833929796891</id>
-    <title>🧸 </title>
-    <updated>2023-04-01T14:42:30+00:00</updated>
-    <content>🧸 </content>
-    <link href="https://tiktok.com/@addalheid/video/7217091833929796891" rel="alternate"/>
-    <published>2023-04-01T14:42:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@addalheid/video/7217468289176358170</id>
     <title>🙃</title>
@@ -91,5 +83,13 @@
     <content>Where would you like to travel ? ☺️</content>
     <link href="https://tiktok.com/@addalheid/video/7220418991947287835" rel="alternate"/>
     <published>2023-04-10T13:53:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@addalheid/video/7220503657593228545</id>
+    <title>21:21 - Baby I wanna touch you… </title>
+    <updated>2023-04-10T19:21:59+00:00</updated>
+    <content>21:21 - Baby I wanna touch you… </content>
+    <link href="https://tiktok.com/@addalheid/video/7220503657593228545" rel="alternate"/>
+    <published>2023-04-10T19:21:59+00:00</published>
   </entry>
 </feed>
