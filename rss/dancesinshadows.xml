@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-04-09T00:00:46+00:00</updated>
+  <updated>2023-04-10T01:24:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7217220952411737349</id>
-    <title>trust isn't a word I would use with most of them... - Glum  #dragking #drag #dragmakeup #glumthesupernaturalhitman #dancesinshadows #themagnusarchives </title>
-    <updated>2023-04-01T23:03:25+00:00</updated>
-    <content>trust isn't a word I would use with most of them... - Glum  #dragking #drag #dragmakeup #glumthesupernaturalhitman #dancesinshadows #themagnusarchives </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7217220952411737349" rel="alternate"/>
-    <published>2023-04-01T23:03:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7217956560427945222</id>
-    <title>😏😏😏 #dragmakeup #drag #dragking #mischiefthedemon #originalcosplay #blackandwhitevid #dancesinshadows </title>
-    <updated>2023-04-03T22:37:55+00:00</updated>
-    <content>😏😏😏 #dragmakeup #drag #dragking #mischiefthedemon #originalcosplay #blackandwhitevid #dancesinshadows </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7217956560427945222" rel="alternate"/>
-    <published>2023-04-03T22:37:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7218182198153858309</id>
     <title>I don't often spend 10 hrs painting and sticking stuff to my face 🙃  #colors ##dancesinshadows #mothernature #fantasymakeup #glittermakeup </title>
@@ -91,5 +75,21 @@
     <content>#cosplay #maddamcure #sweeneytodd #dancesinshadows #makeupartist </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7219833331297438981" rel="alternate"/>
     <published>2023-04-09T00:00:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7220215569700637957</id>
+    <title>health update: I am still having issues with my eyes. the meds only help for a short while. waiting to hear from an allergist and the Ehlers-Danlos clinic, hoping for some kind of longer relief/help for the mast cell activation.  for now, I have epipens i</title>
+    <updated>2023-04-10T00:44:04+00:00</updated>
+    <content>health update: I am still having issues with my eyes. the meds only help for a short while. waiting to hear from an allergist and the Ehlers-Danlos clinic, hoping for some kind of longer relief/help for the mast cell activation.  for now, I have epipens incase I have a severe reaction. 😅 #dancesinshadows #kawaii #kawaiiaesthetic #kawaiifashion #pastelhair #pinkhair #flowers </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7220215569700637957" rel="alternate"/>
+    <published>2023-04-10T00:44:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7220225961386691845</id>
+    <title>still clearing out drafts... feel free to duet ♥️   #jokercosplay #thejoker #thejokercosplay #cosplay #dragmakeuplook #dragkingmakeup </title>
+    <updated>2023-04-10T01:24:23+00:00</updated>
+    <content>still clearing out drafts... feel free to duet ♥️   #jokercosplay #thejoker #thejokercosplay #cosplay #dragmakeuplook #dragkingmakeup </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7220225961386691845" rel="alternate"/>
+    <published>2023-04-10T01:24:23+00:00</published>
   </entry>
 </feed>
