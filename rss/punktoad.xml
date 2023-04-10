@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-04-09T23:53:37+00:00</updated>
+  <updated>2023-04-10T06:37:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7217622044245101866</id>
-    <title>#stitch with @thedailyshow i’m ready to risk it all #woollymammoth #meatball #todayshow #fourloko </title>
-    <updated>2023-04-03T00:59:59+00:00</updated>
-    <content>#stitch with @thedailyshow i’m ready to risk it all #woollymammoth #meatball #todayshow #fourloko </content>
-    <link href="https://tiktok.com/@punktoad/video/7217622044245101866" rel="alternate"/>
-    <published>2023-04-03T00:59:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7217793868300061998</id>
     <title>i hate th way Australian people say tattoo #tattoos #officememe #tattooedmen </title>
@@ -91,5 +83,13 @@
     <content>La Croix is garbage #lacroix #doesnttastegood #sparklingwater </content>
     <link href="https://tiktok.com/@punktoad/video/7220202538942041390" rel="alternate"/>
     <published>2023-04-09T23:53:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7220306478425541930</id>
+    <title>Creamer always helps #welovedylanmulvaney #budlight #aquickmessage #coffeetok  </title>
+    <updated>2023-04-10T06:37:22+00:00</updated>
+    <content>Creamer always helps #welovedylanmulvaney #budlight #aquickmessage #coffeetok  </content>
+    <link href="https://tiktok.com/@punktoad/video/7220306478425541930" rel="alternate"/>
+    <published>2023-04-10T06:37:22+00:00</published>
   </entry>
 </feed>
