@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-04-09T23:12:32+00:00</updated>
+  <updated>2023-04-10T19:50:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7219354583422881067</id>
-    <title>PLEASE be mindful of what you are saying to a complete stranger. The amount of inappropriate comments we receive is honestly ridiculous #ssdevereaux #solardidsystem </title>
-    <updated>2023-04-07T17:03:01+00:00</updated>
-    <content>PLEASE be mindful of what you are saying to a complete stranger. The amount of inappropriate comments we receive is honestly ridiculous #ssdevereaux #solardidsystem </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7219354583422881067" rel="alternate"/>
-    <published>2023-04-07T17:03:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7219360454232100138</id>
-    <title>We'll get through it, it just feels like there's a black hole occupying the top right portion of our brain. #solardidsystem #ssdevereaux #dissociativeidentitydisorder </title>
-    <updated>2023-04-07T17:25:50+00:00</updated>
-    <content>We'll get through it, it just feels like there's a black hole occupying the top right portion of our brain. #solardidsystem #ssdevereaux #dissociativeidentitydisorder </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7219360454232100138" rel="alternate"/>
-    <published>2023-04-07T17:25:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7219421107537841451</id>
     <title>This body is so small and fragile #solardidsystem #dissociativeidentitydisorder #ssarchelaus #alterintro #alterintroduction #demonalter </title>
@@ -91,5 +75,21 @@
     <content>#duet with @project.jdm  stimmy 🥰 @spamandriel  #solardidsystem #ssalex #ssduets </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7220191953114172715" rel="alternate"/>
     <published>2023-04-09T23:12:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7220499800758979886</id>
+    <title>Replying to @haydengyou #reply #solardidsystem #ssastra #religion #christianity </title>
+    <updated>2023-04-10T19:07:12+00:00</updated>
+    <content>Replying to @haydengyou #reply #solardidsystem #ssastra #religion #christianity </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7220499800758979886" rel="alternate"/>
+    <published>2023-04-10T19:07:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7220510958458866990</id>
+    <title>Replying to @appleuser25486359 #reply Seriously, of all videos, that one? Really? #solardidsystem #ssastra </title>
+    <updated>2023-04-10T19:50:24+00:00</updated>
+    <content>Replying to @appleuser25486359 #reply Seriously, of all videos, that one? Really? #solardidsystem #ssastra </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7220510958458866990" rel="alternate"/>
+    <published>2023-04-10T19:50:24+00:00</published>
   </entry>
 </feed>
