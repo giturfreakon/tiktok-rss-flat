@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-04-10T14:16:32+00:00</updated>
+  <updated>2023-04-10T15:40:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7216948578940456235</id>
-    <title>Come again!!! 🫢 #crush #iykyk #4u #charlesthegr8 </title>
-    <updated>2023-04-01T05:26:47+00:00</updated>
-    <content>Come again!!! 🫢 #crush #iykyk #4u #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7216948578940456235" rel="alternate"/>
-    <published>2023-04-01T05:26:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7217278427152305451</id>
-    <title>The Best and Worst April Fools!!! 😱#aprilfools #iykyk #youarenotthefather #charlesthegr8 </title>
-    <updated>2023-04-02T02:46:34+00:00</updated>
-    <content>The Best and Worst April Fools!!! 😱#aprilfools #iykyk #youarenotthefather #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7217278427152305451" rel="alternate"/>
-    <published>2023-04-02T02:46:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7217840538228198698</id>
     <title>Cant even compete!!!🥲 #iykyk #overthinking #4u #charlesthegr8 </title>
@@ -91,5 +75,21 @@
     <content>One sided!!! #breakup #iykyk #charlesthegr8 ig:official.charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7220424821656833326" rel="alternate"/>
     <published>2023-04-10T14:16:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7220444010039561515</id>
+    <title>Ok thats definitely worse!! #iykyk #4u #charlesthegr8 ig:official.charlesthegr8 </title>
+    <updated>2023-04-10T15:30:47+00:00</updated>
+    <content>Ok thats definitely worse!! #iykyk #4u #charlesthegr8 ig:official.charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7220444010039561515" rel="alternate"/>
+    <published>2023-04-10T15:30:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7220446446888324398</id>
+    <title>The lil bro treatment is abysmal! #iykyk #lilbro #charlesthegr8 ig:official.charlesthegr8 </title>
+    <updated>2023-04-10T15:40:12+00:00</updated>
+    <content>The lil bro treatment is abysmal! #iykyk #lilbro #charlesthegr8 ig:official.charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7220446446888324398" rel="alternate"/>
+    <published>2023-04-10T15:40:12+00:00</published>
   </entry>
 </feed>
