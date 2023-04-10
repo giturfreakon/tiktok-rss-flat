@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@claudcirillo</id>
   <title>@claudcirillo | TikTok</title>
-  <updated>2023-04-08T22:07:32+00:00</updated>
+  <updated>2023-04-09T22:16:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @claudcirillo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7216450735247052033</id>
-    <title>#pov : Forced into a marriage you didnt want, youve found youve lost your autonomy #foryou #foryoupage #fypシ #fyp </title>
-    <updated>2023-03-30T21:14:39+00:00</updated>
-    <content>#pov : Forced into a marriage you didnt want, youve found youve lost your autonomy #foryou #foryoupage #fypシ #fyp </content>
-    <link href="https://tiktok.com/@claudcirillo/video/7216450735247052033" rel="alternate"/>
-    <published>2023-03-30T21:14:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@claudcirillo/video/7216811732029820162</id>
     <title>#pov : The Villain always has someone they’ll lose everything for #fyp #foryou #foryoupage #fypシ #villainpov </title>
@@ -91,5 +83,13 @@
     <content>#pov : It’s hard pretending there’s nothing going on between the two of you, even around friends #fyp #foryou #foryoupage #fypシ </content>
     <link href="https://tiktok.com/@claudcirillo/video/7219804137678966017" rel="alternate"/>
     <published>2023-04-08T22:07:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7220177395389631746</id>
+    <title>#pov : First impressions matter #fyp #foryou #foryoupage #fypシ </title>
+    <updated>2023-04-09T22:16:03+00:00</updated>
+    <content>#pov : First impressions matter #fyp #foryou #foryoupage #fypシ </content>
+    <link href="https://tiktok.com/@claudcirillo/video/7220177395389631746" rel="alternate"/>
+    <published>2023-04-09T22:16:03+00:00</published>
   </entry>
 </feed>
