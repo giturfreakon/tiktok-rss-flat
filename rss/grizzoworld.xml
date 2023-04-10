@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grizzoworld</id>
   <title>@grizzoworld | TikTok</title>
-  <updated>2023-04-08T18:39:29+00:00</updated>
+  <updated>2023-04-10T16:13:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grizzoworld</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grizzoworld/video/7214498943168728325</id>
-    <title>Double headed bubble gun on amazon say no more ☝️🤣 the charging is a faff tho 🥲</title>
-    <updated>2023-03-25T15:00:38+00:00</updated>
-    <content>Double headed bubble gun on amazon say no more ☝️🤣 the charging is a faff tho 🥲</content>
-    <link href="https://tiktok.com/@grizzoworld/video/7214498943168728325" rel="alternate"/>
-    <published>2023-03-25T15:00:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grizzoworld/video/7214534301386378501</id>
     <title>which 1 you like most? Im feelin’ the 3rd fit atm 🌪️ </title>
@@ -91,5 +83,13 @@
     <content>Fooled ‘em 💯 💯 #uncatchable </content>
     <link href="https://tiktok.com/@grizzoworld/video/7219750537678392582" rel="alternate"/>
     <published>2023-04-08T18:39:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grizzoworld/video/7220455095954164997</id>
+    <title>Recent purchase from Jaded Ldn + highly recommend for all my fashion goddesses out there 😊</title>
+    <updated>2023-04-10T16:13:31+00:00</updated>
+    <content>Recent purchase from Jaded Ldn + highly recommend for all my fashion goddesses out there 😊</content>
+    <link href="https://tiktok.com/@grizzoworld/video/7220455095954164997" rel="alternate"/>
+    <published>2023-04-10T16:13:31+00:00</published>
   </entry>
 </feed>
