@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ailaughatmyownjokes</id>
   <title>@ailaughatmyownjokes | TikTok</title>
-  <updated>2023-04-04T17:48:45+00:00</updated>
+  <updated>2023-04-10T21:25:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ailaughatmyownjokes</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ailaughatmyownjokes/video/7210170151176654085</id>
-    <title>I'm not mad, I'm disappointed.  #harrypotter #skit #comedy </title>
-    <updated>2023-03-13T23:02:42+00:00</updated>
-    <content>I'm not mad, I'm disappointed.  #harrypotter #skit #comedy </content>
-    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7210170151176654085" rel="alternate"/>
-    <published>2023-03-13T23:02:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ailaughatmyownjokes/video/7211218916264250629</id>
     <title>@Vicky Boss Thank you for coming to visit me but not for leaving. I will never forgive you for that.  #heartbreak #soulmate </title>
@@ -91,5 +83,13 @@
     <content>Bob changed schools #school #skit #comedy</content>
     <link href="https://tiktok.com/@ailaughatmyownjokes/video/7218253105467608346" rel="alternate"/>
     <published>2023-04-04T17:48:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ailaughatmyownjokes/video/7220535499838983450</id>
+    <title>I got the video Idea from artyfwog who commented it during my stream so thank youuuuuuuuuu🥰🥰🥰#harrypotter #skit #comedy</title>
+    <updated>2023-04-10T21:25:48+00:00</updated>
+    <content>I got the video Idea from artyfwog who commented it during my stream so thank youuuuuuuuuu🥰🥰🥰#harrypotter #skit #comedy</content>
+    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7220535499838983450" rel="alternate"/>
+    <published>2023-04-10T21:25:48+00:00</published>
   </entry>
 </feed>

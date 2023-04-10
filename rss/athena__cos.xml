@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-04-08T19:59:39+00:00</updated>
+  <updated>2023-04-10T21:27:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7215332416397888811</id>
-    <title>I need an occasion to wear this more 😩  @webwarriorsworkshop  vid cred  @nevstudio outfit!  #techwear #nevstudiostreetwear #streetwear #darkwear #dystopian #cyberpunk </title>
-    <updated>2023-03-27T20:55:00+00:00</updated>
-    <content>I need an occasion to wear this more 😩  @webwarriorsworkshop  vid cred  @nevstudio outfit!  #techwear #nevstudiostreetwear #streetwear #darkwear #dystopian #cyberpunk </content>
-    <link href="https://tiktok.com/@athena__cos/video/7215332416397888811" rel="alternate"/>
-    <published>2023-03-27T20:55:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7215706819577007403</id>
     <title>Tik tok hates that im not doing fruity knights, but im forcing it to like it anyway 😂  @nevstudio for the fit!  @webwarriorsworkshop vid  #techwear #darkwear #nevstudiostreetwear #streetwear #anime #animegirl #dance #animeaesthetic </title>
@@ -91,5 +83,13 @@
     <content>Its MUSCLE QUEEN SEASON #wonderwoman #wonderwomancosplay #musclequeen #muscle #buffwomen #cosplay </content>
     <link href="https://tiktok.com/@athena__cos/video/7219771171594620203" rel="alternate"/>
     <published>2023-04-08T19:59:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7220535876924001582</id>
+    <title>It IMMEDIATELY will make me gag every time #gymgirls #protein #buffwomen #gymtok #musclequeen </title>
+    <updated>2023-04-10T21:27:08+00:00</updated>
+    <content>It IMMEDIATELY will make me gag every time #gymgirls #protein #buffwomen #gymtok #musclequeen </content>
+    <link href="https://tiktok.com/@athena__cos/video/7220535876924001582" rel="alternate"/>
+    <published>2023-04-10T21:27:08+00:00</published>
   </entry>
 </feed>
