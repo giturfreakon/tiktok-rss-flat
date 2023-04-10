@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-09T16:12:57+00:00</updated>
+  <updated>2023-04-10T01:34:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7219505372363623722</id>
-    <title>If you can identify the plushie I will marry you</title>
-    <updated>2023-04-08T02:48:10+00:00</updated>
-    <content>If you can identify the plushie I will marry you</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7219505372363623722" rel="alternate"/>
-    <published>2023-04-08T02:48:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7219600029252586794</id>
-    <title>For legal reasons this is a joke</title>
-    <updated>2023-04-08T08:56:23+00:00</updated>
-    <content>For legal reasons this is a joke</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7219600029252586794" rel="alternate"/>
-    <published>2023-04-08T08:56:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7219752629302234411</id>
     <title>This song does something to me</title>
@@ -91,5 +75,21 @@
     <content>11:11 make a wish</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7220083818844245291" rel="alternate"/>
     <published>2023-04-09T16:12:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7220222588142816558</id>
+    <title>Say what you want about me but I’ll go to the mat for them</title>
+    <updated>2023-04-10T01:11:22+00:00</updated>
+    <content>Say what you want about me but I’ll go to the mat for them</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7220222588142816558" rel="alternate"/>
+    <published>2023-04-10T01:11:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7220228417000688938</id>
+    <title>Trying this sound again bc it made me giggle</title>
+    <updated>2023-04-10T01:34:03+00:00</updated>
+    <content>Trying this sound again bc it made me giggle</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7220228417000688938" rel="alternate"/>
+    <published>2023-04-10T01:34:03+00:00</published>
   </entry>
 </feed>
