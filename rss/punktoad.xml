@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-04-09T11:26:39+00:00</updated>
+  <updated>2023-04-09T23:53:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7217460432020180267</id>
-    <title>#stitch with @normansrareguitars gum my lady, gum gum my lady #crazytown #shiftyshellshock #badsongs  </title>
-    <updated>2023-04-02T14:32:53+00:00</updated>
-    <content>#stitch with @normansrareguitars gum my lady, gum gum my lady #crazytown #shiftyshellshock #badsongs  </content>
-    <link href="https://tiktok.com/@punktoad/video/7217460432020180267" rel="alternate"/>
-    <published>2023-04-02T14:32:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7217622044245101866</id>
     <title>#stitch with @thedailyshow i’m ready to risk it all #woollymammoth #meatball #todayshow #fourloko </title>
@@ -91,5 +83,13 @@
     <content>Elesh Norn is mommy #eleshnorn #mtg #magicthegathering #grandcenobite #motherofmachines  </content>
     <link href="https://tiktok.com/@punktoad/video/7220009813781024043" rel="alternate"/>
     <published>2023-04-09T11:26:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7220202538942041390</id>
+    <title>La Croix is garbage #lacroix #doesnttastegood #sparklingwater </title>
+    <updated>2023-04-09T23:53:37+00:00</updated>
+    <content>La Croix is garbage #lacroix #doesnttastegood #sparklingwater </content>
+    <link href="https://tiktok.com/@punktoad/video/7220202538942041390" rel="alternate"/>
+    <published>2023-04-09T23:53:37+00:00</published>
   </entry>
 </feed>
