@@ -74,11 +74,11 @@ async def run( tiktokUsername ):
 		updated = None
 		
 		async with AsyncTikTokAPI( navigation_retries = 3, navigation_timeout = 90 ) as api:
-			tiktokUser = await api.user( tiktokUsername, video_limit = maxItems )
 			async for video in tiktokUser.videos:
-				videoLink = f"https://tiktok.com/@{ tiktokUsername }/video/{ str( video.id ) }"
-				log( f"processing video: { videoLink }" )
+				log( f"processing video from @{ tiktokUsername }" )
 				try:
+					tiktokUser = await api.user( tiktokUsername, video_limit = maxItems )
+					videoLink = f"https://tiktok.com/@{ tiktokUsername }/video/{ str( video.id ) }"
 					# print( video.create_time, video.desc )
 					
 					feedEntry = feedGenerator.add_entry()
@@ -103,8 +103,10 @@ async def run( tiktokUsername ):
 					else:
 						feedEntry.description( "[no description]" )
 					
+					log( f"successfully processed video from @{ tiktokUsername }" )
+					
 				except Exception as e:
-					log( f"error occurred while processing video { videoLink }" )
+					log( f"error occurred while processing video from @{ tiktokUsername }" )
 					logError( e )
 					continue
 		
