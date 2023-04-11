@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-04-11T00:17:21+00:00</updated>
+  <updated>2023-04-11T16:36:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7215278544946023723</id>
-    <title>#duet with @simplehistory_ #uspresident have a draft! </title>
-    <updated>2023-03-27T17:25:57+00:00</updated>
-    <content>#duet with @simplehistory_ #uspresident have a draft! </content>
-    <link href="https://tiktok.com/@kamehalani/video/7215278544946023723" rel="alternate"/>
-    <published>2023-03-27T17:25:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7216507335068552494</id>
     <title>Fruityyyy</title>
@@ -91,5 +83,13 @@
     <content>#duet with @terra.shanese #Makeup 🦑 handsome squidward #indigenous #kanaka #hawaiian #native </content>
     <link href="https://tiktok.com/@kamehalani/video/7220579740208467242" rel="alternate"/>
     <published>2023-04-11T00:17:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7220831983147011374</id>
+    <title>#greenscreenvideo #greenscreen yikes #saawareness #survivor </title>
+    <updated>2023-04-11T16:36:22+00:00</updated>
+    <content>#greenscreenvideo #greenscreen yikes #saawareness #survivor </content>
+    <link href="https://tiktok.com/@kamehalani/video/7220831983147011374" rel="alternate"/>
+    <published>2023-04-11T16:36:22+00:00</published>
   </entry>
 </feed>
