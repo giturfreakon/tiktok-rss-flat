@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-11T03:49:36+00:00</updated>
+  <updated>2023-04-11T07:57:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7220228417000688938</id>
-    <title>Trying this sound again bc it made me giggle</title>
-    <updated>2023-04-10T01:34:03+00:00</updated>
-    <content>Trying this sound again bc it made me giggle</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7220228417000688938" rel="alternate"/>
-    <published>2023-04-10T01:34:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7220274981958143274</id>
-    <title>Send this to your crush</title>
-    <updated>2023-04-10T04:34:48+00:00</updated>
-    <content>Send this to your crush</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7220274981958143274" rel="alternate"/>
-    <published>2023-04-10T04:34:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7220291719391382830</id>
     <title>Life is short and so is this dress idc</title>
@@ -91,5 +75,21 @@
     <content>I miss my bestie</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7220634422112996651" rel="alternate"/>
     <published>2023-04-11T03:49:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7220685862823152942</id>
+    <title>I’m trying to decide what to wear tonight</title>
+    <updated>2023-04-11T07:09:42+00:00</updated>
+    <content>I’m trying to decide what to wear tonight</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7220685862823152942" rel="alternate"/>
+    <published>2023-04-11T07:09:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7220697929315798318</id>
+    <title>Why is it always a michael</title>
+    <updated>2023-04-11T07:57:18+00:00</updated>
+    <content>Why is it always a michael</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7220697929315798318" rel="alternate"/>
+    <published>2023-04-11T07:57:18+00:00</published>
   </entry>
 </feed>
