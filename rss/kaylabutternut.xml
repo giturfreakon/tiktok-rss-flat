@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-10T23:48:07+00:00</updated>
+  <updated>2023-04-11T03:49:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7220083818844245291</id>
-    <title>11:11 make a wish</title>
-    <updated>2023-04-09T16:12:57+00:00</updated>
-    <content>11:11 make a wish</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7220083818844245291" rel="alternate"/>
-    <published>2023-04-09T16:12:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7220222588142816558</id>
-    <title>Say what you want about me but I’ll go to the mat for them</title>
-    <updated>2023-04-10T01:11:22+00:00</updated>
-    <content>Say what you want about me but I’ll go to the mat for them</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7220222588142816558" rel="alternate"/>
-    <published>2023-04-10T01:11:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7220228417000688938</id>
     <title>Trying this sound again bc it made me giggle</title>
@@ -91,5 +75,21 @@
     <content>Take my phone I’m feeling myself</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7220572194051607850" rel="alternate"/>
     <published>2023-04-10T23:48:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7220631672679615786</id>
+    <title>[no title]</title>
+    <updated>2023-04-11T03:38:51+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7220631672679615786" rel="alternate"/>
+    <published>2023-04-11T03:38:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7220634422112996651</id>
+    <title>I miss my bestie</title>
+    <updated>2023-04-11T03:49:36+00:00</updated>
+    <content>I miss my bestie</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7220634422112996651" rel="alternate"/>
+    <published>2023-04-11T03:49:36+00:00</published>
   </entry>
 </feed>
