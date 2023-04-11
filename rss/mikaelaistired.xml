@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-04-11T13:53:20+00:00</updated>
+  <updated>2023-04-11T17:31:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7219499697021652270</id>
-    <title>Its not a good look</title>
-    <updated>2023-04-08T02:26:10+00:00</updated>
-    <content>Its not a good look</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7219499697021652270" rel="alternate"/>
-    <published>2023-04-08T02:26:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7219691843146206510</id>
-    <title>[no title]</title>
-    <updated>2023-04-08T14:51:57+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7219691843146206510" rel="alternate"/>
-    <published>2023-04-08T14:51:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7219740001506970923</id>
     <title>Have some joy today</title>
@@ -91,5 +75,21 @@
     <content>Switched it up on ‘em</content>
     <link href="https://tiktok.com/@mikaelaistired/video/7220789914563038507" rel="alternate"/>
     <published>2023-04-11T13:53:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7220817195146743083</id>
+    <title>Remember im watching </title>
+    <updated>2023-04-11T15:39:03+00:00</updated>
+    <content>Remember im watching </content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7220817195146743083" rel="alternate"/>
+    <published>2023-04-11T15:39:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7220846179129642282</id>
+    <title>I promise you i know the spelling difference </title>
+    <updated>2023-04-11T17:31:31+00:00</updated>
+    <content>I promise you i know the spelling difference </content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7220846179129642282" rel="alternate"/>
+    <published>2023-04-11T17:31:31+00:00</published>
   </entry>
 </feed>

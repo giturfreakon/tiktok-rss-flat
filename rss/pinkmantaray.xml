@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-04-07T16:35:28+00:00</updated>
+  <updated>2023-04-11T19:35:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7213168013153930538</id>
-    <title>Trans siblings out there: you are allowed to wish for things that will IMPROVE your life. You are allowed to want BETTER. You are allowed to seek what brings you peace. #transgender #trans #gender #peace #transition #genderaffirmingcare #genderaffirmingsu</title>
-    <updated>2023-03-22T00:55:54+00:00</updated>
-    <content>Trans siblings out there: you are allowed to wish for things that will IMPROVE your life. You are allowed to want BETTER. You are allowed to seek what brings you peace. #transgender #trans #gender #peace #transition #genderaffirmingcare #genderaffirmingsurgery #topsurgery #genderidentity #selflove </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7213168013153930538" rel="alternate"/>
-    <published>2023-03-22T00:55:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7213929895536184618</id>
     <title>Let’s flip it… Everyone please do your part in this crucial race wisdems.org/cheddarstorm And Wisconsin, please get out the vote!🙏🏼</title>
@@ -91,5 +83,13 @@
     <content>Gender affirming healthcare is safe, medically necesary, and can be lifesaving. All sources at pinkmantaray.com/facts. #transgender #genderaffirmingcare #genderaffirmingsurgery #gender #lgbtq #transkids #transition #gendertransition #hrt #hormones #transman #transwoman #pride #scienceisreal </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7219347469283577134" rel="alternate"/>
     <published>2023-04-07T16:35:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7220878072625581354</id>
+    <title>The stuff coming out of Florida is somehow atill mindboggling. If you're concerned with someone else's genitals, that's on you. Not on the other person minding their own business. #transgender #trans #florida #republicans #transphobia #bathrooms #gender #</title>
+    <updated>2023-04-11T19:35:09+00:00</updated>
+    <content>The stuff coming out of Florida is somehow atill mindboggling. If you're concerned with someone else's genitals, that's on you. Not on the other person minding their own business. #transgender #trans #florida #republicans #transphobia #bathrooms #gender #lgbtq #transition </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7220878072625581354" rel="alternate"/>
+    <published>2023-04-11T19:35:09+00:00</published>
   </entry>
 </feed>
