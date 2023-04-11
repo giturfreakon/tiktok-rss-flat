@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grouch_thebird</id>
   <title>@grouch_thebird | TikTok</title>
-  <updated>2023-04-11T06:49:20+00:00</updated>
+  <updated>2023-04-11T09:48:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -85,11 +85,11 @@
     <published>2023-04-11T06:16:18+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7220680590222445870</id>
-    <title>[no title]</title>
-    <updated>2023-04-11T06:49:20+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7220680590222445870" rel="alternate"/>
-    <published>2023-04-11T06:49:20+00:00</published>
+    <id>https://tiktok.com/@grouch_thebird/video/7220726460019936554</id>
+    <title>my arms always feel so nice after I box :3</title>
+    <updated>2023-04-11T09:48:12+00:00</updated>
+    <content>my arms always feel so nice after I box :3</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7220726460019936554" rel="alternate"/>
+    <published>2023-04-11T09:48:12+00:00</published>
   </entry>
 </feed>
