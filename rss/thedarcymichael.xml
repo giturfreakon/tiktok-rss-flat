@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-04-09T16:19:23+00:00</updated>
+  <updated>2023-04-09T06:03:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7216756437563854085</id>
+    <title>cant wait to see (most of) you 🤓 #busydonkey #popquiz #marriedlife #standupcomedy #couplegoals #darcyandjer </title>
+    <updated>2023-03-31T17:00:49+00:00</updated>
+    <content>cant wait to see (most of) you 🤓 #busydonkey #popquiz #marriedlife #standupcomedy #couplegoals #darcyandjer </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7216756437563854085" rel="alternate"/>
+    <published>2023-03-31T17:00:49+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7217093300027673861</id>
     <title>Hashtag ✨beauty influencer/tax advisor✨</title>
@@ -83,13 +91,5 @@
     <content>Im sorry this trend is so cute #oldagefilter #CapCut #couplegoals </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7219926807628287237" rel="alternate"/>
     <published>2023-04-09T06:03:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7220085525665844486</id>
-    <title>Week one. #marriedlife #adhd #darcyandjer #couplecomedy #CapCut </title>
-    <updated>2023-04-09T16:19:23+00:00</updated>
-    <content>Week one. #marriedlife #adhd #darcyandjer #couplecomedy #CapCut </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7220085525665844486" rel="alternate"/>
-    <published>2023-04-09T16:19:23+00:00</published>
   </entry>
 </feed>
