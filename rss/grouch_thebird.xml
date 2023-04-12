@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grouch_thebird</id>
   <title>@grouch_thebird | TikTok</title>
-  <updated>2023-04-11T09:48:12+00:00</updated>
+  <updated>2023-04-12T05:00:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grouch_thebird</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7218351225060740394</id>
-    <title>[no title]</title>
-    <updated>2023-04-05T00:09:34+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7218351225060740394" rel="alternate"/>
-    <published>2023-04-05T00:09:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7218371451768917291</id>
-    <title>this makes me remember a time when this thought consumed my life. i honestly feel guilty about it</title>
-    <updated>2023-04-05T01:28:05+00:00</updated>
-    <content>this makes me remember a time when this thought consumed my life. i honestly feel guilty about it</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7218371451768917291" rel="alternate"/>
-    <published>2023-04-05T01:28:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grouch_thebird/video/7218465489507437870</id>
     <title>[no title]</title>
@@ -85,11 +69,27 @@
     <published>2023-04-11T06:16:18+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7220726460019936554</id>
-    <title>my arms always feel so nice after I box :3</title>
-    <updated>2023-04-11T09:48:12+00:00</updated>
-    <content>my arms always feel so nice after I box :3</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7220726460019936554" rel="alternate"/>
-    <published>2023-04-11T09:48:12+00:00</published>
+    <id>https://tiktok.com/@grouch_thebird/video/7221001219509243182</id>
+    <title>[no title]</title>
+    <updated>2023-04-12T03:33:02+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7221001219509243182" rel="alternate"/>
+    <published>2023-04-12T03:33:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7221016425194949931</id>
+    <title>@mary.jay.ne </title>
+    <updated>2023-04-12T04:32:09+00:00</updated>
+    <content>@mary.jay.ne </content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7221016425194949931" rel="alternate"/>
+    <published>2023-04-12T04:32:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7221023671089974574</id>
+    <title>[no title]</title>
+    <updated>2023-04-12T05:00:07+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7221023671089974574" rel="alternate"/>
+    <published>2023-04-12T05:00:07+00:00</published>
   </entry>
 </feed>
