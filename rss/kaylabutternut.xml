@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-11T20:58:38+00:00</updated>
+  <updated>2023-04-12T21:54:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7220435710061350187</id>
-    <title>One of my favorite sounds</title>
-    <updated>2023-04-10T14:58:36+00:00</updated>
-    <content>One of my favorite sounds</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7220435710061350187" rel="alternate"/>
-    <published>2023-04-10T14:58:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7220516583859359018</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>And he said it all the time</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7220899609416043819" rel="alternate"/>
     <published>2023-04-11T20:58:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7221285197386386730</id>
+    <title>Tiktok I’m an adult</title>
+    <updated>2023-04-12T21:54:48+00:00</updated>
+    <content>Tiktok I’m an adult</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7221285197386386730" rel="alternate"/>
+    <published>2023-04-12T21:54:48+00:00</published>
   </entry>
 </feed>
