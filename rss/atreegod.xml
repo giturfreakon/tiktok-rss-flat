@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-04-11T00:37:36+00:00</updated>
+  <updated>2023-04-12T12:32:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7217529269549813035</id>
-    <title>Moved in yesterday gimme vibe check #wlw #nyc #lgbtq </title>
-    <updated>2023-04-02T19:00:01+00:00</updated>
-    <content>Moved in yesterday gimme vibe check #wlw #nyc #lgbtq </content>
-    <link href="https://tiktok.com/@atreegod/video/7217529269549813035" rel="alternate"/>
-    <published>2023-04-02T19:00:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7217595454094167342</id>
     <title>Hi #wlw</title>
@@ -91,5 +83,13 @@
     <content>No cause teehee #wlw #masc #lgbtq </content>
     <link href="https://tiktok.com/@atreegod/video/7220584987974700331" rel="alternate"/>
     <published>2023-04-11T00:37:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7221140357822565674</id>
+    <title>Draft im going to California 2dayyy #wlw</title>
+    <updated>2023-04-12T12:32:47+00:00</updated>
+    <content>Draft im going to California 2dayyy #wlw</content>
+    <link href="https://tiktok.com/@atreegod/video/7221140357822565674" rel="alternate"/>
+    <published>2023-04-12T12:32:47+00:00</published>
   </entry>
 </feed>
