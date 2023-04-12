@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-04-12T02:36:16+00:00</updated>
+  <updated>2023-04-12T14:29:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7218318593912491306</id>
-    <title>i just broke my own heart 😞  #videogamecharacters #goodbyefriend #prettysad </title>
-    <updated>2023-04-04T22:02:58+00:00</updated>
-    <content>i just broke my own heart 😞  #videogamecharacters #goodbyefriend #prettysad </content>
-    <link href="https://tiktok.com/@punktoad/video/7218318593912491306" rel="alternate"/>
-    <published>2023-04-04T22:02:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7218505641369799978</id>
     <title>Ive brought you an old sweater and a lamp #mothman #pointpleasant #mothdaddy </title>
@@ -91,5 +83,13 @@
     <content>@punkwithacamera thanks for the new stuff #supportsmallbusiness #antifascist  #dalegribble </content>
     <link href="https://tiktok.com/@punktoad/video/7220986634462842155" rel="alternate"/>
     <published>2023-04-12T02:36:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7221170352225897774</id>
+    <title>Tell you sumpin buddy #carhart #midwestlife #itsawayoflife </title>
+    <updated>2023-04-12T14:29:13+00:00</updated>
+    <content>Tell you sumpin buddy #carhart #midwestlife #itsawayoflife </content>
+    <link href="https://tiktok.com/@punktoad/video/7221170352225897774" rel="alternate"/>
+    <published>2023-04-12T14:29:13+00:00</published>
   </entry>
 </feed>
