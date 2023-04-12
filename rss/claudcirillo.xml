@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@claudcirillo</id>
   <title>@claudcirillo | TikTok</title>
-  <updated>2023-04-10T22:43:11+00:00</updated>
+  <updated>2023-04-11T21:03:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @claudcirillo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7217230780190297345</id>
-    <title>Bestie…</title>
-    <updated>2023-04-01T23:41:41+00:00</updated>
-    <content>Bestie…</content>
-    <link href="https://tiktok.com/@claudcirillo/video/7217230780190297345" rel="alternate"/>
-    <published>2023-04-01T23:41:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@claudcirillo/video/7217578563380251905</id>
     <title>I mean, he might cry… #fyp #foryou </title>
@@ -91,5 +83,13 @@
     <content>#pov : All you ever wanted was for your guy best friend to be happy #foryoupage #fypシ #foryou #fyp </content>
     <link href="https://tiktok.com/@claudcirillo/video/7220555462838668545" rel="alternate"/>
     <published>2023-04-10T22:43:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7220900914503109889</id>
+    <title>#duet with @Claudia #pov : Theres always one “friend” who tries to one up you #fyp #foryou #foryoupage #fypシ </title>
+    <updated>2023-04-11T21:03:43+00:00</updated>
+    <content>#duet with @Claudia #pov : Theres always one “friend” who tries to one up you #fyp #foryou #foryoupage #fypシ </content>
+    <link href="https://tiktok.com/@claudcirillo/video/7220900914503109889" rel="alternate"/>
+    <published>2023-04-11T21:03:43+00:00</published>
   </entry>
 </feed>
