@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-04-12T11:39:24+00:00</updated>
+  <updated>2023-04-13T08:33:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -45,14 +45,6 @@
     <published>2023-04-08T08:53:06+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7219913685496515883</id>
-    <title>it's so true though and sometimes that extends way longer #kitthebeefcake </title>
-    <updated>2023-04-09T05:12:43+00:00</updated>
-    <content>it's so true though and sometimes that extends way longer #kitthebeefcake </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7219913685496515883" rel="alternate"/>
-    <published>2023-04-09T05:12:43+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7220190124779392299</id>
     <title>#kitthebeefcake </title>
     <updated>2023-04-09T23:05:28+00:00</updated>
@@ -91,5 +83,13 @@
     <content>yeah there's a few ways we could take that 😂 #kitthebeefcake </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7221126566573657386" rel="alternate"/>
     <published>2023-04-12T11:39:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7221449711545339182</id>
+    <title>we can switch sometimes tho #kitthebeefcake </title>
+    <updated>2023-04-13T08:33:21+00:00</updated>
+    <content>we can switch sometimes tho #kitthebeefcake </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7221449711545339182" rel="alternate"/>
+    <published>2023-04-13T08:33:21+00:00</published>
   </entry>
 </feed>
