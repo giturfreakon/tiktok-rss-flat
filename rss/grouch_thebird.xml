@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grouch_thebird</id>
   <title>@grouch_thebird | TikTok</title>
-  <updated>2023-04-13T04:17:21+00:00</updated>
+  <updated>2023-04-13T06:50:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grouch_thebird</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7219203204226043178</id>
-    <title>[no title]</title>
-    <updated>2023-04-07T07:16:27+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7219203204226043178" rel="alternate"/>
-    <published>2023-04-07T07:16:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7219206717635104046</id>
-    <title>[no title]</title>
-    <updated>2023-04-07T07:29:51+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7219206717635104046" rel="alternate"/>
-    <published>2023-04-07T07:29:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grouch_thebird/video/7219818527211998506</id>
     <title>green hair brown eyed girl rizz</title>
@@ -91,5 +75,21 @@
     <content>yes, you do need to go to the gym</content>
     <link href="https://tiktok.com/@grouch_thebird/video/7221383747873099054" rel="alternate"/>
     <published>2023-04-13T04:17:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7221408781601672491</id>
+    <title>[no title]</title>
+    <updated>2023-04-13T05:54:49+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7221408781601672491" rel="alternate"/>
+    <published>2023-04-13T05:54:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7221422906985745706</id>
+    <title>THIS WAS A NEXTDOOR POST AND THE CAPTION WAS "WTF! DONT KICK YOUR DOG FOR POOPING ON MY LAWN!"</title>
+    <updated>2023-04-13T06:50:01+00:00</updated>
+    <content>THIS WAS A NEXTDOOR POST AND THE CAPTION WAS "WTF! DONT KICK YOUR DOG FOR POOPING ON MY LAWN!"</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7221422906985745706" rel="alternate"/>
+    <published>2023-04-13T06:50:01+00:00</published>
   </entry>
 </feed>
