@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-04-12T20:52:39+00:00</updated>
+  <updated>2023-04-13T17:23:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7220450764974525738</id>
-    <title>Hows it going</title>
-    <updated>2023-04-10T15:57:07+00:00</updated>
-    <content>Hows it going</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7220450764974525738" rel="alternate"/>
-    <published>2023-04-10T15:57:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7220560656993357102</id>
-    <title>[no title]</title>
-    <updated>2023-04-10T23:03:17+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7220560656993357102" rel="alternate"/>
-    <published>2023-04-10T23:03:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7220584642628341035</id>
     <title>Why did i do that</title>
@@ -91,5 +75,21 @@
     <content>Wrong direction babe</content>
     <link href="https://tiktok.com/@mikaelaistired/video/7221269175979871531" rel="alternate"/>
     <published>2023-04-12T20:52:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7221546394665012526</id>
+    <title>Checking in</title>
+    <updated>2023-04-13T14:48:28+00:00</updated>
+    <content>Checking in</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7221546394665012526" rel="alternate"/>
+    <published>2023-04-13T14:48:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7221586262853946667</id>
+    <title>Just testing</title>
+    <updated>2023-04-13T17:23:08+00:00</updated>
+    <content>Just testing</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7221586262853946667" rel="alternate"/>
+    <published>2023-04-13T17:23:08+00:00</published>
   </entry>
 </feed>

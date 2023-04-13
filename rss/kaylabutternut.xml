@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-13T08:13:32+00:00</updated>
+  <updated>2023-04-13T17:00:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7220631672679615786</id>
-    <title>[no title]</title>
-    <updated>2023-04-11T03:38:51+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7220631672679615786" rel="alternate"/>
-    <published>2023-04-11T03:38:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7220634422112996651</id>
     <title>I miss my bestie</title>
@@ -91,5 +83,13 @@
     <content>I don’t match my room</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7221444355309980970" rel="alternate"/>
     <published>2023-04-13T08:13:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7221580540925709611</id>
+    <title>Do you think I should wear more black?</title>
+    <updated>2023-04-13T17:00:55+00:00</updated>
+    <content>Do you think I should wear more black?</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7221580540925709611" rel="alternate"/>
+    <published>2023-04-13T17:00:55+00:00</published>
   </entry>
 </feed>
