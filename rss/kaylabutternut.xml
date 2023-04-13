@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-13T17:00:55+00:00</updated>
+  <updated>2023-04-13T20:48:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7220634422112996651</id>
-    <title>I miss my bestie</title>
-    <updated>2023-04-11T03:49:36+00:00</updated>
-    <content>I miss my bestie</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7220634422112996651" rel="alternate"/>
-    <published>2023-04-11T03:49:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7220685862823152942</id>
     <title>I’m trying to decide what to wear tonight</title>
@@ -91,5 +83,13 @@
     <content>Do you think I should wear more black?</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7221580540925709611" rel="alternate"/>
     <published>2023-04-13T17:00:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7221639311014268203</id>
+    <title>2022 was great you guys</title>
+    <updated>2023-04-13T20:48:58+00:00</updated>
+    <content>2022 was great you guys</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7221639311014268203" rel="alternate"/>
+    <published>2023-04-13T20:48:58+00:00</published>
   </entry>
 </feed>
