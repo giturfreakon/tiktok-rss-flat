@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-04-11T19:51:08+00:00</updated>
+  <updated>2023-04-13T01:37:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7220499800758979886</id>
-    <title>Replying to @haydengyou #reply #solardidsystem #ssastra #religion #christianity </title>
-    <updated>2023-04-10T19:07:12+00:00</updated>
-    <content>Replying to @haydengyou #reply #solardidsystem #ssastra #religion #christianity </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7220499800758979886" rel="alternate"/>
-    <published>2023-04-10T19:07:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7220510958458866990</id>
-    <title>Replying to @appleuser25486359 #reply Seriously, of all videos, that one? Really? #solardidsystem #ssastra </title>
-    <updated>2023-04-10T19:50:24+00:00</updated>
-    <content>Replying to @appleuser25486359 #reply Seriously, of all videos, that one? Really? #solardidsystem #ssastra </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7220510958458866990" rel="alternate"/>
-    <published>2023-04-10T19:50:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7220543305291926826</id>
     <title>Just funny to me how similar those two things are in the impact they've made not just on us, but on the world. Something that was supposed to be good but actually never was. It's a strange thing to grieve. #solardidsystem #ssastra </title>
@@ -91,5 +75,21 @@
     <content>Replying to @savanahacarbone #reply that $100 can be sent via Cash app or Venmo to our username #solardidsystem #ssellie #volumewarning </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7220882190731644203" rel="alternate"/>
     <published>2023-04-11T19:51:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7221336110797081902</id>
+    <title>ALSO IMPORTANT!!! DO NOT PLACE THE BURDEN OF EDUCATION ON MARGINALIZED GROUPS!!! And make sure you're also thanking those who do choose to educate for their emotional labor. #solardidsystem #ssryn </title>
+    <updated>2023-04-13T01:12:26+00:00</updated>
+    <content>ALSO IMPORTANT!!! DO NOT PLACE THE BURDEN OF EDUCATION ON MARGINALIZED GROUPS!!! And make sure you're also thanking those who do choose to educate for their emotional labor. #solardidsystem #ssryn </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7221336110797081902" rel="alternate"/>
+    <published>2023-04-13T01:12:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7221342466237025579</id>
+    <title>#stitch with @relearn.org THIS IS SO 🦆 ING HARMFUL #ssryn #solardidsystem </title>
+    <updated>2023-04-13T01:37:02+00:00</updated>
+    <content>#stitch with @relearn.org THIS IS SO 🦆 ING HARMFUL #ssryn #solardidsystem </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7221342466237025579" rel="alternate"/>
+    <published>2023-04-13T01:37:02+00:00</published>
   </entry>
 </feed>
