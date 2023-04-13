@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-04-03T11:11:21+00:00</updated>
+  <updated>2023-04-13T10:33:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7215915339643636998</id>
-    <title>having clarity and being able to see a whole landscape of possibilities felt so empowering. I could see what I wanted to do and paths to get it done. Having that being walled off feels so hard and disabling, it really helps me see just how disabled I am b</title>
-    <updated>2023-03-29T10:36:57+00:00</updated>
-    <content>having clarity and being able to see a whole landscape of possibilities felt so empowering. I could see what I wanted to do and paths to get it done. Having that being walled off feels so hard and disabling, it really helps me see just how disabled I am by this and how much harder I have to work to get even simple things done.  I'm happy to answer questions if you have them #adhd #adhdtiktok #adhdmedication #disablitytiktok #disabled #disability #healthcare #trans #lgbt #nd #neurodivergent #enby </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7215915339643636998" rel="alternate"/>
-    <published>2023-03-29T10:36:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7216037081968037126</id>
     <title>thank you so much everyone, I'm so intensely grateful to have this space #tiktok #viral #thanks #thankyou #trans #pregnancy #lgbt #enby #onemillion #million #likes #ally </title>
@@ -91,5 +83,13 @@
     <content>Replying to @sannevdv283 we conflate pregnancy and femininity, when so many women experience their femininity in different ways and at different times in their life.  if your experience of pregnancy was the most feminine you've ever felt, that's an amazing part of your story and identity. for me and many others that isn't the case. as for me, my body isn't the wrong one and it also isn't a woman's. my body is incredibly trans and I feel so lucky to get to have made life with it. #trans #pregnancy #feminine #masculine #gender #lgbt #ally </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7217779626708421893" rel="alternate"/>
     <published>2023-04-03T11:11:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7221480792852073733</id>
+    <title>Replying to @joborn1977 in forgetting that trans men and trans masculine people exist, transphobes are literally opening the door to cis men being in women's spaces.  not to mention making it intensely unsafe for anyone, cis or trans, who is gender noncon</title>
+    <updated>2023-04-13T10:33:45+00:00</updated>
+    <content>Replying to @joborn1977 in forgetting that trans men and trans masculine people exist, transphobes are literally opening the door to cis men being in women's spaces.  not to mention making it intensely unsafe for anyone, cis or trans, who is gender nonconforming in their presentation. #trans #lgbt #lgbtq #queer #enby #toilets</content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7221480792852073733" rel="alternate"/>
+    <published>2023-04-13T10:33:45+00:00</published>
   </entry>
 </feed>
