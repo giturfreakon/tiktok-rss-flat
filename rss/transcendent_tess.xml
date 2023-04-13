@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@transcendent_tess</id>
   <title>@transcendent_tess | TikTok</title>
-  <updated>2023-04-09T16:24:14+00:00</updated>
+  <updated>2023-04-13T02:20:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @transcendent_tess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@transcendent_tess/video/7213370375911017770</id>
-    <title>#duet with @Mikaela ✨ sad, true, and then more sad.</title>
-    <updated>2023-03-22T14:01:43+00:00</updated>
-    <content>#duet with @Mikaela ✨ sad, true, and then more sad.</content>
-    <link href="https://tiktok.com/@transcendent_tess/video/7213370375911017770" rel="alternate"/>
-    <published>2023-03-22T14:01:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@transcendent_tess/video/7213508939823009066</id>
     <title>#answer to @tiktok_qna surely somebody out there remembers these.</title>
@@ -91,5 +83,13 @@
     <content>I'm not dead, just got sad from doom scrolling. </content>
     <link href="https://tiktok.com/@transcendent_tess/video/7220086725887036718" rel="alternate"/>
     <published>2023-04-09T16:24:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@transcendent_tess/video/7221353645667781934</id>
+    <title>#stitch with @💎 RoseiQuartz 💎 I... couldn't resist. 🥴 #neurodivergent #adhd #impulsebuy #impulsivethoughts #lgbt🌈 #trans #alphabetmafia🌈 #fyp #xyzcba #spoons #mtf #transmtf #adhdtok </title>
+    <updated>2023-04-13T02:20:26+00:00</updated>
+    <content>#stitch with @💎 RoseiQuartz 💎 I... couldn't resist. 🥴 #neurodivergent #adhd #impulsebuy #impulsivethoughts #lgbt🌈 #trans #alphabetmafia🌈 #fyp #xyzcba #spoons #mtf #transmtf #adhdtok </content>
+    <link href="https://tiktok.com/@transcendent_tess/video/7221353645667781934" rel="alternate"/>
+    <published>2023-04-13T02:20:26+00:00</published>
   </entry>
 </feed>
