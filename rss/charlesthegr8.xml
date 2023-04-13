@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-04-12T22:18:44+00:00</updated>
+  <updated>2023-04-13T16:16:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7219093003661577514</id>
-    <title>Lost for words #4u #iykyk #charlesthegr8 ig:official.charlesthegr8 </title>
-    <updated>2023-04-07T00:08:04+00:00</updated>
-    <content>Lost for words #4u #iykyk #charlesthegr8 ig:official.charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7219093003661577514" rel="alternate"/>
-    <published>2023-04-07T00:08:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7219328830283009323</id>
-    <title>The art of restraint! 🙏🏽 #4u #iykyk #charlesthegr8 ig:official.charlesthegr8 </title>
-    <updated>2023-04-07T15:23:09+00:00</updated>
-    <content>The art of restraint! 🙏🏽 #4u #iykyk #charlesthegr8 ig:official.charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7219328830283009323" rel="alternate"/>
-    <published>2023-04-07T15:23:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7220160150953299242</id>
     <title>Closure!!😔 #4u #iykyk #charlesthegr8 ig:official.charlesthegr8 </title>
@@ -91,5 +75,21 @@
     <content>The good old days #iykyk #siblings #charlesthegr8 ig:official.charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7221291359011982634" rel="alternate"/>
     <published>2023-04-12T22:18:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7221567182981975342</id>
+    <title>Suspicious  🤔🤔🤔#4u #suspicious #charlesthegr8 ig:official.charlesthegr8 </title>
+    <updated>2023-04-13T16:09:07+00:00</updated>
+    <content>Suspicious  🤔🤔🤔#4u #suspicious #charlesthegr8 ig:official.charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7221567182981975342" rel="alternate"/>
+    <published>2023-04-13T16:09:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7221569138886610222</id>
+    <title>Uh yes they would 🤣 #4u #suspicious #charlesthgr8 ig:official.charlesthegr8 </title>
+    <updated>2023-04-13T16:16:42+00:00</updated>
+    <content>Uh yes they would 🤣 #4u #suspicious #charlesthgr8 ig:official.charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7221569138886610222" rel="alternate"/>
+    <published>2023-04-13T16:16:42+00:00</published>
   </entry>
 </feed>
