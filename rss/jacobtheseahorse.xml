@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-04-13T10:33:45+00:00</updated>
+  <updated>2023-04-13T20:39:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7216037081968037126</id>
-    <title>thank you so much everyone, I'm so intensely grateful to have this space #tiktok #viral #thanks #thankyou #trans #pregnancy #lgbt #enby #onemillion #million #likes #ally </title>
-    <updated>2023-03-29T18:29:23+00:00</updated>
-    <content>thank you so much everyone, I'm so intensely grateful to have this space #tiktok #viral #thanks #thankyou #trans #pregnancy #lgbt #enby #onemillion #million #likes #ally </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7216037081968037126" rel="alternate"/>
-    <published>2023-03-29T18:29:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7216062944969329925</id>
     <title>Replying to @veeasaurusrex99 one of the amazing things about space is that you can stay in one place or you can move fluidly. sometimes you have a name the place you end up, but sometimes you don't need words, all you know is that you're not on one of tho</title>
@@ -91,5 +83,13 @@
     <content>Replying to @joborn1977 in forgetting that trans men and trans masculine people exist, transphobes are literally opening the door to cis men being in women's spaces.  not to mention making it intensely unsafe for anyone, cis or trans, who is gender nonconforming in their presentation. #trans #lgbt #lgbtq #queer #enby #toilets</content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7221480792852073733" rel="alternate"/>
     <published>2023-04-13T10:33:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7221636969040841990</id>
+    <title>I've gotta say, that last one stung a little!  #parenting #parents #parentsoftiktok #thingskidssay #papa #lgbt #queerparents </title>
+    <updated>2023-04-13T20:39:47+00:00</updated>
+    <content>I've gotta say, that last one stung a little!  #parenting #parents #parentsoftiktok #thingskidssay #papa #lgbt #queerparents </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7221636969040841990" rel="alternate"/>
+    <published>2023-04-13T20:39:47+00:00</published>
   </entry>
 </feed>
