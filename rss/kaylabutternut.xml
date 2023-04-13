@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-12T21:54:48+00:00</updated>
+  <updated>2023-04-13T01:26:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7220516583859359018</id>
-    <title>[no title]</title>
-    <updated>2023-04-10T20:12:19+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7220516583859359018" rel="alternate"/>
-    <published>2023-04-10T20:12:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7220534830486801706</id>
     <title>Singing this like she gets any action</title>
@@ -91,5 +83,13 @@
     <content>Tiktok I’m an adult</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7221285197386386730" rel="alternate"/>
     <published>2023-04-12T21:54:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7221339752321125674</id>
+    <title>Obsessed with these tights and I miss this song</title>
+    <updated>2023-04-13T01:26:35+00:00</updated>
+    <content>Obsessed with these tights and I miss this song</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7221339752321125674" rel="alternate"/>
+    <published>2023-04-13T01:26:35+00:00</published>
   </entry>
 </feed>
