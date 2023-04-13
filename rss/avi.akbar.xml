@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avi.akbar</id>
   <title>@avi.akbar | TikTok</title>
-  <updated>2023-04-12T22:07:52+00:00</updated>
+  <updated>2023-04-13T20:52:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avi.akbar</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avi.akbar/video/7217937255132843306</id>
-    <title>#pov the mystery ticket... (IB: @devincaherly ) #aviakbarpov </title>
-    <updated>2023-04-03T21:23:06+00:00</updated>
-    <content>#pov the mystery ticket... (IB: @devincaherly ) #aviakbarpov </content>
-    <link href="https://tiktok.com/@avi.akbar/video/7217937255132843306" rel="alternate"/>
-    <published>2023-04-03T21:23:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avi.akbar/video/7218389565982248234</id>
     <title>#pov the mystery ticket... PART 2 @avi.akbar #aviakbarpov </title>
@@ -91,5 +83,13 @@
     <content>#pov you keep getting mysterious phone calls... PART 1 #aviakbarpov</content>
     <link href="https://tiktok.com/@avi.akbar/video/7221288560941567278" rel="alternate"/>
     <published>2023-04-12T22:07:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avi.akbar/video/7221640164907633966</id>
+    <title>#pov everyday you wake up in a different year... PART 6 @avi.akbar #aviakbarpov </title>
+    <updated>2023-04-13T20:52:15+00:00</updated>
+    <content>#pov everyday you wake up in a different year... PART 6 @avi.akbar #aviakbarpov </content>
+    <link href="https://tiktok.com/@avi.akbar/video/7221640164907633966" rel="alternate"/>
+    <published>2023-04-13T20:52:15+00:00</published>
   </entry>
 </feed>
