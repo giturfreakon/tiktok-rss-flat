@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-04-13T22:44:01+00:00</updated>
+  <updated>2023-04-14T17:28:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7209351464236387626</id>
-    <title>Okay but deff redoin this transtion 😮‍💨</title>
-    <updated>2023-03-11T18:05:55+00:00</updated>
-    <content>Okay but deff redoin this transtion 😮‍💨</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7209351464236387626" rel="alternate"/>
-    <published>2023-03-11T18:05:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7213180298878553387</id>
     <title>Infect me with ya lovin</title>
@@ -91,5 +83,13 @@
     <content>Make sure to take a second and enjoy nature and her beauty ☀️ and just breath </content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7221668961329614126" rel="alternate"/>
     <published>2023-04-13T22:44:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7221958606923664686</id>
+    <title>Deff wasnt expecting that answer 😭 </title>
+    <updated>2023-04-14T17:28:00+00:00</updated>
+    <content>Deff wasnt expecting that answer 😭 </content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7221958606923664686" rel="alternate"/>
+    <published>2023-04-14T17:28:00+00:00</published>
   </entry>
 </feed>
