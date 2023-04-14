@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ratatootle</id>
   <title>@ratatootle | TikTok</title>
-  <updated>2023-04-07T13:25:30+00:00</updated>
+  <updated>2023-04-14T18:44:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ratatootle</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ratatootle/video/7215209395641355566</id>
-    <title>Formal puppy intro</title>
-    <updated>2023-03-27T12:57:40+00:00</updated>
-    <content>Formal puppy intro</content>
-    <link href="https://tiktok.com/@ratatootle/video/7215209395641355566" rel="alternate"/>
-    <published>2023-03-27T12:57:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ratatootle/video/7215612316925332782</id>
     <title>I think im great at describing smells tbh anyway use “Lila5” at the link in my bio for $$ off! @dossierperfumes #dossier #dossierperfumes </title>
@@ -91,5 +83,13 @@
     <content>My favorite part of the morning</content>
     <link href="https://tiktok.com/@ratatootle/video/7219298504420740394" rel="alternate"/>
     <published>2023-04-07T13:25:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ratatootle/video/7221978249323203883</id>
+    <title>Speaking out as a little weenie baby with no spice tolerance </title>
+    <updated>2023-04-14T18:44:13+00:00</updated>
+    <content>Speaking out as a little weenie baby with no spice tolerance </content>
+    <link href="https://tiktok.com/@ratatootle/video/7221978249323203883" rel="alternate"/>
+    <published>2023-04-14T18:44:13+00:00</published>
   </entry>
 </feed>
