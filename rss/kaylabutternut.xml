@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-13T20:48:58+00:00</updated>
+  <updated>2023-04-14T01:24:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7220685862823152942</id>
-    <title>I’m trying to decide what to wear tonight</title>
-    <updated>2023-04-11T07:09:42+00:00</updated>
-    <content>I’m trying to decide what to wear tonight</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7220685862823152942" rel="alternate"/>
-    <published>2023-04-11T07:09:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7220697929315798318</id>
-    <title>Why is it always a michael</title>
-    <updated>2023-04-11T07:57:18+00:00</updated>
-    <content>Why is it always a michael</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7220697929315798318" rel="alternate"/>
-    <published>2023-04-11T07:57:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7220773566424370475</id>
-    <title>[no title]</title>
-    <updated>2023-04-11T12:49:50+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7220773566424370475" rel="alternate"/>
-    <published>2023-04-11T12:49:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7220899609416043819</id>
     <title>And he said it all the time</title>
@@ -85,11 +61,35 @@
     <published>2023-04-13T17:00:55+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7221639311014268203</id>
-    <title>2022 was great you guys</title>
-    <updated>2023-04-13T20:48:58+00:00</updated>
-    <content>2022 was great you guys</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7221639311014268203" rel="alternate"/>
-    <published>2023-04-13T20:48:58+00:00</published>
+    <id>https://tiktok.com/@kaylabutternut/video/7221681856553520426</id>
+    <title>Like please tell me this is not normal</title>
+    <updated>2023-04-13T23:34:04+00:00</updated>
+    <content>Like please tell me this is not normal</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7221681856553520426" rel="alternate"/>
+    <published>2023-04-13T23:34:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7221696182861565230</id>
+    <title>❤️</title>
+    <updated>2023-04-14T00:29:37+00:00</updated>
+    <content>❤️</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7221696182861565230" rel="alternate"/>
+    <published>2023-04-14T00:29:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7221704769449037099</id>
+    <title>He wanna go viral </title>
+    <updated>2023-04-14T01:02:57+00:00</updated>
+    <content>He wanna go viral </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7221704769449037099" rel="alternate"/>
+    <published>2023-04-14T01:02:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7221710378131017006</id>
+    <title>I think I did it too fast</title>
+    <updated>2023-04-14T01:24:44+00:00</updated>
+    <content>I think I did it too fast</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7221710378131017006" rel="alternate"/>
+    <published>2023-04-14T01:24:44+00:00</published>
   </entry>
 </feed>

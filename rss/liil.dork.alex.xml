@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-04-13T22:09:03+00:00</updated>
+  <updated>2023-04-13T22:44:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7208700829082094891</id>
-    <title>The weak spot this song has  *flash ⚠️ *</title>
-    <updated>2023-03-10T00:01:06+00:00</updated>
-    <content>The weak spot this song has  *flash ⚠️ *</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7208700829082094891" rel="alternate"/>
-    <published>2023-03-10T00:01:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7209351464236387626</id>
     <title>Okay but deff redoin this transtion 😮‍💨</title>
@@ -91,5 +83,13 @@
     <content>My hair has gotten so long 😳</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7221659955101715754" rel="alternate"/>
     <published>2023-04-13T22:09:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7221668961329614126</id>
+    <title>Make sure to take a second and enjoy nature and her beauty ☀️ and just breath </title>
+    <updated>2023-04-13T22:44:01+00:00</updated>
+    <content>Make sure to take a second and enjoy nature and her beauty ☀️ and just breath </content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7221668961329614126" rel="alternate"/>
+    <published>2023-04-13T22:44:01+00:00</published>
   </entry>
 </feed>

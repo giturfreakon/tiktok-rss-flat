@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-04-13T08:33:21+00:00</updated>
+  <updated>2023-04-14T02:30:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7218589526715845934</id>
-    <title>and then sometimes their mind changes sometimes it doesn't and that's always so nice 🥰 #kitthebeefcake </title>
-    <updated>2023-04-05T15:34:32+00:00</updated>
-    <content>and then sometimes their mind changes sometimes it doesn't and that's always so nice 🥰 #kitthebeefcake </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7218589526715845934" rel="alternate"/>
-    <published>2023-04-05T15:34:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7218951396261891370</id>
     <title>and life is toooooo fun #kitthebeefcake </title>
@@ -91,5 +83,13 @@
     <content>we can switch sometimes tho #kitthebeefcake </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7221449711545339182" rel="alternate"/>
     <published>2023-04-13T08:33:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7221727412013272362</id>
+    <title>[no title]</title>
+    <updated>2023-04-14T02:30:47+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7221727412013272362" rel="alternate"/>
+    <published>2023-04-14T02:30:47+00:00</published>
   </entry>
 </feed>
