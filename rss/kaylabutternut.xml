@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-14T19:19:50+00:00</updated>
+  <updated>2023-04-14T22:35:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7221398548276104494</id>
-    <title>These heels are like 15 pounds but they’re so cute</title>
-    <updated>2023-04-13T05:15:02+00:00</updated>
-    <content>These heels are like 15 pounds but they’re so cute</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7221398548276104494" rel="alternate"/>
-    <published>2023-04-13T05:15:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7221444355309980970</id>
-    <title>I don’t match my room</title>
-    <updated>2023-04-13T08:13:32+00:00</updated>
-    <content>I don’t match my room</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7221444355309980970" rel="alternate"/>
-    <published>2023-04-13T08:13:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7221580540925709611</id>
     <title>Do you think I should wear more black?</title>
@@ -91,5 +75,21 @@
     <content>Gym bag reveal </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7221987433754135850" rel="alternate"/>
     <published>2023-04-14T19:19:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7222026521324850478</id>
+    <title>Last one in this outfit bc the algorithm hates it</title>
+    <updated>2023-04-14T21:51:42+00:00</updated>
+    <content>Last one in this outfit bc the algorithm hates it</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7222026521324850478" rel="alternate"/>
+    <published>2023-04-14T21:51:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7222037816921001262</id>
+    <title>Okay okay final one with this sound </title>
+    <updated>2023-04-14T22:35:26+00:00</updated>
+    <content>Okay okay final one with this sound </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7222037816921001262" rel="alternate"/>
+    <published>2023-04-14T22:35:26+00:00</published>
   </entry>
 </feed>
