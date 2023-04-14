@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-14T01:24:44+00:00</updated>
+  <updated>2023-04-14T07:02:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7220773566424370475</id>
-    <title>[no title]</title>
-    <updated>2023-04-11T12:49:50+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7220773566424370475" rel="alternate"/>
-    <published>2023-04-11T12:49:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7220899609416043819</id>
-    <title>And he said it all the time</title>
-    <updated>2023-04-11T20:58:38+00:00</updated>
-    <content>And he said it all the time</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7220899609416043819" rel="alternate"/>
-    <published>2023-04-11T20:58:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7221285197386386730</id>
     <title>Tiktok I’m an adult</title>
@@ -91,5 +75,21 @@
     <content>I think I did it too fast</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7221710378131017006" rel="alternate"/>
     <published>2023-04-14T01:24:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7221772392291683630</id>
+    <title>Wya</title>
+    <updated>2023-04-14T05:25:48+00:00</updated>
+    <content>Wya</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7221772392291683630" rel="alternate"/>
+    <published>2023-04-14T05:25:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7221797259560684843</id>
+    <title>Peep my moon boots in the back</title>
+    <updated>2023-04-14T07:02:01+00:00</updated>
+    <content>Peep my moon boots in the back</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7221797259560684843" rel="alternate"/>
+    <published>2023-04-14T07:02:01+00:00</published>
   </entry>
 </feed>
