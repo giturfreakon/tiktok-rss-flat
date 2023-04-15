@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-04-13T15:56:06+00:00</updated>
+  <updated>2023-04-15T18:58:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7216509557646855467</id>
-    <title>Its boring babes #jewish #jewtok #judiasm </title>
-    <updated>2023-03-31T01:02:58+00:00</updated>
-    <content>Its boring babes #jewish #jewtok #judiasm </content>
-    <link href="https://tiktok.com/@kamehalani/video/7216509557646855467" rel="alternate"/>
-    <published>2023-03-31T01:02:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7217212135502318890</id>
     <title>I mean </title>
@@ -91,5 +83,13 @@
     <content>Wow - also not to mention the yt supèrmaçists outside opening week for the musical. Insensitive much? #jewish #jewtok </content>
     <link href="https://tiktok.com/@kamehalani/video/7221563827928894766" rel="alternate"/>
     <published>2023-04-13T15:56:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7222352936821706026</id>
+    <title>Are you team Zales or team Deandra? #mpgis </title>
+    <updated>2023-04-15T18:58:18+00:00</updated>
+    <content>Are you team Zales or team Deandra? #mpgis </content>
+    <link href="https://tiktok.com/@kamehalani/video/7222352936821706026" rel="alternate"/>
+    <published>2023-04-15T18:58:18+00:00</published>
   </entry>
 </feed>
