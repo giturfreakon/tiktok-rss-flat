@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-14T22:35:26+00:00</updated>
+  <updated>2023-04-15T04:29:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,46 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7221580540925709611</id>
-    <title>Do you think I should wear more black?</title>
-    <updated>2023-04-13T17:00:55+00:00</updated>
-    <content>Do you think I should wear more black?</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7221580540925709611" rel="alternate"/>
-    <published>2023-04-13T17:00:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7221681856553520426</id>
-    <title>Like please tell me this is not normal</title>
-    <updated>2023-04-13T23:34:04+00:00</updated>
-    <content>Like please tell me this is not normal</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7221681856553520426" rel="alternate"/>
-    <published>2023-04-13T23:34:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7221696182861565230</id>
-    <title>❤️</title>
-    <updated>2023-04-14T00:29:37+00:00</updated>
-    <content>❤️</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7221696182861565230" rel="alternate"/>
-    <published>2023-04-14T00:29:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7221710378131017006</id>
-    <title>I think I did it too fast</title>
-    <updated>2023-04-14T01:24:44+00:00</updated>
-    <content>I think I did it too fast</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7221710378131017006" rel="alternate"/>
-    <published>2023-04-14T01:24:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7221772392291683630</id>
-    <title>Wya</title>
-    <updated>2023-04-14T05:25:48+00:00</updated>
-    <content>Wya</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7221772392291683630" rel="alternate"/>
-    <published>2023-04-14T05:25:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7221797259560684843</id>
     <title>Peep my moon boots in the back</title>
@@ -91,5 +51,45 @@
     <content>Okay okay final one with this sound </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7222037816921001262" rel="alternate"/>
     <published>2023-04-14T22:35:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7222060519685934378</id>
+    <title>Let me reintroduce myself</title>
+    <updated>2023-04-15T00:03:29+00:00</updated>
+    <content>Let me reintroduce myself</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7222060519685934378" rel="alternate"/>
+    <published>2023-04-15T00:03:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7222090034579606827</id>
+    <title>They didn’t have cinnamon rolls today :(</title>
+    <updated>2023-04-15T01:58:04+00:00</updated>
+    <content>They didn’t have cinnamon rolls today :(</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7222090034579606827" rel="alternate"/>
+    <published>2023-04-15T01:58:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7222112862729145642</id>
+    <title>I still work 8-12 hours a day tho</title>
+    <updated>2023-04-15T03:26:40+00:00</updated>
+    <content>I still work 8-12 hours a day tho</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7222112862729145642" rel="alternate"/>
+    <published>2023-04-15T03:26:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7222121789202140462</id>
+    <title>[no title]</title>
+    <updated>2023-04-15T04:01:17+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7222121789202140462" rel="alternate"/>
+    <published>2023-04-15T04:01:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7222129078051015982</id>
+    <title>Idk how to spell pinoccio</title>
+    <updated>2023-04-15T04:29:38+00:00</updated>
+    <content>Idk how to spell pinoccio</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7222129078051015982" rel="alternate"/>
+    <published>2023-04-15T04:29:38+00:00</published>
   </entry>
 </feed>
