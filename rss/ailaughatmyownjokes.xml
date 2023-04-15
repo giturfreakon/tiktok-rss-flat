@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ailaughatmyownjokes</id>
   <title>@ailaughatmyownjokes | TikTok</title>
-  <updated>2023-04-10T21:25:48+00:00</updated>
+  <updated>2023-04-15T16:24:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ailaughatmyownjokes</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ailaughatmyownjokes/video/7211218916264250629</id>
-    <title>@Vicky Boss Thank you for coming to visit me but not for leaving. I will never forgive you for that.  #heartbreak #soulmate </title>
-    <updated>2023-03-16T18:52:26+00:00</updated>
-    <content>@Vicky Boss Thank you for coming to visit me but not for leaving. I will never forgive you for that.  #heartbreak #soulmate </content>
-    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7211218916264250629" rel="alternate"/>
-    <published>2023-03-16T18:52:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ailaughatmyownjokes/video/7211562872529243398</id>
     <title>Grandma needed attention🙄 #bestfriend #comedy </title>
@@ -91,5 +83,13 @@
     <content>I got the video Idea from artyfwog who commented it during my stream so thank youuuuuuuuuu🥰🥰🥰#harrypotter #skit #comedy</content>
     <link href="https://tiktok.com/@ailaughatmyownjokes/video/7220535499838983450" rel="alternate"/>
     <published>2023-04-10T21:25:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ailaughatmyownjokes/video/7222313238388542746</id>
+    <title>He jinxed it....  #titanic #skit #comedy</title>
+    <updated>2023-04-15T16:24:12+00:00</updated>
+    <content>He jinxed it....  #titanic #skit #comedy</content>
+    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7222313238388542746" rel="alternate"/>
+    <published>2023-04-15T16:24:12+00:00</published>
   </entry>
 </feed>
