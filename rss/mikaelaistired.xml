@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-04-14T19:20:09+00:00</updated>
+  <updated>2023-04-15T15:52:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7220846179129642282</id>
-    <title>I promise you i know the spelling difference </title>
-    <updated>2023-04-11T17:31:31+00:00</updated>
-    <content>I promise you i know the spelling difference </content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7220846179129642282" rel="alternate"/>
-    <published>2023-04-11T17:31:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7220958993710124330</id>
     <title>This is still so funny to me</title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@mikaelaistired/video/7221987511164357931" rel="alternate"/>
     <published>2023-04-14T19:20:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7222304988997979434</id>
+    <title>You could do better</title>
+    <updated>2023-04-15T15:52:15+00:00</updated>
+    <content>You could do better</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7222304988997979434" rel="alternate"/>
+    <published>2023-04-15T15:52:15+00:00</published>
   </entry>
 </feed>
