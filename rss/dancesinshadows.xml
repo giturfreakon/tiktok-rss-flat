@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-04-11T13:29:24+00:00</updated>
+  <updated>2023-04-15T16:33:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7218345815746661638</id>
-    <title>finally using the swing ❤️ created the swing using an old board, rope, fake flowers and Xmas lights.  #dancesinshadows #springvibes #springfashion  #maladytheclown #swing #fantasymakeup </title>
-    <updated>2023-04-04T23:48:28+00:00</updated>
-    <content>finally using the swing ❤️ created the swing using an old board, rope, fake flowers and Xmas lights.  #dancesinshadows #springvibes #springfashion  #maladytheclown #swing #fantasymakeup </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7218345815746661638" rel="alternate"/>
-    <published>2023-04-04T23:48:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7218660468846513413</id>
     <title>❤️ song @Royal &amp; the Serpent ❤️  #spring #springvibes #dancesinshadows #makeupartist #maladytheclown #springfashion </title>
@@ -91,5 +83,13 @@
     <content>take me away, find me a home....far away from all this hatred and pain. 💔 marble steps -  @bonniemckee  #springvibes #pastelhair #kawaiiaesthetic #pinkhair #altmakeup </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7220783893442465029" rel="alternate"/>
     <published>2023-04-11T13:29:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7222315783727107333</id>
+    <title>I replaced my yoga hammock with a handmade swing that I made using rope, an old boar, xmas lights, and fake flowers. 🩷 #pastelhair #kawaiiaesthetic #springvibes #dancesinshadows </title>
+    <updated>2023-04-15T16:33:55+00:00</updated>
+    <content>I replaced my yoga hammock with a handmade swing that I made using rope, an old boar, xmas lights, and fake flowers. 🩷 #pastelhair #kawaiiaesthetic #springvibes #dancesinshadows </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7222315783727107333" rel="alternate"/>
+    <published>2023-04-15T16:33:55+00:00</published>
   </entry>
 </feed>
