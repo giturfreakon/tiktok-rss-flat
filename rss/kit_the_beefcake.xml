@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-04-15T01:43:19+00:00</updated>
+  <updated>2023-04-15T22:15:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7219284149985758510</id>
-    <title>sharing is caring #kitthebeefcake </title>
-    <updated>2023-04-07T12:29:48+00:00</updated>
-    <content>sharing is caring #kitthebeefcake </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7219284149985758510" rel="alternate"/>
-    <published>2023-04-07T12:29:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7219599210587409710</id>
     <title>is true #kitthebeefcake </title>
@@ -91,5 +83,13 @@
     <content>with the sunset okay pop off</content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7222086247949372718" rel="alternate"/>
     <published>2023-04-15T01:43:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7222403657214561578</id>
+    <title>whoopsie #kitthebeefcake </title>
+    <updated>2023-04-15T22:15:10+00:00</updated>
+    <content>whoopsie #kitthebeefcake </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7222403657214561578" rel="alternate"/>
+    <published>2023-04-15T22:15:10+00:00</published>
   </entry>
 </feed>
