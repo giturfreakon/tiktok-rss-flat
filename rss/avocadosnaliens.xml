@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-04-14T06:12:21+00:00</updated>
+  <updated>2023-04-15T17:52:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7209149002334407982</id>
-    <title>#greenscreen does humanity even exist anymore? Im so sick of this world. Im so sick and tired of these greedy disgusting scaly mfers choosing what world WE HAVE TO LIVE IN WHEN THEY INEVITABLY WILL BE GONE BEFORE THE ACTUAL DEVASTATION SETS IN. it already</title>
-    <updated>2023-03-11T05:00:14+00:00</updated>
-    <content>#greenscreen does humanity even exist anymore? Im so sick of this world. Im so sick and tired of these greedy disgusting scaly mfers choosing what world WE HAVE TO LIVE IN WHEN THEY INEVITABLY WILL BE GONE BEFORE THE ACTUAL DEVASTATION SETS IN. it already has begun. And for once i thout maybe just maybe theyd make the right decision #stopthewillowprojectplease #willowproject #bidenisajoke #saveourplanet🌎 </content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7209149002334407982" rel="alternate"/>
-    <published>2023-03-11T05:00:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7209352516964863274</id>
     <title>#ghoststories </title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7221784384058314030" rel="alternate"/>
     <published>2023-04-14T06:12:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7222336097781550382</id>
+    <title>#weddingphotographer #grwm hiiii i know ive been MIA. My brains been hurtin so im takin extra good care of her right now. Heres some really boring content im sure youll appreciate! Off to marry some lovebirds </title>
+    <updated>2023-04-15T17:52:52+00:00</updated>
+    <content>#weddingphotographer #grwm hiiii i know ive been MIA. My brains been hurtin so im takin extra good care of her right now. Heres some really boring content im sure youll appreciate! Off to marry some lovebirds </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7222336097781550382" rel="alternate"/>
+    <published>2023-04-15T17:52:52+00:00</published>
   </entry>
 </feed>
