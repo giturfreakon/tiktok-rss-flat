@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-04-15T01:12:45+00:00</updated>
+  <updated>2023-04-13T20:35:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7217855498299755782</id>
+    <title>A goft for the both of #adhd #popquiz #neurospicy </title>
+    <updated>2023-04-03T16:05:45+00:00</updated>
+    <content>A goft for the both of #adhd #popquiz #neurospicy </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7217855498299755782" rel="alternate"/>
+    <published>2023-04-03T16:05:45+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7217952679207767301</id>
     <title>Relationships are about balance ⚖️ #marriedlife #relationshipsbelike #husbands #housespouse #adhd #darcyandjer </title>
@@ -83,13 +91,5 @@
     <content>Ignore the ending - Darcy will be fine out there, its a safe neighbourhood afterall. #adhd #darcyandjer #husbands </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7221635972696427782" rel="alternate"/>
     <published>2023-04-13T20:35:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7222078380571692293</id>
-    <title>Adhd chaos with a pinch of 😶‍🌫️ya know😶‍🌫️#CapCut </title>
-    <updated>2023-04-15T01:12:45+00:00</updated>
-    <content>Adhd chaos with a pinch of 😶‍🌫️ya know😶‍🌫️#CapCut </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7222078380571692293" rel="alternate"/>
-    <published>2023-04-15T01:12:45+00:00</published>
   </entry>
 </feed>
