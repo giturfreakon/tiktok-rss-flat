@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avi.akbar</id>
   <title>@avi.akbar | TikTok</title>
-  <updated>2023-04-15T03:13:48+00:00</updated>
+  <updated>2023-04-16T04:03:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avi.akbar</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avi.akbar/video/7218746257899212078</id>
-    <title>#pov everyday you get a new ability, today you can read minds... (IB: @devincaherly ) #aviakbarpov </title>
-    <updated>2023-04-06T01:42:33+00:00</updated>
-    <content>#pov everyday you get a new ability, today you can read minds... (IB: @devincaherly ) #aviakbarpov </content>
-    <link href="https://tiktok.com/@avi.akbar/video/7218746257899212078" rel="alternate"/>
-    <published>2023-04-06T01:42:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avi.akbar/video/7219039407486012715</id>
     <title>#pov: the cops thought they'd catch you but you fooled them or so you thought... (Ib: @miuka.povs ) #aviakbarpov </title>
@@ -91,5 +83,13 @@
     <content>#pov you keep getting mysterious phone calls... PART 2 @avi.akbar #aviakbarpov </content>
     <link href="https://tiktok.com/@avi.akbar/video/7222109555327536430" rel="alternate"/>
     <published>2023-04-15T03:13:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avi.akbar/video/7222493377793674538</id>
+    <title>#pov you share a sense with your soulmate... PART 1 (IB: @jezelle.x @ianboggs ) #aviakbarpov </title>
+    <updated>2023-04-16T04:03:17+00:00</updated>
+    <content>#pov you share a sense with your soulmate... PART 1 (IB: @jezelle.x @ianboggs ) #aviakbarpov </content>
+    <link href="https://tiktok.com/@avi.akbar/video/7222493377793674538" rel="alternate"/>
+    <published>2023-04-16T04:03:17+00:00</published>
   </entry>
 </feed>

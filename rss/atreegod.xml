@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-04-12T12:32:47+00:00</updated>
+  <updated>2023-04-16T01:13:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7217595454094167342</id>
-    <title>Hi #wlw</title>
-    <updated>2023-04-02T23:16:48+00:00</updated>
-    <content>Hi #wlw</content>
-    <link href="https://tiktok.com/@atreegod/video/7217595454094167342" rel="alternate"/>
-    <published>2023-04-02T23:16:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7217640938749824298</id>
-    <title>Ashnikko &lt;3 #wlw </title>
-    <updated>2023-04-03T02:13:15+00:00</updated>
-    <content>Ashnikko &lt;3 #wlw </content>
-    <link href="https://tiktok.com/@atreegod/video/7217640938749824298" rel="alternate"/>
-    <published>2023-04-03T02:13:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7217868028388855086</id>
     <title>Just woke up #wlw </title>
@@ -91,5 +75,21 @@
     <content>Draft im going to California 2dayyy #wlw</content>
     <link href="https://tiktok.com/@atreegod/video/7221140357822565674" rel="alternate"/>
     <published>2023-04-12T12:32:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7222444941216337198</id>
+    <title>Ignore me saying nah in the befinning lol #wlw </title>
+    <updated>2023-04-16T00:55:17+00:00</updated>
+    <content>Ignore me saying nah in the befinning lol #wlw </content>
+    <link href="https://tiktok.com/@atreegod/video/7222444941216337198" rel="alternate"/>
+    <published>2023-04-16T00:55:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7222449554765925675</id>
+    <title>#wlw </title>
+    <updated>2023-04-16T01:13:07+00:00</updated>
+    <content>#wlw </content>
+    <link href="https://tiktok.com/@atreegod/video/7222449554765925675" rel="alternate"/>
+    <published>2023-04-16T01:13:07+00:00</published>
   </entry>
 </feed>
