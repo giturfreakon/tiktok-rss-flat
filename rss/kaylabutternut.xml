@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-16T02:23:57+00:00</updated>
+  <updated>2023-04-16T03:31:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7222037816921001262</id>
-    <title>Okay okay final one with this sound </title>
-    <updated>2023-04-14T22:35:26+00:00</updated>
-    <content>Okay okay final one with this sound </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7222037816921001262" rel="alternate"/>
-    <published>2023-04-14T22:35:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7222060519685934378</id>
     <title>Let me reintroduce myself</title>
@@ -91,5 +83,13 @@
     <content>Pretend like my caption blew your mind</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7222467788663950638" rel="alternate"/>
     <published>2023-04-16T02:23:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7222485110136982830</id>
+    <title>#fyp </title>
+    <updated>2023-04-16T03:31:09+00:00</updated>
+    <content>#fyp </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7222485110136982830" rel="alternate"/>
+    <published>2023-04-16T03:31:09+00:00</published>
   </entry>
 </feed>
