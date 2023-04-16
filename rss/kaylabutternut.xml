@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-16T11:07:28+00:00</updated>
+  <updated>2023-04-16T17:30:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7222121789202140462</id>
-    <title>[no title]</title>
-    <updated>2023-04-15T04:01:17+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7222121789202140462" rel="alternate"/>
-    <published>2023-04-15T04:01:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7222129078051015982</id>
     <title>Idk how to spell pinoccio</title>
@@ -91,5 +83,13 @@
     <content>It’s mine now ❤️</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7222602382633438506" rel="alternate"/>
     <published>2023-04-16T11:07:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7222701342068886826</id>
+    <title>Feeling myself today</title>
+    <updated>2023-04-16T17:30:16+00:00</updated>
+    <content>Feeling myself today</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7222701342068886826" rel="alternate"/>
+    <published>2023-04-16T17:30:16+00:00</published>
   </entry>
 </feed>
