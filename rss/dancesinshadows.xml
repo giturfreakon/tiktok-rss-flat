@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-04-15T16:33:55+00:00</updated>
+  <updated>2023-04-16T17:10:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7218660468846513413</id>
-    <title>❤️ song @Royal &amp; the Serpent ❤️  #spring #springvibes #dancesinshadows #makeupartist #maladytheclown #springfashion </title>
-    <updated>2023-04-05T20:09:27+00:00</updated>
-    <content>❤️ song @Royal &amp; the Serpent ❤️  #spring #springvibes #dancesinshadows #makeupartist #maladytheclown #springfashion </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7218660468846513413" rel="alternate"/>
-    <published>2023-04-05T20:09:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7218732845202722053</id>
     <title>No way, I dont believe it... 😳 #makeupartist #dragmakeup #beetlejuice #maladytheclown #dancesinshadows </title>
@@ -91,5 +83,13 @@
     <content>I replaced my yoga hammock with a handmade swing that I made using rope, an old boar, xmas lights, and fake flowers. 🩷 #pastelhair #kawaiiaesthetic #springvibes #dancesinshadows </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7222315783727107333" rel="alternate"/>
     <published>2023-04-15T16:33:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7222696175416265989</id>
+    <title>#harleyquinn #harleyquinncosplay #dancesinshadows </title>
+    <updated>2023-04-16T17:10:05+00:00</updated>
+    <content>#harleyquinn #harleyquinncosplay #dancesinshadows </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7222696175416265989" rel="alternate"/>
+    <published>2023-04-16T17:10:05+00:00</published>
   </entry>
 </feed>
