@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-04-15T23:55:23+00:00</updated>
+  <updated>2023-04-16T22:52:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7220603919670529326</id>
-    <title>I need a 3 minute version of my theme song please #solardidsystem #ssellie #fictive #fictivealter #thelastofus #tlou </title>
-    <updated>2023-04-11T01:51:10+00:00</updated>
-    <content>I need a 3 minute version of my theme song please #solardidsystem #ssellie #fictive #fictivealter #thelastofus #tlou </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7220603919670529326" rel="alternate"/>
-    <published>2023-04-11T01:51:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7220613815350758702</id>
     <title>Somehow this is the wildest thing that's happened to me #solardidsystem #ssellie #fictive #fictivealter </title>
@@ -91,5 +83,13 @@
     <content>@spamandriel 🥰😂 #solardidsystem </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7222429497038064939" rel="alternate"/>
     <published>2023-04-15T23:55:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7222784359512673578</id>
+    <title>Love y'all 🥰 #solardidsystem #ssalex </title>
+    <updated>2023-04-16T22:52:24+00:00</updated>
+    <content>Love y'all 🥰 #solardidsystem #ssalex </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7222784359512673578" rel="alternate"/>
+    <published>2023-04-16T22:52:24+00:00</published>
   </entry>
 </feed>
