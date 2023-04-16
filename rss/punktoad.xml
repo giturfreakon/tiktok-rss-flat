@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-04-14T11:31:40+00:00</updated>
+  <updated>2023-04-16T03:48:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7218907707888110894</id>
-    <title>i’m v lucky @deadliestpatch #truelove #couplesgoals #imweird </title>
-    <updated>2023-04-06T12:09:30+00:00</updated>
-    <content>i’m v lucky @deadliestpatch #truelove #couplesgoals #imweird </content>
-    <link href="https://tiktok.com/@punktoad/video/7218907707888110894" rel="alternate"/>
-    <published>2023-04-06T12:09:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7219261265670147371</id>
-    <title>im 35 and ive never used it #cursive #pointless #schoollife </title>
-    <updated>2023-04-07T11:02:08+00:00</updated>
-    <content>im 35 and ive never used it #cursive #pointless #schoollife </content>
-    <link href="https://tiktok.com/@punktoad/video/7219261265670147371" rel="alternate"/>
-    <published>2023-04-07T11:02:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7220009813781024043</id>
     <title>Elesh Norn is mommy #eleshnorn #mtg #magicthegathering #grandcenobite #motherofmachines  </title>
@@ -91,5 +75,21 @@
     <content>ive never heard that one before 🙃 #retailproblems #retaillife #customerservice </content>
     <link href="https://tiktok.com/@punktoad/video/7221866766392184107" rel="alternate"/>
     <published>2023-04-14T11:31:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7222484909594610987</id>
+    <title>i still love him tho #catdaddy #catsoftiktok #caturday  </title>
+    <updated>2023-04-16T03:30:22+00:00</updated>
+    <content>i still love him tho #catdaddy #catsoftiktok #caturday  </content>
+    <link href="https://tiktok.com/@punktoad/video/7222484909594610987" rel="alternate"/>
+    <published>2023-04-16T03:30:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7222489542442569006</id>
+    <title>Creator Clash 2 was fantastic… i wanna be in the next one #creatorclash2 #boxingmatch #creatorclash3 </title>
+    <updated>2023-04-16T03:48:21+00:00</updated>
+    <content>Creator Clash 2 was fantastic… i wanna be in the next one #creatorclash2 #boxingmatch #creatorclash3 </content>
+    <link href="https://tiktok.com/@punktoad/video/7222489542442569006" rel="alternate"/>
+    <published>2023-04-16T03:48:21+00:00</published>
   </entry>
 </feed>
