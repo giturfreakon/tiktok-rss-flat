@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-04-15T15:07:01+00:00</updated>
+  <updated>2023-04-15T23:55:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7220595575874456878</id>
-    <title>"It didn't actually happen though" ok sure buddy you may be right by I'm not there yet and it's pretty fucking real to me #solardidsystem #ssellie #fictive #fictivealter </title>
-    <updated>2023-04-11T01:18:45+00:00</updated>
-    <content>"It didn't actually happen though" ok sure buddy you may be right by I'm not there yet and it's pretty fucking real to me #solardidsystem #ssellie #fictive #fictivealter </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7220595575874456878" rel="alternate"/>
-    <published>2023-04-11T01:18:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7220603919670529326</id>
     <title>I need a 3 minute version of my theme song please #solardidsystem #ssellie #fictive #fictivealter #thelastofus #tlou </title>
@@ -91,5 +83,13 @@
     <content>Replying to @it_is_our_life_live_it #reply #solardidsystem #ssryn </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7222293333870398766" rel="alternate"/>
     <published>2023-04-15T15:07:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7222429497038064939</id>
+    <title>@spamandriel 🥰😂 #solardidsystem </title>
+    <updated>2023-04-15T23:55:23+00:00</updated>
+    <content>@spamandriel 🥰😂 #solardidsystem </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7222429497038064939" rel="alternate"/>
+    <published>2023-04-15T23:55:23+00:00</published>
   </entry>
 </feed>
