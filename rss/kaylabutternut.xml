@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-16T03:31:09+00:00</updated>
+  <updated>2023-04-16T05:47:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7222060519685934378</id>
-    <title>Let me reintroduce myself</title>
-    <updated>2023-04-15T00:03:29+00:00</updated>
-    <content>Let me reintroduce myself</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7222060519685934378" rel="alternate"/>
-    <published>2023-04-15T00:03:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7222090034579606827</id>
-    <title>They didn’t have cinnamon rolls today :(</title>
-    <updated>2023-04-15T01:58:04+00:00</updated>
-    <content>They didn’t have cinnamon rolls today :(</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7222090034579606827" rel="alternate"/>
-    <published>2023-04-15T01:58:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7222112862729145642</id>
     <title>I still work 8-12 hours a day tho</title>
@@ -91,5 +75,21 @@
     <content>#fyp </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7222485110136982830" rel="alternate"/>
     <published>2023-04-16T03:31:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7222514758409555246</id>
+    <title>Bless up</title>
+    <updated>2023-04-16T05:26:23+00:00</updated>
+    <content>Bless up</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7222514758409555246" rel="alternate"/>
+    <published>2023-04-16T05:26:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7222520198639848750</id>
+    <title>Oops</title>
+    <updated>2023-04-16T05:47:30+00:00</updated>
+    <content>Oops</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7222520198639848750" rel="alternate"/>
+    <published>2023-04-16T05:47:30+00:00</published>
   </entry>
 </feed>
