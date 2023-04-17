@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-04-16T03:48:21+00:00</updated>
+  <updated>2023-04-17T12:27:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7220009813781024043</id>
-    <title>Elesh Norn is mommy #eleshnorn #mtg #magicthegathering #grandcenobite #motherofmachines  </title>
-    <updated>2023-04-09T11:26:39+00:00</updated>
-    <content>Elesh Norn is mommy #eleshnorn #mtg #magicthegathering #grandcenobite #motherofmachines  </content>
-    <link href="https://tiktok.com/@punktoad/video/7220009813781024043" rel="alternate"/>
-    <published>2023-04-09T11:26:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7220202538942041390</id>
     <title>La Croix is garbage #lacroix #doesnttastegood #sparklingwater </title>
@@ -91,5 +83,13 @@
     <content>Creator Clash 2 was fantastic… i wanna be in the next one #creatorclash2 #boxingmatch #creatorclash3 </content>
     <link href="https://tiktok.com/@punktoad/video/7222489542442569006" rel="alternate"/>
     <published>2023-04-16T03:48:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7222994356918209838</id>
+    <title>Dimma dimma #dougdimmadome #fairlyoddparents #timmyturner </title>
+    <updated>2023-04-17T12:27:18+00:00</updated>
+    <content>Dimma dimma #dougdimmadome #fairlyoddparents #timmyturner </content>
+    <link href="https://tiktok.com/@punktoad/video/7222994356918209838" rel="alternate"/>
+    <published>2023-04-17T12:27:18+00:00</published>
   </entry>
 </feed>
