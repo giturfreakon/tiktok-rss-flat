@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-04-13T23:35:51+00:00</updated>
+  <updated>2023-04-17T01:27:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7214527431657524526</id>
-    <title>World Athletics' ban is transphobia, misogynistic, racist, discriminatory, and harmful. President Sebastian Coe claims that this is in effort to protect women and women's category, but excluding trans women threatens all women in the entire women's catego</title>
-    <updated>2023-03-25T16:51:24+00:00</updated>
-    <content>World Athletics' ban is transphobia, misogynistic, racist, discriminatory, and harmful. President Sebastian Coe claims that this is in effort to protect women and women's category, but excluding trans women threatens all women in the entire women's category through the policing of women's bodies and womanhood. This ruling is devastating, and deeply upsetting, especially when taken with the hundreds of anti-trans legislation, precenting children from playing sports with their friends. #Tr#TransAthleter#Transgenderi#LiaThomasr#TransManr#TransWomeno#WomensSportso#WorldAthleticsi#Finao#WorldAquaticsA#IAAFra#TransRights</content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7214527431657524526" rel="alternate"/>
-    <published>2023-03-25T16:51:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7214584208105245994</id>
     <title>Lia &amp; me for ABC news yesterday morning on @gma - TRANS ATHLETES BELONG IN SPORT! #TransAthlete #TransAthletesBelongInSport #LiaThomas #Transgender </title>
@@ -91,5 +83,13 @@
     <content>Register for allyship workshops at pinkmantaray.com/workshops 🙏🏼🏳️‍⚧️💕 #transgender #trans #allyship #education #gender </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7221682318824525099" rel="alternate"/>
     <published>2023-04-13T23:35:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7222824228108733738</id>
+    <title>Thoughts on #Missouri's new gender affirming care restriction. #genderaffirmingcare #trans #transgender #transhealth #gender #lgbtq </title>
+    <updated>2023-04-17T01:27:03+00:00</updated>
+    <content>Thoughts on #Missouri's new gender affirming care restriction. #genderaffirmingcare #trans #transgender #transhealth #gender #lgbtq </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7222824228108733738" rel="alternate"/>
+    <published>2023-04-17T01:27:03+00:00</published>
   </entry>
 </feed>

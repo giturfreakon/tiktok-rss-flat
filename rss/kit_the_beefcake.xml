@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-04-16T06:01:31+00:00</updated>
+  <updated>2023-04-17T01:21:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7220190124779392299</id>
-    <title>#kitthebeefcake </title>
-    <updated>2023-04-09T23:05:28+00:00</updated>
-    <content>#kitthebeefcake </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7220190124779392299" rel="alternate"/>
-    <published>2023-04-09T23:05:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7220324460623072555</id>
     <title>I have no rizz sometimes y'all #kitthebeefcake </title>
@@ -91,5 +83,13 @@
     <content>let me come to you I'm like a cat #kitthebeefcake </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7222523818965732654" rel="alternate"/>
     <published>2023-04-16T06:01:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7222822757950704939</id>
+    <title>just don't be mean okay? #kitthebeefcake </title>
+    <updated>2023-04-17T01:21:28+00:00</updated>
+    <content>just don't be mean okay? #kitthebeefcake </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7222822757950704939" rel="alternate"/>
+    <published>2023-04-17T01:21:28+00:00</published>
   </entry>
 </feed>
