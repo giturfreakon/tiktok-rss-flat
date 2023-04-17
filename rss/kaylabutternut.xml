@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-16T18:46:54+00:00</updated>
+  <updated>2023-04-17T04:49:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7222183091165580587</id>
-    <title>I shouldn’t post this but she unfollowed me so</title>
-    <updated>2023-04-15T08:00:04+00:00</updated>
-    <content>I shouldn’t post this but she unfollowed me so</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7222183091165580587" rel="alternate"/>
-    <published>2023-04-15T08:00:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7222304530736614698</id>
     <title>Lmaooooooooo</title>
@@ -91,5 +83,13 @@
     <content>Lmao the bottega dust bag in the back</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7222721092606070059" rel="alternate"/>
     <published>2023-04-16T18:46:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7222876358962171182</id>
+    <title>My tape got messed up</title>
+    <updated>2023-04-17T04:49:25+00:00</updated>
+    <content>My tape got messed up</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7222876358962171182" rel="alternate"/>
+    <published>2023-04-17T04:49:25+00:00</published>
   </entry>
 </feed>
