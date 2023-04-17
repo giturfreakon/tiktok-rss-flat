@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grouch_thebird</id>
   <title>@grouch_thebird | TikTok</title>
-  <updated>2023-04-17T05:43:07+00:00</updated>
+  <updated>2023-04-17T19:16:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grouch_thebird</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7221023671089974574</id>
-    <title>[no title]</title>
-    <updated>2023-04-12T05:00:07+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7221023671089974574" rel="alternate"/>
-    <published>2023-04-12T05:00:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7221382554044288302</id>
-    <title>idk if its cuz i just got off work but i dont get it</title>
-    <updated>2023-04-13T04:12:45+00:00</updated>
-    <content>idk if its cuz i just got off work but i dont get it</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7221382554044288302" rel="alternate"/>
-    <published>2023-04-13T04:12:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7221383747873099054</id>
-    <title>yes, you do need to go to the gym</title>
-    <updated>2023-04-13T04:17:21+00:00</updated>
-    <content>yes, you do need to go to the gym</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7221383747873099054" rel="alternate"/>
-    <published>2023-04-13T04:17:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7221408781601672491</id>
-    <title>[no title]</title>
-    <updated>2023-04-13T05:54:49+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7221408781601672491" rel="alternate"/>
-    <published>2023-04-13T05:54:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grouch_thebird/video/7222152983230827819</id>
     <title>[no title]</title>
@@ -91,5 +59,37 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@grouch_thebird/video/7222890116514368814" rel="alternate"/>
     <published>2023-04-17T05:43:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7223096211501321514</id>
+    <title>[no title]</title>
+    <updated>2023-04-17T19:02:32+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7223096211501321514" rel="alternate"/>
+    <published>2023-04-17T19:02:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7223097068523490603</id>
+    <title>[no title]</title>
+    <updated>2023-04-17T19:05:51+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7223097068523490603" rel="alternate"/>
+    <published>2023-04-17T19:05:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7223097758872309035</id>
+    <title>idk what this is</title>
+    <updated>2023-04-17T19:08:31+00:00</updated>
+    <content>idk what this is</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7223097758872309035" rel="alternate"/>
+    <published>2023-04-17T19:08:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7223099880183500078</id>
+    <title>vector dance</title>
+    <updated>2023-04-17T19:16:42+00:00</updated>
+    <content>vector dance</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7223099880183500078" rel="alternate"/>
+    <published>2023-04-17T19:16:42+00:00</published>
   </entry>
 </feed>

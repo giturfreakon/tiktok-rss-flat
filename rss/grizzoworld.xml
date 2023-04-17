@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grizzoworld</id>
   <title>@grizzoworld | TikTok</title>
-  <updated>2023-04-13T18:39:13+00:00</updated>
+  <updated>2023-04-17T18:36:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grizzoworld</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grizzoworld/video/7216598553962171653</id>
-    <title>I promise i do own some clothes that aren’t crop tops 🤣🤣 exploring jaded ldn items!</title>
-    <updated>2023-03-31T06:48:10+00:00</updated>
-    <content>I promise i do own some clothes that aren’t crop tops 🤣🤣 exploring jaded ldn items!</content>
-    <link href="https://tiktok.com/@grizzoworld/video/7216598553962171653" rel="alternate"/>
-    <published>2023-03-31T06:48:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grizzoworld/video/7216708383305452805</id>
     <title>10kg of weight gain never felt so good ☺️</title>
@@ -91,5 +83,13 @@
     <content>I told wolfy to look menacing but he did angel face instead 😫</content>
     <link href="https://tiktok.com/@grizzoworld/video/7221605899612278021" rel="alternate"/>
     <published>2023-04-13T18:39:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grizzoworld/video/7223089406171778310</id>
+    <title>Fun fact this skirt is actually shorts 🤫 top, shorts, boots: zara / tie, legwarmers amazon / jacker nike acg</title>
+    <updated>2023-04-17T18:36:00+00:00</updated>
+    <content>Fun fact this skirt is actually shorts 🤫 top, shorts, boots: zara / tie, legwarmers amazon / jacker nike acg</content>
+    <link href="https://tiktok.com/@grizzoworld/video/7223089406171778310" rel="alternate"/>
+    <published>2023-04-17T18:36:00+00:00</published>
   </entry>
 </feed>
