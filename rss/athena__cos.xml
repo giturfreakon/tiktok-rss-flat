@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-04-13T20:11:29+00:00</updated>
+  <updated>2023-04-17T19:23:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7215706819577007403</id>
-    <title>Tik tok hates that im not doing fruity knights, but im forcing it to like it anyway 😂  @nevstudio for the fit!  @webwarriorsworkshop vid  #techwear #darkwear #nevstudiostreetwear #streetwear #anime #animegirl #dance #animeaesthetic </title>
-    <updated>2023-03-28T21:07:51+00:00</updated>
-    <content>Tik tok hates that im not doing fruity knights, but im forcing it to like it anyway 😂  @nevstudio for the fit!  @webwarriorsworkshop vid  #techwear #darkwear #nevstudiostreetwear #streetwear #anime #animegirl #dance #animeaesthetic </content>
-    <link href="https://tiktok.com/@athena__cos/video/7215706819577007403" rel="alternate"/>
-    <published>2023-03-28T21:07:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7216069961763065130</id>
     <title>Saw it from ayoitslani first, @tentacle._daddy beat me to it 😂  #musclequeen #cosplay #womenincosplay #kassandracosplay #wonderwomancosplay #korracosplay </title>
@@ -91,5 +83,13 @@
     <content>Which anime genre is this??  We back in BULKING season baby 💪 #gymtok #buffwomen #musclequeen #thickthighessaveslive #gym #womenwholift #musclemommy #protein #proteinprincess </content>
     <link href="https://tiktok.com/@athena__cos/video/7221629648344714542" rel="alternate"/>
     <published>2023-04-13T20:11:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7223101571930869035</id>
+    <title>Replying to @itslindseeey tutorial for my trademark transition!! Ive loved that this is what i’ve become known for </title>
+    <updated>2023-04-17T19:23:19+00:00</updated>
+    <content>Replying to @itslindseeey tutorial for my trademark transition!! Ive loved that this is what i’ve become known for </content>
+    <link href="https://tiktok.com/@athena__cos/video/7223101571930869035" rel="alternate"/>
+    <published>2023-04-17T19:23:19+00:00</published>
   </entry>
 </feed>
