@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-04-17T12:27:18+00:00</updated>
+  <updated>2023-04-17T22:36:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7220202538942041390</id>
-    <title>La Croix is garbage #lacroix #doesnttastegood #sparklingwater </title>
-    <updated>2023-04-09T23:53:37+00:00</updated>
-    <content>La Croix is garbage #lacroix #doesnttastegood #sparklingwater </content>
-    <link href="https://tiktok.com/@punktoad/video/7220202538942041390" rel="alternate"/>
-    <published>2023-04-09T23:53:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7220306478425541930</id>
     <title>Creamer always helps #welovedylanmulvaney #budlight #aquickmessage #coffeetok  </title>
@@ -91,5 +83,13 @@
     <content>Dimma dimma #dougdimmadome #fairlyoddparents #timmyturner </content>
     <link href="https://tiktok.com/@punktoad/video/7222994356918209838" rel="alternate"/>
     <published>2023-04-17T12:27:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7223151481258626347</id>
+    <title>It was a better time #meredithbrooks #90skids #baseballpractice </title>
+    <updated>2023-04-17T22:36:59+00:00</updated>
+    <content>It was a better time #meredithbrooks #90skids #baseballpractice </content>
+    <link href="https://tiktok.com/@punktoad/video/7223151481258626347" rel="alternate"/>
+    <published>2023-04-17T22:36:59+00:00</published>
   </entry>
 </feed>
