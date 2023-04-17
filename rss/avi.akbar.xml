@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avi.akbar</id>
   <title>@avi.akbar | TikTok</title>
-  <updated>2023-04-16T04:03:17+00:00</updated>
+  <updated>2023-04-17T02:27:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avi.akbar</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avi.akbar/video/7219039407486012715</id>
-    <title>#pov: the cops thought they'd catch you but you fooled them or so you thought... (Ib: @miuka.povs ) #aviakbarpov </title>
-    <updated>2023-04-06T20:40:06+00:00</updated>
-    <content>#pov: the cops thought they'd catch you but you fooled them or so you thought... (Ib: @miuka.povs ) #aviakbarpov </content>
-    <link href="https://tiktok.com/@avi.akbar/video/7219039407486012715" rel="alternate"/>
-    <published>2023-04-06T20:40:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avi.akbar/video/7219452263599721770</id>
     <title>#pov everyday you wake up in a different year... PART 2 @avi.akbar #aviakbarpov</title>
@@ -91,5 +83,13 @@
     <content>#pov you share a sense with your soulmate... PART 1 (IB: @jezelle.x @ianboggs ) #aviakbarpov </content>
     <link href="https://tiktok.com/@avi.akbar/video/7222493377793674538" rel="alternate"/>
     <published>2023-04-16T04:03:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avi.akbar/video/7222839821322980654</id>
+    <title>#pov you share a sense with your soulmate... PART 2 @avi.akbar #aviakbarpov</title>
+    <updated>2023-04-17T02:27:36+00:00</updated>
+    <content>#pov you share a sense with your soulmate... PART 2 @avi.akbar #aviakbarpov</content>
+    <link href="https://tiktok.com/@avi.akbar/video/7222839821322980654" rel="alternate"/>
+    <published>2023-04-17T02:27:36+00:00</published>
   </entry>
 </feed>
