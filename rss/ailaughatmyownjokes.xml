@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ailaughatmyownjokes</id>
   <title>@ailaughatmyownjokes | TikTok</title>
-  <updated>2023-04-15T16:24:12+00:00</updated>
+  <updated>2023-04-17T16:25:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ailaughatmyownjokes</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ailaughatmyownjokes/video/7213031115056008453</id>
-    <title>Tastes just like chicken tho... #harrypotter #skit #comedy </title>
-    <updated>2023-03-21T16:04:41+00:00</updated>
-    <content>Tastes just like chicken tho... #harrypotter #skit #comedy </content>
-    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7213031115056008453" rel="alternate"/>
-    <published>2023-03-21T16:04:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ailaughatmyownjokes/video/7214551394030734597</id>
     <title>Grandma has rizz  #meangirls #comedy #skit </title>
@@ -91,5 +83,13 @@
     <content>He jinxed it....  #titanic #skit #comedy</content>
     <link href="https://tiktok.com/@ailaughatmyownjokes/video/7222313238388542746" rel="alternate"/>
     <published>2023-04-15T16:24:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ailaughatmyownjokes/video/7223055642293013787</id>
+    <title>felt inspired, might delete later 👉🏻👈🏻</title>
+    <updated>2023-04-17T16:25:04+00:00</updated>
+    <content>felt inspired, might delete later 👉🏻👈🏻</content>
+    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7223055642293013787" rel="alternate"/>
+    <published>2023-04-17T16:25:04+00:00</published>
   </entry>
 </feed>

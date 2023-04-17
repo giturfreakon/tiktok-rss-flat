@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-04-14T17:27:17+00:00</updated>
+  <updated>2023-04-17T16:35:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7216804133486120238</id>
-    <title>CELEBRATE YOURSELF. #fyp #trans </title>
-    <updated>2023-03-31T20:06:01+00:00</updated>
-    <content>CELEBRATE YOURSELF. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7216804133486120238" rel="alternate"/>
-    <published>2023-03-31T20:06:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7218331971666152747</id>
-    <title>Finding lessons in everything. #fyp #Trans </title>
-    <updated>2023-04-04T22:54:53+00:00</updated>
-    <content>Finding lessons in everything. #fyp #Trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7218331971666152747" rel="alternate"/>
-    <published>2023-04-04T22:54:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7218336419129953578</id>
     <title>Replying to @putitback23 Haha, sure! #fyp #Trans #tattoos </title>
@@ -91,5 +75,21 @@
     <content>Let's get one thing straight. I LOVE Chester Bennington, and I take it as a high compliment. But the amount of you who have said I look/sound like him is uncanny. Haha. No shade, no hate! Just thought this would be fun! #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7221958423091350830" rel="alternate"/>
     <published>2023-04-14T17:27:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7223057371789069610</id>
+    <title>Back in Orlando! #fyp #trans </title>
+    <updated>2023-04-17T16:31:50+00:00</updated>
+    <content>Back in Orlando! #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7223057371789069610" rel="alternate"/>
+    <published>2023-04-17T16:31:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7223058448127102251</id>
+    <title>Same trend, different meaning. I call this one "Learn when to shut up."  #fyp #trans #blm </title>
+    <updated>2023-04-17T16:35:57+00:00</updated>
+    <content>Same trend, different meaning. I call this one "Learn when to shut up."  #fyp #trans #blm </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7223058448127102251" rel="alternate"/>
+    <published>2023-04-17T16:35:57+00:00</published>
   </entry>
 </feed>
