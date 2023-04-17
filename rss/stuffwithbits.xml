@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-04-17T18:00:10+00:00</updated>
+  <updated>2023-04-17T19:36:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7220882190731644203</id>
-    <title>Replying to @savanahacarbone #reply that $100 can be sent via Cash app or Venmo to our username #solardidsystem #ssellie #volumewarning </title>
-    <updated>2023-04-11T19:51:08+00:00</updated>
-    <content>Replying to @savanahacarbone #reply that $100 can be sent via Cash app or Venmo to our username #solardidsystem #ssellie #volumewarning </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7220882190731644203" rel="alternate"/>
-    <published>2023-04-11T19:51:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7221336110797081902</id>
-    <title>ALSO IMPORTANT!!! DO NOT PLACE THE BURDEN OF EDUCATION ON MARGINALIZED GROUPS!!! And make sure you're also thanking those who do choose to educate for their emotional labor. #solardidsystem #ssryn </title>
-    <updated>2023-04-13T01:12:26+00:00</updated>
-    <content>ALSO IMPORTANT!!! DO NOT PLACE THE BURDEN OF EDUCATION ON MARGINALIZED GROUPS!!! And make sure you're also thanking those who do choose to educate for their emotional labor. #solardidsystem #ssryn </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7221336110797081902" rel="alternate"/>
-    <published>2023-04-13T01:12:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7221342466237025579</id>
-    <title>#stitch with @relearn.org THIS IS SO 🦆 ING HARMFUL #ssryn #solardidsystem </title>
-    <updated>2023-04-13T01:37:02+00:00</updated>
-    <content>#stitch with @relearn.org THIS IS SO 🦆 ING HARMFUL #ssryn #solardidsystem </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7221342466237025579" rel="alternate"/>
-    <published>2023-04-13T01:37:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7221973900140530990</id>
     <title>#stitch with @weirdochicken Please let us know if you're joking, some of us are genuinely concerned #solardidsystem #sszephyr </title>
@@ -91,5 +67,29 @@
     <content>#stitch with @christalluster its arms are longer that you, you won't get close enough 🤣 #solardidsystem #ssdevereaux </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7223080134075764014" rel="alternate"/>
     <published>2023-04-17T18:00:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7223085386828926254</id>
+    <title>#stitch with @theasystem it's a stitch so the captions are in sync with the audio but the video is not #ssdevereaux #solardidsystem </title>
+    <updated>2023-04-17T18:20:30+00:00</updated>
+    <content>#stitch with @theasystem it's a stitch so the captions are in sync with the audio but the video is not #ssdevereaux #solardidsystem </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7223085386828926254" rel="alternate"/>
+    <published>2023-04-17T18:20:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7223088915815664938</id>
+    <title>#stitch with @the_rainbow.system  @pinksugarfairies we've got you 💪 #solardidsystem #ssarchelaus  (you know the drill, captions and audio are in sync, not the video)</title>
+    <updated>2023-04-17T18:34:13+00:00</updated>
+    <content>#stitch with @the_rainbow.system  @pinksugarfairies we've got you 💪 #solardidsystem #ssarchelaus  (you know the drill, captions and audio are in sync, not the video)</content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7223088915815664938" rel="alternate"/>
+    <published>2023-04-17T18:34:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7223104909351210283</id>
+    <title>Squeaky baby 🥹 #solardidsystem #ladybug </title>
+    <updated>2023-04-17T19:36:16+00:00</updated>
+    <content>Squeaky baby 🥹 #solardidsystem #ladybug </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7223104909351210283" rel="alternate"/>
+    <published>2023-04-17T19:36:16+00:00</published>
   </entry>
 </feed>
