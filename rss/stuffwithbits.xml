@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-04-16T22:52:24+00:00</updated>
+  <updated>2023-04-17T18:00:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7220613815350758702</id>
-    <title>Somehow this is the wildest thing that's happened to me #solardidsystem #ssellie #fictive #fictivealter </title>
-    <updated>2023-04-11T02:29:36+00:00</updated>
-    <content>Somehow this is the wildest thing that's happened to me #solardidsystem #ssellie #fictive #fictivealter </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7220613815350758702" rel="alternate"/>
-    <published>2023-04-11T02:29:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7220882190731644203</id>
     <title>Replying to @savanahacarbone #reply that $100 can be sent via Cash app or Venmo to our username #solardidsystem #ssellie #volumewarning </title>
@@ -91,5 +83,13 @@
     <content>Love y'all 🥰 #solardidsystem #ssalex </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7222784359512673578" rel="alternate"/>
     <published>2023-04-16T22:52:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7223080134075764014</id>
+    <title>#stitch with @christalluster its arms are longer that you, you won't get close enough 🤣 #solardidsystem #ssdevereaux </title>
+    <updated>2023-04-17T18:00:10+00:00</updated>
+    <content>#stitch with @christalluster its arms are longer that you, you won't get close enough 🤣 #solardidsystem #ssdevereaux </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7223080134075764014" rel="alternate"/>
+    <published>2023-04-17T18:00:10+00:00</published>
   </entry>
 </feed>

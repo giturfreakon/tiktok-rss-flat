@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-04-16T15:32:18+00:00</updated>
+  <updated>2023-04-17T15:49:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7217952679207767301</id>
-    <title>Relationships are about balance ⚖️ #marriedlife #relationshipsbelike #husbands #housespouse #adhd #darcyandjer </title>
-    <updated>2023-04-03T22:22:53+00:00</updated>
-    <content>Relationships are about balance ⚖️ #marriedlife #relationshipsbelike #husbands #housespouse #adhd #darcyandjer </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7217952679207767301" rel="alternate"/>
-    <published>2023-04-03T22:22:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7218240458194013446</id>
     <title>Take it from me - an expert in nuts - there’s no reason to be shy when it comes to your health. Take the time to get to know your body so if things do change, you’ll know it’s time to talk to someone. For more, visit @movember for all the info. #KnowThyNu</title>
@@ -91,5 +83,13 @@
     <content>He must not have seen the date. Thats all. #husbandappreciationday #husbands #marriedlife #couplegoals #spousehumor </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7222670981909810438" rel="alternate"/>
     <published>2023-04-16T15:32:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7223046610907925765</id>
+    <title>We rented a reharsal space for our upcoming live shows and this was the bathroom. What?!</title>
+    <updated>2023-04-17T15:49:55+00:00</updated>
+    <content>We rented a reharsal space for our upcoming live shows and this was the bathroom. What?!</content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7223046610907925765" rel="alternate"/>
+    <published>2023-04-17T15:49:55+00:00</published>
   </entry>
 </feed>
