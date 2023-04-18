@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@claudcirillo</id>
   <title>@claudcirillo | TikTok</title>
-  <updated>2023-04-13T21:29:05+00:00</updated>
+  <updated>2023-04-17T21:13:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @claudcirillo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7218306277603069185</id>
-    <title>#pov : The cops thought theyd catch you but you fooled them (ib: @Miuka.Povs) #fyp #foryou #foryoupage #fypシ </title>
-    <updated>2023-04-04T21:15:13+00:00</updated>
-    <content>#pov : The cops thought theyd catch you but you fooled them (ib: @Miuka.Povs) #fyp #foryou #foryoupage #fypシ </content>
-    <link href="https://tiktok.com/@claudcirillo/video/7218306277603069185" rel="alternate"/>
-    <published>2023-04-04T21:15:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@claudcirillo/video/7218673590579776770</id>
     <title>#pov : The cops thought theyd catch you but you fooled them (ib: @Miuka.Povs) #fyp #foryou #foryoupage #fypシ </title>
@@ -91,5 +83,13 @@
     <content>#pov : She tells her boyfriend how she feels #fyp #foryou #foryoupage #fypシ </content>
     <link href="https://tiktok.com/@claudcirillo/video/7221649650720263425" rel="alternate"/>
     <published>2023-04-13T21:29:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7223129954723122434</id>
+    <title>#pov : They didnt think you could hear them #fyp #foryou #foryoupage </title>
+    <updated>2023-04-17T21:13:26+00:00</updated>
+    <content>#pov : They didnt think you could hear them #fyp #foryou #foryoupage </content>
+    <link href="https://tiktok.com/@claudcirillo/video/7223129954723122434" rel="alternate"/>
+    <published>2023-04-17T21:13:26+00:00</published>
   </entry>
 </feed>
