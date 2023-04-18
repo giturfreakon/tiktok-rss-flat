@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ratatootle</id>
   <title>@ratatootle | TikTok</title>
-  <updated>2023-04-18T13:14:25+00:00</updated>
+  <updated>2023-04-18T17:38:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ratatootle</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ratatootle/video/7216379825798253866</id>
-    <title>something to perhaps lighten your fyp not spons but shoutout  @pretzelsdotcom for the little treat!</title>
-    <updated>2023-03-30T16:39:43+00:00</updated>
-    <content>something to perhaps lighten your fyp not spons but shoutout  @pretzelsdotcom for the little treat!</content>
-    <link href="https://tiktok.com/@ratatootle/video/7216379825798253866" rel="alternate"/>
-    <published>2023-03-30T16:39:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@ratatootle/video/7216832168494992683</id>
-    <title>I am so afraid but i love you @lostpattern.nyc so much </title>
-    <updated>2023-03-31T21:54:52+00:00</updated>
-    <content>I am so afraid but i love you @lostpattern.nyc so much </content>
-    <link href="https://tiktok.com/@ratatootle/video/7216832168494992683" rel="alternate"/>
-    <published>2023-03-31T21:54:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ratatootle/video/7217085896896548138</id>
     <title>You can always tell im procrastinating real content when im makint tiktiks</title>
@@ -91,5 +75,21 @@
     <content>I have been thinking about this for years Tiktok help me #linguistics #dialect </content>
     <link href="https://tiktok.com/@ratatootle/video/7223377428389973290" rel="alternate"/>
     <published>2023-04-18T13:14:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ratatootle/video/7223440284682587434</id>
+    <title>23F with absolutely no idea whats going on </title>
+    <updated>2023-04-18T17:17:46+00:00</updated>
+    <content>23F with absolutely no idea whats going on </content>
+    <link href="https://tiktok.com/@ratatootle/video/7223440284682587434" rel="alternate"/>
+    <published>2023-04-18T17:17:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ratatootle/video/7223445731074411818</id>
+    <title>Back in my airing my dirty laundry out on the internet era which is funny bc the person who i had this meeting with may well see this but i stand by it </title>
+    <updated>2023-04-18T17:38:55+00:00</updated>
+    <content>Back in my airing my dirty laundry out on the internet era which is funny bc the person who i had this meeting with may well see this but i stand by it </content>
+    <link href="https://tiktok.com/@ratatootle/video/7223445731074411818" rel="alternate"/>
+    <published>2023-04-18T17:38:55+00:00</published>
   </entry>
 </feed>
