@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-04-18T04:26:53+00:00</updated>
+  <updated>2023-04-18T22:36:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7220926892856200491</id>
-    <title>#kitthebeefcake </title>
-    <updated>2023-04-11T22:44:32+00:00</updated>
-    <content>#kitthebeefcake </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7220926892856200491" rel="alternate"/>
-    <published>2023-04-11T22:44:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7221126566573657386</id>
     <title>yeah there's a few ways we could take that 😂 #kitthebeefcake </title>
@@ -91,5 +83,13 @@
     <content>I have to say "I am the Rizzler" at least 40 times before I leave the house if I hope to have game #kitthebeefcake </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7223241658865945898" rel="alternate"/>
     <published>2023-04-18T04:26:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7223522383397735726</id>
+    <title>it's a difference #kitthebeefcake </title>
+    <updated>2023-04-18T22:36:18+00:00</updated>
+    <content>it's a difference #kitthebeefcake </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7223522383397735726" rel="alternate"/>
+    <published>2023-04-18T22:36:18+00:00</published>
   </entry>
 </feed>
