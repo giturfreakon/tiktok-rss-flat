@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lactoseintolerantcharlie</id>
   <title>@lactoseintolerantcharlie | TikTok</title>
-  <updated>2023-04-11T06:58:42+00:00</updated>
+  <updated>2023-04-18T01:05:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lactoseintolerantcharlie</subtitle>
+  <entry>
+    <id>https://tiktok.com/@lactoseintolerantcharlie/video/7210216865149242666</id>
+    <title>For the #girlsgaysandtheys of course 😘</title>
+    <updated>2023-03-14T02:04:03+00:00</updated>
+    <content>For the #girlsgaysandtheys of course 😘</content>
+    <link href="https://tiktok.com/@lactoseintolerantcharlie/video/7210216865149242666" rel="alternate"/>
+    <published>2023-03-14T02:04:03+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@lactoseintolerantcharlie/video/7210482403888958763</id>
     <title>Wanna help this exhausted Nursing Student with her Cosplay career?  Click the link in my bio to see more of my content, social media platforms, and my Amazon wishlist!  Thank you! Much love to you all! 💕  #cosplayer #cosplaycommunity </title>
@@ -69,27 +77,19 @@
     <published>2023-04-03T18:39:20+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@lactoseintolerantcharlie/video/7218541603441495342</id>
-    <title>You guys should go check out my cosplay account! @charliechicken789 😎 </title>
-    <updated>2023-04-05T12:28:42+00:00</updated>
-    <content>You guys should go check out my cosplay account! @charliechicken789 😎 </content>
-    <link href="https://tiktok.com/@lactoseintolerantcharlie/video/7218541603441495342" rel="alternate"/>
-    <published>2023-04-05T12:28:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@lactoseintolerantcharlie/video/7219771928381295914</id>
-    <title>For the #girlsandthegays #girlsgaysandtheys </title>
-    <updated>2023-04-08T20:02:34+00:00</updated>
-    <content>For the #girlsandthegays #girlsgaysandtheys </content>
-    <link href="https://tiktok.com/@lactoseintolerantcharlie/video/7219771928381295914" rel="alternate"/>
-    <published>2023-04-08T20:02:34+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@lactoseintolerantcharlie/video/7220683065285233963</id>
     <title>Ah yes! My old haircut! #girlsgaysandtheys #girlsandthegays </title>
     <updated>2023-04-11T06:58:42+00:00</updated>
     <content>Ah yes! My old haircut! #girlsgaysandtheys #girlsandthegays </content>
     <link href="https://tiktok.com/@lactoseintolerantcharlie/video/7220683065285233963" rel="alternate"/>
     <published>2023-04-11T06:58:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lactoseintolerantcharlie/video/7223189697391103275</id>
+    <title>Please click the link in my bio to send a report to TikTok about my account @charliechicken789 being wrongly banned as I have not commited any community guidelines violations. My account was permanently banned without being any warning or chance to appeal</title>
+    <updated>2023-04-18T01:05:14+00:00</updated>
+    <content>Please click the link in my bio to send a report to TikTok about my account @charliechicken789 being wrongly banned as I have not commited any community guidelines violations. My account was permanently banned without being any warning or chance to appeal. #cosplayer #cosplaycommunity </content>
+    <link href="https://tiktok.com/@lactoseintolerantcharlie/video/7223189697391103275" rel="alternate"/>
+    <published>2023-04-18T01:05:14+00:00</published>
   </entry>
 </feed>
