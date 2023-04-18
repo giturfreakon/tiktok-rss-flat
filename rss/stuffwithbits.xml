@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-04-17T22:03:45+00:00</updated>
+  <updated>2023-04-18T20:43:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7222061099116432682</id>
-    <title>I'm scared of ending up alone #solardidsystem #ssellie #ohiloveitandihateitatthesametime #daylight </title>
-    <updated>2023-04-15T00:05:46+00:00</updated>
-    <content>I'm scared of ending up alone #solardidsystem #ssellie #ohiloveitandihateitatthesametime #daylight </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7222061099116432682" rel="alternate"/>
-    <published>2023-04-15T00:05:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7222064473639570731</id>
-    <title>Go be stupid under your bridge #solardidsystem #ssellie </title>
-    <updated>2023-04-15T00:18:56+00:00</updated>
-    <content>Go be stupid under your bridge #solardidsystem #ssellie </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7222064473639570731" rel="alternate"/>
-    <published>2023-04-15T00:18:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7222293333870398766</id>
     <title>Replying to @it_is_our_life_live_it #reply #solardidsystem #ssryn </title>
@@ -91,5 +75,21 @@
     <content>Replying to @biohazardous_material #reply #solardidsystem #ssellie </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7223142930800971054" rel="alternate"/>
     <published>2023-04-17T22:03:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7223461664400657706</id>
+    <title>#stitch with @the_rainbow.system Reminder that the creator we stitched is not OP. #solardidsystem #ssellie #evamarie2247 </title>
+    <updated>2023-04-18T18:40:48+00:00</updated>
+    <content>#stitch with @the_rainbow.system Reminder that the creator we stitched is not OP. #solardidsystem #ssellie #evamarie2247 </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7223461664400657706" rel="alternate"/>
+    <published>2023-04-18T18:40:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7223493281026411818</id>
+    <title>I'm also a trauma holder, both my own in pseudomemories and some of ours (it's a metaphor). I age slide between 14-19, so I'm a teenager in the system. I'll be helping this persecutor break down their traumas into smaller pieces that I can process in ther</title>
+    <updated>2023-04-18T20:43:21+00:00</updated>
+    <content>I'm also a trauma holder, both my own in pseudomemories and some of ours (it's a metaphor). I age slide between 14-19, so I'm a teenager in the system. I'll be helping this persecutor break down their traumas into smaller pieces that I can process in therapy because right now it isn't safe for them to front. I'm kind of their trauma liaison like how Delaney is the Kuiper Belt liaison. I guess we could call us transportation specialists 😅 #solardidsystem #ssellie #persecutorprotector #dissociativeidentitydisorder </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7223493281026411818" rel="alternate"/>
+    <published>2023-04-18T20:43:21+00:00</published>
   </entry>
 </feed>
