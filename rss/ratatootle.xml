@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ratatootle</id>
   <title>@ratatootle | TikTok</title>
-  <updated>2023-04-14T18:44:13+00:00</updated>
+  <updated>2023-04-18T13:14:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ratatootle</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ratatootle/video/7215612316925332782</id>
-    <title>I think im great at describing smells tbh anyway use “Lila5” at the link in my bio for $$ off! @dossierperfumes #dossier #dossierperfumes </title>
-    <updated>2023-03-28T15:01:12+00:00</updated>
-    <content>I think im great at describing smells tbh anyway use “Lila5” at the link in my bio for $$ off! @dossierperfumes #dossier #dossierperfumes </content>
-    <link href="https://tiktok.com/@ratatootle/video/7215612316925332782" rel="alternate"/>
-    <published>2023-03-28T15:01:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ratatootle/video/7216379825798253866</id>
     <title>something to perhaps lighten your fyp not spons but shoutout  @pretzelsdotcom for the little treat!</title>
@@ -91,5 +83,13 @@
     <content>Speaking out as a little weenie baby with no spice tolerance </content>
     <link href="https://tiktok.com/@ratatootle/video/7221978249323203883" rel="alternate"/>
     <published>2023-04-14T18:44:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ratatootle/video/7223377428389973290</id>
+    <title>I have been thinking about this for years Tiktok help me #linguistics #dialect </title>
+    <updated>2023-04-18T13:14:25+00:00</updated>
+    <content>I have been thinking about this for years Tiktok help me #linguistics #dialect </content>
+    <link href="https://tiktok.com/@ratatootle/video/7223377428389973290" rel="alternate"/>
+    <published>2023-04-18T13:14:25+00:00</published>
   </entry>
 </feed>
