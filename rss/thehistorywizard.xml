@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-04-11T15:41:39+00:00</updated>
+  <updated>2023-04-18T15:08:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7218313498483232043</id>
-    <title>The government response to COVID is genocide. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism #covid </title>
-    <updated>2023-04-04T21:43:10+00:00</updated>
-    <content>The government response to COVID is genocide. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism #covid </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7218313498483232043" rel="alternate"/>
-    <published>2023-04-04T21:43:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7218583414826405163</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>#thehistorywizard #vacation #Scotland </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7220817899101883694" rel="alternate"/>
     <published>2023-04-11T15:41:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7223406818242907435</id>
+    <title>I love that city. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism #glasgow #streetart #leftist #greenscreen </title>
+    <updated>2023-04-18T15:08:14+00:00</updated>
+    <content>I love that city. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism #glasgow #streetart #leftist #greenscreen </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7223406818242907435" rel="alternate"/>
+    <published>2023-04-18T15:08:14+00:00</published>
   </entry>
 </feed>
