@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ratatootle</id>
   <title>@ratatootle | TikTok</title>
-  <updated>2023-04-18T17:38:55+00:00</updated>
+  <updated>2023-04-19T13:36:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ratatootle</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ratatootle/video/7217085896896548138</id>
-    <title>You can always tell im procrastinating real content when im makint tiktiks</title>
-    <updated>2023-04-01T14:19:31+00:00</updated>
-    <content>You can always tell im procrastinating real content when im makint tiktiks</content>
-    <link href="https://tiktok.com/@ratatootle/video/7217085896896548138" rel="alternate"/>
-    <published>2023-04-01T14:19:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ratatootle/video/7217099280060861738</id>
     <title>Not to be sincere on main but i had a good march</title>
@@ -91,5 +83,13 @@
     <content>Back in my airing my dirty laundry out on the internet era which is funny bc the person who i had this meeting with may well see this but i stand by it </content>
     <link href="https://tiktok.com/@ratatootle/video/7223445731074411818" rel="alternate"/>
     <published>2023-04-18T17:38:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ratatootle/video/7223754136284728622</id>
+    <title>Just complaining dont mind me </title>
+    <updated>2023-04-19T13:36:03+00:00</updated>
+    <content>Just complaining dont mind me </content>
+    <link href="https://tiktok.com/@ratatootle/video/7223754136284728622" rel="alternate"/>
+    <published>2023-04-19T13:36:03+00:00</published>
   </entry>
 </feed>
