@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-04-19T13:13:50+00:00</updated>
+  <updated>2023-04-19T21:50:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7221170352225897774</id>
-    <title>Tell you sumpin buddy #carhart #midwestlife #itsawayoflife </title>
-    <updated>2023-04-12T14:29:13+00:00</updated>
-    <content>Tell you sumpin buddy #carhart #midwestlife #itsawayoflife </content>
-    <link href="https://tiktok.com/@punktoad/video/7221170352225897774" rel="alternate"/>
-    <published>2023-04-12T14:29:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7221530619795262763</id>
     <title>Pokèmon GO is cool #pokemongo #letsbefriends #pokemontiktok </title>
@@ -91,5 +83,13 @@
     <content>We stan the Justin’s! #justinjones #justinpearson #disarmhate #tennesseehouse </content>
     <link href="https://tiktok.com/@punktoad/video/7223748431381171502" rel="alternate"/>
     <published>2023-04-19T13:13:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7223881758314335530</id>
+    <title>I shouldnt have said anything #michaelscraftstore #couplestiktok #tyler </title>
+    <updated>2023-04-19T21:50:52+00:00</updated>
+    <content>I shouldnt have said anything #michaelscraftstore #couplestiktok #tyler </content>
+    <link href="https://tiktok.com/@punktoad/video/7223881758314335530" rel="alternate"/>
+    <published>2023-04-19T21:50:52+00:00</published>
   </entry>
 </feed>
