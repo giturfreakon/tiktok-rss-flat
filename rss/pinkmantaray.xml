@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-04-17T01:27:03+00:00</updated>
+  <updated>2023-04-19T12:59:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7214584208105245994</id>
-    <title>Lia &amp; me for ABC news yesterday morning on @gma - TRANS ATHLETES BELONG IN SPORT! #TransAthlete #TransAthletesBelongInSport #LiaThomas #Transgender </title>
-    <updated>2023-03-25T20:31:37+00:00</updated>
-    <content>Lia &amp; me for ABC news yesterday morning on @gma - TRANS ATHLETES BELONG IN SPORT! #TransAthlete #TransAthletesBelongInSport #LiaThomas #Transgender </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7214584208105245994" rel="alternate"/>
-    <published>2023-03-25T20:31:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7215425247703633198</id>
     <title>Devastating all around. #transgender #tennesseeshooting #gunviolence #guncontrol #trans #patriarchy #protectkidsnotguns </title>
@@ -91,5 +83,13 @@
     <content>Thoughts on #Missouri's new gender affirming care restriction. #genderaffirmingcare #trans #transgender #transhealth #gender #lgbtq </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7222824228108733738" rel="alternate"/>
     <published>2023-04-17T01:27:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7223744742713232686</id>
+    <title>Some thoughts after a talk I gave today  💕🙏🏼🏳️‍⚧️ ##transgender##transgendereducator##educator##transman##dei##gender##transition##humanity##connection##mentalhealth</title>
+    <updated>2023-04-19T12:59:32+00:00</updated>
+    <content>Some thoughts after a talk I gave today  💕🙏🏼🏳️‍⚧️ ##transgender##transgendereducator##educator##transman##dei##gender##transition##humanity##connection##mentalhealth</content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7223744742713232686" rel="alternate"/>
+    <published>2023-04-19T12:59:32+00:00</published>
   </entry>
 </feed>
