@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ailaughatmyownjokes</id>
   <title>@ailaughatmyownjokes | TikTok</title>
-  <updated>2023-04-17T16:25:04+00:00</updated>
+  <updated>2023-04-19T13:50:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ailaughatmyownjokes</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ailaughatmyownjokes/video/7214551394030734597</id>
-    <title>Grandma has rizz  #meangirls #comedy #skit </title>
-    <updated>2023-03-25T18:24:07+00:00</updated>
-    <content>Grandma has rizz  #meangirls #comedy #skit </content>
-    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7214551394030734597" rel="alternate"/>
-    <published>2023-03-25T18:24:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ailaughatmyownjokes/video/7215632512373116166</id>
     <title>I watched Annabelle 3 yesterday, that's why. #conjuringhorror #comedy #skit </title>
@@ -91,5 +83,13 @@
     <content>felt inspired, might delete later 👉🏻👈🏻</content>
     <link href="https://tiktok.com/@ailaughatmyownjokes/video/7223055642293013787" rel="alternate"/>
     <published>2023-04-17T16:25:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ailaughatmyownjokes/video/7223758102192016666</id>
+    <title>Couplesgoals if you ask me🥰 #couplegoals #cinderella #vlog #comedy</title>
+    <updated>2023-04-19T13:50:56+00:00</updated>
+    <content>Couplesgoals if you ask me🥰 #couplegoals #cinderella #vlog #comedy</content>
+    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7223758102192016666" rel="alternate"/>
+    <published>2023-04-19T13:50:56+00:00</published>
   </entry>
 </feed>
