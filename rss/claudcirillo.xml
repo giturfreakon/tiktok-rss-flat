@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@claudcirillo</id>
   <title>@claudcirillo | TikTok</title>
-  <updated>2023-04-18T20:33:52+00:00</updated>
+  <updated>2023-04-18T23:17:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @claudcirillo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7219466681838603522</id>
-    <title>Replying to @mydancelife.com  In my defence i film standing on my bed, im unsteady as it is… #fyp #povblooper #blooper </title>
-    <updated>2023-04-08T00:18:06+00:00</updated>
-    <content>Replying to @mydancelife.com  In my defence i film standing on my bed, im unsteady as it is… #fyp #povblooper #blooper </content>
-    <link href="https://tiktok.com/@claudcirillo/video/7219466681838603522" rel="alternate"/>
-    <published>2023-04-08T00:18:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7219804137678966017</id>
-    <title>#pov : It’s hard pretending there’s nothing going on between the two of you, even around friends #fyp #foryou #foryoupage #fypシ </title>
-    <updated>2023-04-08T22:07:32+00:00</updated>
-    <content>#pov : It’s hard pretending there’s nothing going on between the two of you, even around friends #fyp #foryou #foryoupage #fypシ </content>
-    <link href="https://tiktok.com/@claudcirillo/video/7219804137678966017" rel="alternate"/>
-    <published>2023-04-08T22:07:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@claudcirillo/video/7220177395389631746</id>
     <title>#pov : First impressions matter #fyp #foryou #foryoupage #fypシ </title>
@@ -91,5 +75,21 @@
     <content>#pov : He tries to flirt with the “untouchable” girl #fyp #foryou #foryoupage </content>
     <link href="https://tiktok.com/@claudcirillo/video/7223490847340252418" rel="alternate"/>
     <published>2023-04-18T20:33:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7223511661091622146</id>
+    <title>#pov : Whilst undercover, your partner seems to have messed up the story #fyp #foryou #foryoupage </title>
+    <updated>2023-04-18T21:54:46+00:00</updated>
+    <content>#pov : Whilst undercover, your partner seems to have messed up the story #fyp #foryou #foryoupage </content>
+    <link href="https://tiktok.com/@claudcirillo/video/7223511661091622146" rel="alternate"/>
+    <published>2023-04-18T21:54:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7223533110560836865</id>
+    <title>#pov : You didnt want them to know how you felt #fyp #foryou #foryoupage </title>
+    <updated>2023-04-18T23:17:59+00:00</updated>
+    <content>#pov : You didnt want them to know how you felt #fyp #foryou #foryoupage </content>
+    <link href="https://tiktok.com/@claudcirillo/video/7223533110560836865" rel="alternate"/>
+    <published>2023-04-18T23:17:59+00:00</published>
   </entry>
 </feed>
