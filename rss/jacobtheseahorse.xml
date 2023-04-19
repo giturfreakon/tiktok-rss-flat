@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-04-19T11:55:19+00:00</updated>
+  <updated>2023-04-19T14:57:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7216757329146973445</id>
-    <title>Replying to @okayy.letsgo this is such an important distinction to make, thanks for bringing it up! gender *identity* is something that exists within ourselves. across history and cultures we consistently see broad concepts of "man", "woman" and "other/s"</title>
-    <updated>2023-03-31T17:04:17+00:00</updated>
-    <content>Replying to @okayy.letsgo this is such an important distinction to make, thanks for bringing it up! gender *identity* is something that exists within ourselves. across history and cultures we consistently see broad concepts of "man", "woman" and "other/s".  what those words are, what the roles and presentation are expected changes across time and culture and location. #gender #trans #enby #nonbinary #education #butch #lesbian #lgbt </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7216757329146973445" rel="alternate"/>
-    <published>2023-03-31T17:04:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7217488815127104774</id>
     <title>see, I have this thing it's a uterus. also eggs.  just a few of the reasons I love my trans body and all it can do 🥰 #pregnancy #lgbt #trans #baby </title>
@@ -91,5 +83,13 @@
     <content>I'm a few weeks into ADHD meds now and starting to be able to recognise what the right dose of meds might be #adhd #adhdmeds #dosage #titration </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7223728319903173894" rel="alternate"/>
     <published>2023-04-19T11:55:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7223775355197197573</id>
+    <title>Replying to @pickingpoppies68 it's hard because our neurodivergency is a core part of who we are and how we process. For me, I still feel like I have ADHD when I'm on the meds, but I also feel so much clearer and able to access more of my mind.  I hope th</title>
+    <updated>2023-04-19T14:57:49+00:00</updated>
+    <content>Replying to @pickingpoppies68 it's hard because our neurodivergency is a core part of who we are and how we process. For me, I still feel like I have ADHD when I'm on the meds, but I also feel so much clearer and able to access more of my mind.  I hope this analogy helps, it's the image I get whenever I try and think about what it feels like.  #adhd #adhdmeds #nd #audhd #neurodiverse #adhdtiktok </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7223775355197197573" rel="alternate"/>
+    <published>2023-04-19T14:57:49+00:00</published>
   </entry>
 </feed>
