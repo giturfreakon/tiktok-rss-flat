@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-04-19T14:57:49+00:00</updated>
+  <updated>2023-04-19T15:47:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7217488815127104774</id>
-    <title>see, I have this thing it's a uterus. also eggs.  just a few of the reasons I love my trans body and all it can do 🥰 #pregnancy #lgbt #trans #baby </title>
-    <updated>2023-04-02T16:22:51+00:00</updated>
-    <content>see, I have this thing it's a uterus. also eggs.  just a few of the reasons I love my trans body and all it can do 🥰 #pregnancy #lgbt #trans #baby </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7217488815127104774" rel="alternate"/>
-    <published>2023-04-02T16:22:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7217520521414544645</id>
     <title>Replying to @planetspidermonkey it's so important that we don't erase women. all women.  #trans #lgbt #queertok #women #nonbinary</title>
@@ -91,5 +83,13 @@
     <content>Replying to @pickingpoppies68 it's hard because our neurodivergency is a core part of who we are and how we process. For me, I still feel like I have ADHD when I'm on the meds, but I also feel so much clearer and able to access more of my mind.  I hope this analogy helps, it's the image I get whenever I try and think about what it feels like.  #adhd #adhdmeds #nd #audhd #neurodiverse #adhdtiktok </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7223775355197197573" rel="alternate"/>
     <published>2023-04-19T14:57:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7223788238123568389</id>
+    <title>Replying to @fattymgatty this is a great question thank you!  it's important to know that not all trans people experience gender dysphoria, but I think most people - including cis folks - experience gender euphoria.  #trans #genderquestioning #lgbt #dysph</title>
+    <updated>2023-04-19T15:47:48+00:00</updated>
+    <content>Replying to @fattymgatty this is a great question thank you!  it's important to know that not all trans people experience gender dysphoria, but I think most people - including cis folks - experience gender euphoria.  #trans #genderquestioning #lgbt #dysphoria </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7223788238123568389" rel="alternate"/>
+    <published>2023-04-19T15:47:48+00:00</published>
   </entry>
 </feed>
