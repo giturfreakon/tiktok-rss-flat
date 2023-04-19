@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-04-16T19:39:08+00:00</updated>
+  <updated>2023-04-19T11:55:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7216709096097975558</id>
-    <title>happy #TDOV to all my siblings, no matter how visible. I am grateful that you are here 💕✨ #trans #transdayofvisibility #lgbt #storytime </title>
-    <updated>2023-03-31T13:57:08+00:00</updated>
-    <content>happy #TDOV to all my siblings, no matter how visible. I am grateful that you are here 💕✨ #trans #transdayofvisibility #lgbt #storytime </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7216709096097975558" rel="alternate"/>
-    <published>2023-03-31T13:57:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7216757329146973445</id>
     <title>Replying to @okayy.letsgo this is such an important distinction to make, thanks for bringing it up! gender *identity* is something that exists within ourselves. across history and cultures we consistently see broad concepts of "man", "woman" and "other/s"</title>
@@ -91,5 +83,13 @@
     <content>Replying to @_im.a.fairy.queen_ it isn't only women who can give birth. and we're not as rare as you think!  L!nk in my b!o for the CQC data, check out tab G8 in the raw data for the info. #trans #nonbinary #enby #birth #pregnancy #midwife #baby #lgbt #doula #cqc </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7222734595194637574" rel="alternate"/>
     <published>2023-04-16T19:39:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7223728319903173894</id>
+    <title>I'm a few weeks into ADHD meds now and starting to be able to recognise what the right dose of meds might be #adhd #adhdmeds #dosage #titration </title>
+    <updated>2023-04-19T11:55:19+00:00</updated>
+    <content>I'm a few weeks into ADHD meds now and starting to be able to recognise what the right dose of meds might be #adhd #adhdmeds #dosage #titration </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7223728319903173894" rel="alternate"/>
+    <published>2023-04-19T11:55:19+00:00</published>
   </entry>
 </feed>
