@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-17T21:35:10+00:00</updated>
+  <updated>2023-04-19T22:27:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7222467788663950638</id>
-    <title>Pretend like my caption blew your mind</title>
-    <updated>2023-04-16T02:23:57+00:00</updated>
-    <content>Pretend like my caption blew your mind</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7222467788663950638" rel="alternate"/>
-    <published>2023-04-16T02:23:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7222485110136982830</id>
     <title>#fyp </title>
@@ -91,5 +83,13 @@
     <content>I just bought that little cow skirt everyone has, should I wear it with fishnets, stockings, or thigh-highs?</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7223135568647965998" rel="alternate"/>
     <published>2023-04-17T21:35:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7223891126837628206</id>
+    <title>I’ll probably still tell my mom</title>
+    <updated>2023-04-19T22:27:10+00:00</updated>
+    <content>I’ll probably still tell my mom</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7223891126837628206" rel="alternate"/>
+    <published>2023-04-19T22:27:10+00:00</published>
   </entry>
 </feed>

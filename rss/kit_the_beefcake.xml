@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-04-19T07:06:45+00:00</updated>
+  <updated>2023-04-19T22:11:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7221449711545339182</id>
-    <title>we can switch sometimes tho #kitthebeefcake </title>
-    <updated>2023-04-13T08:33:21+00:00</updated>
-    <content>we can switch sometimes tho #kitthebeefcake </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7221449711545339182" rel="alternate"/>
-    <published>2023-04-13T08:33:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7221727412013272362</id>
-    <title>[no title]</title>
-    <updated>2023-04-14T02:30:47+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7221727412013272362" rel="alternate"/>
-    <published>2023-04-14T02:30:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7222086247949372718</id>
     <title>with the sunset okay pop off</title>
@@ -91,5 +75,21 @@
     <content>#kitthebeefcake </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7223653629343943978" rel="alternate"/>
     <published>2023-04-19T07:06:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7223874214544166186</id>
+    <title>#kitthebeefcake </title>
+    <updated>2023-04-19T21:21:38+00:00</updated>
+    <content>#kitthebeefcake </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7223874214544166186" rel="alternate"/>
+    <published>2023-04-19T21:21:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7223887171768323371</id>
+    <title>[no title]</title>
+    <updated>2023-04-19T22:11:50+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7223887171768323371" rel="alternate"/>
+    <published>2023-04-19T22:11:50+00:00</published>
   </entry>
 </feed>
