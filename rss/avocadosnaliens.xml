@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-04-15T17:52:52+00:00</updated>
+  <updated>2023-04-19T04:19:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7209352516964863274</id>
-    <title>#ghoststories </title>
-    <updated>2023-03-11T18:10:01+00:00</updated>
-    <content>#ghoststories </content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7209352516964863274" rel="alternate"/>
-    <published>2023-03-11T18:10:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7209738367561583918</id>
     <title>Guess who i get to shoot today!?!? </title>
@@ -91,5 +83,13 @@
     <content>#weddingphotographer #grwm hiiii i know ive been MIA. My brains been hurtin so im takin extra good care of her right now. Heres some really boring content im sure youll appreciate! Off to marry some lovebirds </content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7222336097781550382" rel="alternate"/>
     <published>2023-04-15T17:52:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7223610887423446318</id>
+    <title>Aye go put a horseshoe in your #philtrum </title>
+    <updated>2023-04-19T04:19:56+00:00</updated>
+    <content>Aye go put a horseshoe in your #philtrum </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7223610887423446318" rel="alternate"/>
+    <published>2023-04-19T04:19:56+00:00</published>
   </entry>
 </feed>

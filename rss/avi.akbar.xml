@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avi.akbar</id>
   <title>@avi.akbar | TikTok</title>
-  <updated>2023-04-18T02:16:32+00:00</updated>
+  <updated>2023-04-19T02:24:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avi.akbar</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avi.akbar/video/7219794558257728810</id>
-    <title>#pov everyday you wake up in a different year... PART 3 @avi.akbar #aviakbarpov </title>
-    <updated>2023-04-08T21:30:23+00:00</updated>
-    <content>#pov everyday you wake up in a different year... PART 3 @avi.akbar #aviakbarpov </content>
-    <link href="https://tiktok.com/@avi.akbar/video/7219794558257728810" rel="alternate"/>
-    <published>2023-04-08T21:30:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avi.akbar/video/7220529922283048238</id>
     <title>#pov everyday you wake up in a different year... PART 4 @avi.akbar #aviakbarpov </title>
@@ -91,5 +83,13 @@
     <content>#pov you can see facts when touching something... PART 1 (IB: @devincaherly ) #aviakbarpov </content>
     <link href="https://tiktok.com/@avi.akbar/video/7223208068492889387" rel="alternate"/>
     <published>2023-04-18T02:16:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avi.akbar/video/7223581202484038954</id>
+    <title>#pov: you keep getting mysterious phone calls... PART 3 @avi.akbar #aviakbarpov </title>
+    <updated>2023-04-19T02:24:32+00:00</updated>
+    <content>#pov: you keep getting mysterious phone calls... PART 3 @avi.akbar #aviakbarpov </content>
+    <link href="https://tiktok.com/@avi.akbar/video/7223581202484038954" rel="alternate"/>
+    <published>2023-04-19T02:24:32+00:00</published>
   </entry>
 </feed>
