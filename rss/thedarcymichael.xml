@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-04-19T15:42:32+00:00</updated>
+  <updated>2023-04-19T20:00:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7218722622933126405</id>
-    <title>A little sample of the chaos of Darcy unleashed. #standupcomedy #standup #darcyandjer #justforlaughs </title>
-    <updated>2023-04-06T00:10:41+00:00</updated>
-    <content>A little sample of the chaos of Darcy unleashed. #standupcomedy #standup #darcyandjer #justforlaughs </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7218722622933126405" rel="alternate"/>
-    <published>2023-04-06T00:10:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7219018735737195782</id>
     <title>And thats the tea on bud #budlight #dylanmulvaney #satire </title>
@@ -91,5 +83,13 @@
     <content>Since this sounds getting jacked again without credit, figured id post the og to remind yall that its meeeee #gamer #husbands #marriedlife #couplegoals #busydonkey #darcyandjer </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7223786873469160710" rel="alternate"/>
     <published>2023-04-19T15:42:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7223853247017012485</id>
+    <title>Arent you all so excited for us?! #CapCut </title>
+    <updated>2023-04-19T20:00:04+00:00</updated>
+    <content>Arent you all so excited for us?! #CapCut </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7223853247017012485" rel="alternate"/>
+    <published>2023-04-19T20:00:04+00:00</published>
   </entry>
 </feed>
