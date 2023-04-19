@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@claudcirillo</id>
   <title>@claudcirillo | TikTok</title>
-  <updated>2023-04-18T23:17:59+00:00</updated>
+  <updated>2023-04-19T22:04:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @claudcirillo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7220177395389631746</id>
-    <title>#pov : First impressions matter #fyp #foryou #foryoupage #fypシ </title>
-    <updated>2023-04-09T22:16:03+00:00</updated>
-    <content>#pov : First impressions matter #fyp #foryou #foryoupage #fypシ </content>
-    <link href="https://tiktok.com/@claudcirillo/video/7220177395389631746" rel="alternate"/>
-    <published>2023-04-09T22:16:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7220555462838668545</id>
-    <title>#pov : All you ever wanted was for your guy best friend to be happy #foryoupage #fypシ #foryou #fyp </title>
-    <updated>2023-04-10T22:43:11+00:00</updated>
-    <content>#pov : All you ever wanted was for your guy best friend to be happy #foryoupage #fypシ #foryou #fyp </content>
-    <link href="https://tiktok.com/@claudcirillo/video/7220555462838668545" rel="alternate"/>
-    <published>2023-04-10T22:43:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@claudcirillo/video/7220900914503109889</id>
     <title>#duet with @Claudia #pov : Theres always one “friend” who tries to one up you #fyp #foryou #foryoupage #fypシ </title>
@@ -91,5 +75,21 @@
     <content>#pov : You didnt want them to know how you felt #fyp #foryou #foryoupage </content>
     <link href="https://tiktok.com/@claudcirillo/video/7223533110560836865" rel="alternate"/>
     <published>2023-04-18T23:17:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7223869469628714242</id>
+    <title>#pov : The Villain give The Hero a choice (ib: @Taylor) #fyp #foryou #villainpov #heropov </title>
+    <updated>2023-04-19T21:03:09+00:00</updated>
+    <content>#pov : The Villain give The Hero a choice (ib: @Taylor) #fyp #foryou #villainpov #heropov </content>
+    <link href="https://tiktok.com/@claudcirillo/video/7223869469628714242" rel="alternate"/>
+    <published>2023-04-19T21:03:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7223885380569877761</id>
+    <title>Blown away by these lenses from @Dimple Color  Use Code: CLAUDIACI15 for 15% off your order! #fyp #foryou #foryoupage #dimplecolor #dimplecolorcontacts </title>
+    <updated>2023-04-19T22:04:51+00:00</updated>
+    <content>Blown away by these lenses from @Dimple Color  Use Code: CLAUDIACI15 for 15% off your order! #fyp #foryou #foryoupage #dimplecolor #dimplecolorcontacts </content>
+    <link href="https://tiktok.com/@claudcirillo/video/7223885380569877761" rel="alternate"/>
+    <published>2023-04-19T22:04:51+00:00</published>
   </entry>
 </feed>
