@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-04-16T01:13:07+00:00</updated>
+  <updated>2023-04-20T00:58:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7217640938749824298</id>
-    <title>Ashnikko &lt;3 #wlw </title>
-    <updated>2023-04-03T02:13:15+00:00</updated>
-    <content>Ashnikko &lt;3 #wlw </content>
-    <link href="https://tiktok.com/@atreegod/video/7217640938749824298" rel="alternate"/>
-    <published>2023-04-03T02:13:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7217868028388855086</id>
     <title>Just woke up #wlw </title>
@@ -91,5 +83,13 @@
     <content>#wlw </content>
     <link href="https://tiktok.com/@atreegod/video/7222449554765925675" rel="alternate"/>
     <published>2023-04-16T01:13:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7223930075278822699</id>
+    <title>#wlw </title>
+    <updated>2023-04-20T00:58:22+00:00</updated>
+    <content>#wlw </content>
+    <link href="https://tiktok.com/@atreegod/video/7223930075278822699" rel="alternate"/>
+    <published>2023-04-20T00:58:22+00:00</published>
   </entry>
 </feed>

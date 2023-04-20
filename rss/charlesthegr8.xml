@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-04-18T15:43:17+00:00</updated>
+  <updated>2023-04-19T22:23:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7220446446888324398</id>
-    <title>The lil bro treatment is abysmal! #iykyk #lilbro #charlesthegr8 ig:official.charlesthegr8 </title>
-    <updated>2023-04-10T15:40:12+00:00</updated>
-    <content>The lil bro treatment is abysmal! #iykyk #lilbro #charlesthegr8 ig:official.charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7220446446888324398" rel="alternate"/>
-    <published>2023-04-10T15:40:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7220785522342448430</id>
     <title>Say it with me now “Sweet home _______” #iykyk #4u #charlesthegr8 </title>
@@ -91,5 +83,13 @@
     <content>Always good to have a friend like this #iykyk #friend #charlesthegr8</content>
     <link href="https://tiktok.com/@charlesthegr8/video/7223415834939723054" rel="alternate"/>
     <published>2023-04-18T15:43:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7223890059752164650</id>
+    <title>Guilty!!! #iykyk #4u  #charlesthegr8   </title>
+    <updated>2023-04-19T22:23:06+00:00</updated>
+    <content>Guilty!!! #iykyk #4u  #charlesthegr8   </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7223890059752164650" rel="alternate"/>
+    <published>2023-04-19T22:23:06+00:00</published>
   </entry>
 </feed>
