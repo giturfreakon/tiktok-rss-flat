@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-04-16T03:52:29+00:00</updated>
+  <updated>2023-04-20T03:58:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7213180298878553387</id>
-    <title>Infect me with ya lovin</title>
-    <updated>2023-03-22T01:43:43+00:00</updated>
-    <content>Infect me with ya lovin</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7213180298878553387" rel="alternate"/>
-    <published>2023-03-22T01:43:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7214997628864498990</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>Like it was nothin 😭</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7222490594445167915" rel="alternate"/>
     <published>2023-04-16T03:52:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7223976503921413418</id>
+    <title>Okay but need this version like yesterday 🫡</title>
+    <updated>2023-04-20T03:58:38+00:00</updated>
+    <content>Okay but need this version like yesterday 🫡</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7223976503921413418" rel="alternate"/>
+    <published>2023-04-20T03:58:38+00:00</published>
   </entry>
 </feed>
