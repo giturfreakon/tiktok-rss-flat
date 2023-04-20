@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-04-19T22:23:06+00:00</updated>
+  <updated>2023-04-20T18:38:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7220785522342448430</id>
-    <title>Say it with me now “Sweet home _______” #iykyk #4u #charlesthegr8 </title>
-    <updated>2023-04-11T13:36:03+00:00</updated>
-    <content>Say it with me now “Sweet home _______” #iykyk #4u #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7220785522342448430" rel="alternate"/>
-    <published>2023-04-11T13:36:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7220848755288067374</id>
-    <title>One sided #4u #onesided #charlesthegr8 ig:official.charlesthegr8 </title>
-    <updated>2023-04-11T17:41:30+00:00</updated>
-    <content>One sided #4u #onesided #charlesthegr8 ig:official.charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7220848755288067374" rel="alternate"/>
-    <published>2023-04-11T17:41:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7221281596987526442</id>
     <title>#iykyk #fyp #charlesthegr8</title>
@@ -91,5 +75,21 @@
     <content>Guilty!!! #iykyk #4u  #charlesthegr8   </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7223890059752164650" rel="alternate"/>
     <published>2023-04-19T22:23:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7224191677794258222</id>
+    <title>#iykyk #hurt #charlesthegr8</title>
+    <updated>2023-04-20T17:53:31+00:00</updated>
+    <content>#iykyk #hurt #charlesthegr8</content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7224191677794258222" rel="alternate"/>
+    <published>2023-04-20T17:53:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7224203362655423786</id>
+    <title>Instant 180 #iykyk #herfriends #charlesthegr8 </title>
+    <updated>2023-04-20T18:38:52+00:00</updated>
+    <content>Instant 180 #iykyk #herfriends #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7224203362655423786" rel="alternate"/>
+    <published>2023-04-20T18:38:52+00:00</published>
   </entry>
 </feed>
