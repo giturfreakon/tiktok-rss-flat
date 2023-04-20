@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ratatootle</id>
   <title>@ratatootle | TikTok</title>
-  <updated>2023-04-19T13:36:03+00:00</updated>
+  <updated>2023-04-20T12:58:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ratatootle</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ratatootle/video/7217099280060861738</id>
-    <title>Not to be sincere on main but i had a good march</title>
-    <updated>2023-04-01T15:11:25+00:00</updated>
-    <content>Not to be sincere on main but i had a good march</content>
-    <link href="https://tiktok.com/@ratatootle/video/7217099280060861738" rel="alternate"/>
-    <published>2023-04-01T15:11:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ratatootle/video/7218312574264249643</id>
     <title>(CW SHARP OBJECTS) ik this series wont perform here, but i may as well post it. Welcome to A </title>
@@ -91,5 +83,13 @@
     <content>Just complaining dont mind me </content>
     <link href="https://tiktok.com/@ratatootle/video/7223754136284728622" rel="alternate"/>
     <published>2023-04-19T13:36:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ratatootle/video/7224115581123972398</id>
+    <title>I love my dog</title>
+    <updated>2023-04-20T12:58:12+00:00</updated>
+    <content>I love my dog</content>
+    <link href="https://tiktok.com/@ratatootle/video/7224115581123972398" rel="alternate"/>
+    <published>2023-04-20T12:58:12+00:00</published>
   </entry>
 </feed>
