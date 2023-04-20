@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-04-19T20:00:04+00:00</updated>
+  <updated>2023-04-17T15:49:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,30 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7218240458194013446</id>
+    <title>Take it from me - an expert in nuts - there’s no reason to be shy when it comes to your health. Take the time to get to know your body so if things do change, you’ll know it’s time to talk to someone. For more, visit @movember for all the info. #KnowThyNu</title>
+    <updated>2023-04-04T16:59:35+00:00</updated>
+    <content>Take it from me - an expert in nuts - there’s no reason to be shy when it comes to your health. Take the time to get to know your body so if things do change, you’ll know it’s time to talk to someone. For more, visit @movember for all the info. #KnowThyNuts #Movember #tcam #testicularcancer  #testicularcancerawarenessmonth </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7218240458194013446" rel="alternate"/>
+    <published>2023-04-04T16:59:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7218307156364283141</id>
+    <title>And it was at the end that I realized: he was indeed paddington bear all along. </title>
+    <updated>2023-04-04T21:18:25+00:00</updated>
+    <content>And it was at the end that I realized: he was indeed paddington bear all along. </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7218307156364283141" rel="alternate"/>
+    <published>2023-04-04T21:18:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7218722622933126405</id>
+    <title>A little sample of the chaos of Darcy unleashed. #standupcomedy #standup #darcyandjer #justforlaughs </title>
+    <updated>2023-04-06T00:10:41+00:00</updated>
+    <content>A little sample of the chaos of Darcy unleashed. #standupcomedy #standup #darcyandjer #justforlaughs </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7218722622933126405" rel="alternate"/>
+    <published>2023-04-06T00:10:41+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7219018735737195782</id>
     <title>And thats the tea on bud #budlight #dylanmulvaney #satire </title>
@@ -67,29 +91,5 @@
     <content>We rented a reharsal space for our upcoming live shows and this was the bathroom. What?!</content>
     <link href="https://tiktok.com/@thedarcymichael/video/7223046610907925765" rel="alternate"/>
     <published>2023-04-17T15:49:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7223438365440347397</id>
-    <title>Talk to the creeps ✅ </title>
-    <updated>2023-04-18T17:10:08+00:00</updated>
-    <content>Talk to the creeps ✅ </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7223438365440347397" rel="alternate"/>
-    <published>2023-04-18T17:10:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7223786873469160710</id>
-    <title>Since this sounds getting jacked again without credit, figured id post the og to remind yall that its meeeee #gamer #husbands #marriedlife #couplegoals #busydonkey #darcyandjer </title>
-    <updated>2023-04-19T15:42:32+00:00</updated>
-    <content>Since this sounds getting jacked again without credit, figured id post the og to remind yall that its meeeee #gamer #husbands #marriedlife #couplegoals #busydonkey #darcyandjer </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7223786873469160710" rel="alternate"/>
-    <published>2023-04-19T15:42:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7223853247017012485</id>
-    <title>Arent you all so excited for us?! #CapCut </title>
-    <updated>2023-04-19T20:00:04+00:00</updated>
-    <content>Arent you all so excited for us?! #CapCut </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7223853247017012485" rel="alternate"/>
-    <published>2023-04-19T20:00:04+00:00</published>
   </entry>
 </feed>
