@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-04-19T19:10:30+00:00</updated>
+  <updated>2023-04-20T12:01:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7222421247450434862</id>
-    <title>Should have expected it</title>
-    <updated>2023-04-15T23:23:21+00:00</updated>
-    <content>Should have expected it</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7222421247450434862" rel="alternate"/>
-    <published>2023-04-15T23:23:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7222676722305699118</id>
     <title>Just know that i know</title>
@@ -91,5 +83,13 @@
     <content>Absolutely heartbreaking </content>
     <link href="https://tiktok.com/@mikaelaistired/video/7223840378212977962" rel="alternate"/>
     <published>2023-04-19T19:10:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7224100986778914094</id>
+    <title>Figured id ask</title>
+    <updated>2023-04-20T12:01:36+00:00</updated>
+    <content>Figured id ask</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7224100986778914094" rel="alternate"/>
+    <published>2023-04-20T12:01:36+00:00</published>
   </entry>
 </feed>
