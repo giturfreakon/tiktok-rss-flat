@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-20T02:42:03+00:00</updated>
+  <updated>2023-04-20T10:58:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7222514758409555246</id>
-    <title>Bless up</title>
-    <updated>2023-04-16T05:26:23+00:00</updated>
-    <content>Bless up</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7222514758409555246" rel="alternate"/>
-    <published>2023-04-16T05:26:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7222520198639848750</id>
     <title>Oops</title>
@@ -91,5 +83,13 @@
     <content>Don’t look at my heels on the floor</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7223956802856029482" rel="alternate"/>
     <published>2023-04-20T02:42:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7224084665215470894</id>
+    <title>Omg its almost a loop??</title>
+    <updated>2023-04-20T10:58:17+00:00</updated>
+    <content>Omg its almost a loop??</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7224084665215470894" rel="alternate"/>
+    <published>2023-04-20T10:58:17+00:00</published>
   </entry>
 </feed>
