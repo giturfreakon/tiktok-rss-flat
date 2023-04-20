@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@claudcirillo</id>
   <title>@claudcirillo | TikTok</title>
-  <updated>2023-04-19T23:26:01+00:00</updated>
+  <updated>2023-04-20T21:10:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @claudcirillo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7221275535031160065</id>
-    <title>#pov : She sets her sights on the new boy #fyp #foryou #foryoupage #fypシ </title>
-    <updated>2023-04-12T21:17:19+00:00</updated>
-    <content>#pov : She sets her sights on the new boy #fyp #foryou #foryoupage #fypシ </content>
-    <link href="https://tiktok.com/@claudcirillo/video/7221275535031160065" rel="alternate"/>
-    <published>2023-04-12T21:17:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@claudcirillo/video/7221649650720263425</id>
     <title>#pov : She tells her boyfriend how she feels #fyp #foryou #foryoupage #fypシ </title>
@@ -91,5 +83,13 @@
     <content>#pov : His mother doesn’t realise colours have no gender (ib: @Lexie Leith) #fyp #foryou #foryoupage </content>
     <link href="https://tiktok.com/@claudcirillo/video/7223906283722755329" rel="alternate"/>
     <published>2023-04-19T23:26:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7224242561953615105</id>
+    <title>#pov : You get along with everyone… Except one type of person #fyp #foryou #fypシ </title>
+    <updated>2023-04-20T21:10:54+00:00</updated>
+    <content>#pov : You get along with everyone… Except one type of person #fyp #foryou #fypシ </content>
+    <link href="https://tiktok.com/@claudcirillo/video/7224242561953615105" rel="alternate"/>
+    <published>2023-04-20T21:10:54+00:00</published>
   </entry>
 </feed>
