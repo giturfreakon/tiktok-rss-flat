@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-04-18T17:43:38+00:00</updated>
+  <updated>2023-04-20T20:39:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7217995715354643754</id>
-    <title>#duet with @ellizabeth.marie thoughts? </title>
-    <updated>2023-04-04T01:09:56+00:00</updated>
-    <content>#duet with @ellizabeth.marie thoughts? </content>
-    <link href="https://tiktok.com/@kamehalani/video/7217995715354643754" rel="alternate"/>
-    <published>2023-04-04T01:09:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7218597752320642347</id>
     <title>#stitch with @bird21s yuckkkkkkyyyyyy</title>
@@ -91,5 +83,13 @@
     <content>“Hey its kamehalani… call me back when you get this, miss you. Love you!”</content>
     <link href="https://tiktok.com/@kamehalani/video/7223446898387127598" rel="alternate"/>
     <published>2023-04-18T17:43:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7224234460345158954</id>
+    <title>Replying to @user5310072167593 no #kanaka #liloandstitch #hawaiian #hawaii #nanipelekai </title>
+    <updated>2023-04-20T20:39:31+00:00</updated>
+    <content>Replying to @user5310072167593 no #kanaka #liloandstitch #hawaiian #hawaii #nanipelekai </content>
+    <link href="https://tiktok.com/@kamehalani/video/7224234460345158954" rel="alternate"/>
+    <published>2023-04-20T20:39:31+00:00</published>
   </entry>
 </feed>
