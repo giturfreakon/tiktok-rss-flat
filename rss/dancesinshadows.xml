@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-04-20T01:34:04+00:00</updated>
+  <updated>2023-04-21T00:10:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7218945418409905414</id>
-    <title>#springvibes #spring #dancesinshadows #makeupartist #springfashion </title>
-    <updated>2023-04-06T14:35:12+00:00</updated>
-    <content>#springvibes #spring #dancesinshadows #makeupartist #springfashion </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7218945418409905414" rel="alternate"/>
-    <published>2023-04-06T14:35:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7219345364493602053</id>
     <title>#duet with @Angel  think he knows about Mischief... #dragmakeup #makeupartist #miniseries #glumthesupernaturalhitman #maddamcure #dancesinshadows </title>
@@ -91,5 +83,13 @@
     <content>#dancesinshadows #springvibes #pastelhair #dragmakeuplook </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7223939315519196421" rel="alternate"/>
     <published>2023-04-20T01:34:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7224288986506792198</id>
+    <title>Just another day with these two. They take turns picking on one another.  #bestfriends #tabbycat #pigeon #catandbirdlove #sillypets </title>
+    <updated>2023-04-21T00:10:59+00:00</updated>
+    <content>Just another day with these two. They take turns picking on one another.  #bestfriends #tabbycat #pigeon #catandbirdlove #sillypets </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7224288986506792198" rel="alternate"/>
+    <published>2023-04-21T00:10:59+00:00</published>
   </entry>
 </feed>

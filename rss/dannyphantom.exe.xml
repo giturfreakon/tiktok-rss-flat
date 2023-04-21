@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-04-20T02:16:16+00:00</updated>
+  <updated>2023-04-21T02:16:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7222094548212665643</id>
-    <title>lol me neither 😐</title>
-    <updated>2023-04-15T02:15:34+00:00</updated>
-    <content>lol me neither 😐</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7222094548212665643" rel="alternate"/>
-    <published>2023-04-15T02:15:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7222094621747449134</id>
-    <title>tag ur sun/moon - og vid from @beanstboi2.0 </title>
-    <updated>2023-04-15T02:15:50+00:00</updated>
-    <content>tag ur sun/moon - og vid from @beanstboi2.0 </content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7222094621747449134" rel="alternate"/>
-    <published>2023-04-15T02:15:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7222094907349945643</id>
     <title>og idea from a comic but i cant find the creator :( if u know them pls tag them :)</title>
@@ -91,5 +75,21 @@
     <content>Comment if you can figure out what i  signed (i apologize i am bad at ASL)</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7223950154527739178" rel="alternate"/>
     <published>2023-04-20T02:16:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7224321238875868459</id>
+    <title>mmm Women 🥴 whos joining me in the well</title>
+    <updated>2023-04-21T02:16:18+00:00</updated>
+    <content>mmm Women 🥴 whos joining me in the well</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7224321238875868459" rel="alternate"/>
+    <published>2023-04-21T02:16:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7224321245137997102</id>
+    <title>tag ur best friend again</title>
+    <updated>2023-04-21T02:16:46+00:00</updated>
+    <content>tag ur best friend again</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7224321245137997102" rel="alternate"/>
+    <published>2023-04-21T02:16:46+00:00</published>
   </entry>
 </feed>
