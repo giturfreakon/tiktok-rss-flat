@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-21T02:51:55+00:00</updated>
+  <updated>2023-04-21T04:58:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7222876358962171182</id>
-    <title>My tape got messed up</title>
-    <updated>2023-04-17T04:49:25+00:00</updated>
-    <content>My tape got messed up</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7222876358962171182" rel="alternate"/>
-    <published>2023-04-17T04:49:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7222958082421230891</id>
     <title>Good morning will you marry me</title>
@@ -91,5 +83,13 @@
     <content>I need new anime suggestions </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7224330413110611246" rel="alternate"/>
     <published>2023-04-21T02:51:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7224363066094390574</id>
+    <title>Moo</title>
+    <updated>2023-04-21T04:58:46+00:00</updated>
+    <content>Moo</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7224363066094390574" rel="alternate"/>
+    <published>2023-04-21T04:58:46+00:00</published>
   </entry>
 </feed>
