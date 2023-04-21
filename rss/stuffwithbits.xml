@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-04-21T00:58:19+00:00</updated>
+  <updated>2023-04-21T19:26:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7223080134075764014</id>
-    <title>#stitch with @christalluster its arms are longer that you, you won't get close enough 🤣 #solardidsystem #ssdevereaux </title>
-    <updated>2023-04-17T18:00:10+00:00</updated>
-    <content>#stitch with @christalluster its arms are longer that you, you won't get close enough 🤣 #solardidsystem #ssdevereaux </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7223080134075764014" rel="alternate"/>
-    <published>2023-04-17T18:00:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7223085386828926254</id>
     <title>#stitch with @theasystem it's a stitch so the captions are in sync with the audio but the video is not #ssdevereaux #solardidsystem </title>
@@ -91,5 +83,13 @@
     <content>Maybe your anger at our joy is actually anger at your lack of joy. And that's 100% on you. But if you keep fucking around, you're gonna find out 🤷 #solardidsystem #ssalex </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7224301145462754603" rel="alternate"/>
     <published>2023-04-21T00:58:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7224586758242028843</id>
+    <title>I don't mind fronting at work but Zephyr was getting annoyed 😅 He likes his job #solardidsystem #ssalex </title>
+    <updated>2023-04-21T19:26:40+00:00</updated>
+    <content>I don't mind fronting at work but Zephyr was getting annoyed 😅 He likes his job #solardidsystem #ssalex </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7224586758242028843" rel="alternate"/>
+    <published>2023-04-21T19:26:40+00:00</published>
   </entry>
 </feed>
