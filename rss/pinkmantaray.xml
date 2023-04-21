@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-04-20T21:10:06+00:00</updated>
+  <updated>2023-04-21T21:03:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7216732179941035310</id>
-    <title>TDOV - time to gear into action!! Pinkmantaray.com/tdov for more 💕🏳️‍⚧️ #transgender #TransDayOfVisibility #Proud </title>
-    <updated>2023-03-31T15:26:52+00:00</updated>
-    <content>TDOV - time to gear into action!! Pinkmantaray.com/tdov for more 💕🏳️‍⚧️ #transgender #TransDayOfVisibility #Proud </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7216732179941035310" rel="alternate"/>
-    <published>2023-03-31T15:26:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7217575864442178858</id>
     <title>If you read about the TN shooter being trans and concluded that gender identity and transness is a problem, you need to take a step back and look at some facts. You're being played by the system that wants to distract you deom the real problem - which is </title>
@@ -91,5 +83,13 @@
     <content>Learning &amp; unlearning can absolutely be difficult! And that's okay. You CAN do hard things. I believe in you! Let's look to this grandpa as inspiration💕🏳️‍⚧️🙌🏼 Sign up for a workshop at pinkmantaray.com/workshops! #transgender #trans #allyship #trans #gender #lgbtq #learning #unpacking #education #dei #grandpa</content>
     <link href="https://tiktok.com/@pinkmantaray/video/7224242358165179694" rel="alternate"/>
     <published>2023-04-20T21:10:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7224611613519760686</id>
+    <title>Thoughts on HR 734 &amp; transgender athletes. #letkidsplay #lettranskidsplay #transgender #transathlete #trans #transgenderathlete #gender #sports #womenssports #hr734 </title>
+    <updated>2023-04-21T21:03:02+00:00</updated>
+    <content>Thoughts on HR 734 &amp; transgender athletes. #letkidsplay #lettranskidsplay #transgender #transathlete #trans #transgenderathlete #gender #sports #womenssports #hr734 </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7224611613519760686" rel="alternate"/>
+    <published>2023-04-21T21:03:02+00:00</published>
   </entry>
 </feed>
