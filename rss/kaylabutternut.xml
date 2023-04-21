@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-20T22:47:21+00:00</updated>
+  <updated>2023-04-21T02:51:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7222701342068886826</id>
-    <title>Feeling myself today</title>
-    <updated>2023-04-16T17:30:16+00:00</updated>
-    <content>Feeling myself today</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7222701342068886826" rel="alternate"/>
-    <published>2023-04-16T17:30:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7222721092606070059</id>
-    <title>Lmao the bottega dust bag in the back</title>
-    <updated>2023-04-16T18:46:54+00:00</updated>
-    <content>Lmao the bottega dust bag in the back</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7222721092606070059" rel="alternate"/>
-    <published>2023-04-16T18:46:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7222876358962171182</id>
     <title>My tape got messed up</title>
@@ -91,5 +75,21 @@
     <content>What should I change about this outfit</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7224267417617272107" rel="alternate"/>
     <published>2023-04-20T22:47:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7224295760840363307</id>
+    <title>Old song but the lyrics slap</title>
+    <updated>2023-04-21T00:37:22+00:00</updated>
+    <content>Old song but the lyrics slap</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7224295760840363307" rel="alternate"/>
+    <published>2023-04-21T00:37:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7224330413110611246</id>
+    <title>I need new anime suggestions </title>
+    <updated>2023-04-21T02:51:55+00:00</updated>
+    <content>I need new anime suggestions </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7224330413110611246" rel="alternate"/>
+    <published>2023-04-21T02:51:55+00:00</published>
   </entry>
 </feed>
