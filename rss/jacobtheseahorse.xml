@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-04-21T08:16:18+00:00</updated>
+  <updated>2023-04-21T15:30:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7217585131165371654</id>
-    <title>Replying to @mickey_lou I wasn't born in the wrong body, all of me is trans. I love my trans body. I love that I can grow a beard and grow a baby.  I have been able to access care to help me feel really good in my body - something all trans people (and ev</title>
-    <updated>2023-04-02T22:36:43+00:00</updated>
-    <content>Replying to @mickey_lou I wasn't born in the wrong body, all of me is trans. I love my trans body. I love that I can grow a beard and grow a baby.  I have been able to access care to help me feel really good in my body - something all trans people (and everyone) deserves.  ✨all trans people's experiences are different and I support anyone who does find the language of being born in the wrong body helpful ✨ #trans #body #pregnancy #transeducation #lgbtq </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7217585131165371654" rel="alternate"/>
-    <published>2023-04-02T22:36:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7217779626708421893</id>
     <title>Replying to @sannevdv283 we conflate pregnancy and femininity, when so many women experience their femininity in different ways and at different times in their life.  if your experience of pregnancy was the most feminine you've ever felt, that's an amazin</title>
@@ -91,5 +83,13 @@
     <content>Being a teenager in the 90s/00s was just about dial up modems and soggy lower legs. #millenial #eldermillenial #xennial #90skids #80skid #90s #00s</content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7224414005497007387" rel="alternate"/>
     <published>2023-04-21T08:16:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7224526012233633050</id>
+    <title>I didn't believe I had ADHD. and then even when I did believe it, I minimised the impact it has on my life.  starting medication has meant I'm confronted with the stark contrast of what it feels like to think clearly and then have it taken away.  I gaslit</title>
+    <updated>2023-04-21T15:30:47+00:00</updated>
+    <content>I didn't believe I had ADHD. and then even when I did believe it, I minimised the impact it has on my life.  starting medication has meant I'm confronted with the stark contrast of what it feels like to think clearly and then have it taken away.  I gaslit myself for so many years 😥 #adhd #adhdtiktok #medication #audhd #adhdmeds #nd </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7224526012233633050" rel="alternate"/>
+    <published>2023-04-21T15:30:47+00:00</published>
   </entry>
 </feed>
