@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-04-19T15:47:48+00:00</updated>
+  <updated>2023-04-21T08:16:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7217520521414544645</id>
-    <title>Replying to @planetspidermonkey it's so important that we don't erase women. all women.  #trans #lgbt #queertok #women #nonbinary</title>
-    <updated>2023-04-02T18:25:52+00:00</updated>
-    <content>Replying to @planetspidermonkey it's so important that we don't erase women. all women.  #trans #lgbt #queertok #women #nonbinary</content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7217520521414544645" rel="alternate"/>
-    <published>2023-04-02T18:25:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7217585131165371654</id>
     <title>Replying to @mickey_lou I wasn't born in the wrong body, all of me is trans. I love my trans body. I love that I can grow a beard and grow a baby.  I have been able to access care to help me feel really good in my body - something all trans people (and ev</title>
@@ -91,5 +83,13 @@
     <content>Replying to @fattymgatty this is a great question thank you!  it's important to know that not all trans people experience gender dysphoria, but I think most people - including cis folks - experience gender euphoria.  #trans #genderquestioning #lgbt #dysphoria </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7223788238123568389" rel="alternate"/>
     <published>2023-04-19T15:47:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7224414005497007387</id>
+    <title>Being a teenager in the 90s/00s was just about dial up modems and soggy lower legs. #millenial #eldermillenial #xennial #90skids #80skid #90s #00s</title>
+    <updated>2023-04-21T08:16:18+00:00</updated>
+    <content>Being a teenager in the 90s/00s was just about dial up modems and soggy lower legs. #millenial #eldermillenial #xennial #90skids #80skid #90s #00s</content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7224414005497007387" rel="alternate"/>
+    <published>2023-04-21T08:16:18+00:00</published>
   </entry>
 </feed>
