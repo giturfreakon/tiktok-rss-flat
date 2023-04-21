@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grouch_thebird</id>
   <title>@grouch_thebird | TikTok</title>
-  <updated>2023-04-21T02:41:43+00:00</updated>
+  <updated>2023-04-21T03:40:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grouch_thebird</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7223097758872309035</id>
-    <title>idk what this is</title>
-    <updated>2023-04-17T19:08:31+00:00</updated>
-    <content>idk what this is</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7223097758872309035" rel="alternate"/>
-    <published>2023-04-17T19:08:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7223099880183500078</id>
-    <title>vector dance</title>
-    <updated>2023-04-17T19:16:42+00:00</updated>
-    <content>vector dance</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7223099880183500078" rel="alternate"/>
-    <published>2023-04-17T19:16:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7223516811373940011</id>
-    <title>green girls gotta take ur meds</title>
-    <updated>2023-04-18T22:14:43+00:00</updated>
-    <content>green girls gotta take ur meds</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7223516811373940011" rel="alternate"/>
-    <published>2023-04-18T22:14:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grouch_thebird/video/7223519338462989614</id>
     <title>purple</title>
@@ -91,5 +67,29 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@grouch_thebird/video/7224327779838610734" rel="alternate"/>
     <published>2023-04-21T02:41:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7224335364444474667</id>
+    <title>[no title]</title>
+    <updated>2023-04-21T03:11:06+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7224335364444474667" rel="alternate"/>
+    <published>2023-04-21T03:11:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7224336624786607403</id>
+    <title>[no title]</title>
+    <updated>2023-04-21T03:15:58+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7224336624786607403" rel="alternate"/>
+    <published>2023-04-21T03:15:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7224342950552046891</id>
+    <title>[no title]</title>
+    <updated>2023-04-21T03:40:30+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7224342950552046891" rel="alternate"/>
+    <published>2023-04-21T03:40:30+00:00</published>
   </entry>
 </feed>
