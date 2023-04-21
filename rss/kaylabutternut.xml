@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-21T04:58:46+00:00</updated>
+  <updated>2023-04-21T08:07:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7222958082421230891</id>
-    <title>Good morning will you marry me</title>
-    <updated>2023-04-17T10:06:35+00:00</updated>
-    <content>Good morning will you marry me</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7222958082421230891" rel="alternate"/>
-    <published>2023-04-17T10:06:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7223135568647965998</id>
     <title>I just bought that little cow skirt everyone has, should I wear it with fishnets, stockings, or thigh-highs?</title>
@@ -91,5 +83,13 @@
     <content>Moo</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7224363066094390574" rel="alternate"/>
     <published>2023-04-21T04:58:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7224411245955370286</id>
+    <title>Should I buy this outfit in pink?</title>
+    <updated>2023-04-21T08:07:14+00:00</updated>
+    <content>Should I buy this outfit in pink?</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7224411245955370286" rel="alternate"/>
+    <published>2023-04-21T08:07:14+00:00</published>
   </entry>
 </feed>
