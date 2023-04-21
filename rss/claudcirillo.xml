@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@claudcirillo</id>
   <title>@claudcirillo | TikTok</title>
-  <updated>2023-04-20T21:10:54+00:00</updated>
+  <updated>2023-04-21T00:16:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @claudcirillo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7221649650720263425</id>
-    <title>#pov : She tells her boyfriend how she feels #fyp #foryou #foryoupage #fypシ </title>
-    <updated>2023-04-13T21:29:05+00:00</updated>
-    <content>#pov : She tells her boyfriend how she feels #fyp #foryou #foryoupage #fypシ </content>
-    <link href="https://tiktok.com/@claudcirillo/video/7221649650720263425" rel="alternate"/>
-    <published>2023-04-13T21:29:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7223129954723122434</id>
-    <title>#pov : They didnt think you could hear them #fyp #foryou #foryoupage </title>
-    <updated>2023-04-17T21:13:26+00:00</updated>
-    <content>#pov : They didnt think you could hear them #fyp #foryou #foryoupage </content>
-    <link href="https://tiktok.com/@claudcirillo/video/7223129954723122434" rel="alternate"/>
-    <published>2023-04-17T21:13:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@claudcirillo/video/7223409002976234753</id>
     <title>Self expression #fyp #foryou </title>
@@ -91,5 +75,21 @@
     <content>#pov : You get along with everyone… Except one type of person #fyp #foryou #fypシ </content>
     <link href="https://tiktok.com/@claudcirillo/video/7224242561953615105" rel="alternate"/>
     <published>2023-04-20T21:10:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7224272399003471106</id>
+    <title>#pov : Years after being left at the atler by the Rival’s son, she’s taken over her father’s role as Head of House #fyp #foryou #foryoupage </title>
+    <updated>2023-04-20T23:06:49+00:00</updated>
+    <content>#pov : Years after being left at the atler by the Rival’s son, she’s taken over her father’s role as Head of House #fyp #foryou #foryoupage </content>
+    <link href="https://tiktok.com/@claudcirillo/video/7224272399003471106" rel="alternate"/>
+    <published>2023-04-20T23:06:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7224290344475610370</id>
+    <title>#pov : Her ex guitarist/partner tried to ruin her set #fyp #foryou #foryoupage </title>
+    <updated>2023-04-21T00:16:20+00:00</updated>
+    <content>#pov : Her ex guitarist/partner tried to ruin her set #fyp #foryou #foryoupage </content>
+    <link href="https://tiktok.com/@claudcirillo/video/7224290344475610370" rel="alternate"/>
+    <published>2023-04-21T00:16:20+00:00</published>
   </entry>
 </feed>
