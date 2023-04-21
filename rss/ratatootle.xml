@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ratatootle</id>
   <title>@ratatootle | TikTok</title>
-  <updated>2023-04-20T12:58:12+00:00</updated>
+  <updated>2023-04-21T13:27:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ratatootle</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ratatootle/video/7218312574264249643</id>
-    <title>(CW SHARP OBJECTS) ik this series wont perform here, but i may as well post it. Welcome to A </title>
-    <updated>2023-04-04T21:39:39+00:00</updated>
-    <content>(CW SHARP OBJECTS) ik this series wont perform here, but i may as well post it. Welcome to A </content>
-    <link href="https://tiktok.com/@ratatootle/video/7218312574264249643" rel="alternate"/>
-    <published>2023-04-04T21:39:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ratatootle/video/7218656735383457070</id>
     <title>BOOK CLUB FOR HATERS IS NOW IN SESSION: Speaking my truth about daisy jones and the six #daisyjonesandthesix #booktok </title>
@@ -91,5 +83,13 @@
     <content>I love my dog</content>
     <link href="https://tiktok.com/@ratatootle/video/7224115581123972398" rel="alternate"/>
     <published>2023-04-20T12:58:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ratatootle/video/7224494242909981995</id>
+    <title>Back at it with Book Club for Haters</title>
+    <updated>2023-04-21T13:27:58+00:00</updated>
+    <content>Back at it with Book Club for Haters</content>
+    <link href="https://tiktok.com/@ratatootle/video/7224494242909981995" rel="alternate"/>
+    <published>2023-04-21T13:27:58+00:00</published>
   </entry>
 </feed>
