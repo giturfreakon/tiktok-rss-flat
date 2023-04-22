@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-04-21T15:00:07+00:00</updated>
+  <updated>2023-04-22T15:17:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7223400587398860074</id>
-    <title>Use this one carefully </title>
-    <updated>2023-04-18T14:44:02+00:00</updated>
-    <content>Use this one carefully </content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7223400587398860074" rel="alternate"/>
-    <published>2023-04-18T14:44:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7223519777258507563</id>
-    <title>Hey future me</title>
-    <updated>2023-04-18T22:26:09+00:00</updated>
-    <content>Hey future me</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7223519777258507563" rel="alternate"/>
-    <published>2023-04-18T22:26:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7223524396307172651</id>
     <title>[no title]</title>
@@ -91,5 +75,21 @@
     <content>Only concern was the ring, nothing else</content>
     <link href="https://tiktok.com/@mikaelaistired/video/7224518028975721774" rel="alternate"/>
     <published>2023-04-21T15:00:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7224890268900773163</id>
+    <title>Just cause</title>
+    <updated>2023-04-22T15:04:28+00:00</updated>
+    <content>Just cause</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7224890268900773163" rel="alternate"/>
+    <published>2023-04-22T15:04:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7224893640009665835</id>
+    <title>Im just wondering </title>
+    <updated>2023-04-22T15:17:33+00:00</updated>
+    <content>Im just wondering </content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7224893640009665835" rel="alternate"/>
+    <published>2023-04-22T15:17:33+00:00</published>
   </entry>
 </feed>
