@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-04-21T20:19:48+00:00</updated>
+  <updated>2023-04-22T13:23:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7219399095776070958</id>
-    <title>Vulnerability is Strength. It takes a lot to let people in, especially if you've been hurt. But, to build love for yourself and be vulnerable in a world where we're taught that vulnerability is weakness is the strongest and most courageous thing you can d</title>
-    <updated>2023-04-07T19:55:45+00:00</updated>
-    <content>Vulnerability is Strength. It takes a lot to let people in, especially if you've been hurt. But, to build love for yourself and be vulnerable in a world where we're taught that vulnerability is weakness is the strongest and most courageous thing you can do. To authentically be you, in all of your forms. And to love every single one. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7219399095776070958" rel="alternate"/>
-    <published>2023-04-07T19:55:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7219813930695167274</id>
     <title>Just a snippet. :] #fyp #trans </title>
@@ -91,5 +83,13 @@
     <content>I still can't believe it. #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7224600451017198894" rel="alternate"/>
     <published>2023-04-21T20:19:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7224864278354988330</id>
+    <title>Aaayeee. #fyp #trans </title>
+    <updated>2023-04-22T13:23:45+00:00</updated>
+    <content>Aaayeee. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7224864278354988330" rel="alternate"/>
+    <published>2023-04-22T13:23:45+00:00</published>
   </entry>
 </feed>
