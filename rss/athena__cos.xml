@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-04-22T00:06:17+00:00</updated>
+  <updated>2023-04-22T18:45:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7217097175539633454</id>
-    <title>Pro tip: don’t steal a dragons egg, unless… Link in bio to play! #cosplay #womeninarmor #CallofDragons #fantasy #game </title>
-    <updated>2023-04-01T15:03:20+00:00</updated>
-    <content>Pro tip: don’t steal a dragons egg, unless… Link in bio to play! #cosplay #womeninarmor #CallofDragons #fantasy #game </content>
-    <link href="https://tiktok.com/@athena__cos/video/7217097175539633454" rel="alternate"/>
-    <published>2023-04-01T15:03:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7217560791841590574</id>
     <title>In another Multiverse…💙❤️ This was my FIRST time wearing a spidey suit outside an apartment and it was so fun dancing in it!  Suits borrowed from @dieselfz6r  Other spidey is @dylanpool_  #spidey #spiderman #spidermancosplay #spiderverse #multiverse #spid</title>
@@ -91,5 +83,13 @@
     <content>Dedicate your heart… I hate that i can see the cars in the second clip, but i really wanted to get this moody shot!  #aot #aotcosplay #sasha #scout #animecosplay #haveigivenenough #moody #angst </content>
     <link href="https://tiktok.com/@athena__cos/video/7224658833841458475" rel="alternate"/>
     <published>2023-04-22T00:06:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7224947141435919662</id>
+    <title>@juliastunts i wanna be like you someday with this dance #aot #aotcosplay #dance </title>
+    <updated>2023-04-22T18:45:09+00:00</updated>
+    <content>@juliastunts i wanna be like you someday with this dance #aot #aotcosplay #dance </content>
+    <link href="https://tiktok.com/@athena__cos/video/7224947141435919662" rel="alternate"/>
+    <published>2023-04-22T18:45:09+00:00</published>
   </entry>
 </feed>
