@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-04-18T21:11:48+00:00</updated>
+  <updated>2023-04-22T00:06:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7216086437060414762</id>
-    <title>RWBY, Red vs Blue, Camp Camp, those little RT shows hold such a special place in my heart, and helped me get through the hardest times of my life ❤️  #rvb #roosterteeth #redvsblue #rwby #campcamp </title>
-    <updated>2023-03-29T21:40:58+00:00</updated>
-    <content>RWBY, Red vs Blue, Camp Camp, those little RT shows hold such a special place in my heart, and helped me get through the hardest times of my life ❤️  #rvb #roosterteeth #redvsblue #rwby #campcamp </content>
-    <link href="https://tiktok.com/@athena__cos/video/7216086437060414762" rel="alternate"/>
-    <published>2023-03-29T21:40:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7217097175539633454</id>
     <title>Pro tip: don’t steal a dragons egg, unless… Link in bio to play! #cosplay #womeninarmor #CallofDragons #fantasy #game </title>
@@ -91,5 +83,13 @@
     <content>Its been a beautiful journey 💙 and i can’t wait to dance some more  #couplegoals #slowdance #partner #dance #dancepartner #love #lovestory </content>
     <link href="https://tiktok.com/@athena__cos/video/7223500599118122283" rel="alternate"/>
     <published>2023-04-18T21:11:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7224658833841458475</id>
+    <title>Dedicate your heart… I hate that i can see the cars in the second clip, but i really wanted to get this moody shot!  #aot #aotcosplay #sasha #scout #animecosplay #haveigivenenough #moody #angst </title>
+    <updated>2023-04-22T00:06:17+00:00</updated>
+    <content>Dedicate your heart… I hate that i can see the cars in the second clip, but i really wanted to get this moody shot!  #aot #aotcosplay #sasha #scout #animecosplay #haveigivenenough #moody #angst </content>
+    <link href="https://tiktok.com/@athena__cos/video/7224658833841458475" rel="alternate"/>
+    <published>2023-04-22T00:06:17+00:00</published>
   </entry>
 </feed>

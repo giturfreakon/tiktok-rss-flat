@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avi.akbar</id>
   <title>@avi.akbar | TikTok</title>
-  <updated>2023-04-20T23:08:48+00:00</updated>
+  <updated>2023-04-21T23:38:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avi.akbar</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avi.akbar/video/7221213853168700715</id>
-    <title>#pov it's your partners forst time undercover and they are freaking out...</title>
-    <updated>2023-04-12T17:18:00+00:00</updated>
-    <content>#pov it's your partners forst time undercover and they are freaking out...</content>
-    <link href="https://tiktok.com/@avi.akbar/video/7221213853168700715" rel="alternate"/>
-    <published>2023-04-12T17:18:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avi.akbar/video/7221288560941567278</id>
     <title>#pov you keep getting mysterious phone calls... PART 1 #aviakbarpov</title>
@@ -91,5 +83,13 @@
     <content>#pov you can see facts when touching something... PART 2 @avi.akbar #aviakbarpov </content>
     <link href="https://tiktok.com/@avi.akbar/video/7224272948436225322" rel="alternate"/>
     <published>2023-04-20T23:08:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avi.akbar/video/7224651746684161326</id>
+    <title>#pov you wake up with the ability to talk to animals... PART 1 #aviakbarpov </title>
+    <updated>2023-04-21T23:38:47+00:00</updated>
+    <content>#pov you wake up with the ability to talk to animals... PART 1 #aviakbarpov </content>
+    <link href="https://tiktok.com/@avi.akbar/video/7224651746684161326" rel="alternate"/>
+    <published>2023-04-21T23:38:47+00:00</published>
   </entry>
 </feed>

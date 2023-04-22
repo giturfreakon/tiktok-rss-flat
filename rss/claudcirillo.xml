@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@claudcirillo</id>
   <title>@claudcirillo | TikTok</title>
-  <updated>2023-04-21T21:05:45+00:00</updated>
+  <updated>2023-04-22T01:02:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @claudcirillo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7223490847340252418</id>
-    <title>#pov : He tries to flirt with the “untouchable” girl #fyp #foryou #foryoupage </title>
-    <updated>2023-04-18T20:33:52+00:00</updated>
-    <content>#pov : He tries to flirt with the “untouchable” girl #fyp #foryou #foryoupage </content>
-    <link href="https://tiktok.com/@claudcirillo/video/7223490847340252418" rel="alternate"/>
-    <published>2023-04-18T20:33:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7223511661091622146</id>
-    <title>#pov : Whilst undercover, your partner seems to have messed up the story #fyp #foryou #foryoupage </title>
-    <updated>2023-04-18T21:54:46+00:00</updated>
-    <content>#pov : Whilst undercover, your partner seems to have messed up the story #fyp #foryou #foryoupage </content>
-    <link href="https://tiktok.com/@claudcirillo/video/7223511661091622146" rel="alternate"/>
-    <published>2023-04-18T21:54:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@claudcirillo/video/7223533110560836865</id>
     <title>#pov : You didnt want them to know how you felt #fyp #foryou #foryoupage </title>
@@ -91,5 +75,21 @@
     <content>#pov : You dont get along with your in laws… #fyp #foryou #foryoupage</content>
     <link href="https://tiktok.com/@claudcirillo/video/7224612319928601857" rel="alternate"/>
     <published>2023-04-21T21:05:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7224636100273392897</id>
+    <title>#pov : They answer a question that usually catches people off guard #fyp #foryou </title>
+    <updated>2023-04-21T22:38:03+00:00</updated>
+    <content>#pov : They answer a question that usually catches people off guard #fyp #foryou </content>
+    <link href="https://tiktok.com/@claudcirillo/video/7224636100273392897" rel="alternate"/>
+    <published>2023-04-21T22:38:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7224673274213453057</id>
+    <title>#pov : Hes ignoring you at a party you only went to because he wanted to go #fyp #foryou #foryoupage </title>
+    <updated>2023-04-22T01:02:15+00:00</updated>
+    <content>#pov : Hes ignoring you at a party you only went to because he wanted to go #fyp #foryou #foryoupage </content>
+    <link href="https://tiktok.com/@claudcirillo/video/7224673274213453057" rel="alternate"/>
+    <published>2023-04-22T01:02:15+00:00</published>
   </entry>
 </feed>
