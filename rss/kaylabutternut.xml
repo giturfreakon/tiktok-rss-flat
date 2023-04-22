@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-21T21:48:39+00:00</updated>
+  <updated>2023-04-22T03:14:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7223956802856029482</id>
-    <title>Don’t look at my heels on the floor</title>
-    <updated>2023-04-20T02:42:03+00:00</updated>
-    <content>Don’t look at my heels on the floor</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7223956802856029482" rel="alternate"/>
-    <published>2023-04-20T02:42:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7224084665215470894</id>
-    <title>Omg its almost a loop??</title>
-    <updated>2023-04-20T10:58:17+00:00</updated>
-    <content>Omg its almost a loop??</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7224084665215470894" rel="alternate"/>
-    <published>2023-04-20T10:58:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7224155430761598250</id>
     <title>Replying to @Patrick R do you agree or should I have worn fishnets </title>
@@ -91,5 +75,21 @@
     <content>The real reason is so the 20% women rhat follow me feel like their body is normal and beautiful. Freckles, veins, streachmarks, its all stunning.</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7224623374125829419" rel="alternate"/>
     <published>2023-04-21T21:48:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7224705077292879150</id>
+    <title>I’ll take it</title>
+    <updated>2023-04-22T03:05:41+00:00</updated>
+    <content>I’ll take it</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7224705077292879150" rel="alternate"/>
+    <published>2023-04-22T03:05:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7224707376698477866</id>
+    <title>I have a type #gamergirl </title>
+    <updated>2023-04-22T03:14:36+00:00</updated>
+    <content>I have a type #gamergirl </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7224707376698477866" rel="alternate"/>
+    <published>2023-04-22T03:14:36+00:00</published>
   </entry>
 </feed>
