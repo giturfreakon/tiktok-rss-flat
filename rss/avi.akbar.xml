@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avi.akbar</id>
   <title>@avi.akbar | TikTok</title>
-  <updated>2023-04-21T23:38:47+00:00</updated>
+  <updated>2023-04-22T20:33:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avi.akbar</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avi.akbar/video/7221288560941567278</id>
-    <title>#pov you keep getting mysterious phone calls... PART 1 #aviakbarpov</title>
-    <updated>2023-04-12T22:07:52+00:00</updated>
-    <content>#pov you keep getting mysterious phone calls... PART 1 #aviakbarpov</content>
-    <link href="https://tiktok.com/@avi.akbar/video/7221288560941567278" rel="alternate"/>
-    <published>2023-04-12T22:07:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avi.akbar/video/7221640164907633966</id>
     <title>#pov everyday you wake up in a different year... PART 6 @avi.akbar #aviakbarpov </title>
@@ -91,5 +83,13 @@
     <content>#pov you wake up with the ability to talk to animals... PART 1 #aviakbarpov </content>
     <link href="https://tiktok.com/@avi.akbar/video/7224651746684161326" rel="alternate"/>
     <published>2023-04-21T23:38:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avi.akbar/video/7224975203967749419</id>
+    <title>#pov The Villain gives The Hero a choice... (VC: @claudcirillo ) #aviakbarpov </title>
+    <updated>2023-04-22T20:33:58+00:00</updated>
+    <content>#pov The Villain gives The Hero a choice... (VC: @claudcirillo ) #aviakbarpov </content>
+    <link href="https://tiktok.com/@avi.akbar/video/7224975203967749419" rel="alternate"/>
+    <published>2023-04-22T20:33:58+00:00</published>
   </entry>
 </feed>

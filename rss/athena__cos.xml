@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-04-22T18:45:09+00:00</updated>
+  <updated>2023-04-22T20:44:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7217560791841590574</id>
-    <title>In another Multiverse…💙❤️ This was my FIRST time wearing a spidey suit outside an apartment and it was so fun dancing in it!  Suits borrowed from @dieselfz6r  Other spidey is @dylanpool_  #spidey #spiderman #spidermancosplay #spiderverse #multiverse #spid</title>
-    <updated>2023-04-02T21:02:17+00:00</updated>
-    <content>In another Multiverse…💙❤️ This was my FIRST time wearing a spidey suit outside an apartment and it was so fun dancing in it!  Suits borrowed from @dieselfz6r  Other spidey is @dylanpool_  #spidey #spiderman #spidermancosplay #spiderverse #multiverse #spiderwoman #marvelcosplay #couplesdance #slowdance </content>
-    <link href="https://tiktok.com/@athena__cos/video/7217560791841590574" rel="alternate"/>
-    <published>2023-04-02T21:02:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7218702644519472426</id>
     <title>Outfit inspo from @buffcheekss and @justinsaiyann  #bodybuilding #aot #aotcosplay #leathergear #odm #gymtok #buffwomen </title>
@@ -91,5 +83,13 @@
     <content>@juliastunts i wanna be like you someday with this dance #aot #aotcosplay #dance </content>
     <link href="https://tiktok.com/@athena__cos/video/7224947141435919662" rel="alternate"/>
     <published>2023-04-22T18:45:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7224977902272761134</id>
+    <title>When the cosplay finallt leaves the group chat  #rwby #rwbycosplay #rubyrose #sister #blake #yang #yangcosplay </title>
+    <updated>2023-04-22T20:44:28+00:00</updated>
+    <content>When the cosplay finallt leaves the group chat  #rwby #rwbycosplay #rubyrose #sister #blake #yang #yangcosplay </content>
+    <link href="https://tiktok.com/@athena__cos/video/7224977902272761134" rel="alternate"/>
+    <published>2023-04-22T20:44:28+00:00</published>
   </entry>
 </feed>
