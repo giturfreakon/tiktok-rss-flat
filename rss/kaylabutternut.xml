@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-22T03:14:36+00:00</updated>
+  <updated>2023-04-22T07:31:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7224155430761598250</id>
-    <title>Replying to @Patrick R do you agree or should I have worn fishnets </title>
-    <updated>2023-04-20T15:32:49+00:00</updated>
-    <content>Replying to @Patrick R do you agree or should I have worn fishnets </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7224155430761598250" rel="alternate"/>
-    <published>2023-04-20T15:32:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7224267417617272107</id>
-    <title>What should I change about this outfit</title>
-    <updated>2023-04-20T22:47:21+00:00</updated>
-    <content>What should I change about this outfit</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7224267417617272107" rel="alternate"/>
-    <published>2023-04-20T22:47:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7224295760840363307</id>
-    <title>Old song but the lyrics slap</title>
-    <updated>2023-04-21T00:37:22+00:00</updated>
-    <content>Old song but the lyrics slap</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7224295760840363307" rel="alternate"/>
-    <published>2023-04-21T00:37:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7224330413110611246</id>
     <title>I need new anime suggestions </title>
@@ -91,5 +67,29 @@
     <content>I have a type #gamergirl </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7224707376698477866" rel="alternate"/>
     <published>2023-04-22T03:14:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7224764794006457646</id>
+    <title>Hot tub vibes  </title>
+    <updated>2023-04-22T06:57:30+00:00</updated>
+    <content>Hot tub vibes  </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7224764794006457646" rel="alternate"/>
+    <published>2023-04-22T06:57:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7224770493612592430</id>
+    <title>POV: you’re in my hand </title>
+    <updated>2023-04-22T07:19:37+00:00</updated>
+    <content>POV: you’re in my hand </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7224770493612592430" rel="alternate"/>
+    <published>2023-04-22T07:19:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7224773531060522282</id>
+    <title>Final tiktok for the night my loves lets make it count</title>
+    <updated>2023-04-22T07:31:25+00:00</updated>
+    <content>Final tiktok for the night my loves lets make it count</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7224773531060522282" rel="alternate"/>
+    <published>2023-04-22T07:31:25+00:00</published>
   </entry>
 </feed>
