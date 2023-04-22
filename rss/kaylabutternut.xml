@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-22T16:12:48+00:00</updated>
+  <updated>2023-04-22T19:38:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7224411245955370286</id>
-    <title>Should I buy this outfit in pink?</title>
-    <updated>2023-04-21T08:07:14+00:00</updated>
-    <content>Should I buy this outfit in pink?</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7224411245955370286" rel="alternate"/>
-    <published>2023-04-21T08:07:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7224519531362897195</id>
     <title>Replying to @Cotton it was his biological mom</title>
@@ -91,5 +83,13 @@
     <content>And she hasn’t posted in years </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7224907875213233450" rel="alternate"/>
     <published>2023-04-22T16:12:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7224960878892961066</id>
+    <title>The judgement lmaoooo @Bryce </title>
+    <updated>2023-04-22T19:38:48+00:00</updated>
+    <content>The judgement lmaoooo @Bryce </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7224960878892961066" rel="alternate"/>
+    <published>2023-04-22T19:38:48+00:00</published>
   </entry>
 </feed>
