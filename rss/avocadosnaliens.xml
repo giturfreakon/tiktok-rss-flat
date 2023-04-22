@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-04-22T04:34:49+00:00</updated>
+  <updated>2023-04-20T21:12:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,22 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7209738367561583918</id>
+    <title>Guess who i get to shoot today!?!? </title>
+    <updated>2023-03-12T19:07:19+00:00</updated>
+    <content>Guess who i get to shoot today!?!? </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7209738367561583918" rel="alternate"/>
+    <published>2023-03-12T19:07:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7210863388916763946</id>
+    <title>Always here to remind you🫶 #foryou </title>
+    <updated>2023-03-15T19:52:50+00:00</updated>
+    <content>Always here to remind you🫶 #foryou </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7210863388916763946" rel="alternate"/>
+    <published>2023-03-15T19:52:50+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7210922199656582443</id>
     <title>[no title]</title>
@@ -75,21 +91,5 @@
     <content>#greenscreen CHICKEN. EGGS. #ghosted #hingedating </content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7224242893534383402" rel="alternate"/>
     <published>2023-04-20T21:12:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7224556755911576878</id>
-    <title>If you have a problem with what im saying you are indeed the problem itself. Also Tiktok this is a BATHING SUIT IM GOING SWIMMING DONT U DARE </title>
-    <updated>2023-04-21T17:30:24+00:00</updated>
-    <content>If you have a problem with what im saying you are indeed the problem itself. Also Tiktok this is a BATHING SUIT IM GOING SWIMMING DONT U DARE </content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7224556755911576878" rel="alternate"/>
-    <published>2023-04-21T17:30:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7224728042222964010</id>
-    <title>[no title]</title>
-    <updated>2023-04-22T04:34:49+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7224728042222964010" rel="alternate"/>
-    <published>2023-04-22T04:34:49+00:00</published>
   </entry>
 </feed>
