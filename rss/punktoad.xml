@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-04-22T23:12:44+00:00</updated>
+  <updated>2023-04-23T12:17:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7222489542442569006</id>
-    <title>Creator Clash 2 was fantastic… i wanna be in the next one #creatorclash2 #boxingmatch #creatorclash3 </title>
-    <updated>2023-04-16T03:48:21+00:00</updated>
-    <content>Creator Clash 2 was fantastic… i wanna be in the next one #creatorclash2 #boxingmatch #creatorclash3 </content>
-    <link href="https://tiktok.com/@punktoad/video/7222489542442569006" rel="alternate"/>
-    <published>2023-04-16T03:48:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7222994356918209838</id>
     <title>Dimma dimma #dougdimmadome #fairlyoddparents #timmyturner </title>
@@ -91,5 +83,13 @@
     <content>Bring Me The Horizon played at 10am. #warpedtour #memories #livemusic #fyp </content>
     <link href="https://tiktok.com/@punktoad/video/7225016121898847531" rel="alternate"/>
     <published>2023-04-22T23:12:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7225218206108093742</id>
+    <title>yummy  #shreddedcheese #cheeseplease #fyp #funny </title>
+    <updated>2023-04-23T12:17:27+00:00</updated>
+    <content>yummy  #shreddedcheese #cheeseplease #fyp #funny </content>
+    <link href="https://tiktok.com/@punktoad/video/7225218206108093742" rel="alternate"/>
+    <published>2023-04-23T12:17:27+00:00</published>
   </entry>
 </feed>
