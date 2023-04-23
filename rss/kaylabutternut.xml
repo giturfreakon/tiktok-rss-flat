@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-23T18:25:34+00:00</updated>
+  <updated>2023-04-23T22:09:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7224773531060522282</id>
-    <title>Final tiktok for the night my loves lets make it count</title>
-    <updated>2023-04-22T07:31:25+00:00</updated>
-    <content>Final tiktok for the night my loves lets make it count</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7224773531060522282" rel="alternate"/>
-    <published>2023-04-22T07:31:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7224875448222928174</id>
     <title>Good morning &lt;3</title>
@@ -91,5 +83,13 @@
     <content>Proof that I go outside </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7225313215901633835" rel="alternate"/>
     <published>2023-04-23T18:25:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7225370945886702890</id>
+    <title>HES NOT STRAIGHT HES LYING</title>
+    <updated>2023-04-23T22:09:38+00:00</updated>
+    <content>HES NOT STRAIGHT HES LYING</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7225370945886702890" rel="alternate"/>
+    <published>2023-04-23T22:09:38+00:00</published>
   </entry>
 </feed>
