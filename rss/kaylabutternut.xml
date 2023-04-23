@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-23T02:40:04+00:00</updated>
+  <updated>2023-04-23T08:08:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7224705077292879150</id>
-    <title>I’ll take it</title>
-    <updated>2023-04-22T03:05:41+00:00</updated>
-    <content>I’ll take it</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7224705077292879150" rel="alternate"/>
-    <published>2023-04-22T03:05:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7224707376698477866</id>
-    <title>I have a type #gamergirl </title>
-    <updated>2023-04-22T03:14:36+00:00</updated>
-    <content>I have a type #gamergirl </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7224707376698477866" rel="alternate"/>
-    <published>2023-04-22T03:14:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7224764794006457646</id>
-    <title>Hot tub vibes  </title>
-    <updated>2023-04-22T06:57:30+00:00</updated>
-    <content>Hot tub vibes  </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7224764794006457646" rel="alternate"/>
-    <published>2023-04-22T06:57:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7224770493612592430</id>
     <title>POV: you’re in my hand </title>
@@ -91,5 +67,29 @@
     <content>Replying to @Lonnie Owens i might regret posting this </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7225069556790725934" rel="alternate"/>
     <published>2023-04-23T02:40:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7225121014815132974</id>
+    <title>This sound always gets me</title>
+    <updated>2023-04-23T05:59:55+00:00</updated>
+    <content>This sound always gets me</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7225121014815132974" rel="alternate"/>
+    <published>2023-04-23T05:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7225133058440121642</id>
+    <title>This made me happy. Don’t forget to love yourself.</title>
+    <updated>2023-04-23T06:46:52+00:00</updated>
+    <content>This made me happy. Don’t forget to love yourself.</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7225133058440121642" rel="alternate"/>
+    <published>2023-04-23T06:46:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7225154107038764334</id>
+    <title>let him cook</title>
+    <updated>2023-04-23T08:08:47+00:00</updated>
+    <content>let him cook</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7225154107038764334" rel="alternate"/>
+    <published>2023-04-23T08:08:47+00:00</published>
   </entry>
 </feed>
