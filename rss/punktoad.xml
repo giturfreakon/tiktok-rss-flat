@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-04-23T12:17:27+00:00</updated>
+  <updated>2023-04-23T22:55:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7222994356918209838</id>
-    <title>Dimma dimma #dougdimmadome #fairlyoddparents #timmyturner </title>
-    <updated>2023-04-17T12:27:18+00:00</updated>
-    <content>Dimma dimma #dougdimmadome #fairlyoddparents #timmyturner </content>
-    <link href="https://tiktok.com/@punktoad/video/7222994356918209838" rel="alternate"/>
-    <published>2023-04-17T12:27:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7223151481258626347</id>
     <title>It was a better time #meredithbrooks #90skids #baseballpractice </title>
@@ -91,5 +83,13 @@
     <content>yummy  #shreddedcheese #cheeseplease #fyp #funny </content>
     <link href="https://tiktok.com/@punktoad/video/7225218206108093742" rel="alternate"/>
     <published>2023-04-23T12:17:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7225382652382039339</id>
+    <title>this is why I am main kįłłèr #deadbydaylight #dbd #killermain </title>
+    <updated>2023-04-23T22:55:01+00:00</updated>
+    <content>this is why I am main kįłłèr #deadbydaylight #dbd #killermain </content>
+    <link href="https://tiktok.com/@punktoad/video/7225382652382039339" rel="alternate"/>
+    <published>2023-04-23T22:55:01+00:00</published>
   </entry>
 </feed>
