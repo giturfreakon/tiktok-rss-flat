@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-04-22T20:44:28+00:00</updated>
+  <updated>2023-04-23T20:14:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7218702644519472426</id>
-    <title>Outfit inspo from @buffcheekss and @justinsaiyann  #bodybuilding #aot #aotcosplay #leathergear #odm #gymtok #buffwomen </title>
-    <updated>2023-04-05T22:53:17+00:00</updated>
-    <content>Outfit inspo from @buffcheekss and @justinsaiyann  #bodybuilding #aot #aotcosplay #leathergear #odm #gymtok #buffwomen </content>
-    <link href="https://tiktok.com/@athena__cos/video/7218702644519472426" rel="alternate"/>
-    <published>2023-04-05T22:53:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7219397380226010411</id>
     <title>It’s just gonna be character </title>
@@ -91,5 +83,13 @@
     <content>When the cosplay finallt leaves the group chat  #rwby #rwbycosplay #rubyrose #sister #blake #yang #yangcosplay </content>
     <link href="https://tiktok.com/@athena__cos/video/7224977902272761134" rel="alternate"/>
     <published>2023-04-22T20:44:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7225341286797200686</id>
+    <title>Nothing to see here just two straight friends #r#rwbyy#yangxiaolongcosplayb#bumblebeeb#blakeb#blakecosplayr#rwbycosplay</title>
+    <updated>2023-04-23T20:14:35+00:00</updated>
+    <content>Nothing to see here just two straight friends #r#rwbyy#yangxiaolongcosplayb#bumblebeeb#blakeb#blakecosplayr#rwbycosplay</content>
+    <link href="https://tiktok.com/@athena__cos/video/7225341286797200686" rel="alternate"/>
+    <published>2023-04-23T20:14:35+00:00</published>
   </entry>
 </feed>

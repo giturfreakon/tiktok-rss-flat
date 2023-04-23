@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@claudcirillo</id>
   <title>@claudcirillo | TikTok</title>
-  <updated>2023-04-22T01:02:15+00:00</updated>
+  <updated>2023-04-23T21:33:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @claudcirillo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7223533110560836865</id>
-    <title>#pov : You didnt want them to know how you felt #fyp #foryou #foryoupage </title>
-    <updated>2023-04-18T23:17:59+00:00</updated>
-    <content>#pov : You didnt want them to know how you felt #fyp #foryou #foryoupage </content>
-    <link href="https://tiktok.com/@claudcirillo/video/7223533110560836865" rel="alternate"/>
-    <published>2023-04-18T23:17:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@claudcirillo/video/7223869469628714242</id>
     <title>#pov : The Villain give The Hero a choice (ib: @Taylor) #fyp #foryou #villainpov #heropov </title>
@@ -91,5 +83,13 @@
     <content>#pov : Hes ignoring you at a party you only went to because he wanted to go #fyp #foryou #foryoupage </content>
     <link href="https://tiktok.com/@claudcirillo/video/7224673274213453057" rel="alternate"/>
     <published>2023-04-22T01:02:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7225361667419426050</id>
+    <title>#pov : The school’s “Heartbreaker” finally meets his match (ib: @Tricia ♡´･ᴗ･`♡) #fyp #foryou #foryoupage </title>
+    <updated>2023-04-23T21:33:47+00:00</updated>
+    <content>#pov : The school’s “Heartbreaker” finally meets his match (ib: @Tricia ♡´･ᴗ･`♡) #fyp #foryou #foryoupage </content>
+    <link href="https://tiktok.com/@claudcirillo/video/7225361667419426050" rel="alternate"/>
+    <published>2023-04-23T21:33:47+00:00</published>
   </entry>
 </feed>
