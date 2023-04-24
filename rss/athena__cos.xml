@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-04-23T20:14:35+00:00</updated>
+  <updated>2023-04-24T00:04:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7219397380226010411</id>
-    <title>It’s just gonna be character </title>
-    <updated>2023-04-07T19:49:06+00:00</updated>
-    <content>It’s just gonna be character </content>
-    <link href="https://tiktok.com/@athena__cos/video/7219397380226010411" rel="alternate"/>
-    <published>2023-04-07T19:49:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7219771171594620203</id>
     <title>Its MUSCLE QUEEN SEASON #wonderwoman #wonderwomancosplay #musclequeen #muscle #buffwomen #cosplay </title>
@@ -91,5 +83,13 @@
     <content>Nothing to see here just two straight friends #r#rwbyy#yangxiaolongcosplayb#bumblebeeb#blakeb#blakecosplayr#rwbycosplay</content>
     <link href="https://tiktok.com/@athena__cos/video/7225341286797200686" rel="alternate"/>
     <published>2023-04-23T20:14:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7225400457387347246</id>
+    <title>What if we slow danced at the mountain america expo center haha jk…unless?? #rwby #wlw #yangxiaolongcosplay #blakecosplay #rwbycosplay #lesbiancouple </title>
+    <updated>2023-04-24T00:04:11+00:00</updated>
+    <content>What if we slow danced at the mountain america expo center haha jk…unless?? #rwby #wlw #yangxiaolongcosplay #blakecosplay #rwbycosplay #lesbiancouple </content>
+    <link href="https://tiktok.com/@athena__cos/video/7225400457387347246" rel="alternate"/>
+    <published>2023-04-24T00:04:11+00:00</published>
   </entry>
 </feed>
