@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@transcendent_tess</id>
   <title>@transcendent_tess | TikTok</title>
-  <updated>2023-04-21T19:15:39+00:00</updated>
+  <updated>2023-04-24T01:05:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @transcendent_tess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@transcendent_tess/video/7213532893816048939</id>
-    <title>it's a defense mechanism... #therapytiktok #adhd #traumatok #therapy #trucker #fyp #darkhumour #badbrain #adhdtiktok #cope </title>
-    <updated>2023-03-23T00:31:58+00:00</updated>
-    <content>it's a defense mechanism... #therapytiktok #adhd #traumatok #therapy #trucker #fyp #darkhumour #badbrain #adhdtiktok #cope </content>
-    <link href="https://tiktok.com/@transcendent_tess/video/7213532893816048939" rel="alternate"/>
-    <published>2023-03-23T00:31:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@transcendent_tess/video/7213836962514406698</id>
     <title>can someone help me out? also maybe recommend good mascara that doesn't itch? #makeuptroubles #makeupadvice </title>
@@ -91,5 +83,13 @@
     <content>Replying to @craw.carson yeah, that's a win.  thank you so much!!! #makeup #adhd #transwoman #lgbt🌈 #transmtf #trans </content>
     <link href="https://tiktok.com/@transcendent_tess/video/7224583919335673134" rel="alternate"/>
     <published>2023-04-21T19:15:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@transcendent_tess/video/7225416175235140906</id>
+    <title>#duet with @Noice👍 </title>
+    <updated>2023-04-24T01:05:06+00:00</updated>
+    <content>#duet with @Noice👍 </content>
+    <link href="https://tiktok.com/@transcendent_tess/video/7225416175235140906" rel="alternate"/>
+    <published>2023-04-24T01:05:06+00:00</published>
   </entry>
 </feed>
