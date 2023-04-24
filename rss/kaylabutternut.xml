@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-24T02:03:58+00:00</updated>
+  <updated>2023-04-24T04:55:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7224907875213233450</id>
-    <title>And she hasn’t posted in years </title>
-    <updated>2023-04-22T16:12:48+00:00</updated>
-    <content>And she hasn’t posted in years </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7224907875213233450" rel="alternate"/>
-    <published>2023-04-22T16:12:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7224960878892961066</id>
-    <title>The judgement lmaoooo @Bryce </title>
-    <updated>2023-04-22T19:38:48+00:00</updated>
-    <content>The judgement lmaoooo @Bryce </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7224960878892961066" rel="alternate"/>
-    <published>2023-04-22T19:38:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7225053146756828459</id>
     <title>I’m going out tonight ❤️</title>
@@ -91,5 +75,21 @@
     <content>I miss the red dress</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7225431319835086122" rel="alternate"/>
     <published>2023-04-24T02:03:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7225454301475310891</id>
+    <title>Some people said they like that I’m getting goofier and it made me happy</title>
+    <updated>2023-04-24T03:33:12+00:00</updated>
+    <content>Some people said they like that I’m getting goofier and it made me happy</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7225454301475310891" rel="alternate"/>
+    <published>2023-04-24T03:33:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7225475602852121898</id>
+    <title>I’m usually right though</title>
+    <updated>2023-04-24T04:55:58+00:00</updated>
+    <content>I’m usually right though</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7225475602852121898" rel="alternate"/>
+    <published>2023-04-24T04:55:58+00:00</published>
   </entry>
 </feed>
