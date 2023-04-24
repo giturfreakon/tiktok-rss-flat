@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-04-23T18:24:40+00:00</updated>
+  <updated>2023-04-24T21:51:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7223461664400657706</id>
-    <title>#stitch with @the_rainbow.system Reminder that the creator we stitched is not OP. #solardidsystem #ssellie #evamarie2247 </title>
-    <updated>2023-04-18T18:40:48+00:00</updated>
-    <content>#stitch with @the_rainbow.system Reminder that the creator we stitched is not OP. #solardidsystem #ssellie #evamarie2247 </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7223461664400657706" rel="alternate"/>
-    <published>2023-04-18T18:40:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7223493281026411818</id>
     <title>I'm also a trauma holder, both my own in pseudomemories and some of ours (it's a metaphor). I age slide between 14-19, so I'm a teenager in the system. I'll be helping this persecutor break down their traumas into smaller pieces that I can process in ther</title>
@@ -91,5 +83,13 @@
     <content>Replying to @aedra101 #reply y'all are really sweet, but that's just how I talk #ssdrexel #solardidsystem </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7225312971260480810" rel="alternate"/>
     <published>2023-04-23T18:24:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7225737464739204398</id>
+    <title>This happens more often than you might think #solardidsystem #dissociativeidentitydisorder </title>
+    <updated>2023-04-24T21:51:56+00:00</updated>
+    <content>This happens more often than you might think #solardidsystem #dissociativeidentitydisorder </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7225737464739204398" rel="alternate"/>
+    <published>2023-04-24T21:51:56+00:00</published>
   </entry>
 </feed>
