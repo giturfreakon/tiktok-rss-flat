@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grizzoworld</id>
   <title>@grizzoworld | TikTok</title>
-  <updated>2023-04-21T16:54:52+00:00</updated>
+  <updated>2023-04-24T16:02:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grizzoworld</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grizzoworld/video/7217551131990314245</id>
-    <title>Don’t try this for Leg Day 🤣 #gymsharkmcr #liftmanchester </title>
-    <updated>2023-04-02T20:24:39+00:00</updated>
-    <content>Don’t try this for Leg Day 🤣 #gymsharkmcr #liftmanchester </content>
-    <link href="https://tiktok.com/@grizzoworld/video/7217551131990314245" rel="alternate"/>
-    <published>2023-04-02T20:24:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grizzoworld/video/7218590731781410053</id>
     <title>Genuine conversation recently, was very cute  🤣❤️</title>
@@ -91,5 +83,13 @@
     <content>Which one ya fav? 💃🏻 </content>
     <link href="https://tiktok.com/@grizzoworld/video/7224547667756535066" rel="alternate"/>
     <published>2023-04-21T16:54:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grizzoworld/video/7225647427737390363</id>
+    <title>BOUGHT A NEW DRESSS </title>
+    <updated>2023-04-24T16:02:28+00:00</updated>
+    <content>BOUGHT A NEW DRESSS </content>
+    <link href="https://tiktok.com/@grizzoworld/video/7225647427737390363" rel="alternate"/>
+    <published>2023-04-24T16:02:28+00:00</published>
   </entry>
 </feed>
