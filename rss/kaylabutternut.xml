@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-24T19:00:41+00:00</updated>
+  <updated>2023-04-24T23:10:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7225133058440121642</id>
-    <title>This made me happy. Don’t forget to love yourself.</title>
-    <updated>2023-04-23T06:46:52+00:00</updated>
-    <content>This made me happy. Don’t forget to love yourself.</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7225133058440121642" rel="alternate"/>
-    <published>2023-04-23T06:46:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7225154107038764334</id>
-    <title>let him cook</title>
-    <updated>2023-04-23T08:08:47+00:00</updated>
-    <content>let him cook</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7225154107038764334" rel="alternate"/>
-    <published>2023-04-23T08:08:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7225313215901633835</id>
     <title>Proof that I go outside </title>
@@ -91,5 +75,21 @@
     <content>I hope you’re making her happy</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7225693304447323435" rel="alternate"/>
     <published>2023-04-24T19:00:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7225725829626580267</id>
+    <title>I never dropped it</title>
+    <updated>2023-04-24T21:06:53+00:00</updated>
+    <content>I never dropped it</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7225725829626580267" rel="alternate"/>
+    <published>2023-04-24T21:06:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7225757610069478702</id>
+    <title>It’s when you see a teacher outside of school</title>
+    <updated>2023-04-24T23:10:06+00:00</updated>
+    <content>It’s when you see a teacher outside of school</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7225757610069478702" rel="alternate"/>
+    <published>2023-04-24T23:10:06+00:00</published>
   </entry>
 </feed>
