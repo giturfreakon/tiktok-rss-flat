@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-04-24T15:12:41+00:00</updated>
+  <updated>2023-04-21T19:56:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7218240458194013446</id>
+    <title>Take it from me - an expert in nuts - there’s no reason to be shy when it comes to your health. Take the time to get to know your body so if things do change, you’ll know it’s time to talk to someone. For more, visit @movember for all the info. #KnowThyNu</title>
+    <updated>2023-04-04T16:59:35+00:00</updated>
+    <content>Take it from me - an expert in nuts - there’s no reason to be shy when it comes to your health. Take the time to get to know your body so if things do change, you’ll know it’s time to talk to someone. For more, visit @movember for all the info. #KnowThyNuts #Movember #tcam #testicularcancer  #testicularcancerawarenessmonth </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7218240458194013446" rel="alternate"/>
+    <published>2023-04-04T16:59:35+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7218307156364283141</id>
     <title>And it was at the end that I realized: he was indeed paddington bear all along. </title>
@@ -83,13 +91,5 @@
     <content>When in doubt, call in the CEO @Shou  #shoutime </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7224594517582793989" rel="alternate"/>
     <published>2023-04-21T19:56:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7225634612960120070</id>
-    <title>#stitch with @Nic Kaufmann this! This! Thiiiisssssssss! 🤌</title>
-    <updated>2023-04-24T15:12:41+00:00</updated>
-    <content>#stitch with @Nic Kaufmann this! This! Thiiiisssssssss! 🤌</content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7225634612960120070" rel="alternate"/>
-    <published>2023-04-24T15:12:41+00:00</published>
   </entry>
 </feed>
