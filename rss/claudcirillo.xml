@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@claudcirillo</id>
   <title>@claudcirillo | TikTok</title>
-  <updated>2023-04-23T21:33:47+00:00</updated>
+  <updated>2023-04-24T00:11:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @claudcirillo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7223869469628714242</id>
-    <title>#pov : The Villain give The Hero a choice (ib: @Taylor) #fyp #foryou #villainpov #heropov </title>
-    <updated>2023-04-19T21:03:09+00:00</updated>
-    <content>#pov : The Villain give The Hero a choice (ib: @Taylor) #fyp #foryou #villainpov #heropov </content>
-    <link href="https://tiktok.com/@claudcirillo/video/7223869469628714242" rel="alternate"/>
-    <published>2023-04-19T21:03:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7223885380569877761</id>
-    <title>Blown away by these lenses from @Dimple Color  Use Code: CLAUDIACI15 for 15% off your order! #fyp #foryou #foryoupage #dimplecolor #dimplecolorcontacts </title>
-    <updated>2023-04-19T22:04:51+00:00</updated>
-    <content>Blown away by these lenses from @Dimple Color  Use Code: CLAUDIACI15 for 15% off your order! #fyp #foryou #foryoupage #dimplecolor #dimplecolorcontacts </content>
-    <link href="https://tiktok.com/@claudcirillo/video/7223885380569877761" rel="alternate"/>
-    <published>2023-04-19T22:04:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@claudcirillo/video/7223906283722755329</id>
     <title>#pov : His mother doesn’t realise colours have no gender (ib: @Lexie Leith) #fyp #foryou #foryoupage </title>
@@ -91,5 +75,21 @@
     <content>#pov : The school’s “Heartbreaker” finally meets his match (ib: @Tricia ♡´･ᴗ･`♡) #fyp #foryou #foryoupage </content>
     <link href="https://tiktok.com/@claudcirillo/video/7225361667419426050" rel="alternate"/>
     <published>2023-04-23T21:33:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7225382208779963649</id>
+    <title>#pov : The Boss finally had enough of hearing stories about her mysoginistic employee #fyp #foryou #foryoupage </title>
+    <updated>2023-04-23T22:53:29+00:00</updated>
+    <content>#pov : The Boss finally had enough of hearing stories about her mysoginistic employee #fyp #foryou #foryoupage </content>
+    <link href="https://tiktok.com/@claudcirillo/video/7225382208779963649" rel="alternate"/>
+    <published>2023-04-23T22:53:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7225402344228261121</id>
+    <title>#pov : Her Husband never helps when she asks #fyp #foryou #foryoupage </title>
+    <updated>2023-04-24T00:11:35+00:00</updated>
+    <content>#pov : Her Husband never helps when she asks #fyp #foryou #foryoupage </content>
+    <link href="https://tiktok.com/@claudcirillo/video/7225402344228261121" rel="alternate"/>
+    <published>2023-04-24T00:11:35+00:00</published>
   </entry>
 </feed>
