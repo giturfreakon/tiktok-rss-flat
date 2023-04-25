@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-04-24T17:27:19+00:00</updated>
+  <updated>2023-04-25T07:14:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7210922199656582443</id>
-    <title>[no title]</title>
-    <updated>2023-03-15T23:41:04+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7210922199656582443" rel="alternate"/>
-    <published>2023-03-15T23:41:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7211280998829411627</id>
     <title>Not much of a story but yea. Off to work! #SeeHerGreatness #storytime</title>
@@ -91,5 +83,13 @@
     <content>Bro its 8 in the morning WHY</content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7225669235391860010" rel="alternate"/>
     <published>2023-04-24T17:27:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7225882288486370606</id>
+    <title>#wildflowers #superbloom2023 #californiasuperbloom </title>
+    <updated>2023-04-25T07:14:50+00:00</updated>
+    <content>#wildflowers #superbloom2023 #californiasuperbloom </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7225882288486370606" rel="alternate"/>
+    <published>2023-04-25T07:14:50+00:00</published>
   </entry>
 </feed>
