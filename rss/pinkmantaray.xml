@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-04-25T00:16:51+00:00</updated>
+  <updated>2023-04-25T17:14:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7217875475195006254</id>
-    <title>I want to share more of my experience in healthcare because I know it's something many trans folks fear accessing - validly so! We often experience transphobia from doctors. #transgender #transcare #genderaffirmingcare #transman #healthcare #doctors #derm</title>
-    <updated>2023-04-03T17:23:28+00:00</updated>
-    <content>I want to share more of my experience in healthcare because I know it's something many trans folks fear accessing - validly so! We often experience transphobia from doctors. #transgender #transcare #genderaffirmingcare #transman #healthcare #doctors #dermatology #transness #gender </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7217875475195006254" rel="alternate"/>
-    <published>2023-04-03T17:23:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7218733350188535083</id>
     <title>Working on an exciting project out here in LA! Releasing april 10 🙌🏼 #transgender #trans #losangeles </title>
@@ -91,5 +83,13 @@
     <content>Announcing my podcast, DEAR SCHUYLER! Episode 1 (with my dad) and Episode 2 (with Lia ThomS) are live now anywhere you get podcasts! This first episode with my dad is near and dear to my heart. He and my mom have been my biggest cheerleaders and grounding forces in my life - and it's taken work to get here. I hope you love the conversation as much as I did. Spoiler alert. We both did some crying. #transgender #trans #dearschuyler #podcast #gender #transpodcast #transkids #transman #parentsoftranskids #comingout #lgbtq #pride </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7225774812738669870" rel="alternate"/>
     <published>2023-04-25T00:16:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7226036955526483242</id>
+    <title>Every media outlet has tried to tell Lia's story for her. It's time for Lia to tell it herself. Check out Episode 2 of DEAR SCHUYLER with Lia Thomas on Spotify, Apple Podcasts, YouTube, or anywhere you get your podcasts. For anyone wondering about fairnes</title>
+    <updated>2023-04-25T17:14:09+00:00</updated>
+    <content>Every media outlet has tried to tell Lia's story for her. It's time for Lia to tell it herself. Check out Episode 2 of DEAR SCHUYLER with Lia Thomas on Spotify, Apple Podcasts, YouTube, or anywhere you get your podcasts. For anyone wondering about fairness in sports when including trans athletes, register for my workshop "Trans Athletes Belong In Sport" at pinkmantaray.com/workshops to get a whole breakdown supported by research and facts. DEAR SCHUYLER is brought to you by @diversionpods 🎤 #transathlete #liathomas #dearschuyler #transgender</content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7226036955526483242" rel="alternate"/>
+    <published>2023-04-25T17:14:09+00:00</published>
   </entry>
 </feed>

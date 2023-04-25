@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-25T18:45:22+00:00</updated>
+  <updated>2023-04-25T23:21:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7225757610069478702</id>
-    <title>It’s when you see a teacher outside of school</title>
-    <updated>2023-04-24T23:10:06+00:00</updated>
-    <content>It’s when you see a teacher outside of school</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7225757610069478702" rel="alternate"/>
-    <published>2023-04-24T23:10:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7225764952982768938</id>
-    <title>Agree or disagree </title>
-    <updated>2023-04-24T23:38:37+00:00</updated>
-    <content>Agree or disagree </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7225764952982768938" rel="alternate"/>
-    <published>2023-04-24T23:38:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7225782333591293226</id>
     <title>Is the leg chain too much?</title>
@@ -91,5 +75,21 @@
     <content>Is an e-crush the same as a waifu?</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7226060470698954027" rel="alternate"/>
     <published>2023-04-25T18:45:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7226121293433752874</id>
+    <title>Should I do a princess peach cosplay</title>
+    <updated>2023-04-25T22:41:21+00:00</updated>
+    <content>Should I do a princess peach cosplay</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7226121293433752874" rel="alternate"/>
+    <published>2023-04-25T22:41:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7226131665414917419</id>
+    <title>One leg chain or two?</title>
+    <updated>2023-04-25T23:21:34+00:00</updated>
+    <content>One leg chain or two?</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7226131665414917419" rel="alternate"/>
+    <published>2023-04-25T23:21:34+00:00</published>
   </entry>
 </feed>

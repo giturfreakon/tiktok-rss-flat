@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-04-25T14:59:52+00:00</updated>
+  <updated>2023-04-25T22:09:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7224198053308140846</id>
-    <title>Fair enough </title>
-    <updated>2023-04-20T18:18:14+00:00</updated>
-    <content>Fair enough </content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7224198053308140846" rel="alternate"/>
-    <published>2023-04-20T18:18:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7224479750327323950</id>
     <title>Im wondering </title>
@@ -91,5 +83,13 @@
     <content>Hey there</content>
     <link href="https://tiktok.com/@mikaelaistired/video/7226002360856890667" rel="alternate"/>
     <published>2023-04-25T14:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7226113066642001198</id>
+    <title>One more time for all the good girls </title>
+    <updated>2023-04-25T22:09:23+00:00</updated>
+    <content>One more time for all the good girls </content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7226113066642001198" rel="alternate"/>
+    <published>2023-04-25T22:09:23+00:00</published>
   </entry>
 </feed>
