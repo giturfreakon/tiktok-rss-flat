@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-04-25T01:09:39+00:00</updated>
+  <updated>2023-04-25T15:20:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7220579740208467242</id>
-    <title>#duet with @terra.shanese #Makeup 🦑 handsome squidward #indigenous #kanaka #hawaiian #native </title>
-    <updated>2023-04-11T00:17:21+00:00</updated>
-    <content>#duet with @terra.shanese #Makeup 🦑 handsome squidward #indigenous #kanaka #hawaiian #native </content>
-    <link href="https://tiktok.com/@kamehalani/video/7220579740208467242" rel="alternate"/>
-    <published>2023-04-11T00:17:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7220831983147011374</id>
-    <title>#greenscreenvideo #greenscreen yikes #saawareness #survivor </title>
-    <updated>2023-04-11T16:36:22+00:00</updated>
-    <content>#greenscreenvideo #greenscreen yikes #saawareness #survivor </content>
-    <link href="https://tiktok.com/@kamehalani/video/7220831983147011374" rel="alternate"/>
-    <published>2023-04-11T16:36:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7221563827928894766</id>
     <title>Wow - also not to mention the yt supèrmaçists outside opening week for the musical. Insensitive much? #jewish #jewtok </title>
@@ -91,5 +75,21 @@
     <content>Help me #haircut </content>
     <link href="https://tiktok.com/@kamehalani/video/7225788409699142955" rel="alternate"/>
     <published>2023-04-25T01:09:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7226002159299579182</id>
+    <title>AFTER SHE WAS TALKING ABOUT HOW SAD IT IS SHE KNEW SOMEONE ELSE WHO GOT SAED. What about me tho? Omg </title>
+    <updated>2023-04-25T14:59:04+00:00</updated>
+    <content>AFTER SHE WAS TALKING ABOUT HOW SAD IT IS SHE KNEW SOMEONE ELSE WHO GOT SAED. What about me tho? Omg </content>
+    <link href="https://tiktok.com/@kamehalani/video/7226002159299579182" rel="alternate"/>
+    <published>2023-04-25T14:59:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7226007574020115758</id>
+    <title>Oh</title>
+    <updated>2023-04-25T15:20:06+00:00</updated>
+    <content>Oh</content>
+    <link href="https://tiktok.com/@kamehalani/video/7226007574020115758" rel="alternate"/>
+    <published>2023-04-25T15:20:06+00:00</published>
   </entry>
 </feed>
