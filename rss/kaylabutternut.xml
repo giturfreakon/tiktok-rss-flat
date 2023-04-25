@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-25T02:53:52+00:00</updated>
+  <updated>2023-04-25T08:14:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7225538437582196014</id>
-    <title>4 am who’s awake </title>
-    <updated>2023-04-24T09:01:10+00:00</updated>
-    <content>4 am who’s awake </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7225538437582196014" rel="alternate"/>
-    <published>2023-04-24T09:01:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7225663804246428971</id>
-    <title>*tap tap tap* is this thing on?</title>
-    <updated>2023-04-24T17:06:17+00:00</updated>
-    <content>*tap tap tap* is this thing on?</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7225663804246428971" rel="alternate"/>
-    <published>2023-04-24T17:06:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7225693304447323435</id>
     <title>I hope you’re making her happy</title>
@@ -91,5 +75,21 @@
     <content>WHO MADE THIS SOUND </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7225815279249394987" rel="alternate"/>
     <published>2023-04-25T02:53:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7225872193455017259</id>
+    <title>I am obsessed w you guys </title>
+    <updated>2023-04-25T06:35:40+00:00</updated>
+    <content>I am obsessed w you guys </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7225872193455017259" rel="alternate"/>
+    <published>2023-04-25T06:35:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7225897680483061038</id>
+    <title>Goodnight will you marry me</title>
+    <updated>2023-04-25T08:14:58+00:00</updated>
+    <content>Goodnight will you marry me</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7225897680483061038" rel="alternate"/>
+    <published>2023-04-25T08:14:58+00:00</published>
   </entry>
 </feed>
