@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-04-24T16:07:38+00:00</updated>
+  <updated>2023-04-25T14:59:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7224158892362616106</id>
-    <title>I know</title>
-    <updated>2023-04-20T15:46:15+00:00</updated>
-    <content>I know</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7224158892362616106" rel="alternate"/>
-    <published>2023-04-20T15:46:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7224198053308140846</id>
     <title>Fair enough </title>
@@ -91,5 +83,13 @@
     <content>An accusation </content>
     <link href="https://tiktok.com/@mikaelaistired/video/7225648711890636075" rel="alternate"/>
     <published>2023-04-24T16:07:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7226002360856890667</id>
+    <title>Hey there</title>
+    <updated>2023-04-25T14:59:52+00:00</updated>
+    <content>Hey there</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7226002360856890667" rel="alternate"/>
+    <published>2023-04-25T14:59:52+00:00</published>
   </entry>
 </feed>

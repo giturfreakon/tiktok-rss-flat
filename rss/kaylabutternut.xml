@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-25T08:14:58+00:00</updated>
+  <updated>2023-04-25T17:36:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7225693304447323435</id>
-    <title>I hope you’re making her happy</title>
-    <updated>2023-04-24T19:00:41+00:00</updated>
-    <content>I hope you’re making her happy</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7225693304447323435" rel="alternate"/>
-    <published>2023-04-24T19:00:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7225725829626580267</id>
     <title>I never dropped it</title>
@@ -91,5 +83,13 @@
     <content>Goodnight will you marry me</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7225897680483061038" rel="alternate"/>
     <published>2023-04-25T08:14:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7226042659821849902</id>
+    <title>Esp in texas</title>
+    <updated>2023-04-25T17:36:13+00:00</updated>
+    <content>Esp in texas</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7226042659821849902" rel="alternate"/>
+    <published>2023-04-25T17:36:13+00:00</published>
   </entry>
 </feed>
