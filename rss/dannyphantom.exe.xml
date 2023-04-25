@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-04-24T02:18:14+00:00</updated>
+  <updated>2023-04-25T02:16:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7222837051622804779</id>
-    <title>guess ill cry then 😓 </title>
-    <updated>2023-04-17T02:16:54+00:00</updated>
-    <content>guess ill cry then 😓 </content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7222837051622804779" rel="alternate"/>
-    <published>2023-04-17T02:16:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7222837416959331630</id>
-    <title>i know ur a liar </title>
-    <updated>2023-04-17T02:18:16+00:00</updated>
-    <content>i know ur a liar </content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7222837416959331630" rel="alternate"/>
-    <published>2023-04-17T02:18:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7223207803991706926</id>
     <title>tag your best friend </title>
@@ -91,5 +75,21 @@
     <content>comment ur favorite dnd class and wizard insult</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7225435013523737902" rel="alternate"/>
     <published>2023-04-24T02:18:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7225805441731792174</id>
+    <title>[no title]</title>
+    <updated>2023-04-25T02:15:45+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7225805441731792174" rel="alternate"/>
+    <published>2023-04-25T02:15:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7225805705033354539</id>
+    <title>tag them</title>
+    <updated>2023-04-25T02:16:45+00:00</updated>
+    <content>tag them</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7225805705033354539" rel="alternate"/>
+    <published>2023-04-25T02:16:45+00:00</published>
   </entry>
 </feed>
