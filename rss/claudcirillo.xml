@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@claudcirillo</id>
   <title>@claudcirillo | TikTok</title>
-  <updated>2023-04-24T00:11:35+00:00</updated>
+  <updated>2023-04-24T23:22:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @claudcirillo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7223906283722755329</id>
-    <title>#pov : His mother doesn’t realise colours have no gender (ib: @Lexie Leith) #fyp #foryou #foryoupage </title>
-    <updated>2023-04-19T23:26:01+00:00</updated>
-    <content>#pov : His mother doesn’t realise colours have no gender (ib: @Lexie Leith) #fyp #foryou #foryoupage </content>
-    <link href="https://tiktok.com/@claudcirillo/video/7223906283722755329" rel="alternate"/>
-    <published>2023-04-19T23:26:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@claudcirillo/video/7224242561953615105</id>
     <title>#pov : You get along with everyone… Except one type of person #fyp #foryou #fypシ </title>
@@ -91,5 +83,13 @@
     <content>#pov : Her Husband never helps when she asks #fyp #foryou #foryoupage </content>
     <link href="https://tiktok.com/@claudcirillo/video/7225402344228261121" rel="alternate"/>
     <published>2023-04-24T00:11:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7225760729381620993</id>
+    <title>Red felt right…</title>
+    <updated>2023-04-24T23:22:11+00:00</updated>
+    <content>Red felt right…</content>
+    <link href="https://tiktok.com/@claudcirillo/video/7225760729381620993" rel="alternate"/>
+    <published>2023-04-24T23:22:11+00:00</published>
   </entry>
 </feed>

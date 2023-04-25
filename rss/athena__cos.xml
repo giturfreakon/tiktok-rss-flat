@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-04-24T00:04:11+00:00</updated>
+  <updated>2023-04-24T21:16:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7219771171594620203</id>
-    <title>Its MUSCLE QUEEN SEASON #wonderwoman #wonderwomancosplay #musclequeen #muscle #buffwomen #cosplay </title>
-    <updated>2023-04-08T19:59:39+00:00</updated>
-    <content>Its MUSCLE QUEEN SEASON #wonderwoman #wonderwomancosplay #musclequeen #muscle #buffwomen #cosplay </content>
-    <link href="https://tiktok.com/@athena__cos/video/7219771171594620203" rel="alternate"/>
-    <published>2023-04-08T19:59:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7220535876924001582</id>
-    <title>It IMMEDIATELY will make me gag every time #gymgirls #protein #buffwomen #gymtok #musclequeen </title>
-    <updated>2023-04-10T21:27:08+00:00</updated>
-    <content>It IMMEDIATELY will make me gag every time #gymgirls #protein #buffwomen #gymtok #musclequeen </content>
-    <link href="https://tiktok.com/@athena__cos/video/7220535876924001582" rel="alternate"/>
-    <published>2023-04-10T21:27:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7221629648344714542</id>
     <title>Which anime genre is this??  We back in BULKING season baby 💪 #gymtok #buffwomen #musclequeen #thickthighessaveslive #gym #womenwholift #musclemommy #protein #proteinprincess </title>
@@ -91,5 +75,21 @@
     <content>What if we slow danced at the mountain america expo center haha jk…unless?? #rwby #wlw #yangxiaolongcosplay #blakecosplay #rwbycosplay #lesbiancouple </content>
     <link href="https://tiktok.com/@athena__cos/video/7225400457387347246" rel="alternate"/>
     <published>2023-04-24T00:04:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7225711804603731243</id>
+    <title>Gojo solos all except Anya Forger @kaijitang  #gojo #gojousatoru #goku #dragonball  </title>
+    <updated>2023-04-24T20:12:23+00:00</updated>
+    <content>Gojo solos all except Anya Forger @kaijitang  #gojo #gojousatoru #goku #dragonball  </content>
+    <link href="https://tiktok.com/@athena__cos/video/7225711804603731243" rel="alternate"/>
+    <published>2023-04-24T20:12:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7225728383991270699</id>
+    <title>There are SOOOOO many other effects! This isn’t even a sponsored post i’m just obsessed @allysabers  #darksaber #starwars #starwarscontent #sfx #lightsaber </title>
+    <updated>2023-04-24T21:16:44+00:00</updated>
+    <content>There are SOOOOO many other effects! This isn’t even a sponsored post i’m just obsessed @allysabers  #darksaber #starwars #starwarscontent #sfx #lightsaber </content>
+    <link href="https://tiktok.com/@athena__cos/video/7225728383991270699" rel="alternate"/>
+    <published>2023-04-24T21:16:44+00:00</published>
   </entry>
 </feed>
