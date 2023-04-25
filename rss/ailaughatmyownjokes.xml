@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ailaughatmyownjokes</id>
   <title>@ailaughatmyownjokes | TikTok</title>
-  <updated>2023-04-21T18:57:35+00:00</updated>
+  <updated>2023-04-25T14:19:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ailaughatmyownjokes</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ailaughatmyownjokes/video/7216383321528487173</id>
-    <title>Divination &gt;&gt;&gt;&gt; #harrypotter #comedy #skit </title>
-    <updated>2023-03-30T16:52:58+00:00</updated>
-    <content>Divination &gt;&gt;&gt;&gt; #harrypotter #comedy #skit </content>
-    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7216383321528487173" rel="alternate"/>
-    <published>2023-03-30T16:52:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ailaughatmyownjokes/video/7217886839846259995</id>
     <title>Can't even enjoy a choccy milk #harrypotter #skit #comedy</title>
@@ -91,5 +83,13 @@
     <content>I didn't do it on purpose😔  #hungergames #skit #comedy</content>
     <link href="https://tiktok.com/@ailaughatmyownjokes/video/7224579292162772251" rel="alternate"/>
     <published>2023-04-21T18:57:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ailaughatmyownjokes/video/7225991989534264603</id>
+    <title>I watched inside out a couple of days ago... that's why #insideout #skit #comedy </title>
+    <updated>2023-04-25T14:19:32+00:00</updated>
+    <content>I watched inside out a couple of days ago... that's why #insideout #skit #comedy </content>
+    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7225991989534264603" rel="alternate"/>
+    <published>2023-04-25T14:19:32+00:00</published>
   </entry>
 </feed>
