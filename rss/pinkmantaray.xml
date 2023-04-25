@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-04-21T21:03:02+00:00</updated>
+  <updated>2023-04-25T00:16:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7217575864442178858</id>
-    <title>If you read about the TN shooter being trans and concluded that gender identity and transness is a problem, you need to take a step back and look at some facts. You're being played by the system that wants to distract you deom the real problem - which is </title>
-    <updated>2023-04-02T22:00:49+00:00</updated>
-    <content>If you read about the TN shooter being trans and concluded that gender identity and transness is a problem, you need to take a step back and look at some facts. You're being played by the system that wants to distract you deom the real problem - which is NOT trans people or transness. It's systemic oppression, racism, and patriarchal violence. #transgender #trans #lgbtq #transshooter #shooting #gunviolence #tennesseeshooter </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7217575864442178858" rel="alternate"/>
-    <published>2023-04-02T22:00:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7217875475195006254</id>
     <title>I want to share more of my experience in healthcare because I know it's something many trans folks fear accessing - validly so! We often experience transphobia from doctors. #transgender #transcare #genderaffirmingcare #transman #healthcare #doctors #derm</title>
@@ -91,5 +83,13 @@
     <content>Thoughts on HR 734 &amp; transgender athletes. #letkidsplay #lettranskidsplay #transgender #transathlete #trans #transgenderathlete #gender #sports #womenssports #hr734 </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7224611613519760686" rel="alternate"/>
     <published>2023-04-21T21:03:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7225774812738669870</id>
+    <title>Announcing my podcast, DEAR SCHUYLER! Episode 1 (with my dad) and Episode 2 (with Lia ThomS) are live now anywhere you get podcasts! This first episode with my dad is near and dear to my heart. He and my mom have been my biggest cheerleaders and grounding</title>
+    <updated>2023-04-25T00:16:51+00:00</updated>
+    <content>Announcing my podcast, DEAR SCHUYLER! Episode 1 (with my dad) and Episode 2 (with Lia ThomS) are live now anywhere you get podcasts! This first episode with my dad is near and dear to my heart. He and my mom have been my biggest cheerleaders and grounding forces in my life - and it's taken work to get here. I hope you love the conversation as much as I did. Spoiler alert. We both did some crying. #transgender #trans #dearschuyler #podcast #gender #transpodcast #transkids #transman #parentsoftranskids #comingout #lgbtq #pride </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7225774812738669870" rel="alternate"/>
+    <published>2023-04-25T00:16:51+00:00</published>
   </entry>
 </feed>
