@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grizzoworld</id>
   <title>@grizzoworld | TikTok</title>
-  <updated>2023-04-26T17:29:49+00:00</updated>
+  <updated>2023-04-26T19:04:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grizzoworld</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grizzoworld/video/7219750537678392582</id>
-    <title>Fooled ‘em 💯 💯 #uncatchable </title>
-    <updated>2023-04-08T18:39:29+00:00</updated>
-    <content>Fooled ‘em 💯 💯 #uncatchable </content>
-    <link href="https://tiktok.com/@grizzoworld/video/7219750537678392582" rel="alternate"/>
-    <published>2023-04-08T18:39:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grizzoworld/video/7220455095954164997</id>
     <title>Recent purchase from Jaded Ldn + highly recommend for all my fashion goddesses out there 😊</title>
@@ -91,5 +83,13 @@
     <content>Long live the vest! 🫡🫡🫡🫡</content>
     <link href="https://tiktok.com/@grizzoworld/video/7226412110673087770" rel="alternate"/>
     <published>2023-04-26T17:29:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grizzoworld/video/7226436480313412891</id>
+    <title>Replying to @Ryan Hood from sweet ➡️ queen of the underworld…</title>
+    <updated>2023-04-26T19:04:23+00:00</updated>
+    <content>Replying to @Ryan Hood from sweet ➡️ queen of the underworld…</content>
+    <link href="https://tiktok.com/@grizzoworld/video/7226436480313412891" rel="alternate"/>
+    <published>2023-04-26T19:04:23+00:00</published>
   </entry>
 </feed>
