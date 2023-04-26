@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grizzoworld</id>
   <title>@grizzoworld | TikTok</title>
-  <updated>2023-04-25T17:18:35+00:00</updated>
+  <updated>2023-04-26T17:29:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grizzoworld</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grizzoworld/video/7218650386226236678</id>
-    <title>A techwear skirt 👀👀 </title>
-    <updated>2023-04-05T19:30:19+00:00</updated>
-    <content>A techwear skirt 👀👀 </content>
-    <link href="https://tiktok.com/@grizzoworld/video/7218650386226236678" rel="alternate"/>
-    <published>2023-04-05T19:30:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grizzoworld/video/7219750537678392582</id>
     <title>Fooled ‘em 💯 💯 #uncatchable </title>
@@ -91,5 +83,13 @@
     <content>LETS GO BARBIE</content>
     <link href="https://tiktok.com/@grizzoworld/video/7226038133157055771" rel="alternate"/>
     <published>2023-04-25T17:18:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grizzoworld/video/7226412110673087770</id>
+    <title>Long live the vest! 🫡🫡🫡🫡</title>
+    <updated>2023-04-26T17:29:49+00:00</updated>
+    <content>Long live the vest! 🫡🫡🫡🫡</content>
+    <link href="https://tiktok.com/@grizzoworld/video/7226412110673087770" rel="alternate"/>
+    <published>2023-04-26T17:29:49+00:00</published>
   </entry>
 </feed>
