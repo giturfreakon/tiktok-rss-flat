@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ratatootle</id>
   <title>@ratatootle | TikTok</title>
-  <updated>2023-04-21T13:27:58+00:00</updated>
+  <updated>2023-04-26T00:33:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ratatootle</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ratatootle/video/7218656735383457070</id>
-    <title>BOOK CLUB FOR HATERS IS NOW IN SESSION: Speaking my truth about daisy jones and the six #daisyjonesandthesix #booktok </title>
-    <updated>2023-04-05T19:55:10+00:00</updated>
-    <content>BOOK CLUB FOR HATERS IS NOW IN SESSION: Speaking my truth about daisy jones and the six #daisyjonesandthesix #booktok </content>
-    <link href="https://tiktok.com/@ratatootle/video/7218656735383457070" rel="alternate"/>
-    <published>2023-04-05T19:55:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ratatootle/video/7219297880878714158</id>
     <title>Idk why my tonsils are so swollen but that is what i have learned from this budeo </title>
@@ -91,5 +83,13 @@
     <content>Back at it with Book Club for Haters</content>
     <link href="https://tiktok.com/@ratatootle/video/7224494242909981995" rel="alternate"/>
     <published>2023-04-21T13:27:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ratatootle/video/7226150101234896170</id>
+    <title>I am handling this fine i actually think 2020 part 2 sounds great </title>
+    <updated>2023-04-26T00:33:07+00:00</updated>
+    <content>I am handling this fine i actually think 2020 part 2 sounds great </content>
+    <link href="https://tiktok.com/@ratatootle/video/7226150101234896170" rel="alternate"/>
+    <published>2023-04-26T00:33:07+00:00</published>
   </entry>
 </feed>

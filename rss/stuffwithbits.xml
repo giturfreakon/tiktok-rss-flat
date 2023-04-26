@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-04-25T21:18:37+00:00</updated>
+  <updated>2023-04-25T23:27:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7224288804763487530</id>
-    <title>Best day ever? Best day ever! #solardidsystem #ssalex </title>
-    <updated>2023-04-21T00:10:21+00:00</updated>
-    <content>Best day ever? Best day ever! #solardidsystem #ssalex </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7224288804763487530" rel="alternate"/>
-    <published>2023-04-21T00:10:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7224301145462754603</id>
     <title>Maybe your anger at our joy is actually anger at your lack of joy. And that's 100% on you. But if you keep fucking around, you're gonna find out 🤷 #solardidsystem #ssalex </title>
@@ -91,5 +83,13 @@
     <content>Heya! Interesting turn of events these last few days. #solardidsystem #sszenith #dissociativeidentitydisorder #alterintro #alterfusion </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7226099975581650218" rel="alternate"/>
     <published>2023-04-25T21:18:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7226133313394576683</id>
+    <title>Replying to @christinethecatlady #reply I edited this and I still can't tell if this makes any sense to anyone else but it does to me so Imma post it 😅 #solardidsystem #sszenith #dissociativeidentitydisorder </title>
+    <updated>2023-04-25T23:27:56+00:00</updated>
+    <content>Replying to @christinethecatlady #reply I edited this and I still can't tell if this makes any sense to anyone else but it does to me so Imma post it 😅 #solardidsystem #sszenith #dissociativeidentitydisorder </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7226133313394576683" rel="alternate"/>
+    <published>2023-04-25T23:27:56+00:00</published>
   </entry>
 </feed>
