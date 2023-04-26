@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-26T08:36:59+00:00</updated>
+  <updated>2023-04-26T20:57:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7225815279249394987</id>
-    <title>WHO MADE THIS SOUND </title>
-    <updated>2023-04-25T02:53:52+00:00</updated>
-    <content>WHO MADE THIS SOUND </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7225815279249394987" rel="alternate"/>
-    <published>2023-04-25T02:53:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7225872193455017259</id>
-    <title>I am obsessed w you guys </title>
-    <updated>2023-04-25T06:35:40+00:00</updated>
-    <content>I am obsessed w you guys </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7225872193455017259" rel="alternate"/>
-    <published>2023-04-25T06:35:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7226042659821849902</id>
-    <title>Esp in texas</title>
-    <updated>2023-04-25T17:36:13+00:00</updated>
-    <content>Esp in texas</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7226042659821849902" rel="alternate"/>
-    <published>2023-04-25T17:36:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7226060470698954027</id>
     <title>Is an e-crush the same as a waifu?</title>
@@ -91,5 +67,29 @@
     <content>I just ordered this skirt in blue :&gt;</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7226274745191484718" rel="alternate"/>
     <published>2023-04-26T08:36:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7226411647399628074</id>
+    <title>I’m going for coffee, do you guys want anything?</title>
+    <updated>2023-04-26T17:28:07+00:00</updated>
+    <content>I’m going for coffee, do you guys want anything?</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7226411647399628074" rel="alternate"/>
+    <published>2023-04-26T17:28:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7226451678101376299</id>
+    <title>My sister taught me to put pasta on top of my pizza and it changed my life</title>
+    <updated>2023-04-26T20:03:26+00:00</updated>
+    <content>My sister taught me to put pasta on top of my pizza and it changed my life</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7226451678101376299" rel="alternate"/>
+    <published>2023-04-26T20:03:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7226465702356536618</id>
+    <title>Smile :)</title>
+    <updated>2023-04-26T20:57:49+00:00</updated>
+    <content>Smile :)</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7226465702356536618" rel="alternate"/>
+    <published>2023-04-26T20:57:49+00:00</published>
   </entry>
 </feed>
