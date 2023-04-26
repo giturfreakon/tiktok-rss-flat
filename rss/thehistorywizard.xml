@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-04-25T14:57:34+00:00</updated>
+  <updated>2023-04-26T14:51:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7220128022005878058</id>
-    <title>#stitch with @yuvaltheterrible Legally speaking, you're incorrect. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism #greenscreen </title>
-    <updated>2023-04-09T19:04:27+00:00</updated>
-    <content>#stitch with @yuvaltheterrible Legally speaking, you're incorrect. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism #greenscreen </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7220128022005878058" rel="alternate"/>
-    <published>2023-04-09T19:04:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7220817899101883694</id>
     <title>#thehistorywizard #vacation #Scotland </title>
@@ -91,5 +83,13 @@
     <content>Replying to @british._fillip Swing and a miss. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7226001764649159978" rel="alternate"/>
     <published>2023-04-25T14:57:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7226371392172887342</id>
+    <title>Share this with everyone. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism #greenscreen </title>
+    <updated>2023-04-26T14:51:54+00:00</updated>
+    <content>Share this with everyone. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism #greenscreen </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7226371392172887342" rel="alternate"/>
+    <published>2023-04-26T14:51:54+00:00</published>
   </entry>
 </feed>
