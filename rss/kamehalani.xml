@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-04-26T05:00:26+00:00</updated>
+  <updated>2023-04-26T15:28:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7222352936821706026</id>
-    <title>Are you team Zales or team Deandra? #mpgis </title>
-    <updated>2023-04-15T18:58:18+00:00</updated>
-    <content>Are you team Zales or team Deandra? #mpgis </content>
-    <link href="https://tiktok.com/@kamehalani/video/7222352936821706026" rel="alternate"/>
-    <published>2023-04-15T18:58:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7223143468087168302</id>
-    <title>#greenscreen my opinion #kanaka #hawaiian #hawaii #liloandstitch #nanipelekai #nativetiktok #nativehawaiian </title>
-    <updated>2023-04-17T22:05:51+00:00</updated>
-    <content>#greenscreen my opinion #kanaka #hawaiian #hawaii #liloandstitch #nanipelekai #nativetiktok #nativehawaiian </content>
-    <link href="https://tiktok.com/@kamehalani/video/7223143468087168302" rel="alternate"/>
-    <published>2023-04-17T22:05:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7223407450882428203</id>
     <title>Replying to @jessbest30xo nope #kanaka #liloandstitch #hawaiian #hawaii #nanipelekai #nativehawaiian #indigenous </title>
@@ -91,5 +75,21 @@
     <content>Ooooo</content>
     <link href="https://tiktok.com/@kamehalani/video/7226218983412796714" rel="alternate"/>
     <published>2023-04-26T05:00:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7226372542796205355</id>
+    <title>Use your voice and vote this election. There are way too many issues at risk. #biden #voteblue #vote #politics </title>
+    <updated>2023-04-26T14:56:20+00:00</updated>
+    <content>Use your voice and vote this election. There are way too many issues at risk. #biden #voteblue #vote #politics </content>
+    <link href="https://tiktok.com/@kamehalani/video/7226372542796205355" rel="alternate"/>
+    <published>2023-04-26T14:56:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7226380690710039854</id>
+    <title>[no title]</title>
+    <updated>2023-04-26T15:28:01+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kamehalani/video/7226380690710039854" rel="alternate"/>
+    <published>2023-04-26T15:28:01+00:00</published>
   </entry>
 </feed>
