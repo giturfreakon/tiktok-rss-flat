@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-25T23:21:34+00:00</updated>
+  <updated>2023-04-26T03:49:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7225782333591293226</id>
-    <title>Is the leg chain too much?</title>
-    <updated>2023-04-25T00:46:01+00:00</updated>
-    <content>Is the leg chain too much?</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7225782333591293226" rel="alternate"/>
-    <published>2023-04-25T00:46:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7225795938302905643</id>
     <title>Get ready for 30 drunk tiktoks</title>
@@ -53,14 +45,6 @@
     <published>2023-04-25T06:35:40+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7225897680483061038</id>
-    <title>Goodnight will you marry me</title>
-    <updated>2023-04-25T08:14:58+00:00</updated>
-    <content>Goodnight will you marry me</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7225897680483061038" rel="alternate"/>
-    <published>2023-04-25T08:14:58+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7226042659821849902</id>
     <title>Esp in texas</title>
     <updated>2023-04-25T17:36:13+00:00</updated>
@@ -91,5 +75,21 @@
     <content>One leg chain or two?</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7226131665414917419" rel="alternate"/>
     <published>2023-04-25T23:21:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7226150129449979178</id>
+    <title>[no title]</title>
+    <updated>2023-04-26T00:33:13+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7226150129449979178" rel="alternate"/>
+    <published>2023-04-26T00:33:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7226200813914344747</id>
+    <title>The legos in the back</title>
+    <updated>2023-04-26T03:49:58+00:00</updated>
+    <content>The legos in the back</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7226200813914344747" rel="alternate"/>
+    <published>2023-04-26T03:49:58+00:00</published>
   </entry>
 </feed>
