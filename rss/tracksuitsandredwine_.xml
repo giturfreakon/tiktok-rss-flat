@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-04-25T10:45:53+00:00</updated>
+  <updated>2023-04-27T05:49:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7222775499049717000</id>
-    <title>tiktok this is a prop ily </title>
-    <updated>2023-04-16T22:18:03+00:00</updated>
-    <content>tiktok this is a prop ily </content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7222775499049717000" rel="alternate"/>
-    <published>2023-04-16T22:18:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7223350506788326663</id>
     <title>“mother is mothering yall” - calahan skogman 2023</title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7225936934621777154" rel="alternate"/>
     <published>2023-04-25T10:45:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7226602839483665666</id>
+    <title>NEVER GET AWAYYYYY</title>
+    <updated>2023-04-27T05:49:58+00:00</updated>
+    <content>NEVER GET AWAYYYYY</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7226602839483665666" rel="alternate"/>
+    <published>2023-04-27T05:49:58+00:00</published>
   </entry>
 </feed>
