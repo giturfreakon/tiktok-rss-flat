@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@claudcirillo</id>
   <title>@claudcirillo | TikTok</title>
-  <updated>2023-04-26T21:08:09+00:00</updated>
+  <updated>2023-04-26T22:50:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @claudcirillo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7224612319928601857</id>
-    <title>#pov : You dont get along with your in laws… #fyp #foryou #foryoupage</title>
-    <updated>2023-04-21T21:05:45+00:00</updated>
-    <content>#pov : You dont get along with your in laws… #fyp #foryou #foryoupage</content>
-    <link href="https://tiktok.com/@claudcirillo/video/7224612319928601857" rel="alternate"/>
-    <published>2023-04-21T21:05:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@claudcirillo/video/7224636100273392897</id>
     <title>#pov : They answer a question that usually catches people off guard #fyp #foryou </title>
@@ -91,5 +83,13 @@
     <content>#pov : She calls out for help to anything that will hear her, something listened… (Use code: claudcirillo for 15% off your purchase @TTDeye) #ttdeye TTDEYE- Wear your glow #fyp #foryou #foryoupage</content>
     <link href="https://tiktok.com/@claudcirillo/video/7226468354909932802" rel="alternate"/>
     <published>2023-04-26T21:08:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7226494761069186305</id>
+    <title>#pov : You promised each other it was just a game #fyp #foryou #foryoupage </title>
+    <updated>2023-04-26T22:50:46+00:00</updated>
+    <content>#pov : You promised each other it was just a game #fyp #foryou #foryoupage </content>
+    <link href="https://tiktok.com/@claudcirillo/video/7226494761069186305" rel="alternate"/>
+    <published>2023-04-26T22:50:46+00:00</published>
   </entry>
 </feed>
