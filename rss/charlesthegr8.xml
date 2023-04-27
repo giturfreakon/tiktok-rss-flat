@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-04-27T03:15:48+00:00</updated>
+  <updated>2023-04-27T17:35:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7222757270352842027</id>
-    <title>Most powerful phrase I’ve ever known!!! #4u #iykyk #charlesthegr8 </title>
-    <updated>2023-04-16T21:07:16+00:00</updated>
-    <content>Most powerful phrase I’ve ever known!!! #4u #iykyk #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7222757270352842027" rel="alternate"/>
-    <published>2023-04-16T21:07:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7223415834939723054</id>
-    <title>Always good to have a friend like this #iykyk #friend #charlesthegr8</title>
-    <updated>2023-04-18T15:43:17+00:00</updated>
-    <content>Always good to have a friend like this #iykyk #friend #charlesthegr8</content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7223415834939723054" rel="alternate"/>
-    <published>2023-04-18T15:43:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7223890059752164650</id>
     <title>Guilty!!! #iykyk #4u  #charlesthegr8   </title>
@@ -91,5 +75,21 @@
     <content>Petty lvl 1000 #4u #iykyk #charlesthgr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7226563076726852910" rel="alternate"/>
     <published>2023-04-27T03:15:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7226778285278121259</id>
+    <title>Off limits!!! 😤😤😤 #4u #siblings #charlesthegr8  </title>
+    <updated>2023-04-27T17:10:51+00:00</updated>
+    <content>Off limits!!! 😤😤😤 #4u #siblings #charlesthegr8  </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7226778285278121259" rel="alternate"/>
+    <published>2023-04-27T17:10:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7226784667578633518</id>
+    <title>Like duh!!! #4u #charlesthegr8 #dating </title>
+    <updated>2023-04-27T17:35:38+00:00</updated>
+    <content>Like duh!!! #4u #charlesthegr8 #dating </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7226784667578633518" rel="alternate"/>
+    <published>2023-04-27T17:35:38+00:00</published>
   </entry>
 </feed>

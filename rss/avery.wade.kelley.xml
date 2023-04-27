@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-04-25T19:15:25+00:00</updated>
+  <updated>2023-04-27T16:17:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7221958423091350830</id>
-    <title>Let's get one thing straight. I LOVE Chester Bennington, and I take it as a high compliment. But the amount of you who have said I look/sound like him is uncanny. Haha. No shade, no hate! Just thought this would be fun! #fyp #trans </title>
-    <updated>2023-04-14T17:27:17+00:00</updated>
-    <content>Let's get one thing straight. I LOVE Chester Bennington, and I take it as a high compliment. But the amount of you who have said I look/sound like him is uncanny. Haha. No shade, no hate! Just thought this would be fun! #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7221958423091350830" rel="alternate"/>
-    <published>2023-04-14T17:27:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7223057371789069610</id>
     <title>Back in Orlando! #fyp #trans </title>
@@ -91,5 +83,13 @@
     <content>Gather your fucking bricks. #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7226068220048969002" rel="alternate"/>
     <published>2023-04-25T19:15:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7226764417629998382</id>
+    <title>#stitch with @avery.wade.kelley I use @drdhtbeardproducts every day to help my facial hair growth. I'd say it's definitely working, along with time and patience. :] #fyp #trans </title>
+    <updated>2023-04-27T16:17:06+00:00</updated>
+    <content>#stitch with @avery.wade.kelley I use @drdhtbeardproducts every day to help my facial hair growth. I'd say it's definitely working, along with time and patience. :] #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7226764417629998382" rel="alternate"/>
+    <published>2023-04-27T16:17:06+00:00</published>
   </entry>
 </feed>
