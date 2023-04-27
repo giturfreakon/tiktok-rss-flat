@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-04-25T17:14:09+00:00</updated>
+  <updated>2023-04-26T21:18:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7218733350188535083</id>
-    <title>Working on an exciting project out here in LA! Releasing april 10 🙌🏼 #transgender #trans #losangeles </title>
-    <updated>2023-04-06T00:52:24+00:00</updated>
-    <content>Working on an exciting project out here in LA! Releasing april 10 🙌🏼 #transgender #trans #losangeles </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7218733350188535083" rel="alternate"/>
-    <published>2023-04-06T00:52:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7219347469283577134</id>
     <title>Gender affirming healthcare is safe, medically necesary, and can be lifesaving. All sources at pinkmantaray.com/facts. #transgender #genderaffirmingcare #genderaffirmingsurgery #gender #lgbtq #transkids #transition #gendertransition #hrt #hormones #transm</title>
@@ -91,5 +83,13 @@
     <content>Every media outlet has tried to tell Lia's story for her. It's time for Lia to tell it herself. Check out Episode 2 of DEAR SCHUYLER with Lia Thomas on Spotify, Apple Podcasts, YouTube, or anywhere you get your podcasts. For anyone wondering about fairness in sports when including trans athletes, register for my workshop "Trans Athletes Belong In Sport" at pinkmantaray.com/workshops to get a whole breakdown supported by research and facts. DEAR SCHUYLER is brought to you by @diversionpods 🎤 #transathlete #liathomas #dearschuyler #transgender</content>
     <link href="https://tiktok.com/@pinkmantaray/video/7226036955526483242" rel="alternate"/>
     <published>2023-04-25T17:14:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7226471126627634475</id>
+    <title>Transphobia is perpetuated theough fearmongering and lying. If you read Megyn's tweet and agrees with her - youre being tricked. @netflix do better. #transgender #transathlete #transwomen #sports #womenssports #transwomenarewomen #trans #transgenderathlet</title>
+    <updated>2023-04-26T21:18:55+00:00</updated>
+    <content>Transphobia is perpetuated theough fearmongering and lying. If you read Megyn's tweet and agrees with her - youre being tricked. @netflix do better. #transgender #transathlete #transwomen #sports #womenssports #transwomenarewomen #trans #transgenderathlete #lettranskidsplay #inclusion </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7226471126627634475" rel="alternate"/>
+    <published>2023-04-26T21:18:55+00:00</published>
   </entry>
 </feed>
