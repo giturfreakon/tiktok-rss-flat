@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-04-27T02:33:01+00:00</updated>
+  <updated>2023-04-27T03:15:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7221569138886610222</id>
-    <title>Uh yes they would 🤣 #4u #suspicious #charlesthgr8 ig:official.charlesthegr8 </title>
-    <updated>2023-04-13T16:16:42+00:00</updated>
-    <content>Uh yes they would 🤣 #4u #suspicious #charlesthgr8 ig:official.charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7221569138886610222" rel="alternate"/>
-    <published>2023-04-13T16:16:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7222757270352842027</id>
     <title>Most powerful phrase I’ve ever known!!! #4u #iykyk #charlesthegr8 </title>
@@ -91,5 +83,13 @@
     <content>Music to my ears😊 #4u #iykyk #charlesthgr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7226552068738239787" rel="alternate"/>
     <published>2023-04-27T02:33:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7226563076726852910</id>
+    <title>Petty lvl 1000 #4u #iykyk #charlesthgr8 </title>
+    <updated>2023-04-27T03:15:48+00:00</updated>
+    <content>Petty lvl 1000 #4u #iykyk #charlesthgr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7226563076726852910" rel="alternate"/>
+    <published>2023-04-27T03:15:48+00:00</published>
   </entry>
 </feed>
