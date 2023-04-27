@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@rhearipley_wwe</id>
   <title>@rhearipley_wwe | TikTok</title>
-  <updated>2023-04-02T03:36:54+00:00</updated>
+  <updated>2023-04-26T23:42:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rhearipley_wwe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rhearipley_wwe/video/7209717417067695406</id>
-    <title>Two words for ya 😈⚖️ #MamiTok </title>
-    <updated>2023-03-12T17:46:04+00:00</updated>
-    <content>Two words for ya 😈⚖️ #MamiTok </content>
-    <link href="https://tiktok.com/@rhearipley_wwe/video/7209717417067695406" rel="alternate"/>
-    <published>2023-03-12T17:46:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rhearipley_wwe/video/7210138829263555883</id>
     <title>Mami’s here. #WWERaw #MamiTok</title>
@@ -91,5 +83,13 @@
     <content>#AndNew ⚖️ #WrestleMania </content>
     <link href="https://tiktok.com/@rhearipley_wwe/video/7217291399467732267" rel="alternate"/>
     <published>2023-04-02T03:36:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rhearipley_wwe/video/7226508059915406635</id>
+    <title>Back day ✨</title>
+    <updated>2023-04-26T23:42:14+00:00</updated>
+    <content>Back day ✨</content>
+    <link href="https://tiktok.com/@rhearipley_wwe/video/7226508059915406635" rel="alternate"/>
+    <published>2023-04-26T23:42:14+00:00</published>
   </entry>
 </feed>
