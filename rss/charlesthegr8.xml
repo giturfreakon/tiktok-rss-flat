@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-04-27T17:35:38+00:00</updated>
+  <updated>2023-04-27T17:57:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7223890059752164650</id>
-    <title>Guilty!!! #iykyk #4u  #charlesthegr8   </title>
-    <updated>2023-04-19T22:23:06+00:00</updated>
-    <content>Guilty!!! #iykyk #4u  #charlesthegr8   </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7223890059752164650" rel="alternate"/>
-    <published>2023-04-19T22:23:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7224191677794258222</id>
-    <title>#iykyk #hurt #charlesthegr8</title>
-    <updated>2023-04-20T17:53:31+00:00</updated>
-    <content>#iykyk #hurt #charlesthegr8</content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7224191677794258222" rel="alternate"/>
-    <published>2023-04-20T17:53:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7224203362655423786</id>
     <title>Instant 180 #iykyk #herfriends #charlesthegr8 </title>
@@ -91,5 +75,21 @@
     <content>Like duh!!! #4u #charlesthegr8 #dating </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7226784667578633518" rel="alternate"/>
     <published>2023-04-27T17:35:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7226788285572533547</id>
+    <title>🎣 #fishing #iykyk #charlesthegr8 </title>
+    <updated>2023-04-27T17:49:40+00:00</updated>
+    <content>🎣 #fishing #iykyk #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7226788285572533547" rel="alternate"/>
+    <published>2023-04-27T17:49:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7226790202889571627</id>
+    <title>I beg ya pardon!!! 🤔 #iykyk #4u #charlesthegr8 </title>
+    <updated>2023-04-27T17:57:07+00:00</updated>
+    <content>I beg ya pardon!!! 🤔 #iykyk #4u #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7226790202889571627" rel="alternate"/>
+    <published>2023-04-27T17:57:07+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-04-26T19:19:54+00:00</updated>
+  <updated>2023-04-27T19:08:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7223500599118122283</id>
-    <title>Its been a beautiful journey 💙 and i can’t wait to dance some more  #couplegoals #slowdance #partner #dance #dancepartner #love #lovestory </title>
-    <updated>2023-04-18T21:11:48+00:00</updated>
-    <content>Its been a beautiful journey 💙 and i can’t wait to dance some more  #couplegoals #slowdance #partner #dance #dancepartner #love #lovestory </content>
-    <link href="https://tiktok.com/@athena__cos/video/7223500599118122283" rel="alternate"/>
-    <published>2023-04-18T21:11:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7224658833841458475</id>
     <title>Dedicate your heart… I hate that i can see the cars in the second clip, but i really wanted to get this moody shot!  #aot #aotcosplay #sasha #scout #animecosplay #haveigivenenough #moody #angst </title>
@@ -91,5 +83,13 @@
     <content>Spoiler alert: i won  #darkhumour #darksaber #mandalorian #starwars </content>
     <link href="https://tiktok.com/@athena__cos/video/7226440459953147182" rel="alternate"/>
     <published>2023-04-26T19:19:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7226808546938178858</id>
+    <title>Blake is @prototype.fox !  The other gf was Catra done by @halcybella  #rwby #animecosplay #yangxiaolongcosplay #wlw #lesbian #bi #blake </title>
+    <updated>2023-04-27T19:08:15+00:00</updated>
+    <content>Blake is @prototype.fox !  The other gf was Catra done by @halcybella  #rwby #animecosplay #yangxiaolongcosplay #wlw #lesbian #bi #blake </content>
+    <link href="https://tiktok.com/@athena__cos/video/7226808546938178858" rel="alternate"/>
+    <published>2023-04-27T19:08:15+00:00</published>
   </entry>
 </feed>
