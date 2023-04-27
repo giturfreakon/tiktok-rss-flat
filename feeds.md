@@ -4,7 +4,6 @@
 - [atreegod](https://tiktokrss.uselesslesbians.gay/rss/atreegod.xml)
 - [attikiss](https://tiktokrss.uselesslesbians.gay/rss/attikiss.xml)
 - [avery.wade.kelley](https://tiktokrss.uselesslesbians.gay/rss/avery.wade.kelley.xml)
-- [avi.akbar](https://tiktokrss.uselesslesbians.gay/rss/avi.akbar.xml)
 - [avocadosnaliens](https://tiktokrss.uselesslesbians.gay/rss/avocadosnaliens.xml)
 - [charlesthegr8](https://tiktokrss.uselesslesbians.gay/rss/charlesthegr8.xml)
 - [claudcirillo](https://tiktokrss.uselesslesbians.gay/rss/claudcirillo.xml)
@@ -40,4 +39,5 @@
 - [tracksuitsandredwine_](https://tiktokrss.uselesslesbians.gay/rss/tracksuitsandredwine_.xml)
 - [transcendent_tess](https://tiktokrss.uselesslesbians.gay/rss/transcendent_tess.xml)
 - [unbrandedchaos](https://tiktokrss.uselesslesbians.gay/rss/unbrandedchaos.xml)
+- [villainsupport](https://tiktokrss.uselesslesbians.gay/rss/villainsupport.xml)
 - [zayden_222](https://tiktokrss.uselesslesbians.gay/rss/zayden_222.xml)
