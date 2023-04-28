@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-04-27T12:41:16+00:00</updated>
+  <updated>2023-04-28T10:24:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7224479567233191214</id>
-    <title>tastes sorta funny #witchyvibes #crystals #girlfriendsbelike </title>
-    <updated>2023-04-21T12:30:52+00:00</updated>
-    <content>tastes sorta funny #witchyvibes #crystals #girlfriendsbelike </content>
-    <link href="https://tiktok.com/@punktoad/video/7224479567233191214" rel="alternate"/>
-    <published>2023-04-21T12:30:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7224884828976450862</id>
     <title>its right in the tip of my tongue #neurodivergent #fyp #silly </title>
@@ -91,5 +83,13 @@
     <content>i stand by this list @theneedletok #punk #punkrock #folkpunk #horrorpunk #classicpunk #fyp  #greenscreen </content>
     <link href="https://tiktok.com/@punktoad/video/7226708809178189098" rel="alternate"/>
     <published>2023-04-27T12:41:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7227044389304962347</id>
+    <title>This filter is kinda fun #celebrities #lookalike ##nakedandafraid #fyp </title>
+    <updated>2023-04-28T10:24:12+00:00</updated>
+    <content>This filter is kinda fun #celebrities #lookalike ##nakedandafraid #fyp </content>
+    <link href="https://tiktok.com/@punktoad/video/7227044389304962347" rel="alternate"/>
+    <published>2023-04-28T10:24:12+00:00</published>
   </entry>
 </feed>
