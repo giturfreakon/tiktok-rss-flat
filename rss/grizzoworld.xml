@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grizzoworld</id>
   <title>@grizzoworld | TikTok</title>
-  <updated>2023-04-26T19:04:23+00:00</updated>
+  <updated>2023-04-28T16:07:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grizzoworld</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grizzoworld/video/7220455095954164997</id>
-    <title>Recent purchase from Jaded Ldn + highly recommend for all my fashion goddesses out there 😊</title>
-    <updated>2023-04-10T16:13:31+00:00</updated>
-    <content>Recent purchase from Jaded Ldn + highly recommend for all my fashion goddesses out there 😊</content>
-    <link href="https://tiktok.com/@grizzoworld/video/7220455095954164997" rel="alternate"/>
-    <published>2023-04-10T16:13:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grizzoworld/video/7220825861707025670</id>
     <title>Haha jk he’s a marshmallow 🤣🤣 First vid such a throwback!! </title>
@@ -91,5 +83,13 @@
     <content>Replying to @Ryan Hood from sweet ➡️ queen of the underworld…</content>
     <link href="https://tiktok.com/@grizzoworld/video/7226436480313412891" rel="alternate"/>
     <published>2023-04-26T19:04:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grizzoworld/video/7227133143873015066</id>
+    <title>Goal physique: warrior ⚔️ </title>
+    <updated>2023-04-28T16:07:53+00:00</updated>
+    <content>Goal physique: warrior ⚔️ </content>
+    <link href="https://tiktok.com/@grizzoworld/video/7227133143873015066" rel="alternate"/>
+    <published>2023-04-28T16:07:53+00:00</published>
   </entry>
 </feed>
