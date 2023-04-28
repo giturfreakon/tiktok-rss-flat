@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@claudcirillo</id>
   <title>@claudcirillo | TikTok</title>
-  <updated>2023-04-27T22:43:25+00:00</updated>
+  <updated>2023-04-28T23:03:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @claudcirillo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7225361667419426050</id>
-    <title>#pov : The school’s “Heartbreaker” finally meets his match (ib: @Tricia ♡´･ᴗ･`♡) #fyp #foryou #foryoupage </title>
-    <updated>2023-04-23T21:33:47+00:00</updated>
-    <content>#pov : The school’s “Heartbreaker” finally meets his match (ib: @Tricia ♡´･ᴗ･`♡) #fyp #foryou #foryoupage </content>
-    <link href="https://tiktok.com/@claudcirillo/video/7225361667419426050" rel="alternate"/>
-    <published>2023-04-23T21:33:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7225382208779963649</id>
-    <title>#pov : The Boss finally had enough of hearing stories about her misogynistic employee #fyp #foryou #foryoupage </title>
-    <updated>2023-04-23T22:53:29+00:00</updated>
-    <content>#pov : The Boss finally had enough of hearing stories about her misogynistic employee #fyp #foryou #foryoupage </content>
-    <link href="https://tiktok.com/@claudcirillo/video/7225382208779963649" rel="alternate"/>
-    <published>2023-04-23T22:53:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@claudcirillo/video/7225402344228261121</id>
     <title>#pov : Her Husband never helps when she asks #fyp #foryou #foryoupage </title>
@@ -91,5 +75,21 @@
     <content>#pov : The Villain gives The Hero a choice (alt ending 2) #fyp #foryou #villainpov #heropov </content>
     <link href="https://tiktok.com/@claudcirillo/video/7226863997046295810" rel="alternate"/>
     <published>2023-04-27T22:43:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7227212033022840066</id>
+    <title>#pov : You wear your heart on your sleeve #fyp #foryou </title>
+    <updated>2023-04-28T21:14:05+00:00</updated>
+    <content>#pov : You wear your heart on your sleeve #fyp #foryou </content>
+    <link href="https://tiktok.com/@claudcirillo/video/7227212033022840066" rel="alternate"/>
+    <published>2023-04-28T21:14:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7227240286232120577</id>
+    <title>#pov : Her boyfriend tries to expose her for cheating with lyrics, so she flips the script… (ib: @Noah Jay Wood @Miuka.Povs) #fyp #foryou #foryoupage </title>
+    <updated>2023-04-28T23:03:58+00:00</updated>
+    <content>#pov : Her boyfriend tries to expose her for cheating with lyrics, so she flips the script… (ib: @Noah Jay Wood @Miuka.Povs) #fyp #foryou #foryoupage </content>
+    <link href="https://tiktok.com/@claudcirillo/video/7227240286232120577" rel="alternate"/>
+    <published>2023-04-28T23:03:58+00:00</published>
   </entry>
 </feed>
