@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-28T07:36:44+00:00</updated>
+  <updated>2023-04-28T17:51:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7226571320077602091</id>
-    <title>I bet she’d cook for me too</title>
-    <updated>2023-04-27T03:47:47+00:00</updated>
-    <content>I bet she’d cook for me too</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7226571320077602091" rel="alternate"/>
-    <published>2023-04-27T03:47:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7226586508315217195</id>
     <title>Replying to @Patrick R fishets tomorrow?</title>
@@ -91,5 +83,13 @@
     <content>The algorithm hates this outfit but I think I look good</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7227001107380276522" rel="alternate"/>
     <published>2023-04-28T07:36:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7227159853603507498</id>
+    <title>[no title]</title>
+    <updated>2023-04-28T17:51:39+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7227159853603507498" rel="alternate"/>
+    <published>2023-04-28T17:51:39+00:00</published>
   </entry>
 </feed>
