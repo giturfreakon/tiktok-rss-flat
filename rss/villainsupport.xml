@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-04-27T19:29:24+00:00</updated>
+  <updated>2023-04-28T20:26:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7224608164870671659</id>
-    <title>#allforone #gohan #goku #piccolo #myheroacademia #dbz #quirk #acmetok #acmevillainsupport </title>
-    <updated>2023-04-21T20:49:45+00:00</updated>
-    <content>#allforone #gohan #goku #piccolo #myheroacademia #dbz #quirk #acmetok #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7224608164870671659" rel="alternate"/>
-    <published>2023-04-21T20:49:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7224921015237987630</id>
     <title>hat tip to andyrileyish on twitter for the inspiration #nappa #dbz #lotr #frodo #chicken #acmetok #acmevillainsupport </title>
@@ -91,5 +83,13 @@
     <content>#allforone #mha #gohan #dbz #anime #acmetok #acmevillainsupport </content>
     <link href="https://tiktok.com/@villainsupport/video/7226813988795862315" rel="alternate"/>
     <published>2023-04-27T19:29:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7227199689530068270</id>
+    <title>#allforone #mha #gohan #buu #dbz #anime #acmetok #acmevillainsupport </title>
+    <updated>2023-04-28T20:26:08+00:00</updated>
+    <content>#allforone #mha #gohan #buu #dbz #anime #acmetok #acmevillainsupport </content>
+    <link href="https://tiktok.com/@villainsupport/video/7227199689530068270" rel="alternate"/>
+    <published>2023-04-28T20:26:08+00:00</published>
   </entry>
 </feed>
