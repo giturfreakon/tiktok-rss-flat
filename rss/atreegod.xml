@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-04-22T03:49:29+00:00</updated>
+  <updated>2023-04-28T16:37:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7218206152511868202</id>
-    <title>Talk ab my skin and ill cry but 👁 #wlw </title>
-    <updated>2023-04-04T14:46:39+00:00</updated>
-    <content>Talk ab my skin and ill cry but 👁 #wlw </content>
-    <link href="https://tiktok.com/@atreegod/video/7218206152511868202" rel="alternate"/>
-    <published>2023-04-04T14:46:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7218244944786361643</id>
     <title>I wanna see more mascs use this mf sound 💀 #wlw #lgbtq </title>
@@ -91,5 +83,13 @@
     <content>I like this one more actually lol #wlw </content>
     <link href="https://tiktok.com/@atreegod/video/7224716359605783851" rel="alternate"/>
     <published>2023-04-22T03:49:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7227140794317163818</id>
+    <title>At work #wlw </title>
+    <updated>2023-04-28T16:37:52+00:00</updated>
+    <content>At work #wlw </content>
+    <link href="https://tiktok.com/@atreegod/video/7227140794317163818" rel="alternate"/>
+    <published>2023-04-28T16:37:52+00:00</published>
   </entry>
 </feed>
