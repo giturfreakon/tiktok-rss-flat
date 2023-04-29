@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-04-29T19:31:24+00:00</updated>
+  <updated>2023-04-29T19:48:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7227184448415075630</id>
-    <title>I don't even know how long I've been front stuck, I'd have to look it up 😭 #solardidsystem #sszenith #dissociativeidentitydisorder </title>
-    <updated>2023-04-28T19:27:03+00:00</updated>
-    <content>I don't even know how long I've been front stuck, I'd have to look it up 😭 #solardidsystem #sszenith #dissociativeidentitydisorder </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7227184448415075630" rel="alternate"/>
-    <published>2023-04-28T19:27:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7227197833345092910</id>
     <title>Replying to @incendio_cos #reply #solardidsystem #sszenith #haircut #hairstyle </title>
@@ -91,5 +83,13 @@
     <content>Replying to @itsy_lily #reply y'all are asking some good questions! #solardidsystem #sskuiper #dissociativeidentitydisorder </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7227556670728080682" rel="alternate"/>
     <published>2023-04-29T19:31:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7227561108326911278</id>
+    <title>Replying to @rollietoaster #reply #dissociativeidentitydisorder #sskuiper #solardidsystem </title>
+    <updated>2023-04-29T19:48:34+00:00</updated>
+    <content>Replying to @rollietoaster #reply #dissociativeidentitydisorder #sskuiper #solardidsystem </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7227561108326911278" rel="alternate"/>
+    <published>2023-04-29T19:48:34+00:00</published>
   </entry>
 </feed>
