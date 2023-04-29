@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-04-29T16:40:34+00:00</updated>
+  <updated>2023-04-29T19:31:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7226099975581650218</id>
-    <title>Heya! Interesting turn of events these last few days. #solardidsystem #sszenith #dissociativeidentitydisorder #alterintro #alterfusion </title>
-    <updated>2023-04-25T21:18:37+00:00</updated>
-    <content>Heya! Interesting turn of events these last few days. #solardidsystem #sszenith #dissociativeidentitydisorder #alterintro #alterfusion </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7226099975581650218" rel="alternate"/>
-    <published>2023-04-25T21:18:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7226133313394576683</id>
-    <title>Replying to @christinethecatlady #reply I edited this and I still can't tell if this makes any sense to anyone else but it does to me so Imma post it 😅 #solardidsystem #sszenith #dissociativeidentitydisorder </title>
-    <updated>2023-04-25T23:27:56+00:00</updated>
-    <content>Replying to @christinethecatlady #reply I edited this and I still can't tell if this makes any sense to anyone else but it does to me so Imma post it 😅 #solardidsystem #sszenith #dissociativeidentitydisorder </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7226133313394576683" rel="alternate"/>
-    <published>2023-04-25T23:27:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7226345653855685934</id>
-    <title>#duet with @thereiruinedit @qu33rpin3appl3 #solardidsystem #sszenith #ssduets </title>
-    <updated>2023-04-26T13:12:01+00:00</updated>
-    <content>#duet with @thereiruinedit @qu33rpin3appl3 #solardidsystem #sszenith #ssduets </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7226345653855685934" rel="alternate"/>
-    <published>2023-04-26T13:12:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7226383419310099754</id>
-    <title>Replying to @marialuihn #reply #solardidsystem #sszenith #dissociativeidentitydisorder </title>
-    <updated>2023-04-26T15:38:31+00:00</updated>
-    <content>Replying to @marialuihn #reply #solardidsystem #sszenith #dissociativeidentitydisorder </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7226383419310099754" rel="alternate"/>
-    <published>2023-04-26T15:38:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7227184448415075630</id>
     <title>I don't even know how long I've been front stuck, I'd have to look it up 😭 #solardidsystem #sszenith #dissociativeidentitydisorder </title>
@@ -91,5 +59,37 @@
     <content>#solardidsystem #sszenith </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7227512645648141614" rel="alternate"/>
     <published>2023-04-29T16:40:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7227519665356983594</id>
+    <title>#duet with @joeljameslive @spamandriel #solardidsystem #sszenith #ssduets </title>
+    <updated>2023-04-29T17:07:53+00:00</updated>
+    <content>#duet with @joeljameslive @spamandriel #solardidsystem #sszenith #ssduets </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7227519665356983594" rel="alternate"/>
+    <published>2023-04-29T17:07:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7227524795640925486</id>
+    <title>Replying to @jenkittel #reply #solardidsystem #sszenith #masking </title>
+    <updated>2023-04-29T17:27:38+00:00</updated>
+    <content>Replying to @jenkittel #reply #solardidsystem #sszenith #masking </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7227524795640925486" rel="alternate"/>
+    <published>2023-04-29T17:27:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7227537077187972394</id>
+    <title>heya! it's been a while #solardidsystem #sskuiper </title>
+    <updated>2023-04-29T18:15:20+00:00</updated>
+    <content>heya! it's been a while #solardidsystem #sskuiper </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7227537077187972394" rel="alternate"/>
+    <published>2023-04-29T18:15:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7227556670728080682</id>
+    <title>Replying to @itsy_lily #reply y'all are asking some good questions! #solardidsystem #sskuiper #dissociativeidentitydisorder </title>
+    <updated>2023-04-29T19:31:24+00:00</updated>
+    <content>Replying to @itsy_lily #reply y'all are asking some good questions! #solardidsystem #sskuiper #dissociativeidentitydisorder </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7227556670728080682" rel="alternate"/>
+    <published>2023-04-29T19:31:24+00:00</published>
   </entry>
 </feed>
