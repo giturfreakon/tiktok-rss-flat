@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-04-28T10:24:12+00:00</updated>
+  <updated>2023-04-29T10:58:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7224884828976450862</id>
-    <title>its right in the tip of my tongue #neurodivergent #fyp #silly </title>
-    <updated>2023-04-22T14:43:20+00:00</updated>
-    <content>its right in the tip of my tongue #neurodivergent #fyp #silly </content>
-    <link href="https://tiktok.com/@punktoad/video/7224884828976450862" rel="alternate"/>
-    <published>2023-04-22T14:43:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7225016121898847531</id>
     <title>Bring Me The Horizon played at 10am. #warpedtour #memories #livemusic #fyp </title>
@@ -91,5 +83,13 @@
     <content>This filter is kinda fun #celebrities #lookalike ##nakedandafraid #fyp </content>
     <link href="https://tiktok.com/@punktoad/video/7227044389304962347" rel="alternate"/>
     <published>2023-04-28T10:24:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7227424014765985066</id>
+    <title>i just want some waffles #wafflehouse #godofwar #fyp </title>
+    <updated>2023-04-29T10:58:07+00:00</updated>
+    <content>i just want some waffles #wafflehouse #godofwar #fyp </content>
+    <link href="https://tiktok.com/@punktoad/video/7227424014765985066" rel="alternate"/>
+    <published>2023-04-29T10:58:07+00:00</published>
   </entry>
 </feed>
