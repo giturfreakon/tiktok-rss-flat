@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-04-28T21:39:01+00:00</updated>
+  <updated>2023-04-29T16:40:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7225312971260480810</id>
-    <title>Replying to @aedra101 #reply y'all are really sweet, but that's just how I talk #ssdrexel #solardidsystem </title>
-    <updated>2023-04-23T18:24:40+00:00</updated>
-    <content>Replying to @aedra101 #reply y'all are really sweet, but that's just how I talk #ssdrexel #solardidsystem </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7225312971260480810" rel="alternate"/>
-    <published>2023-04-23T18:24:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7225737464739204398</id>
-    <title>This happens more often than you might think #solardidsystem #dissociativeidentitydisorder </title>
-    <updated>2023-04-24T21:51:56+00:00</updated>
-    <content>This happens more often than you might think #solardidsystem #dissociativeidentitydisorder </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7225737464739204398" rel="alternate"/>
-    <published>2023-04-24T21:51:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7226099975581650218</id>
     <title>Heya! Interesting turn of events these last few days. #solardidsystem #sszenith #dissociativeidentitydisorder #alterintro #alterfusion </title>
@@ -91,5 +75,21 @@
     <content>Replying to @stuffwithbits #reply Part 2! If they need to just not participate in the life (at least for the moment), give/make space for them inner world to be alone or with one or two other alters. Part of the West Wing is a regenerating rage room, so if you can build things inner world, I highly recommend it! </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7227218475259825450" rel="alternate"/>
     <published>2023-04-28T21:39:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7227506522635373867</id>
+    <title>#duet with @the_enigma__system 🤣🤣🤣 #solardidsystem #sszenith #ssduets </title>
+    <updated>2023-04-29T16:16:50+00:00</updated>
+    <content>#duet with @the_enigma__system 🤣🤣🤣 #solardidsystem #sszenith #ssduets </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7227506522635373867" rel="alternate"/>
+    <published>2023-04-29T16:16:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7227512645648141614</id>
+    <title>#solardidsystem #sszenith </title>
+    <updated>2023-04-29T16:40:34+00:00</updated>
+    <content>#solardidsystem #sszenith </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7227512645648141614" rel="alternate"/>
+    <published>2023-04-29T16:40:34+00:00</published>
   </entry>
 </feed>

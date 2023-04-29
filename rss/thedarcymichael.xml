@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-04-27T15:43:02+00:00</updated>
+  <updated>2023-04-29T14:51:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7219018735737195782</id>
-    <title>And thats the tea on bud #budlight #dylanmulvaney #satire </title>
-    <updated>2023-04-06T19:19:42+00:00</updated>
-    <content>And thats the tea on bud #budlight #dylanmulvaney #satire </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7219018735737195782" rel="alternate"/>
-    <published>2023-04-06T19:19:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7219926807628287237</id>
     <title>Im sorry this trend is so cute #oldagefilter #CapCut #couplegoals </title>
@@ -91,5 +83,13 @@
     <content>The @ACLU drag defense fund is waiting your pledge. We love you friends, we will continue to fight for freedom with you. ❤️</content>
     <link href="https://tiktok.com/@thedarcymichael/video/7226755694144277766" rel="alternate"/>
     <published>2023-04-27T15:43:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7227484546541817094</id>
+    <title>Jer tried so hard not to laugh</title>
+    <updated>2023-04-29T14:51:22+00:00</updated>
+    <content>Jer tried so hard not to laugh</content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7227484546541817094" rel="alternate"/>
+    <published>2023-04-29T14:51:22+00:00</published>
   </entry>
 </feed>
