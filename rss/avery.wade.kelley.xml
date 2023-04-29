@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-04-27T16:17:06+00:00</updated>
+  <updated>2023-04-29T15:10:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7223057371789069610</id>
-    <title>Back in Orlando! #fyp #trans </title>
-    <updated>2023-04-17T16:31:50+00:00</updated>
-    <content>Back in Orlando! #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7223057371789069610" rel="alternate"/>
-    <published>2023-04-17T16:31:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7223058448127102251</id>
     <title>Same trend, different meaning. I call this one "Learn when to shut up."  #fyp #trans #blm </title>
@@ -91,5 +83,13 @@
     <content>#stitch with @avery.wade.kelley I use @drdhtbeardproducts every day to help my facial hair growth. I'd say it's definitely working, along with time and patience. :] #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7226764417629998382" rel="alternate"/>
     <published>2023-04-27T16:17:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7227489480150764843</id>
+    <title>Doing trends for the norm seems pointless. Trans rights now, black lives matter, indigenous need our help; There's so much going on. Help where you can. #fyp #trans </title>
+    <updated>2023-04-29T15:10:46+00:00</updated>
+    <content>Doing trends for the norm seems pointless. Trans rights now, black lives matter, indigenous need our help; There's so much going on. Help where you can. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7227489480150764843" rel="alternate"/>
+    <published>2023-04-29T15:10:46+00:00</published>
   </entry>
 </feed>
