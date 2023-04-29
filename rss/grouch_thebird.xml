@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grouch_thebird</id>
   <title>@grouch_thebird | TikTok</title>
-  <updated>2023-04-28T09:01:13+00:00</updated>
+  <updated>2023-04-29T03:29:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grouch_thebird</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7226533909062749482</id>
-    <title>[no title]</title>
-    <updated>2023-04-27T01:22:31+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7226533909062749482" rel="alternate"/>
-    <published>2023-04-27T01:22:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7226562659519450414</id>
-    <title>[no title]</title>
-    <updated>2023-04-27T03:14:09+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7226562659519450414" rel="alternate"/>
-    <published>2023-04-27T03:14:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7226852164726082862</id>
-    <title>depends on the day tbh</title>
-    <updated>2023-04-27T21:57:30+00:00</updated>
-    <content>depends on the day tbh</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7226852164726082862" rel="alternate"/>
-    <published>2023-04-27T21:57:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grouch_thebird/video/7226852830638902570</id>
     <title>[no title]</title>
@@ -91,5 +67,29 @@
     <content>it's 2am and I still need enrichment time in my enclosure</content>
     <link href="https://tiktok.com/@grouch_thebird/video/7227022779244236078" rel="alternate"/>
     <published>2023-04-28T09:01:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7227306173505162542</id>
+    <title>[no title]</title>
+    <updated>2023-04-29T03:19:24+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7227306173505162542" rel="alternate"/>
+    <published>2023-04-29T03:19:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7227307092565331246</id>
+    <title>Am I the only one that likes matching energy in arguments </title>
+    <updated>2023-04-29T03:23:02+00:00</updated>
+    <content>Am I the only one that likes matching energy in arguments </content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7227307092565331246" rel="alternate"/>
+    <published>2023-04-29T03:23:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7227308695930129707</id>
+    <title>ey</title>
+    <updated>2023-04-29T03:29:11+00:00</updated>
+    <content>ey</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7227308695930129707" rel="alternate"/>
+    <published>2023-04-29T03:29:11+00:00</published>
   </entry>
 </feed>
