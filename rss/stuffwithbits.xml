@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-04-26T15:38:31+00:00</updated>
+  <updated>2023-04-28T21:39:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7224993586012654894</id>
-    <title>#stitch with @deconstruction_therapy buddy you have no idea 🤣 #solardidsystem #ssalex </title>
-    <updated>2023-04-22T21:45:20+00:00</updated>
-    <content>#stitch with @deconstruction_therapy buddy you have no idea 🤣 #solardidsystem #ssalex </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7224993586012654894" rel="alternate"/>
-    <published>2023-04-22T21:45:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7225280251826326827</id>
-    <title>#solardidsystem #ssalex </title>
-    <updated>2023-04-23T16:17:44+00:00</updated>
-    <content>#solardidsystem #ssalex </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7225280251826326827" rel="alternate"/>
-    <published>2023-04-23T16:17:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7225290596896820526</id>
-    <title>Replying to @user.isabeles #reply Not every system will use roles, but for us and for many systems, roles help us stay organized and feel useful #solardidsystem #ssalex #dissociativeidentitydisorder </title>
-    <updated>2023-04-23T16:57:53+00:00</updated>
-    <content>Replying to @user.isabeles #reply Not every system will use roles, but for us and for many systems, roles help us stay organized and feel useful #solardidsystem #ssalex #dissociativeidentitydisorder </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7225290596896820526" rel="alternate"/>
-    <published>2023-04-23T16:57:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7225302428642528554</id>
-    <title>Replying to @halloweendemon1957 #reply you're literally so embarrassing #solardidsystem #ssdrexel </title>
-    <updated>2023-04-23T17:43:52+00:00</updated>
-    <content>Replying to @halloweendemon1957 #reply you're literally so embarrassing #solardidsystem #ssdrexel </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7225302428642528554" rel="alternate"/>
-    <published>2023-04-23T17:43:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7225312971260480810</id>
     <title>Replying to @aedra101 #reply y'all are really sweet, but that's just how I talk #ssdrexel #solardidsystem </title>
@@ -91,5 +59,37 @@
     <content>Replying to @marialuihn #reply #solardidsystem #sszenith #dissociativeidentitydisorder </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7226383419310099754" rel="alternate"/>
     <published>2023-04-26T15:38:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7227184448415075630</id>
+    <title>I don't even know how long I've been front stuck, I'd have to look it up 😭 #solardidsystem #sszenith #dissociativeidentitydisorder </title>
+    <updated>2023-04-28T19:27:03+00:00</updated>
+    <content>I don't even know how long I've been front stuck, I'd have to look it up 😭 #solardidsystem #sszenith #dissociativeidentitydisorder </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7227184448415075630" rel="alternate"/>
+    <published>2023-04-28T19:27:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7227197833345092910</id>
+    <title>Replying to @incendio_cos #reply #solardidsystem #sszenith #haircut #hairstyle </title>
+    <updated>2023-04-28T20:18:58+00:00</updated>
+    <content>Replying to @incendio_cos #reply #solardidsystem #sszenith #haircut #hairstyle </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7227197833345092910" rel="alternate"/>
+    <published>2023-04-28T20:18:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7227212619957030190</id>
+    <title>Replying to @stuffwithbits #reply hopefully part 2 is more helpful! #solardidsystem #sszenith </title>
+    <updated>2023-04-28T21:16:20+00:00</updated>
+    <content>Replying to @stuffwithbits #reply hopefully part 2 is more helpful! #solardidsystem #sszenith </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7227212619957030190" rel="alternate"/>
+    <published>2023-04-28T21:16:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7227218475259825450</id>
+    <title>Replying to @stuffwithbits #reply Part 2! If they need to just not participate in the life (at least for the moment), give/make space for them inner world to be alone or with one or two other alters. Part of the West Wing is a regenerating rage room, so i</title>
+    <updated>2023-04-28T21:39:01+00:00</updated>
+    <content>Replying to @stuffwithbits #reply Part 2! If they need to just not participate in the life (at least for the moment), give/make space for them inner world to be alone or with one or two other alters. Part of the West Wing is a regenerating rage room, so if you can build things inner world, I highly recommend it! </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7227218475259825450" rel="alternate"/>
+    <published>2023-04-28T21:39:01+00:00</published>
   </entry>
 </feed>
