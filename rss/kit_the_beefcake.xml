@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-04-28T02:28:12+00:00</updated>
+  <updated>2023-04-28T16:49:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7225432431367556394</id>
-    <title>Replying to @liamuchiha20 the guy who found out what I do for a living because I showed up on his Fyp is excited.... so I'm also excited 😅</title>
-    <updated>2023-04-24T02:08:13+00:00</updated>
-    <content>Replying to @liamuchiha20 the guy who found out what I do for a living because I showed up on his Fyp is excited.... so I'm also excited 😅</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7225432431367556394" rel="alternate"/>
-    <published>2023-04-24T02:08:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7225562100662471982</id>
     <title>#kitthebeefcake </title>
@@ -91,5 +83,13 @@
     <content>#kitthebeefcake </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7226921914264997163" rel="alternate"/>
     <published>2023-04-28T02:28:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7227143749606985006</id>
+    <title>#kitthebeefcake </title>
+    <updated>2023-04-28T16:49:20+00:00</updated>
+    <content>#kitthebeefcake </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7227143749606985006" rel="alternate"/>
+    <published>2023-04-28T16:49:20+00:00</published>
   </entry>
 </feed>
