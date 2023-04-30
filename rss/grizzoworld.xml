@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grizzoworld</id>
   <title>@grizzoworld | TikTok</title>
-  <updated>2023-04-29T18:05:57+00:00</updated>
+  <updated>2023-04-30T17:09:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grizzoworld</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grizzoworld/video/7221605899612278021</id>
-    <title>I told wolfy to look menacing but he did angel face instead 😫</title>
-    <updated>2023-04-13T18:39:13+00:00</updated>
-    <content>I told wolfy to look menacing but he did angel face instead 😫</content>
-    <link href="https://tiktok.com/@grizzoworld/video/7221605899612278021" rel="alternate"/>
-    <published>2023-04-13T18:39:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grizzoworld/video/7223089406171778310</id>
     <title>Fun fact this skirt is actually shorts 🤫 top, shorts, boots: zara / tie, legwarmers amazon / jacker nike acg</title>
@@ -91,5 +83,13 @@
     <content>#CapCutVelocity this pose ma fav</content>
     <link href="https://tiktok.com/@grizzoworld/video/7227534647175974171" rel="alternate"/>
     <published>2023-04-29T18:05:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grizzoworld/video/7227891137560792346</id>
+    <title>Full session up on YT, link in b!0 !! LETS GOO ⚔️</title>
+    <updated>2023-04-30T17:09:16+00:00</updated>
+    <content>Full session up on YT, link in b!0 !! LETS GOO ⚔️</content>
+    <link href="https://tiktok.com/@grizzoworld/video/7227891137560792346" rel="alternate"/>
+    <published>2023-04-30T17:09:16+00:00</published>
   </entry>
 </feed>
