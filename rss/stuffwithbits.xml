@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-04-30T19:31:04+00:00</updated>
+  <updated>2023-04-30T20:59:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7227218475259825450</id>
-    <title>Replying to @stuffwithbits #reply Part 2! If they need to just not participate in the life (at least for the moment), give/make space for them inner world to be alone or with one or two other alters. Part of the West Wing is a regenerating rage room, so i</title>
-    <updated>2023-04-28T21:39:01+00:00</updated>
-    <content>Replying to @stuffwithbits #reply Part 2! If they need to just not participate in the life (at least for the moment), give/make space for them inner world to be alone or with one or two other alters. Part of the West Wing is a regenerating rage room, so if you can build things inner world, I highly recommend it! </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7227218475259825450" rel="alternate"/>
-    <published>2023-04-28T21:39:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7227506522635373867</id>
     <title>#duet with @the_enigma__system 🤣🤣🤣 #solardidsystem #sszenith #ssduets </title>
@@ -91,5 +83,13 @@
     <content>Replying to @whatzlifenymore #reply #dissociativeidentitydisorder #solardidsystem #sskuiper </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7227927680421760299" rel="alternate"/>
     <published>2023-04-30T19:31:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7227950530688011562</id>
+    <title>Things are changing, but that's a good thing #solardidsystem #sskestrel #dissociativeidentitydisorder </title>
+    <updated>2023-04-30T20:59:49+00:00</updated>
+    <content>Things are changing, but that's a good thing #solardidsystem #sskestrel #dissociativeidentitydisorder </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7227950530688011562" rel="alternate"/>
+    <published>2023-04-30T20:59:49+00:00</published>
   </entry>
 </feed>
