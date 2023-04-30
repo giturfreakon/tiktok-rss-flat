@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-04-29T20:14:10+00:00</updated>
+  <updated>2023-04-30T21:16:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7224977902272761134</id>
-    <title>When the cosplay finallt leaves the group chat  #rwby #rwbycosplay #rubyrose #sister #blake #yang #yangcosplay </title>
-    <updated>2023-04-22T20:44:28+00:00</updated>
-    <content>When the cosplay finallt leaves the group chat  #rwby #rwbycosplay #rubyrose #sister #blake #yang #yangcosplay </content>
-    <link href="https://tiktok.com/@athena__cos/video/7224977902272761134" rel="alternate"/>
-    <published>2023-04-22T20:44:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7225341286797200686</id>
     <title>Nothing to see here just two straight friends #r#rwbyy#yangxiaolongcosplayb#bumblebeeb#blakeb#blakecosplayr#rwbycosplay</title>
@@ -91,5 +83,13 @@
     <content>Who wears anime merch smh 🙄 #rwby #cosplay #weeb #rwbycosplay </content>
     <link href="https://tiktok.com/@athena__cos/video/7227567692671339822" rel="alternate"/>
     <published>2023-04-29T20:14:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7227954864406498602</id>
+    <title>Idea from @tentacle._daddy  💜🖤💜 Blake is @prototype.fox  Filmed by Bella!  #rwby #rwbycosplay #blakebelladonna #blakecosplay #yangxiaolong #yangcosplay #wlw #bi #wlwcosplay #animecosplay </title>
+    <updated>2023-04-30T21:16:33+00:00</updated>
+    <content>Idea from @tentacle._daddy  💜🖤💜 Blake is @prototype.fox  Filmed by Bella!  #rwby #rwbycosplay #blakebelladonna #blakecosplay #yangxiaolong #yangcosplay #wlw #bi #wlwcosplay #animecosplay </content>
+    <link href="https://tiktok.com/@athena__cos/video/7227954864406498602" rel="alternate"/>
+    <published>2023-04-30T21:16:33+00:00</published>
   </entry>
 </feed>
