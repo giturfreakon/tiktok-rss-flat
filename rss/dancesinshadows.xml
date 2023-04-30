@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-04-29T15:33:58+00:00</updated>
+  <updated>2023-04-30T00:25:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7224692299328965894</id>
-    <title>#onthisday #cosplay #sweetdreams </title>
-    <updated>2023-04-22T02:16:02+00:00</updated>
-    <content>#onthisday #cosplay #sweetdreams </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7224692299328965894" rel="alternate"/>
-    <published>2023-04-22T02:16:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7225785902419791110</id>
-    <title>always loved this song 💗 </title>
-    <updated>2023-04-25T00:59:48+00:00</updated>
-    <content>always loved this song 💗 </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7225785902419791110" rel="alternate"/>
-    <published>2023-04-25T00:59:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7226357279874977029</id>
     <title>busy few days here 🩷 #dragqueenmakeup #dragmakeup </title>
@@ -91,5 +75,21 @@
     <content>#duet with @Joker another lost in draft folders..  #jokerandharley #harleyquinn #harleyquinncosplay #harleyquinncosplayer #harleyquinnmakeup </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7227495521869499653" rel="alternate"/>
     <published>2023-04-29T15:33:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7227567584810388741</id>
+    <title>will post more or this look once its complete 💓 #wonderland #whiterabbitcosplay #cosplay #wonderlandcosplay </title>
+    <updated>2023-04-29T20:13:36+00:00</updated>
+    <content>will post more or this look once its complete 💓 #wonderland #whiterabbitcosplay #cosplay #wonderlandcosplay </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7227567584810388741" rel="alternate"/>
+    <published>2023-04-29T20:13:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7227632362069249286</id>
+    <title>Sometimes, it's easier to just be quiet and go offline for a bit ❤️ sing @christian french  #dragmakeup #dragmakeuplook #dragking #drag #glumthesupernaturalhitman </title>
+    <updated>2023-04-30T00:25:01+00:00</updated>
+    <content>Sometimes, it's easier to just be quiet and go offline for a bit ❤️ sing @christian french  #dragmakeup #dragmakeuplook #dragking #drag #glumthesupernaturalhitman </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7227632362069249286" rel="alternate"/>
+    <published>2023-04-30T00:25:01+00:00</published>
   </entry>
 </feed>
