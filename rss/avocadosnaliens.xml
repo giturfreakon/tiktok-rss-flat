@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-04-29T20:43:34+00:00</updated>
+  <updated>2023-04-30T03:13:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7211280998829411627</id>
-    <title>Not much of a story but yea. Off to work! #SeeHerGreatness #storytime</title>
-    <updated>2023-03-16T22:53:23+00:00</updated>
-    <content>Not much of a story but yea. Off to work! #SeeHerGreatness #storytime</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7211280998829411627" rel="alternate"/>
-    <published>2023-03-16T22:53:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7212344234727263534</id>
     <title>#greenscreen #greenscreenvideo #sobrietyjourney #sobrietytips #alcoholfreejourney #alcoholfreelife </title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7227575270260149546" rel="alternate"/>
     <published>2023-04-29T20:43:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7227675728869920043</id>
+    <title>IM NOT DOING THE TREND OK? #photographerlife #pentax #weddingphotographer </title>
+    <updated>2023-04-30T03:13:23+00:00</updated>
+    <content>IM NOT DOING THE TREND OK? #photographerlife #pentax #weddingphotographer </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7227675728869920043" rel="alternate"/>
+    <published>2023-04-30T03:13:23+00:00</published>
   </entry>
 </feed>
