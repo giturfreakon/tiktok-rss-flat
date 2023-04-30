@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-30T06:21:23+00:00</updated>
+  <updated>2023-04-30T08:34:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7226978995378736427</id>
-    <title>In the mood to cuddle </title>
-    <updated>2023-04-28T06:10:24+00:00</updated>
-    <content>In the mood to cuddle </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7226978995378736427" rel="alternate"/>
-    <published>2023-04-28T06:10:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7227001107380276522</id>
-    <title>The algorithm hates this outfit but I think I look good</title>
-    <updated>2023-04-28T07:36:44+00:00</updated>
-    <content>The algorithm hates this outfit but I think I look good</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7227001107380276522" rel="alternate"/>
-    <published>2023-04-28T07:36:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7227159853603507498</id>
-    <title>[no title]</title>
-    <updated>2023-04-28T17:51:39+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7227159853603507498" rel="alternate"/>
-    <published>2023-04-28T17:51:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7227244418603044138</id>
     <title>Pov: you like to keep things weird</title>
@@ -91,5 +67,29 @@
     <content>Just ordered a princess daisy costume</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7227724120102800682" rel="alternate"/>
     <published>2023-04-30T06:21:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7227731267083652395</id>
+    <title>And by the way</title>
+    <updated>2023-04-30T06:49:29+00:00</updated>
+    <content>And by the way</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7227731267083652395" rel="alternate"/>
+    <published>2023-04-30T06:49:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7227742427669417259</id>
+    <title>I’m talking about bowser</title>
+    <updated>2023-04-30T07:32:47+00:00</updated>
+    <content>I’m talking about bowser</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7227742427669417259" rel="alternate"/>
+    <published>2023-04-30T07:32:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7227758203814120750</id>
+    <title>Anyway BK or taco bell</title>
+    <updated>2023-04-30T08:34:26+00:00</updated>
+    <content>Anyway BK or taco bell</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7227758203814120750" rel="alternate"/>
+    <published>2023-04-30T08:34:26+00:00</published>
   </entry>
 </feed>
