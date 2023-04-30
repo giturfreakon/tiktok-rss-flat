@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-29T01:55:54+00:00</updated>
+  <updated>2023-04-29T23:20:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7226865879974235438</id>
-    <title>Trying this again bc they removed the sound </title>
-    <updated>2023-04-27T22:50:42+00:00</updated>
-    <content>Trying this again bc they removed the sound </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7226865879974235438" rel="alternate"/>
-    <published>2023-04-27T22:50:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7226916075601038638</id>
     <title>Oops might delete this </title>
@@ -91,5 +83,13 @@
     <content>Why is this bed so big</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7227284677843815722" rel="alternate"/>
     <published>2023-04-29T01:55:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7227615686867127595</id>
+    <title>I kinda like it though</title>
+    <updated>2023-04-29T23:20:27+00:00</updated>
+    <content>I kinda like it though</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7227615686867127595" rel="alternate"/>
+    <published>2023-04-29T23:20:27+00:00</published>
   </entry>
 </feed>

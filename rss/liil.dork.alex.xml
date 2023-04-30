@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-04-24T16:01:03+00:00</updated>
+  <updated>2023-04-30T00:16:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7214997628864498990</id>
-    <title>[no title]</title>
-    <updated>2023-03-26T23:15:53+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7214997628864498990" rel="alternate"/>
-    <published>2023-03-26T23:15:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7215348105129250094</id>
-    <title>Attention muscle mommies! Target has muscle tanks 💪🏼👀</title>
-    <updated>2023-03-27T21:55:53+00:00</updated>
-    <content>Attention muscle mommies! Target has muscle tanks 💪🏼👀</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7215348105129250094" rel="alternate"/>
-    <published>2023-03-27T21:55:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7216728739214937386</id>
     <title>Anything for my fav lady 🫡</title>
@@ -91,5 +75,21 @@
     <content>I learned songs quicker than i learned anything in school 😂</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7225646991869480238" rel="alternate"/>
     <published>2023-04-24T16:01:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7227605352399834414</id>
+    <title>That feelin ya self energy hits different😮‍💨 </title>
+    <updated>2023-04-29T22:40:16+00:00</updated>
+    <content>That feelin ya self energy hits different😮‍💨 </content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7227605352399834414" rel="alternate"/>
+    <published>2023-04-29T22:40:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7227630052454812974</id>
+    <title>Good god 😮‍💨 (songs been stuck in my head) </title>
+    <updated>2023-04-30T00:16:17+00:00</updated>
+    <content>Good god 😮‍💨 (songs been stuck in my head) </content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7227630052454812974" rel="alternate"/>
+    <published>2023-04-30T00:16:17+00:00</published>
   </entry>
 </feed>
