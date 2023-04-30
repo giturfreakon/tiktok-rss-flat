@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grouch_thebird</id>
   <title>@grouch_thebird | TikTok</title>
-  <updated>2023-04-30T01:18:42+00:00</updated>
+  <updated>2023-04-30T04:46:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -85,11 +85,11 @@
     <published>2023-04-30T01:04:46+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7227646181894130986</id>
+    <id>https://tiktok.com/@grouch_thebird/video/7227699792586001706</id>
     <title>[no title]</title>
-    <updated>2023-04-30T01:18:42+00:00</updated>
+    <updated>2023-04-30T04:46:50+00:00</updated>
     <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7227646181894130986" rel="alternate"/>
-    <published>2023-04-30T01:18:42+00:00</published>
+    <link href="https://tiktok.com/@grouch_thebird/video/7227699792586001706" rel="alternate"/>
+    <published>2023-04-30T04:46:50+00:00</published>
   </entry>
 </feed>
