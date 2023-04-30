@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-30T08:34:26+00:00</updated>
+  <updated>2023-04-30T16:50:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7227244418603044138</id>
-    <title>Pov: you like to keep things weird</title>
-    <updated>2023-04-28T23:19:41+00:00</updated>
-    <content>Pov: you like to keep things weird</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7227244418603044138" rel="alternate"/>
-    <published>2023-04-28T23:19:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7227259189188365614</id>
     <title>I might wear this outfit again if you guys like it </title>
@@ -91,5 +83,13 @@
     <content>Anyway BK or taco bell</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7227758203814120750" rel="alternate"/>
     <published>2023-04-30T08:34:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7227886236357102890</id>
+    <title>[no title]</title>
+    <updated>2023-04-30T16:50:18+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7227886236357102890" rel="alternate"/>
+    <published>2023-04-30T16:50:18+00:00</published>
   </entry>
 </feed>
