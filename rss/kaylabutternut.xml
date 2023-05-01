@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-04-30T16:50:18+00:00</updated>
+  <updated>2023-05-01T00:34:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7227259189188365614</id>
-    <title>I might wear this outfit again if you guys like it </title>
-    <updated>2023-04-29T00:16:57+00:00</updated>
-    <content>I might wear this outfit again if you guys like it </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7227259189188365614" rel="alternate"/>
-    <published>2023-04-29T00:16:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7227284677843815722</id>
-    <title>Why is this bed so big</title>
-    <updated>2023-04-29T01:55:54+00:00</updated>
-    <content>Why is this bed so big</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7227284677843815722" rel="alternate"/>
-    <published>2023-04-29T01:55:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7227663497503591722</id>
-    <title>More peach content yes or no</title>
-    <updated>2023-04-30T02:25:53+00:00</updated>
-    <content>More peach content yes or no</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7227663497503591722" rel="alternate"/>
-    <published>2023-04-30T02:25:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7227685408006655278</id>
     <title>Accepting mario applications</title>
@@ -91,5 +67,29 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7227886236357102890" rel="alternate"/>
     <published>2023-04-30T16:50:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7227960127075257646</id>
+    <title>Rare car tiktok </title>
+    <updated>2023-04-30T21:37:03+00:00</updated>
+    <content>Rare car tiktok </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7227960127075257646" rel="alternate"/>
+    <published>2023-04-30T21:37:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7228000852336921902</id>
+    <title>Guess which book series </title>
+    <updated>2023-05-01T00:15:08+00:00</updated>
+    <content>Guess which book series </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7228000852336921902" rel="alternate"/>
+    <published>2023-05-01T00:15:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7228005890979548462</id>
+    <title>Replying to @Chloé Johnson Women  who hate on other women make me sad, It’s just fun and cute and your relationship with your body doesn’t have to apply to me</title>
+    <updated>2023-05-01T00:34:36+00:00</updated>
+    <content>Replying to @Chloé Johnson Women  who hate on other women make me sad, It’s just fun and cute and your relationship with your body doesn’t have to apply to me</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7228005890979548462" rel="alternate"/>
+    <published>2023-05-01T00:34:36+00:00</published>
   </entry>
 </feed>
