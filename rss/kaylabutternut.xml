@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-05-01T02:38:25+00:00</updated>
+  <updated>2023-05-01T05:45:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7227691700402015530</id>
-    <title>Classic sound but make it cosplay</title>
-    <updated>2023-04-30T04:15:22+00:00</updated>
-    <content>Classic sound but make it cosplay</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7227691700402015530" rel="alternate"/>
-    <published>2023-04-30T04:15:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7227724120102800682</id>
-    <title>Just ordered a princess daisy costume</title>
-    <updated>2023-04-30T06:21:23+00:00</updated>
-    <content>Just ordered a princess daisy costume</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7227724120102800682" rel="alternate"/>
-    <published>2023-04-30T06:21:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7227731267083652395</id>
     <title>And by the way</title>
@@ -91,5 +75,21 @@
     <content>Pretend the wig doesn’t look bad pls</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7228037806914833706" rel="alternate"/>
     <published>2023-05-01T02:38:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7228071332586753326</id>
+    <title>Bowsette cosplay or Princess Daisy cosplay next? </title>
+    <updated>2023-05-01T04:48:43+00:00</updated>
+    <content>Bowsette cosplay or Princess Daisy cosplay next? </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7228071332586753326" rel="alternate"/>
+    <published>2023-05-01T04:48:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7228086013103508779</id>
+    <title>Seratonin loop</title>
+    <updated>2023-05-01T05:45:48+00:00</updated>
+    <content>Seratonin loop</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7228086013103508779" rel="alternate"/>
+    <published>2023-05-01T05:45:48+00:00</published>
   </entry>
 </feed>
