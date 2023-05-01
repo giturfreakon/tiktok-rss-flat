@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lactoseintolerantcharlie</id>
   <title>@lactoseintolerantcharlie | TikTok</title>
-  <updated>2023-05-01T16:15:56+00:00</updated>
+  <updated>2023-04-24T19:29:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lactoseintolerantcharlie</subtitle>
+  <entry>
+    <id>https://tiktok.com/@lactoseintolerantcharlie/video/7213789500802338094</id>
+    <title>Guess who got a haircut!🤗✨</title>
+    <updated>2023-03-23T17:07:46+00:00</updated>
+    <content>Guess who got a haircut!🤗✨</content>
+    <link href="https://tiktok.com/@lactoseintolerantcharlie/video/7213789500802338094" rel="alternate"/>
+    <published>2023-03-23T17:07:46+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@lactoseintolerantcharlie/video/7215353339138067754</id>
     <title>This filter got me out here feeling like a Disney Princess ✨ </title>
@@ -83,13 +91,5 @@
     <content>Some wholesome content from my draft stash😋</content>
     <link href="https://tiktok.com/@lactoseintolerantcharlie/video/7225700727744679210" rel="alternate"/>
     <published>2023-04-24T19:29:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@lactoseintolerantcharlie/video/7228248409918934318</id>
-    <title>My new cosplay account is up! Go give me a follow @🌸Charlie Cosplays🌸 </title>
-    <updated>2023-05-01T16:15:56+00:00</updated>
-    <content>My new cosplay account is up! Go give me a follow @🌸Charlie Cosplays🌸 </content>
-    <link href="https://tiktok.com/@lactoseintolerantcharlie/video/7228248409918934318" rel="alternate"/>
-    <published>2023-05-01T16:15:56+00:00</published>
   </entry>
 </feed>
