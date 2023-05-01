@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-04-30T08:57:06+00:00</updated>
+  <updated>2023-05-01T05:38:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7224081444472229138</id>
-    <title>corporalki coded fit</title>
-    <updated>2023-04-20T10:45:44+00:00</updated>
-    <content>corporalki coded fit</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7224081444472229138" rel="alternate"/>
-    <published>2023-04-20T10:45:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7224483636882525458</id>
     <title>#duet with @lia :) etherealki version</title>
@@ -91,5 +83,13 @@
     <content>this song warms my soul bro</content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7227764325006560513" rel="alternate"/>
     <published>2023-04-30T08:57:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7228084247452470530</id>
+    <title>anotha draft x</title>
+    <updated>2023-05-01T05:38:34+00:00</updated>
+    <content>anotha draft x</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7228084247452470530" rel="alternate"/>
+    <published>2023-05-01T05:38:34+00:00</published>
   </entry>
 </feed>
