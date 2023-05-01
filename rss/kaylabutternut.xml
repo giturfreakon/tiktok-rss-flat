@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-05-01T00:34:36+00:00</updated>
+  <updated>2023-05-01T02:38:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7227685408006655278</id>
-    <title>Accepting mario applications</title>
-    <updated>2023-04-30T03:51:00+00:00</updated>
-    <content>Accepting mario applications</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7227685408006655278" rel="alternate"/>
-    <published>2023-04-30T03:51:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7227691700402015530</id>
     <title>Classic sound but make it cosplay</title>
@@ -91,5 +83,13 @@
     <content>Replying to @Chloé Johnson Women  who hate on other women make me sad, It’s just fun and cute and your relationship with your body doesn’t have to apply to me</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7228005890979548462" rel="alternate"/>
     <published>2023-05-01T00:34:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7228037806914833706</id>
+    <title>Pretend the wig doesn’t look bad pls</title>
+    <updated>2023-05-01T02:38:25+00:00</updated>
+    <content>Pretend the wig doesn’t look bad pls</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7228037806914833706" rel="alternate"/>
+    <published>2023-05-01T02:38:25+00:00</published>
   </entry>
 </feed>
