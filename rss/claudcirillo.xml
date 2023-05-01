@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@claudcirillo</id>
   <title>@claudcirillo | TikTok</title>
-  <updated>2023-04-28T23:03:58+00:00</updated>
+  <updated>2023-05-01T22:09:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @claudcirillo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7225402344228261121</id>
-    <title>#pov : Her Husband never helps when she asks #fyp #foryou #foryoupage </title>
-    <updated>2023-04-24T00:11:35+00:00</updated>
-    <content>#pov : Her Husband never helps when she asks #fyp #foryou #foryoupage </content>
-    <link href="https://tiktok.com/@claudcirillo/video/7225402344228261121" rel="alternate"/>
-    <published>2023-04-24T00:11:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@claudcirillo/video/7225760729381620993</id>
     <title>Red felt right…</title>
@@ -91,5 +83,13 @@
     <content>#pov : Her boyfriend tries to expose her for cheating with lyrics, so she flips the script… (ib: @Noah Jay Wood @Miuka.Povs) #fyp #foryou #foryoupage </content>
     <link href="https://tiktok.com/@claudcirillo/video/7227240286232120577" rel="alternate"/>
     <published>2023-04-28T23:03:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7228339472818048258</id>
+    <title>#pov : After they flirt with another girl, you confess you dont want your relationship to be a secret anymore #fyp #foryou #foryoupage </title>
+    <updated>2023-05-01T22:09:11+00:00</updated>
+    <content>#pov : After they flirt with another girl, you confess you dont want your relationship to be a secret anymore #fyp #foryou #foryoupage </content>
+    <link href="https://tiktok.com/@claudcirillo/video/7228339472818048258" rel="alternate"/>
+    <published>2023-05-01T22:09:11+00:00</published>
   </entry>
 </feed>
