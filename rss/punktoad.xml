@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-04-30T14:06:42+00:00</updated>
+  <updated>2023-05-01T11:44:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7225218206108093742</id>
-    <title>yummy  #shreddedcheese #cheeseplease #fyp #funny </title>
-    <updated>2023-04-23T12:17:27+00:00</updated>
-    <content>yummy  #shreddedcheese #cheeseplease #fyp #funny </content>
-    <link href="https://tiktok.com/@punktoad/video/7225218206108093742" rel="alternate"/>
-    <published>2023-04-23T12:17:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7225382652382039339</id>
     <title>this is why I am main kįłłèr #deadbydaylight #dbd #killermain </title>
@@ -91,5 +83,13 @@
     <content>tendies please #chickentenders #benstiller #fyp  </content>
     <link href="https://tiktok.com/@punktoad/video/7227844048369814826" rel="alternate"/>
     <published>2023-04-30T14:06:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7228178361821023530</id>
+    <title>Dont do it, it aint worth it #couplescomedy #bobodenkirkedit #fyp </title>
+    <updated>2023-05-01T11:44:09+00:00</updated>
+    <content>Dont do it, it aint worth it #couplescomedy #bobodenkirkedit #fyp </content>
+    <link href="https://tiktok.com/@punktoad/video/7228178361821023530" rel="alternate"/>
+    <published>2023-05-01T11:44:09+00:00</published>
   </entry>
 </feed>
