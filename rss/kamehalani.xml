@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-05-01T18:56:54+00:00</updated>
+  <updated>2023-05-01T19:28:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7223446898387127598</id>
-    <title>“Hey its kamehalani… call me back when you get this, miss you. Love you!”</title>
-    <updated>2023-04-18T17:43:38+00:00</updated>
-    <content>“Hey its kamehalani… call me back when you get this, miss you. Love you!”</content>
-    <link href="https://tiktok.com/@kamehalani/video/7223446898387127598" rel="alternate"/>
-    <published>2023-04-18T17:43:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7224234460345158954</id>
     <title>Replying to @user5310072167593 no #kanaka #liloandstitch #hawaiian #hawaii #nanipelekai </title>
@@ -91,5 +83,13 @@
     <content>Have any of you seen old vids of #madtv ? I used to watch them on yt because i live for alex borstein and her impressions </content>
     <link href="https://tiktok.com/@kamehalani/video/7228289929271364910" rel="alternate"/>
     <published>2023-05-01T18:56:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7228298064300100907</id>
+    <title>Aapi #aapifamily #aapiheritagemonth #kanaka #indigenoustiktok #nativehawaiian #hawaiian </title>
+    <updated>2023-05-01T19:28:25+00:00</updated>
+    <content>Aapi #aapifamily #aapiheritagemonth #kanaka #indigenoustiktok #nativehawaiian #hawaiian </content>
+    <link href="https://tiktok.com/@kamehalani/video/7228298064300100907" rel="alternate"/>
+    <published>2023-05-01T19:28:25+00:00</published>
   </entry>
 </feed>
