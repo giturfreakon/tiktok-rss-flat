@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-05-01T05:45:48+00:00</updated>
+  <updated>2023-05-01T08:19:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7227731267083652395</id>
-    <title>And by the way</title>
-    <updated>2023-04-30T06:49:29+00:00</updated>
-    <content>And by the way</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7227731267083652395" rel="alternate"/>
-    <published>2023-04-30T06:49:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7227742427669417259</id>
     <title>I’m talking about bowser</title>
@@ -91,5 +83,13 @@
     <content>Seratonin loop</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7228086013103508779" rel="alternate"/>
     <published>2023-05-01T05:45:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7228125369545739566</id>
+    <title>[no title]</title>
+    <updated>2023-05-01T08:19:28+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7228125369545739566" rel="alternate"/>
+    <published>2023-05-01T08:19:28+00:00</published>
   </entry>
 </feed>
