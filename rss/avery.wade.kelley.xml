@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-04-29T15:10:46+00:00</updated>
+  <updated>2023-05-02T16:20:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7223058448127102251</id>
-    <title>Same trend, different meaning. I call this one "Learn when to shut up."  #fyp #trans #blm </title>
-    <updated>2023-04-17T16:35:57+00:00</updated>
-    <content>Same trend, different meaning. I call this one "Learn when to shut up."  #fyp #trans #blm </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7223058448127102251" rel="alternate"/>
-    <published>2023-04-17T16:35:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7223501955728018734</id>
     <title>Rage More. #fyp #trans </title>
@@ -91,5 +83,13 @@
     <content>Doing trends for the norm seems pointless. Trans rights now, black lives matter, indigenous need our help; There's so much going on. Help where you can. #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7227489480150764843" rel="alternate"/>
     <published>2023-04-29T15:10:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7228620763379584298</id>
+    <title>We work hard, we play hard, and we look good doing it. We are just like you. Put me on any one of your gigs and I can show you how "manly" I am, which, if we're being honest here, is purely misogynistic and we should start just saying "they're good at the</title>
+    <updated>2023-05-02T16:20:48+00:00</updated>
+    <content>We work hard, we play hard, and we look good doing it. We are just like you. Put me on any one of your gigs and I can show you how "manly" I am, which, if we're being honest here, is purely misogynistic and we should start just saying "they're good at their job." Either way, we out here. Many of us; trans men, trans women and nonbinary people of the entertainment industry. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7228620763379584298" rel="alternate"/>
+    <published>2023-05-02T16:20:48+00:00</published>
   </entry>
 </feed>
