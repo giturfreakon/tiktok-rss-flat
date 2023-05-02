@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-05-01T19:13:48+00:00</updated>
+  <updated>2023-05-02T05:08:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7227758203814120750</id>
-    <title>Anyway BK or taco bell</title>
-    <updated>2023-04-30T08:34:26+00:00</updated>
-    <content>Anyway BK or taco bell</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7227758203814120750" rel="alternate"/>
-    <published>2023-04-30T08:34:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7227886236357102890</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>Posting this outfit until it gets the views that it deserves</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7228294292890996010" rel="alternate"/>
     <published>2023-05-01T19:13:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7228447392805211438</id>
+    <title>👑</title>
+    <updated>2023-05-02T05:08:11+00:00</updated>
+    <content>👑</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7228447392805211438" rel="alternate"/>
+    <published>2023-05-02T05:08:11+00:00</published>
   </entry>
 </feed>
