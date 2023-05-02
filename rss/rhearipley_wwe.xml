@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@rhearipley_wwe</id>
   <title>@rhearipley_wwe | TikTok</title>
-  <updated>2023-04-29T00:16:41+00:00</updated>
+  <updated>2023-05-02T01:33:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rhearipley_wwe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rhearipley_wwe/video/7211684025654578474</id>
-    <title>Replying to @ttdavis03 👊😈</title>
-    <updated>2023-03-18T00:57:19+00:00</updated>
-    <content>Replying to @ttdavis03 👊😈</content>
-    <link href="https://tiktok.com/@rhearipley_wwe/video/7211684025654578474" rel="alternate"/>
-    <published>2023-03-18T00:57:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rhearipley_wwe/video/7212777852687764778</id>
     <title>You can’t run from me ⚖️👹</title>
@@ -91,5 +83,13 @@
     <content>🤔⚖️👹 #WWEDraft </content>
     <link href="https://tiktok.com/@rhearipley_wwe/video/7227259117696453930" rel="alternate"/>
     <published>2023-04-29T00:16:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rhearipley_wwe/video/7228392238869515562</id>
+    <title>#duet with @Aliya #rhearipley My MosherZ know how its done! 🔥⚖️</title>
+    <updated>2023-05-02T01:33:50+00:00</updated>
+    <content>#duet with @Aliya #rhearipley My MosherZ know how its done! 🔥⚖️</content>
+    <link href="https://tiktok.com/@rhearipley_wwe/video/7228392238869515562" rel="alternate"/>
+    <published>2023-05-02T01:33:50+00:00</published>
   </entry>
 </feed>
