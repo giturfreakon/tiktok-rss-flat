@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-05-02T00:48:26+00:00</updated>
+  <updated>2023-05-02T02:50:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7225788409699142955</id>
-    <title>Help me #haircut </title>
-    <updated>2023-04-25T01:09:39+00:00</updated>
-    <content>Help me #haircut </content>
-    <link href="https://tiktok.com/@kamehalani/video/7225788409699142955" rel="alternate"/>
-    <published>2023-04-25T01:09:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7226002159299579182</id>
     <title>AFTER SHE WAS TALKING ABOUT HOW SAD IT IS SHE KNEW SOMEONE ELSE WHO GOT SAED. What about me tho? Omg </title>
@@ -77,19 +69,27 @@
     <published>2023-05-01T19:28:25+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kamehalani/video/7228368367869005098</id>
-    <title>[no title]</title>
-    <updated>2023-05-02T00:01:09+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kamehalani/video/7228368367869005098" rel="alternate"/>
-    <published>2023-05-02T00:01:09+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kamehalani/video/7228380526296649006</id>
     <title>Ib @_.reina.x </title>
     <updated>2023-05-02T00:48:26+00:00</updated>
     <content>Ib @_.reina.x </content>
     <link href="https://tiktok.com/@kamehalani/video/7228380526296649006" rel="alternate"/>
     <published>2023-05-02T00:48:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7228394130966138155</id>
+    <title>Im shaking and in #aapiheritagemonth #bratz </title>
+    <updated>2023-05-02T01:41:08+00:00</updated>
+    <content>Im shaking and in #aapiheritagemonth #bratz </content>
+    <link href="https://tiktok.com/@kamehalani/video/7228394130966138155" rel="alternate"/>
+    <published>2023-05-02T01:41:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7228411875493449002</id>
+    <title>Yoooo wtf</title>
+    <updated>2023-05-02T02:50:02+00:00</updated>
+    <content>Yoooo wtf</content>
+    <link href="https://tiktok.com/@kamehalani/video/7228411875493449002" rel="alternate"/>
+    <published>2023-05-02T02:50:02+00:00</published>
   </entry>
 </feed>

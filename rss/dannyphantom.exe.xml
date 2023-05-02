@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-05-01T02:15:58+00:00</updated>
+  <updated>2023-05-02T02:16:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7225805441731792174</id>
-    <title>[no title]</title>
-    <updated>2023-04-25T02:15:45+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7225805441731792174" rel="alternate"/>
-    <published>2023-04-25T02:15:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7225805705033354539</id>
-    <title>tag them</title>
-    <updated>2023-04-25T02:16:45+00:00</updated>
-    <content>tag them</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7225805705033354539" rel="alternate"/>
-    <published>2023-04-25T02:16:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7226176449999277358</id>
     <title>tag ur best friend</title>
@@ -91,5 +75,21 @@
     <content>@nickkmeyer he was ready to MOUNT</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7228031992892296491" rel="alternate"/>
     <published>2023-05-01T02:15:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7228402934441135403</id>
+    <title>og vid @Tony Doan </title>
+    <updated>2023-05-02T02:15:21+00:00</updated>
+    <content>og vid @Tony Doan </content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7228402934441135403" rel="alternate"/>
+    <published>2023-05-02T02:15:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7228403108244753710</id>
+    <title>tag soneone who thibks Leon is hot</title>
+    <updated>2023-05-02T02:16:00+00:00</updated>
+    <content>tag soneone who thibks Leon is hot</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7228403108244753710" rel="alternate"/>
+    <published>2023-05-02T02:16:00+00:00</published>
   </entry>
 </feed>
