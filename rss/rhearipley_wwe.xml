@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@rhearipley_wwe</id>
   <title>@rhearipley_wwe | TikTok</title>
-  <updated>2023-05-02T01:33:50+00:00</updated>
+  <updated>2023-05-02T16:50:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rhearipley_wwe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rhearipley_wwe/video/7212777852687764778</id>
-    <title>You can’t run from me ⚖️👹</title>
-    <updated>2023-03-20T23:41:58+00:00</updated>
-    <content>You can’t run from me ⚖️👹</content>
-    <link href="https://tiktok.com/@rhearipley_wwe/video/7212777852687764778" rel="alternate"/>
-    <published>2023-03-20T23:41:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rhearipley_wwe/video/7213765979011042606</id>
     <title>Stronger every week. ⚖️ 75lb x 5 Incline  #ManiaSeason </title>
@@ -91,5 +83,13 @@
     <content>#duet with @Aliya #rhearipley My MosherZ know how its done! 🔥⚖️</content>
     <link href="https://tiktok.com/@rhearipley_wwe/video/7228392238869515562" rel="alternate"/>
     <published>2023-05-02T01:33:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rhearipley_wwe/video/7228628248819698986</id>
+    <title>Can’t tear us apart! R + D is stronger than ever 🔥⚖️ #WWEDraft #TheJudgmentDay #LatinoHeat </title>
+    <updated>2023-05-02T16:50:00+00:00</updated>
+    <content>Can’t tear us apart! R + D is stronger than ever 🔥⚖️ #WWEDraft #TheJudgmentDay #LatinoHeat </content>
+    <link href="https://tiktok.com/@rhearipley_wwe/video/7228628248819698986" rel="alternate"/>
+    <published>2023-05-02T16:50:00+00:00</published>
   </entry>
 </feed>
