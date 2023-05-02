@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-05-02T18:56:50+00:00</updated>
+  <updated>2023-05-02T21:33:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7218774575859911979</id>
-    <title>[no title]</title>
-    <updated>2023-04-06T03:32:30+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7218774575859911979" rel="alternate"/>
-    <published>2023-04-06T03:32:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7221784384058314030</id>
-    <title>[no title]</title>
-    <updated>2023-04-14T06:12:21+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7221784384058314030" rel="alternate"/>
-    <published>2023-04-14T06:12:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7222336097781550382</id>
     <title>#weddingphotographer #grwm hiiii i know ive been MIA. My brains been hurtin so im takin extra good care of her right now. Heres some really boring content im sure youll appreciate! Off to marry some lovebirds </title>
@@ -91,5 +75,21 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7228660981935754539" rel="alternate"/>
     <published>2023-05-02T18:56:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7228695819484925226</id>
+    <title>#stitch with @e_entertainment </title>
+    <updated>2023-05-02T21:11:50+00:00</updated>
+    <content>#stitch with @e_entertainment </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7228695819484925226" rel="alternate"/>
+    <published>2023-05-02T21:11:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7228701420755635498</id>
+    <title>[no title]</title>
+    <updated>2023-05-02T21:33:38+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7228701420755635498" rel="alternate"/>
+    <published>2023-05-02T21:33:38+00:00</published>
   </entry>
 </feed>
