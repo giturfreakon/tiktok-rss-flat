@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-04-30T22:47:55+00:00</updated>
+  <updated>2023-05-02T04:46:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7224548624901082414</id>
-    <title>Gotta take a break to recharge #iykyk #socialbattery #charlesthegr8 </title>
-    <updated>2023-04-21T16:58:48+00:00</updated>
-    <content>Gotta take a break to recharge #iykyk #socialbattery #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7224548624901082414" rel="alternate"/>
-    <published>2023-04-21T16:58:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7225659149068127534</id>
     <title>Got my heart racing🫀 #iykyk #4u #charlesthegr8 </title>
@@ -91,5 +83,13 @@
     <content>Good riddance #iykyk #ex #charlesthgr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7227978405415832874" rel="alternate"/>
     <published>2023-04-30T22:47:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7228441759116758318</id>
+    <title>Out of pocket #calebcity #iykyk #charlesthegr8</title>
+    <updated>2023-05-02T04:46:15+00:00</updated>
+    <content>Out of pocket #calebcity #iykyk #charlesthegr8</content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7228441759116758318" rel="alternate"/>
+    <published>2023-05-02T04:46:15+00:00</published>
   </entry>
 </feed>
