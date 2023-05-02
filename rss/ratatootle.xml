@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ratatootle</id>
   <title>@ratatootle | TikTok</title>
-  <updated>2023-05-01T13:37:54+00:00</updated>
+  <updated>2023-05-02T16:14:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ratatootle</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ratatootle/video/7221978249323203883</id>
-    <title>Speaking out as a little weenie baby with no spice tolerance </title>
-    <updated>2023-04-14T18:44:13+00:00</updated>
-    <content>Speaking out as a little weenie baby with no spice tolerance </content>
-    <link href="https://tiktok.com/@ratatootle/video/7221978249323203883" rel="alternate"/>
-    <published>2023-04-14T18:44:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@ratatootle/video/7223377428389973290</id>
-    <title>I have been thinking about this for years Tiktok help me #linguistics #dialect </title>
-    <updated>2023-04-18T13:14:25+00:00</updated>
-    <content>I have been thinking about this for years Tiktok help me #linguistics #dialect </content>
-    <link href="https://tiktok.com/@ratatootle/video/7223377428389973290" rel="alternate"/>
-    <published>2023-04-18T13:14:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ratatootle/video/7223440284682587434</id>
     <title>23F with absolutely no idea whats going on </title>
@@ -91,5 +75,21 @@
     <content>New diagnosis unlocked: btw pls dont diagnose urself from me or this video i literallt dont know anything. Remember its about frequency and disruption. Everyone worries about fire sometimes. Literally begging you dont be weird about it in the comments it makes me so uncomfy </content>
     <link href="https://tiktok.com/@ratatootle/video/7228207638335687982" rel="alternate"/>
     <published>2023-05-01T13:37:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ratatootle/video/7228591214075923754</id>
+    <title>Absolutely obsessed with the sunmy morning gym vibes, tell me this place doesn’t look downright tranquil  @Legacy Barbell Club </title>
+    <updated>2023-05-02T14:26:16+00:00</updated>
+    <content>Absolutely obsessed with the sunmy morning gym vibes, tell me this place doesn’t look downright tranquil  @Legacy Barbell Club </content>
+    <link href="https://tiktok.com/@ratatootle/video/7228591214075923754" rel="alternate"/>
+    <published>2023-05-02T14:26:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ratatootle/video/7228619050769780010</id>
+    <title>The world revolves around The Detective i hope you understand </title>
+    <updated>2023-05-02T16:14:19+00:00</updated>
+    <content>The world revolves around The Detective i hope you understand </content>
+    <link href="https://tiktok.com/@ratatootle/video/7228619050769780010" rel="alternate"/>
+    <published>2023-05-02T16:14:19+00:00</published>
   </entry>
 </feed>
