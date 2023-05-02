@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ryn_rrj</id>
   <title>@ryn_rrj | TikTok</title>
-  <updated>2023-04-25T15:42:56+00:00</updated>
+  <updated>2023-05-02T17:54:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ryn_rrj</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ryn_rrj/video/7210891214181158187</id>
-    <title>Trying out a new style - tell me what you think! #song #songing #duet #vocals #singer #transmasc </title>
-    <updated>2023-03-15T21:40:49+00:00</updated>
-    <content>Trying out a new style - tell me what you think! #song #songing #duet #vocals #singer #transmasc </content>
-    <link href="https://tiktok.com/@ryn_rrj/video/7210891214181158187" rel="alternate"/>
-    <published>2023-03-15T21:40:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ryn_rrj/video/7211205375805132074</id>
     <title>Arguably my dumbest ‘joke’ yet #CapCut #classical #classicalmusic #choir #choral #mozart #joke #funny #template #pengu #nootnoot </title>
@@ -91,5 +83,13 @@
     <content>Replying to @kateho85 photoshoot results! MKW Photography was FANTASTIC highly recommend her if you live in LA, all photo credits to her. #photo #photoshoot #outfit #fashion #composer #music #portrait #headshot </content>
     <link href="https://tiktok.com/@ryn_rrj/video/7226013455726267690" rel="alternate"/>
     <published>2023-04-25T15:42:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ryn_rrj/video/7228644894020046123</id>
+    <title>Its been a great 2 weeks but i am EXHAUSTED . . .  #introvert #social #friends #fun #silly #joke #funny</title>
+    <updated>2023-05-02T17:54:37+00:00</updated>
+    <content>Its been a great 2 weeks but i am EXHAUSTED . . .  #introvert #social #friends #fun #silly #joke #funny</content>
+    <link href="https://tiktok.com/@ryn_rrj/video/7228644894020046123" rel="alternate"/>
+    <published>2023-05-02T17:54:37+00:00</published>
   </entry>
 </feed>
