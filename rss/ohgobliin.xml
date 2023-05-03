@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ohgobliin</id>
   <title>@ohgobliin | TikTok</title>
-  <updated>2023-04-30T18:54:30+00:00</updated>
+  <updated>2023-05-03T18:31:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ohgobliin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ohgobliin/video/7212702661970332933</id>
-    <title>moja żona @💫🖤karolina🖤💫 </title>
-    <updated>2023-03-20T18:50:07+00:00</updated>
-    <content>moja żona @💫🖤karolina🖤💫 </content>
-    <link href="https://tiktok.com/@ohgobliin/video/7212702661970332933" rel="alternate"/>
-    <published>2023-03-20T18:50:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@ohgobliin/video/7212703542195375366</id>
-    <title>clearly i thought i had rizz this day</title>
-    <updated>2023-03-20T18:53:32+00:00</updated>
-    <content>clearly i thought i had rizz this day</content>
-    <link href="https://tiktok.com/@ohgobliin/video/7212703542195375366" rel="alternate"/>
-    <published>2023-03-20T18:53:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ohgobliin/video/7215735218181819653</id>
     <title>stay a sec?</title>
@@ -91,5 +75,21 @@
     <content>*wlw rizz*</content>
     <link href="https://tiktok.com/@ohgobliin/video/7227918250733014299" rel="alternate"/>
     <published>2023-04-30T18:54:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ohgobliin/video/7229025390969343259</id>
+    <title>[no title]</title>
+    <updated>2023-05-03T18:30:49+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@ohgobliin/video/7229025390969343259" rel="alternate"/>
+    <published>2023-05-03T18:30:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ohgobliin/video/7229025668607020314</id>
+    <title>@Kay </title>
+    <updated>2023-05-03T18:31:52+00:00</updated>
+    <content>@Kay </content>
+    <link href="https://tiktok.com/@ohgobliin/video/7229025668607020314" rel="alternate"/>
+    <published>2023-05-03T18:31:52+00:00</published>
   </entry>
 </feed>
