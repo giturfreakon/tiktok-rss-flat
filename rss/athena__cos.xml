@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-05-02T23:07:27+00:00</updated>
+  <updated>2023-05-03T18:57:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7225728383991270699</id>
-    <title>There are SOOOOO many other effects! This isn’t even a sponsored post i’m just obsessed @allysabers  #darksaber #starwars #starwarscontent #sfx #lightsaber </title>
-    <updated>2023-04-24T21:16:44+00:00</updated>
-    <content>There are SOOOOO many other effects! This isn’t even a sponsored post i’m just obsessed @allysabers  #darksaber #starwars #starwarscontent #sfx #lightsaber </content>
-    <link href="https://tiktok.com/@athena__cos/video/7225728383991270699" rel="alternate"/>
-    <published>2023-04-24T21:16:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7226096895628709163</id>
     <title>Please ignore the fact that we are not in the updated outfits for this 😂😂 Blake is the beautiful @prototype.fox  Filmed by @halcybella  💜 #rwby #animecosplay #wlw #yangxiaolong #yangxiaolongcosplay #blakecosplays #blakebelladonna #rwbycosplay #wlwcosplay </title>
@@ -91,5 +83,13 @@
     <content>Its funny because thats what im actually doing </content>
     <link href="https://tiktok.com/@athena__cos/video/7228725609231322411" rel="alternate"/>
     <published>2023-05-02T23:07:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7229032142964133166</id>
+    <title>Just trying to be handsome the way women are  #korracosplay #avatarcosplay #avatarkorra #legendofkorra #avatar #buffwomen </title>
+    <updated>2023-05-03T18:57:05+00:00</updated>
+    <content>Just trying to be handsome the way women are  #korracosplay #avatarcosplay #avatarkorra #legendofkorra #avatar #buffwomen </content>
+    <link href="https://tiktok.com/@athena__cos/video/7229032142964133166" rel="alternate"/>
+    <published>2023-05-03T18:57:05+00:00</published>
   </entry>
 </feed>

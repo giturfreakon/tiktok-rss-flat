@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-05-03T05:13:40+00:00</updated>
+  <updated>2023-05-03T19:20:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7226195284043238698</id>
-    <title>We getting kick out for sure #bff  #4u #charlesthgr8 </title>
-    <updated>2023-04-26T03:28:27+00:00</updated>
-    <content>We getting kick out for sure #bff  #4u #charlesthgr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7226195284043238698" rel="alternate"/>
-    <published>2023-04-26T03:28:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7226552068738239787</id>
-    <title>Music to my ears😊 #4u #iykyk #charlesthgr8 </title>
-    <updated>2023-04-27T02:33:01+00:00</updated>
-    <content>Music to my ears😊 #4u #iykyk #charlesthgr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7226552068738239787" rel="alternate"/>
-    <published>2023-04-27T02:33:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7226563076726852910</id>
-    <title>Petty lvl 1000 #4u #iykyk #charlesthgr8 </title>
-    <updated>2023-04-27T03:15:48+00:00</updated>
-    <content>Petty lvl 1000 #4u #iykyk #charlesthgr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7226563076726852910" rel="alternate"/>
-    <published>2023-04-27T03:15:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7226778285278121259</id>
     <title>Off limits!!! 😤😤😤 #4u #siblings #charlesthegr8  </title>
@@ -91,5 +67,29 @@
     <content>This one hurts!!! 😔 #iykyk #disappointment #charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7228819906014252331" rel="alternate"/>
     <published>2023-05-03T05:13:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7229027734016593195</id>
+    <title>Guess ill wait till fall! 😔 #iykyk #charlesthegr8 #hotgirlsumm </title>
+    <updated>2023-05-03T18:40:11+00:00</updated>
+    <content>Guess ill wait till fall! 😔 #iykyk #charlesthegr8 #hotgirlsumm </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7229027734016593195" rel="alternate"/>
+    <published>2023-05-03T18:40:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7229031245747997998</id>
+    <title>Communication is 🔑 #comunicacion #4u #charlesthegr8 </title>
+    <updated>2023-05-03T18:53:46+00:00</updated>
+    <content>Communication is 🔑 #comunicacion #4u #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7229031245747997998" rel="alternate"/>
+    <published>2023-05-03T18:53:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7229038258859085099</id>
+    <title>#iykyk #funny #charlesthegr8 </title>
+    <updated>2023-05-03T19:20:49+00:00</updated>
+    <content>#iykyk #funny #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7229038258859085099" rel="alternate"/>
+    <published>2023-05-03T19:20:49+00:00</published>
   </entry>
 </feed>
