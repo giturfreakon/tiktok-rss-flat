@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-05-02T21:57:38+00:00</updated>
+  <updated>2023-05-02T23:40:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7227950530688011562</id>
-    <title>Things are changing, but that's a good thing #solardidsystem #sskestrel #dissociativeidentitydisorder </title>
-    <updated>2023-04-30T20:59:49+00:00</updated>
-    <content>Things are changing, but that's a good thing #solardidsystem #sskestrel #dissociativeidentitydisorder </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7227950530688011562" rel="alternate"/>
-    <published>2023-04-30T20:59:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7228271904761679146</id>
     <title>#answer to @irene_sweetness we love each other we just have more alters than brain cells. We gotta share the good ones! #solardidsystem #sskestrel #dissociativeidentitydisorder </title>
@@ -91,5 +83,13 @@
     <content>#solardidsystem #sskestrel </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7228707625989328170" rel="alternate"/>
     <published>2023-05-02T21:57:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7228733992508476715</id>
+    <title>She's so sweet to them 🥺 #solardidsystem </title>
+    <updated>2023-05-02T23:40:03+00:00</updated>
+    <content>She's so sweet to them 🥺 #solardidsystem </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7228733992508476715" rel="alternate"/>
+    <published>2023-05-02T23:40:03+00:00</published>
   </entry>
 </feed>
