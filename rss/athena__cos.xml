@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-05-02T21:17:41+00:00</updated>
+  <updated>2023-05-02T23:07:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7225711804603731243</id>
-    <title>Gojo solos all except Anya Forger @kaijitang  #gojo #gojousatoru #goku #dragonball  </title>
-    <updated>2023-04-24T20:12:23+00:00</updated>
-    <content>Gojo solos all except Anya Forger @kaijitang  #gojo #gojousatoru #goku #dragonball  </content>
-    <link href="https://tiktok.com/@athena__cos/video/7225711804603731243" rel="alternate"/>
-    <published>2023-04-24T20:12:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7225728383991270699</id>
     <title>There are SOOOOO many other effects! This isn’t even a sponsored post i’m just obsessed @allysabers  #darksaber #starwars #starwarscontent #sfx #lightsaber </title>
@@ -91,5 +83,13 @@
     <content>Taking applications for Asami rn #korra #korracosplay #asami #korrasami #wlw #bi #buffwomen </content>
     <link href="https://tiktok.com/@athena__cos/video/7228697309117238570" rel="alternate"/>
     <published>2023-05-02T21:17:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7228725609231322411</id>
+    <title>Its funny because thats what im actually doing </title>
+    <updated>2023-05-02T23:07:27+00:00</updated>
+    <content>Its funny because thats what im actually doing </content>
+    <link href="https://tiktok.com/@athena__cos/video/7228725609231322411" rel="alternate"/>
+    <published>2023-05-02T23:07:27+00:00</published>
   </entry>
 </feed>
