@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grizzoworld</id>
   <title>@grizzoworld | TikTok</title>
-  <updated>2023-05-02T18:24:02+00:00</updated>
+  <updated>2023-05-03T17:45:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grizzoworld</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grizzoworld/video/7223089406171778310</id>
-    <title>Fun fact this skirt is actually shorts 🤫 top, shorts, boots: zara / tie, legwarmers amazon / jacker nike acg</title>
-    <updated>2023-04-17T18:36:00+00:00</updated>
-    <content>Fun fact this skirt is actually shorts 🤫 top, shorts, boots: zara / tie, legwarmers amazon / jacker nike acg</content>
-    <link href="https://tiktok.com/@grizzoworld/video/7223089406171778310" rel="alternate"/>
-    <published>2023-04-17T18:36:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grizzoworld/video/7224179681065520411</id>
     <title>😤😤😤</title>
@@ -91,5 +83,13 @@
     <content>Respect eachothers different choices and priorities. Let people live how they wanna live, just find your own circle 🫂 </content>
     <link href="https://tiktok.com/@grizzoworld/video/7228652568652664091" rel="alternate"/>
     <published>2023-05-02T18:24:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grizzoworld/video/7229013777595911450</id>
+    <title>That second outfit tho 😩🤩</title>
+    <updated>2023-05-03T17:45:49+00:00</updated>
+    <content>That second outfit tho 😩🤩</content>
+    <link href="https://tiktok.com/@grizzoworld/video/7229013777595911450" rel="alternate"/>
+    <published>2023-05-03T17:45:49+00:00</published>
   </entry>
 </feed>

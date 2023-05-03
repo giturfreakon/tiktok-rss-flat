@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-05-02T19:43:40+00:00</updated>
+  <updated>2023-05-03T18:08:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7227285317751934254</id>
-    <title>i have never used one of these templates so heres me trying it out, i know its shit</title>
-    <updated>2023-04-29T01:58:21+00:00</updated>
-    <content>i have never used one of these templates so heres me trying it out, i know its shit</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7227285317751934254" rel="alternate"/>
-    <published>2023-04-29T01:58:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7227610684853357867</id>
     <title>wanna post like how i use to, expect a mini spam today</title>
@@ -91,5 +83,13 @@
     <content>shoutout to the guy whome ive never sloken to that told me i had a final today that i was not aware of having </content>
     <link href="https://tiktok.com/@juliafox038711/video/7228673065712946475" rel="alternate"/>
     <published>2023-05-02T19:43:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7229019642730286382</id>
+    <title>🤷🏼‍♀️😋🥴😋😍</title>
+    <updated>2023-05-03T18:08:33+00:00</updated>
+    <content>🤷🏼‍♀️😋🥴😋😍</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7229019642730286382" rel="alternate"/>
+    <published>2023-05-03T18:08:33+00:00</published>
   </entry>
 </feed>
