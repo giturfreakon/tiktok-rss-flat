@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-05-03T13:02:59+00:00</updated>
+  <updated>2023-05-03T23:10:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7228125369545739566</id>
-    <title>[no title]</title>
-    <updated>2023-05-01T08:19:28+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7228125369545739566" rel="alternate"/>
-    <published>2023-05-01T08:19:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7228294292890996010</id>
-    <title>Posting this outfit until it gets the views that it deserves</title>
-    <updated>2023-05-01T19:13:48+00:00</updated>
-    <content>Posting this outfit until it gets the views that it deserves</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7228294292890996010" rel="alternate"/>
-    <published>2023-05-01T19:13:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7228447392805211438</id>
     <title>👑</title>
@@ -91,5 +75,21 @@
     <content>#raven #cosplay </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7228940830852058414" rel="alternate"/>
     <published>2023-05-03T13:02:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7229091792929459499</id>
+    <title>Guess who</title>
+    <updated>2023-05-03T22:48:28+00:00</updated>
+    <content>Guess who</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7229091792929459499" rel="alternate"/>
+    <published>2023-05-03T22:48:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7229097574387420459</id>
+    <title>[no title]</title>
+    <updated>2023-05-03T23:10:56+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7229097574387420459" rel="alternate"/>
+    <published>2023-05-03T23:10:56+00:00</published>
   </entry>
 </feed>
