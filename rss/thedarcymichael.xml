@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-05-02T14:28:02+00:00</updated>
+  <updated>2023-05-02T23:51:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7220938221654527238</id>
-    <title>I dare you to order this game Spin the Dare from the makers of @What Do You Meme?™, available on amazon #spinthedare </title>
-    <updated>2023-04-11T23:28:20+00:00</updated>
-    <content>I dare you to order this game Spin the Dare from the makers of @What Do You Meme?™, available on amazon #spinthedare </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7220938221654527238" rel="alternate"/>
-    <published>2023-04-11T23:28:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7221635972696427782</id>
     <title>Ignore the ending - Darcy will be fine out there, its a safe neighbourhood afterall. #adhd #darcyandjer #husbands </title>
@@ -91,5 +83,13 @@
     <content>Theres gonna be crumbs all over his plants #plants #couples #adhd #neurospicy #marriedlife #plantdaddy </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7228591789832195334" rel="alternate"/>
     <published>2023-05-02T14:28:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7228736925438463238</id>
+    <title>The way he grabbed the phone at the end! #CapCut </title>
+    <updated>2023-05-02T23:51:18+00:00</updated>
+    <content>The way he grabbed the phone at the end! #CapCut </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7228736925438463238" rel="alternate"/>
+    <published>2023-05-02T23:51:18+00:00</published>
   </entry>
 </feed>
