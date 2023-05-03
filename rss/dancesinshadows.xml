@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-04-30T00:25:01+00:00</updated>
+  <updated>2023-05-03T00:53:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7226357279874977029</id>
-    <title>busy few days here 🩷 #dragqueenmakeup #dragmakeup </title>
-    <updated>2023-04-26T13:56:59+00:00</updated>
-    <content>busy few days here 🩷 #dragqueenmakeup #dragmakeup </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7226357279874977029" rel="alternate"/>
-    <published>2023-04-26T13:56:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7226398367083990278</id>
     <title>#onthisday </title>
@@ -91,5 +83,13 @@
     <content>Sometimes, it's easier to just be quiet and go offline for a bit ❤️ sing @christian french  #dragmakeup #dragmakeuplook #dragking #drag #glumthesupernaturalhitman </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7227632362069249286" rel="alternate"/>
     <published>2023-04-30T00:25:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7228752906206416134</id>
+    <title>yep 😅😆   voice @Max  #sonethingwrongwithme #lifetruth  #glumthesupernaturalhitman #dragking #drag #dragmakeuplook #dragmakeup </title>
+    <updated>2023-05-03T00:53:16+00:00</updated>
+    <content>yep 😅😆   voice @Max  #sonethingwrongwithme #lifetruth  #glumthesupernaturalhitman #dragking #drag #dragmakeuplook #dragmakeup </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7228752906206416134" rel="alternate"/>
+    <published>2023-05-03T00:53:16+00:00</published>
   </entry>
 </feed>
