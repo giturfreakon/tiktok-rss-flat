@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-05-03T14:44:12+00:00</updated>
+  <updated>2023-05-04T15:52:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7222670981909810438</id>
-    <title>He must not have seen the date. Thats all. #husbandappreciationday #husbands #marriedlife #couplegoals #spousehumor </title>
-    <updated>2023-04-16T15:32:18+00:00</updated>
-    <content>He must not have seen the date. Thats all. #husbandappreciationday #husbands #marriedlife #couplegoals #spousehumor </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7222670981909810438" rel="alternate"/>
-    <published>2023-04-16T15:32:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7224594517582793989</id>
     <title>When in doubt, call in the CEO @Shou  #shoutime </title>
@@ -91,5 +83,13 @@
     <content>As we prepare for the onslaught of rainbow washing, we only work with the companies that put the effort in year round and ignore the fast buck from the june only members. Creators, take pride in your choices, saying no to someone “until they do the work” beyond june, can be such a great feeling.  #pridemonth🏳️‍🌈 #rainbowwashing #pride #CapCut </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7228967038134373638" rel="alternate"/>
     <published>2023-05-03T14:44:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7229355607852158213</id>
+    <title>It’s his routine every time #adhd #neurospicy #busydonkey #capcut </title>
+    <updated>2023-05-04T15:52:03+00:00</updated>
+    <content>It’s his routine every time #adhd #neurospicy #busydonkey #capcut </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7229355607852158213" rel="alternate"/>
+    <published>2023-05-04T15:52:03+00:00</published>
   </entry>
 </feed>
