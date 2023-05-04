@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-05-03T18:57:05+00:00</updated>
+  <updated>2023-05-04T19:31:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7226096895628709163</id>
-    <title>Please ignore the fact that we are not in the updated outfits for this 😂😂 Blake is the beautiful @prototype.fox  Filmed by @halcybella  💜 #rwby #animecosplay #wlw #yangxiaolong #yangxiaolongcosplay #blakecosplays #blakebelladonna #rwbycosplay #wlwcosplay </title>
-    <updated>2023-04-25T21:06:38+00:00</updated>
-    <content>Please ignore the fact that we are not in the updated outfits for this 😂😂 Blake is the beautiful @prototype.fox  Filmed by @halcybella  💜 #rwby #animecosplay #wlw #yangxiaolong #yangxiaolongcosplay #blakecosplays #blakebelladonna #rwbycosplay #wlwcosplay </content>
-    <link href="https://tiktok.com/@athena__cos/video/7226096895628709163" rel="alternate"/>
-    <published>2023-04-25T21:06:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7226440459953147182</id>
     <title>Spoiler alert: i won  #darkhumour #darksaber #mandalorian #starwars </title>
@@ -91,5 +83,13 @@
     <content>Just trying to be handsome the way women are  #korracosplay #avatarcosplay #avatarkorra #legendofkorra #avatar #buffwomen </content>
     <link href="https://tiktok.com/@athena__cos/video/7229032142964133166" rel="alternate"/>
     <published>2023-05-03T18:57:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7229412050416454955</id>
+    <title>Korra editon!  Looking to make a lot of upgrades to cosplays including Korra 👀 #korracosplay #avatar #avatarcosplay #korra #legendofkorra #avatarkorra #buffwomen </title>
+    <updated>2023-05-04T19:31:20+00:00</updated>
+    <content>Korra editon!  Looking to make a lot of upgrades to cosplays including Korra 👀 #korracosplay #avatar #avatarcosplay #korra #legendofkorra #avatarkorra #buffwomen </content>
+    <link href="https://tiktok.com/@athena__cos/video/7229412050416454955" rel="alternate"/>
+    <published>2023-05-04T19:31:20+00:00</published>
   </entry>
 </feed>
