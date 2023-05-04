@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-04-30T15:52:55+00:00</updated>
+  <updated>2023-05-04T15:44:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7225081836383358250</id>
-    <title>Dean's New hunt</title>
-    <updated>2023-04-23T03:27:46+00:00</updated>
-    <content>Dean's New hunt</content>
-    <link href="https://tiktok.com/@villainsupport/video/7225081836383358250" rel="alternate"/>
-    <published>2023-04-23T03:27:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7225261602109459754</id>
-    <title>#kang #kangtheconqueror #marvel #antmanandthewaspquantumania #quantumania #loki #hewhoremains #acmetok #acmevillainsupport </title>
-    <updated>2023-04-23T15:05:28+00:00</updated>
-    <content>#kang #kangtheconqueror #marvel #antmanandthewaspquantumania #quantumania #loki #hewhoremains #acmetok #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7225261602109459754" rel="alternate"/>
-    <published>2023-04-23T15:05:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7225279976575110443</id>
     <title>Kang the Conqueror</title>
@@ -91,5 +75,21 @@
     <content>#allforone #mha #gohan #dragon #dbz #anime #acmetok #acmevillainsupport (MC Dragon Ice voiced by @papa_popos )</content>
     <link href="https://tiktok.com/@villainsupport/video/7227871461212441899" rel="alternate"/>
     <published>2023-04-30T15:52:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7229335986969267498</id>
+    <title>#stitch with @Acme Member Solutions #acmetok #acmevillainsupport </title>
+    <updated>2023-05-04T14:36:18+00:00</updated>
+    <content>#stitch with @Acme Member Solutions #acmetok #acmevillainsupport </content>
+    <link href="https://tiktok.com/@villainsupport/video/7229335986969267498" rel="alternate"/>
+    <published>2023-05-04T14:36:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7229353613007588651</id>
+    <title>Voicework by @Popo Blanco #darthvader #starwars #acmetok #acmevillainsupport </title>
+    <updated>2023-05-04T15:44:47+00:00</updated>
+    <content>Voicework by @Popo Blanco #darthvader #starwars #acmetok #acmevillainsupport </content>
+    <link href="https://tiktok.com/@villainsupport/video/7229353613007588651" rel="alternate"/>
+    <published>2023-05-04T15:44:47+00:00</published>
   </entry>
 </feed>
