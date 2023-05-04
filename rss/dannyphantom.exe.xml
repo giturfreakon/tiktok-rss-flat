@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-05-03T02:15:37+00:00</updated>
+  <updated>2023-05-04T02:16:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7226596217642437930</id>
-    <title>tag soneone you argue with</title>
-    <updated>2023-04-27T05:24:41+00:00</updated>
-    <content>tag soneone you argue with</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7226596217642437930" rel="alternate"/>
-    <published>2023-04-27T05:24:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7226941668614884654</id>
-    <title>tag someone and tell them what you thibk of their outfit</title>
-    <updated>2023-04-28T03:44:56+00:00</updated>
-    <content>tag someone and tell them what you thibk of their outfit</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7226941668614884654" rel="alternate"/>
-    <published>2023-04-28T03:44:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7227661656300604718</id>
-    <title>@nickkmeyer oreo pls</title>
-    <updated>2023-04-30T02:18:45+00:00</updated>
-    <content>@nickkmeyer oreo pls</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7227661656300604718" rel="alternate"/>
-    <published>2023-04-30T02:18:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7228031888990965034</id>
     <title>it is a struggle </title>
@@ -91,5 +67,29 @@
     <content>@nickkmeyer said WHAT ON TOAST???</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7228774087194119467" rel="alternate"/>
     <published>2023-05-03T02:15:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7229145144266640686</id>
+    <title>you will do NO SUCH THING</title>
+    <updated>2023-05-04T02:15:26+00:00</updated>
+    <content>you will do NO SUCH THING</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7229145144266640686" rel="alternate"/>
+    <published>2023-05-04T02:15:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7229145212726218030</id>
+    <title>two different types of cats @@Arny</title>
+    <updated>2023-05-04T02:15:46+00:00</updated>
+    <content>two different types of cats @@Arny</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7229145212726218030" rel="alternate"/>
+    <published>2023-05-04T02:15:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7229145350878154027</id>
+    <title>tag someone you’d holla at</title>
+    <updated>2023-05-04T02:16:19+00:00</updated>
+    <content>tag someone you’d holla at</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7229145350878154027" rel="alternate"/>
+    <published>2023-05-04T02:16:19+00:00</published>
   </entry>
 </feed>
