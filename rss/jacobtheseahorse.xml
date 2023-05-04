@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-05-03T11:17:50+00:00</updated>
+  <updated>2023-05-04T18:46:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7223728319903173894</id>
-    <title>I'm a few weeks into ADHD meds now and starting to be able to recognise what the right dose of meds might be #adhd #adhdmeds #dosage #titration </title>
-    <updated>2023-04-19T11:55:19+00:00</updated>
-    <content>I'm a few weeks into ADHD meds now and starting to be able to recognise what the right dose of meds might be #adhd #adhdmeds #dosage #titration </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7223728319903173894" rel="alternate"/>
-    <published>2023-04-19T11:55:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7223775355197197573</id>
     <title>Replying to @pickingpoppies68 it's hard because our neurodivergency is a core part of who we are and how we process. For me, I still feel like I have ADHD when I'm on the meds, but I also feel so much clearer and able to access more of my mind.  I hope th</title>
@@ -91,5 +83,13 @@
     <content>#stitch with @Arctic Harmacist  let's keep these conversations going and flip the narrative so Autism and ADHD are understood from within and not without. my understanding of what it means to be neurodivergent has completely changed thanks to community and social media.  I am working in my internalised ableism which makes me want to mask at my own expense and allowing myself to be inconvenient.  #actuallyautistic #audhd #adhd #neurospicy #neurospicycrew #queer #lgbt #trans #inconvenient </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7228913813716880666" rel="alternate"/>
     <published>2023-05-03T11:17:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7229400553275641114</id>
+    <title>if you're going to require that people have ID to vote then at the very least you need to make ID free to get and easily accessible (which it's not) and even then trans folks are at a disadvantage. #vote #voting #labour #trans #lgbt #leftist #socialism #l</title>
+    <updated>2023-05-04T18:46:39+00:00</updated>
+    <content>if you're going to require that people have ID to vote then at the very least you need to make ID free to get and easily accessible (which it's not) and even then trans folks are at a disadvantage. #vote #voting #labour #trans #lgbt #leftist #socialism #localpolitics </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7229400553275641114" rel="alternate"/>
+    <published>2023-05-04T18:46:39+00:00</published>
   </entry>
 </feed>

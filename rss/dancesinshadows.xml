@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-05-03T00:53:16+00:00</updated>
+  <updated>2023-05-04T18:27:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7226398367083990278</id>
-    <title>#onthisday </title>
-    <updated>2023-04-26T16:36:26+00:00</updated>
-    <content>#onthisday </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7226398367083990278" rel="alternate"/>
-    <published>2023-04-26T16:36:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7226457312410569990</id>
     <title>trying out my newest cosplay. Still needs a few details and them splatter fx on it all to match the handmade clock staff. #whiterabbitcosplay #cosplay  #wonderlandcosplay #wonderland </title>
@@ -91,5 +83,13 @@
     <content>yep 😅😆   voice @Max  #sonethingwrongwithme #lifetruth  #glumthesupernaturalhitman #dragking #drag #dragmakeuplook #dragmakeup </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7228752906206416134" rel="alternate"/>
     <published>2023-05-03T00:53:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7229395775959207173</id>
+    <title>can you guess what character is next? some of you already know. 😉 I finished up the white rabbit costume. and hoping to film the updated look soon ❤️ #wonderlandcosplay #whiterabbitcosplay #cosplay #wonderland  #wonderlandapocalypse </title>
+    <updated>2023-05-04T18:27:56+00:00</updated>
+    <content>can you guess what character is next? some of you already know. 😉 I finished up the white rabbit costume. and hoping to film the updated look soon ❤️ #wonderlandcosplay #whiterabbitcosplay #cosplay #wonderland  #wonderlandapocalypse </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7229395775959207173" rel="alternate"/>
+    <published>2023-05-04T18:27:56+00:00</published>
   </entry>
 </feed>
