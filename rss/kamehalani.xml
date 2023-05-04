@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-05-04T02:48:23+00:00</updated>
+  <updated>2023-05-04T14:47:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7226007574020115758</id>
-    <title>Oh</title>
-    <updated>2023-04-25T15:20:06+00:00</updated>
-    <content>Oh</content>
-    <link href="https://tiktok.com/@kamehalani/video/7226007574020115758" rel="alternate"/>
-    <published>2023-04-25T15:20:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7226218983412796714</id>
     <title>Ooooo</title>
@@ -91,5 +83,13 @@
     <content>No </content>
     <link href="https://tiktok.com/@kamehalani/video/7229153618052566314" rel="alternate"/>
     <published>2023-05-04T02:48:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7229338977227033899</id>
+    <title>Honestly i think i look bad though </title>
+    <updated>2023-05-04T14:47:53+00:00</updated>
+    <content>Honestly i think i look bad though </content>
+    <link href="https://tiktok.com/@kamehalani/video/7229338977227033899" rel="alternate"/>
+    <published>2023-05-04T14:47:53+00:00</published>
   </entry>
 </feed>
