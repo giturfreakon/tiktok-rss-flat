@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-05-04T14:47:53+00:00</updated>
+  <updated>2023-05-04T16:55:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7226218983412796714</id>
-    <title>Ooooo</title>
-    <updated>2023-04-26T05:00:26+00:00</updated>
-    <content>Ooooo</content>
-    <link href="https://tiktok.com/@kamehalani/video/7226218983412796714" rel="alternate"/>
-    <published>2023-04-26T05:00:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7226372542796205355</id>
-    <title>Use your voice and vote this election. There are way too many issues at risk. #biden #voteblue #vote #politics </title>
-    <updated>2023-04-26T14:56:20+00:00</updated>
-    <content>Use your voice and vote this election. There are way too many issues at risk. #biden #voteblue #vote #politics </content>
-    <link href="https://tiktok.com/@kamehalani/video/7226372542796205355" rel="alternate"/>
-    <published>2023-04-26T14:56:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7226380690710039854</id>
-    <title>[no title]</title>
-    <updated>2023-04-26T15:28:01+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kamehalani/video/7226380690710039854" rel="alternate"/>
-    <published>2023-04-26T15:28:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7228289929271364910</id>
     <title>Have any of you seen old vids of #madtv ? I used to watch them on yt because i live for alex borstein and her impressions </title>
@@ -91,5 +67,29 @@
     <content>Honestly i think i look bad though </content>
     <link href="https://tiktok.com/@kamehalani/video/7229338977227033899" rel="alternate"/>
     <published>2023-05-04T14:47:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7229367317619232046</id>
+    <title>Im feeling guilt now </title>
+    <updated>2023-05-04T16:37:49+00:00</updated>
+    <content>Im feeling guilt now </content>
+    <link href="https://tiktok.com/@kamehalani/video/7229367317619232046" rel="alternate"/>
+    <published>2023-05-04T16:37:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7229368122166414638</id>
+    <title>Because im 24 </title>
+    <updated>2023-05-04T16:41:00+00:00</updated>
+    <content>Because im 24 </content>
+    <link href="https://tiktok.com/@kamehalani/video/7229368122166414638" rel="alternate"/>
+    <published>2023-05-04T16:41:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7229371782631984430</id>
+    <title>She did actually raise me #dollyparton @Dolly Parton  </title>
+    <updated>2023-05-04T16:55:14+00:00</updated>
+    <content>She did actually raise me #dollyparton @Dolly Parton  </content>
+    <link href="https://tiktok.com/@kamehalani/video/7229371782631984430" rel="alternate"/>
+    <published>2023-05-04T16:55:14+00:00</published>
   </entry>
 </feed>
