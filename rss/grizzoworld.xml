@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grizzoworld</id>
   <title>@grizzoworld | TikTok</title>
-  <updated>2023-05-04T18:01:25+00:00</updated>
+  <updated>2023-05-04T20:26:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grizzoworld</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grizzoworld/video/7224547667756535066</id>
-    <title>Which one ya fav? 💃🏻 </title>
-    <updated>2023-04-21T16:54:52+00:00</updated>
-    <content>Which one ya fav? 💃🏻 </content>
-    <link href="https://tiktok.com/@grizzoworld/video/7224547667756535066" rel="alternate"/>
-    <published>2023-04-21T16:54:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grizzoworld/video/7225647427737390363</id>
     <title>BOUGHT A NEW DRESSS </title>
@@ -91,5 +83,13 @@
     <content>Agent wolf reporting to duty 🫡🐾</content>
     <link href="https://tiktok.com/@grizzoworld/video/7229388905164836122" rel="alternate"/>
     <published>2023-05-04T18:01:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grizzoworld/video/7229426416264187162</id>
+    <title>Don’t worry bout them other peeps, just wear what makes you happy. And find better friends ☝️🫂 </title>
+    <updated>2023-05-04T20:26:57+00:00</updated>
+    <content>Don’t worry bout them other peeps, just wear what makes you happy. And find better friends ☝️🫂 </content>
+    <link href="https://tiktok.com/@grizzoworld/video/7229426416264187162" rel="alternate"/>
+    <published>2023-05-04T20:26:57+00:00</published>
   </entry>
 </feed>
