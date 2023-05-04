@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-05-03T19:20:49+00:00</updated>
+  <updated>2023-05-04T04:00:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7226778285278121259</id>
-    <title>Off limits!!! 😤😤😤 #4u #siblings #charlesthegr8  </title>
-    <updated>2023-04-27T17:10:51+00:00</updated>
-    <content>Off limits!!! 😤😤😤 #4u #siblings #charlesthegr8  </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7226778285278121259" rel="alternate"/>
-    <published>2023-04-27T17:10:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7226784667578633518</id>
-    <title>Like duh!!! #4u #charlesthegr8 #dating </title>
-    <updated>2023-04-27T17:35:38+00:00</updated>
-    <content>Like duh!!! #4u #charlesthegr8 #dating </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7226784667578633518" rel="alternate"/>
-    <published>2023-04-27T17:35:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7226788285572533547</id>
     <title>🎣 #fishing #iykyk #charlesthegr8 </title>
@@ -91,5 +75,21 @@
     <content>#iykyk #funny #charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7229038258859085099" rel="alternate"/>
     <published>2023-05-03T19:20:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7229155827985173806</id>
+    <title>✌️✌️✌️#iykyk #4u #charlesthegr8 </title>
+    <updated>2023-05-04T02:57:00+00:00</updated>
+    <content>✌️✌️✌️#iykyk #4u #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7229155827985173806" rel="alternate"/>
+    <published>2023-05-04T02:57:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7229172050236132651</id>
+    <title>No im never getting off 😏😏😏#iykyk #4u #charlesthegr8 </title>
+    <updated>2023-05-04T04:00:05+00:00</updated>
+    <content>No im never getting off 😏😏😏#iykyk #4u #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7229172050236132651" rel="alternate"/>
+    <published>2023-05-04T04:00:05+00:00</published>
   </entry>
 </feed>

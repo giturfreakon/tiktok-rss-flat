@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-05-02T16:20:48+00:00</updated>
+  <updated>2023-05-03T22:56:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7223501955728018734</id>
-    <title>Rage More. #fyp #trans </title>
-    <updated>2023-04-18T21:17:04+00:00</updated>
-    <content>Rage More. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7223501955728018734" rel="alternate"/>
-    <published>2023-04-18T21:17:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7224513328461270315</id>
-    <title>Moving day! #fyp #trans </title>
-    <updated>2023-04-21T14:41:58+00:00</updated>
-    <content>Moving day! #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7224513328461270315" rel="alternate"/>
-    <published>2023-04-21T14:41:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7224600451017198894</id>
     <title>I still can't believe it. #fyp #trans </title>
@@ -91,5 +75,21 @@
     <content>We work hard, we play hard, and we look good doing it. We are just like you. Put me on any one of your gigs and I can show you how "manly" I am, which, if we're being honest here, is purely misogynistic and we should start just saying "they're good at their job." Either way, we out here. Many of us; trans men, trans women and nonbinary people of the entertainment industry. #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7228620763379584298" rel="alternate"/>
     <published>2023-05-02T16:20:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7229089041029860651</id>
+    <title>Mental days. #fyp </title>
+    <updated>2023-05-03T22:37:45+00:00</updated>
+    <content>Mental days. #fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7229089041029860651" rel="alternate"/>
+    <published>2023-05-03T22:37:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7229093915524074794</id>
+    <title>This. #fyp #trans </title>
+    <updated>2023-05-03T22:56:40+00:00</updated>
+    <content>This. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7229093915524074794" rel="alternate"/>
+    <published>2023-05-03T22:56:40+00:00</published>
   </entry>
 </feed>
