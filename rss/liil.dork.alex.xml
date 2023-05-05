@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-04-30T00:16:17+00:00</updated>
+  <updated>2023-05-05T23:08:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -35,14 +35,6 @@
     <content>Good god😮‍💨</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7218370776984980779" rel="alternate"/>
     <published>2023-04-05T01:25:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7221668961329614126</id>
-    <title>Make sure to take a second and enjoy nature and her beauty ☀️ and just breath </title>
-    <updated>2023-04-13T22:44:01+00:00</updated>
-    <content>Make sure to take a second and enjoy nature and her beauty ☀️ and just breath </content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7221668961329614126" rel="alternate"/>
-    <published>2023-04-13T22:44:01+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7222406179631271211</id>
@@ -91,5 +83,13 @@
     <content>Good god 😮‍💨 (songs been stuck in my head) </content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7227630052454812974" rel="alternate"/>
     <published>2023-04-30T00:16:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7229839195508985131</id>
+    <title>Alil progress 🫡</title>
+    <updated>2023-05-05T23:08:45+00:00</updated>
+    <content>Alil progress 🫡</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7229839195508985131" rel="alternate"/>
+    <published>2023-05-05T23:08:45+00:00</published>
   </entry>
 </feed>
