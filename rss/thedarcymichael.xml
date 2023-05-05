@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-05-04T15:52:03+00:00</updated>
+  <updated>2023-05-05T12:15:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7224594517582793989</id>
-    <title>When in doubt, call in the CEO @Shou  #shoutime </title>
-    <updated>2023-04-21T19:56:36+00:00</updated>
-    <content>When in doubt, call in the CEO @Shou  #shoutime </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7224594517582793989" rel="alternate"/>
-    <published>2023-04-21T19:56:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7226007296432770309</id>
     <title>His face at the end 🤩  </title>
@@ -91,5 +83,13 @@
     <content>It’s his routine every time #adhd #neurospicy #busydonkey #capcut </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7229355607852158213" rel="alternate"/>
     <published>2023-05-04T15:52:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7229670884863118597</id>
+    <title>This was the best of 30 takes. Anyways, we’re on an adventure for a few weeks. Follow along here and all those other places. #darcyandjer #travel #london #CapCut </title>
+    <updated>2023-05-05T12:15:28+00:00</updated>
+    <content>This was the best of 30 takes. Anyways, we’re on an adventure for a few weeks. Follow along here and all those other places. #darcyandjer #travel #london #CapCut </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7229670884863118597" rel="alternate"/>
+    <published>2023-05-05T12:15:28+00:00</published>
   </entry>
 </feed>
