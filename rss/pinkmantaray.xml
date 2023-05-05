@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-04-26T21:18:55+00:00</updated>
+  <updated>2023-05-05T01:15:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7219347469283577134</id>
-    <title>Gender affirming healthcare is safe, medically necesary, and can be lifesaving. All sources at pinkmantaray.com/facts. #transgender #genderaffirmingcare #genderaffirmingsurgery #gender #lgbtq #transkids #transition #gendertransition #hrt #hormones #transm</title>
-    <updated>2023-04-07T16:35:28+00:00</updated>
-    <content>Gender affirming healthcare is safe, medically necesary, and can be lifesaving. All sources at pinkmantaray.com/facts. #transgender #genderaffirmingcare #genderaffirmingsurgery #gender #lgbtq #transkids #transition #gendertransition #hrt #hormones #transman #transwoman #pride #scienceisreal </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7219347469283577134" rel="alternate"/>
-    <published>2023-04-07T16:35:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7220878072625581354</id>
     <title>The stuff coming out of Florida is somehow atill mindboggling. If you're concerned with someone else's genitals, that's on you. Not on the other person minding their own business. #transgender #trans #florida #republicans #transphobia #bathrooms #gender #</title>
@@ -91,5 +83,13 @@
     <content>Transphobia is perpetuated theough fearmongering and lying. If you read Megyn's tweet and agrees with her - youre being tricked. @netflix do better. #transgender #transathlete #transwomen #sports #womenssports #transwomenarewomen #trans #transgenderathlete #lettranskidsplay #inclusion </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7226471126627634475" rel="alternate"/>
     <published>2023-04-26T21:18:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7229500892725251371</id>
+    <title>Unsurprisingly, we received many comments arguing about the fairness of including trans women in women's sports. So I sat down with scientist, researcher, and doctoral candidate Joanna Harper to discuss! Take a listen to this DEAR SCHUYLER episode on Spot</title>
+    <updated>2023-05-05T01:15:59+00:00</updated>
+    <content>Unsurprisingly, we received many comments arguing about the fairness of including trans women in women's sports. So I sat down with scientist, researcher, and doctoral candidate Joanna Harper to discuss! Take a listen to this DEAR SCHUYLER episode on Spotify, Apple Podcasts, YouTube, or wherever you get your podcasts! And, if you're looking for a deeper dive on how to have these conversations about trans athletes, sign up for a workshop at pinkmantaray.com/workshops 🏳️‍⚧️🙏🏼💕 #dearschuyler #podcast #transgender </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7229500892725251371" rel="alternate"/>
+    <published>2023-05-05T01:15:59+00:00</published>
   </entry>
 </feed>
