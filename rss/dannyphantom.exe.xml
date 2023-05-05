@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-05-04T02:16:19+00:00</updated>
+  <updated>2023-05-05T02:17:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7228031888990965034</id>
-    <title>it is a struggle </title>
-    <updated>2023-05-01T02:15:26+00:00</updated>
-    <content>it is a struggle </content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7228031888990965034" rel="alternate"/>
-    <published>2023-05-01T02:15:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7228031925653458219</id>
-    <title>tag ur bf/gf/partner</title>
-    <updated>2023-05-01T02:15:37+00:00</updated>
-    <content>tag ur bf/gf/partner</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7228031925653458219" rel="alternate"/>
-    <published>2023-05-01T02:15:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7228031992892296491</id>
-    <title>@nickkmeyer he was ready to MOUNT</title>
-    <updated>2023-05-01T02:15:58+00:00</updated>
-    <content>@nickkmeyer he was ready to MOUNT</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7228031992892296491" rel="alternate"/>
-    <published>2023-05-01T02:15:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7228402934441135403</id>
     <title>og vid @Tony Doan </title>
@@ -91,5 +67,29 @@
     <content>tag someone you’d holla at</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7229145350878154027" rel="alternate"/>
     <published>2023-05-04T02:16:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7229516266652978475</id>
+    <title>I CAN FIX HIM (i cannot)</title>
+    <updated>2023-05-05T02:15:40+00:00</updated>
+    <content>I CAN FIX HIM (i cannot)</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7229516266652978475" rel="alternate"/>
+    <published>2023-05-05T02:15:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7229516607402331434</id>
+    <title>[no title]</title>
+    <updated>2023-05-05T02:17:01+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7229516607402331434" rel="alternate"/>
+    <published>2023-05-05T02:17:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7229516656433827115</id>
+    <title>remade my video from 2 years ago. happy may the 4th</title>
+    <updated>2023-05-05T02:17:12+00:00</updated>
+    <content>remade my video from 2 years ago. happy may the 4th</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7229516656433827115" rel="alternate"/>
+    <published>2023-05-05T02:17:12+00:00</published>
   </entry>
 </feed>
