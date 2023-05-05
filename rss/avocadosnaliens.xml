@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-05-05T05:58:57+00:00</updated>
+  <updated>2023-05-05T19:04:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7225882288486370606</id>
-    <title>#wildflowers #superbloom2023 #californiasuperbloom </title>
-    <updated>2023-04-25T07:14:50+00:00</updated>
-    <content>#wildflowers #superbloom2023 #californiasuperbloom </content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7225882288486370606" rel="alternate"/>
-    <published>2023-04-25T07:14:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7227575270260149546</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>Replying to @kayceekillah pants are boy scouts of america</content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7229573671793200427" rel="alternate"/>
     <published>2023-05-05T05:58:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7229776173239192875</id>
+    <title>Always aspire to be the hottest mom in the school pickup line #wiwiad </title>
+    <updated>2023-05-05T19:04:10+00:00</updated>
+    <content>Always aspire to be the hottest mom in the school pickup line #wiwiad </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7229776173239192875" rel="alternate"/>
+    <published>2023-05-05T19:04:10+00:00</published>
   </entry>
 </feed>
