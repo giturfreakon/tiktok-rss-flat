@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-05-05T14:38:37+00:00</updated>
+  <updated>2023-05-05T19:48:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7226558025245412613</id>
-    <title>a work in progress. I've been working on an apocalyptic white  rabbit look #wonderlandcosplay #wonderland #cosplay #whiterabbitcosplay </title>
-    <updated>2023-04-27T02:56:00+00:00</updated>
-    <content>a work in progress. I've been working on an apocalyptic white  rabbit look #wonderlandcosplay #wonderland #cosplay #whiterabbitcosplay </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7226558025245412613" rel="alternate"/>
-    <published>2023-04-27T02:56:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7226571114246360325</id>
     <title>every day is a new adventure in pain. song by @JORDY  please go shown him some love and support. this song has been stuck in my head all day 😆💓 #dragmakeuplook #dragking #drag #ehlersdanlos #mastcellactivationsyndrome </title>
@@ -91,5 +83,13 @@
     <content>working on new content and characters ❤️ #thevoid #vibrantcolors </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7229707772932164870" rel="alternate"/>
     <published>2023-05-05T14:38:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7229787594370944262</id>
+    <title>managed a few vids today 🩷#mushroomcostume #mushroomcosplay #ifihadamushroom   #mushroom #mariomushrooms #nintendo </title>
+    <updated>2023-05-05T19:48:22+00:00</updated>
+    <content>managed a few vids today 🩷#mushroomcostume #mushroomcosplay #ifihadamushroom   #mushroom #mariomushrooms #nintendo </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7229787594370944262" rel="alternate"/>
+    <published>2023-05-05T19:48:22+00:00</published>
   </entry>
 </feed>
