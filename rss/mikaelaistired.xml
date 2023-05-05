@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-05-04T15:14:05+00:00</updated>
+  <updated>2023-05-04T21:36:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7227988805184310574</id>
-    <title>Just nice to realize</title>
-    <updated>2023-04-30T23:28:16+00:00</updated>
-    <content>Just nice to realize</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7227988805184310574" rel="alternate"/>
-    <published>2023-04-30T23:28:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7228227505340108075</id>
     <title>Practice practice</title>
@@ -91,5 +83,13 @@
     <content>Nevermind then</content>
     <link href="https://tiktok.com/@mikaelaistired/video/7229345732636069163" rel="alternate"/>
     <published>2023-05-04T15:14:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7229444248251206954</id>
+    <title>She is in her car</title>
+    <updated>2023-05-04T21:36:11+00:00</updated>
+    <content>She is in her car</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7229444248251206954" rel="alternate"/>
+    <published>2023-05-04T21:36:11+00:00</published>
   </entry>
 </feed>

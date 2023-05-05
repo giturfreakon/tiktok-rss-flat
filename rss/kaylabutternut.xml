@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-05-04T22:36:54+00:00</updated>
+  <updated>2023-05-05T03:15:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7229116791086189866</id>
-    <title>[no title]</title>
-    <updated>2023-05-04T00:25:27+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7229116791086189866" rel="alternate"/>
-    <published>2023-05-04T00:25:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7229124605716237614</id>
-    <title>If I went live would you guys say hi</title>
-    <updated>2023-05-04T00:55:45+00:00</updated>
-    <content>If I went live would you guys say hi</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7229124605716237614" rel="alternate"/>
-    <published>2023-05-04T00:55:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7229126702675299627</id>
     <title>[no title]</title>
@@ -91,5 +75,21 @@
     <content>But not really</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7229459894728969515" rel="alternate"/>
     <published>2023-05-04T22:36:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7229477471937301806</id>
+    <title>Replying to @Thibault 6 </title>
+    <updated>2023-05-04T23:45:06+00:00</updated>
+    <content>Replying to @Thibault 6 </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7229477471937301806" rel="alternate"/>
+    <published>2023-05-04T23:45:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7229531568384036138</id>
+    <title>[no title]</title>
+    <updated>2023-05-05T03:15:02+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7229531568384036138" rel="alternate"/>
+    <published>2023-05-05T03:15:02+00:00</published>
   </entry>
 </feed>
