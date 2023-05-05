@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-05-05T00:53:17+00:00</updated>
+  <updated>2023-05-05T21:50:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7226808546938178858</id>
-    <title>Blake is @prototype.fox !  The other gf was Catra done by @halcybella  #rwby #animecosplay #yangxiaolongcosplay #wlw #lesbian #bi #blake </title>
-    <updated>2023-04-27T19:08:15+00:00</updated>
-    <content>Blake is @prototype.fox !  The other gf was Catra done by @halcybella  #rwby #animecosplay #yangxiaolongcosplay #wlw #lesbian #bi #blake </content>
-    <link href="https://tiktok.com/@athena__cos/video/7226808546938178858" rel="alternate"/>
-    <published>2023-04-27T19:08:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7227183402284371246</id>
     <title>Ruby went rogue with this one 😂  Ruby is @sockojocko  Blake is @prototype.fox  #rwby #rwbycosplay #rubyrose #yangxiaolong #blakebelladonna #yangcosplay #rubycosplay #blakecosplays #anime #animegirls #catgirl </title>
@@ -91,5 +83,13 @@
     <content>Replying to @Dylanpool behind the scenes waiting for the sound to start </content>
     <link href="https://tiktok.com/@athena__cos/video/7229495031378513198" rel="alternate"/>
     <published>2023-05-05T00:53:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7229819043799239979</id>
+    <title>When i heard this audio, it resonated with me personally. So i wanted to show it through a character it fits so well #korra #korracosplay </title>
+    <updated>2023-05-05T21:50:30+00:00</updated>
+    <content>When i heard this audio, it resonated with me personally. So i wanted to show it through a character it fits so well #korra #korracosplay </content>
+    <link href="https://tiktok.com/@athena__cos/video/7229819043799239979" rel="alternate"/>
+    <published>2023-05-05T21:50:30+00:00</published>
   </entry>
 </feed>
