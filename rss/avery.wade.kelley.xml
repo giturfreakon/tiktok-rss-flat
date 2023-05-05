@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-05-04T13:29:40+00:00</updated>
+  <updated>2023-05-05T14:52:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7224864278354988330</id>
-    <title>Aaayeee. #fyp #trans </title>
-    <updated>2023-04-22T13:23:45+00:00</updated>
-    <content>Aaayeee. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7224864278354988330" rel="alternate"/>
-    <published>2023-04-22T13:23:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7225385174672969002</id>
     <title>#duet with @adriananightmare Hahhaa, finally we can make funny faces. #fyp </title>
@@ -91,5 +83,13 @@
     <content>This is the last thing I wanted to do... But, it looks like it might have to be in the cards... I will keep you updated as always. Thank you so much for your love and support, y'all mean so much to me. 🖤 #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7229318758182014254" rel="alternate"/>
     <published>2023-05-04T13:29:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7229711308319542574</id>
+    <title>Surprised at actually liking my glasses with this filter. Lol. #fyp </title>
+    <updated>2023-05-05T14:52:30+00:00</updated>
+    <content>Surprised at actually liking my glasses with this filter. Lol. #fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7229711308319542574" rel="alternate"/>
+    <published>2023-05-05T14:52:30+00:00</published>
   </entry>
 </feed>
