@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-05-04T04:00:05+00:00</updated>
+  <updated>2023-05-05T07:23:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7226788285572533547</id>
-    <title>🎣 #fishing #iykyk #charlesthegr8 </title>
-    <updated>2023-04-27T17:49:40+00:00</updated>
-    <content>🎣 #fishing #iykyk #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7226788285572533547" rel="alternate"/>
-    <published>2023-04-27T17:49:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7226790202889571627</id>
-    <title>I beg ya pardon!!! 🤔 #iykyk #4u #charlesthegr8 </title>
-    <updated>2023-04-27T17:57:07+00:00</updated>
-    <content>I beg ya pardon!!! 🤔 #iykyk #4u #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7226790202889571627" rel="alternate"/>
-    <published>2023-04-27T17:57:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7227978405415832874</id>
     <title>Good riddance #iykyk #ex #charlesthgr8 </title>
@@ -91,5 +75,21 @@
     <content>No im never getting off 😏😏😏#iykyk #4u #charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7229172050236132651" rel="alternate"/>
     <published>2023-05-04T04:00:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7229573848683875626</id>
+    <title>Waste of my dang tim!!! 😤 #iykyk #4u #charlesthegr8 </title>
+    <updated>2023-05-05T05:59:10+00:00</updated>
+    <content>Waste of my dang tim!!! 😤 #iykyk #4u #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7229573848683875626" rel="alternate"/>
+    <published>2023-05-05T05:59:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7229595696167456042</id>
+    <title>Couldnt let that one slide!😤 #iykyk #4u #charlesthegr8 </title>
+    <updated>2023-05-05T07:23:54+00:00</updated>
+    <content>Couldnt let that one slide!😤 #iykyk #4u #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7229595696167456042" rel="alternate"/>
+    <published>2023-05-05T07:23:54+00:00</published>
   </entry>
 </feed>
