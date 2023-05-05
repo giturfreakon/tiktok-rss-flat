@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-05-05T06:57:00+00:00</updated>
+  <updated>2023-05-05T10:43:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7229128202801745194</id>
-    <title>Almost cried lmao</title>
-    <updated>2023-05-04T01:09:44+00:00</updated>
-    <content>Almost cried lmao</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7229128202801745194" rel="alternate"/>
-    <published>2023-05-04T01:09:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7229145598384147758</id>
-    <title>:)</title>
-    <updated>2023-05-04T02:17:16+00:00</updated>
-    <content>:)</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7229145598384147758" rel="alternate"/>
-    <published>2023-05-04T02:17:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7229185608948731178</id>
     <title>[no title]</title>
@@ -91,5 +75,21 @@
     <content>I love raven </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7229588757505379630" rel="alternate"/>
     <published>2023-05-05T06:57:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7229616480248171818</id>
+    <title>[no title]</title>
+    <updated>2023-05-05T08:44:36+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7229616480248171818" rel="alternate"/>
+    <published>2023-05-05T08:44:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7229647093109902634</id>
+    <title>Lola bunny cosplay next?</title>
+    <updated>2023-05-05T10:43:18+00:00</updated>
+    <content>Lola bunny cosplay next?</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7229647093109902634" rel="alternate"/>
+    <published>2023-05-05T10:43:18+00:00</published>
   </entry>
 </feed>
