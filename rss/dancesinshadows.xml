@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-05-05T19:48:22+00:00</updated>
+  <updated>2023-05-06T00:49:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7226571114246360325</id>
-    <title>every day is a new adventure in pain. song by @JORDY  please go shown him some love and support. this song has been stuck in my head all day 😆💓 #dragmakeuplook #dragking #drag #ehlersdanlos #mastcellactivationsyndrome </title>
-    <updated>2023-04-27T03:46:49+00:00</updated>
-    <content>every day is a new adventure in pain. song by @JORDY  please go shown him some love and support. this song has been stuck in my head all day 😆💓 #dragmakeuplook #dragking #drag #ehlersdanlos #mastcellactivationsyndrome </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7226571114246360325" rel="alternate"/>
-    <published>2023-04-27T03:46:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7226753179214482693</id>
     <title>this could be my theme song...minus the advil. it doesn't help 😅  voice @TheOneSoldier   #mylife #alwaysinpain #ehlersdanlos #dragmakeuplook #dragking </title>
@@ -91,5 +83,13 @@
     <content>managed a few vids today 🩷#mushroomcostume #mushroomcosplay #ifihadamushroom   #mushroom #mariomushrooms #nintendo </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7229787594370944262" rel="alternate"/>
     <published>2023-05-05T19:48:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7229865209916050694</id>
+    <title>Minn loves to be a part of everything ❤️   #mushroomcosplay #mushroomcostume #mushroom #mariomushrooms #nintendo #cosplay </title>
+    <updated>2023-05-06T00:49:35+00:00</updated>
+    <content>Minn loves to be a part of everything ❤️   #mushroomcosplay #mushroomcostume #mushroom #mariomushrooms #nintendo #cosplay </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7229865209916050694" rel="alternate"/>
+    <published>2023-05-06T00:49:35+00:00</published>
   </entry>
 </feed>
