@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-05-05T07:23:54+00:00</updated>
+  <updated>2023-05-06T02:16:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7227978405415832874</id>
-    <title>Good riddance #iykyk #ex #charlesthgr8 </title>
-    <updated>2023-04-30T22:47:55+00:00</updated>
-    <content>Good riddance #iykyk #ex #charlesthgr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7227978405415832874" rel="alternate"/>
-    <published>2023-04-30T22:47:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7228441759116758318</id>
     <title>Out of pocket #calebcity #iykyk #charlesthegr8</title>
@@ -91,5 +83,13 @@
     <content>Couldnt let that one slide!😤 #iykyk #4u #charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7229595696167456042" rel="alternate"/>
     <published>2023-05-05T07:23:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7229887587996110126</id>
+    <title>Mhm 😒 #iykyk #4u #charlesthegr8 </title>
+    <updated>2023-05-06T02:16:28+00:00</updated>
+    <content>Mhm 😒 #iykyk #4u #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7229887587996110126" rel="alternate"/>
+    <published>2023-05-06T02:16:28+00:00</published>
   </entry>
 </feed>
