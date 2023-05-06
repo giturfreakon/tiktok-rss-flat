@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@adriananightmare</id>
   <title>@adriananightmare | TikTok</title>
-  <updated>2023-05-05T19:31:46+00:00</updated>
+  <updated>2023-05-06T17:14:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @adriananightmare</subtitle>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7226539380968787246</id>
-    <title>bruh, the doghair 😂#fy #empress #mommy #fypシ #newyork </title>
-    <updated>2023-04-27T01:43:47+00:00</updated>
-    <content>bruh, the doghair 😂#fy #empress #mommy #fypシ #newyork </content>
-    <link href="https://tiktok.com/@adriananightmare/video/7226539380968787246" rel="alternate"/>
-    <published>2023-04-27T01:43:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@adriananightmare/video/7226545981263809835</id>
     <title>pain #tattooartist #empress #newyork #fypシ </title>
@@ -91,5 +83,13 @@
     <content>#fy #fypシ #fyp #empress #cartoon </content>
     <link href="https://tiktok.com/@adriananightmare/video/7229783284337724714" rel="alternate"/>
     <published>2023-05-05T19:31:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7230118932064095530</id>
+    <title>grateful. </title>
+    <updated>2023-05-06T17:14:18+00:00</updated>
+    <content>grateful. </content>
+    <link href="https://tiktok.com/@adriananightmare/video/7230118932064095530" rel="alternate"/>
+    <published>2023-05-06T17:14:18+00:00</published>
   </entry>
 </feed>
