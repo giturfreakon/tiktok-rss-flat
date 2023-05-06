@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-05-06T15:40:47+00:00</updated>
+  <updated>2023-05-06T21:15:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7228656188483718446</id>
-    <title>I will don’t test me</title>
-    <updated>2023-05-02T18:38:16+00:00</updated>
-    <content>I will don’t test me</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7228656188483718446" rel="alternate"/>
-    <published>2023-05-02T18:38:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7228702670956006699</id>
     <title>#greenscreen never</title>
@@ -91,5 +83,13 @@
     <content>Take care of you </content>
     <link href="https://tiktok.com/@mikaelaistired/video/7230094803168546091" rel="alternate"/>
     <published>2023-05-06T15:40:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7230181013140278571</id>
+    <title>Hey</title>
+    <updated>2023-05-06T21:15:09+00:00</updated>
+    <content>Hey</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7230181013140278571" rel="alternate"/>
+    <published>2023-05-06T21:15:09+00:00</published>
   </entry>
 </feed>
