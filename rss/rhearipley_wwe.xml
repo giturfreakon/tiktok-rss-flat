@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@rhearipley_wwe</id>
   <title>@rhearipley_wwe | TikTok</title>
-  <updated>2023-05-02T16:50:00+00:00</updated>
+  <updated>2023-05-06T17:34:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rhearipley_wwe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rhearipley_wwe/video/7213765979011042606</id>
-    <title>Stronger every week. ⚖️ 75lb x 5 Incline  #ManiaSeason </title>
-    <updated>2023-03-23T15:36:27+00:00</updated>
-    <content>Stronger every week. ⚖️ 75lb x 5 Incline  #ManiaSeason </content>
-    <link href="https://tiktok.com/@rhearipley_wwe/video/7213765979011042606" rel="alternate"/>
-    <published>2023-03-23T15:36:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rhearipley_wwe/video/7215580524893654318</id>
     <title>Go buy the new T-Shirt and maybe Mami will bail you out 😈</title>
@@ -91,5 +83,13 @@
     <content>Can’t tear us apart! R + D is stronger than ever 🔥⚖️ #WWEDraft #TheJudgmentDay #LatinoHeat </content>
     <link href="https://tiktok.com/@rhearipley_wwe/video/7228628248819698986" rel="alternate"/>
     <published>2023-05-02T16:50:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rhearipley_wwe/video/7230124143218412842</id>
+    <title>#WWEBacklash, Mami’s here. </title>
+    <updated>2023-05-06T17:34:33+00:00</updated>
+    <content>#WWEBacklash, Mami’s here. </content>
+    <link href="https://tiktok.com/@rhearipley_wwe/video/7230124143218412842" rel="alternate"/>
+    <published>2023-05-06T17:34:33+00:00</published>
   </entry>
 </feed>

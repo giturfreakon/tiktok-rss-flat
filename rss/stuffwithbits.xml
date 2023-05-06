@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-05-05T20:55:31+00:00</updated>
+  <updated>2023-05-06T18:31:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7228331876111469870</id>
-    <title>Please don't post links to individual songs, but you may link a playlist! Preferably on Spotify! #sskestrel #solardidsystem #sszenith </title>
-    <updated>2023-05-01T21:39:36+00:00</updated>
-    <content>Please don't post links to individual songs, but you may link a playlist! Preferably on Spotify! #sskestrel #solardidsystem #sszenith </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7228331876111469870" rel="alternate"/>
-    <published>2023-05-01T21:39:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7228343046566317354</id>
-    <title>Ex-Persecutor 🤝 Protector #solardidsystem #sskestrel #sszenith </title>
-    <updated>2023-05-01T22:22:55+00:00</updated>
-    <content>Ex-Persecutor 🤝 Protector #solardidsystem #sskestrel #sszenith </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7228343046566317354" rel="alternate"/>
-    <published>2023-05-01T22:22:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7228345197409602858</id>
     <title>Replying to @spamandriel #reply #solardidsystem #sskestrel #sszenith #usethissound </title>
@@ -91,5 +75,21 @@
     <content>Replying to @doordash #reply literally every experience has just been awful but sometimes we literally don't have a choice. We either dash or starve. #solardidsystem #doordash </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7229804873955527979" rel="alternate"/>
     <published>2023-05-05T20:55:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7230129836579147050</id>
+    <title>#solardidsystem #sszenith </title>
+    <updated>2023-05-06T17:56:34+00:00</updated>
+    <content>#solardidsystem #sszenith </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7230129836579147050" rel="alternate"/>
+    <published>2023-05-06T17:56:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7230138744928488746</id>
+    <title>NEVER leave your pets unattended with toys or bones they can chew or ingest. They can choke and if they swallow it, it can cause major internal damage that requires emergency surgery. #solardidsystem #sszenith </title>
+    <updated>2023-05-06T18:31:13+00:00</updated>
+    <content>NEVER leave your pets unattended with toys or bones they can chew or ingest. They can choke and if they swallow it, it can cause major internal damage that requires emergency surgery. #solardidsystem #sszenith </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7230138744928488746" rel="alternate"/>
+    <published>2023-05-06T18:31:13+00:00</published>
   </entry>
 </feed>
