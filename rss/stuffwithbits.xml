@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-05-05T21:54:34+00:00</updated>
+  <updated>2023-05-05T20:55:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7228331876111469870</id>
+    <title>Please don't post links to individual songs, but you may link a playlist! Preferably on Spotify! #sskestrel #solardidsystem #sszenith </title>
+    <updated>2023-05-01T21:39:36+00:00</updated>
+    <content>Please don't post links to individual songs, but you may link a playlist! Preferably on Spotify! #sskestrel #solardidsystem #sszenith </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7228331876111469870" rel="alternate"/>
+    <published>2023-05-01T21:39:36+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7228343046566317354</id>
     <title>Ex-Persecutor 🤝 Protector #solardidsystem #sskestrel #sszenith </title>
@@ -83,13 +91,5 @@
     <content>Replying to @doordash #reply literally every experience has just been awful but sometimes we literally don't have a choice. We either dash or starve. #solardidsystem #doordash </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7229804873955527979" rel="alternate"/>
     <published>2023-05-05T20:55:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7229820099778170158</id>
-    <title>We are processing a lot of (unrelated) anger and that's what I do best #solardidsystem #ssellie </title>
-    <updated>2023-05-05T21:54:34+00:00</updated>
-    <content>We are processing a lot of (unrelated) anger and that's what I do best #solardidsystem #ssellie </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7229820099778170158" rel="alternate"/>
-    <published>2023-05-05T21:54:34+00:00</published>
   </entry>
 </feed>
