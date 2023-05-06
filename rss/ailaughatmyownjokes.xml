@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ailaughatmyownjokes</id>
   <title>@ailaughatmyownjokes | TikTok</title>
-  <updated>2023-05-02T16:14:38+00:00</updated>
+  <updated>2023-05-06T18:26:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ailaughatmyownjokes</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ailaughatmyownjokes/video/7220103787950755099</id>
-    <title>I got fired  #harrypotter #skit #comedy </title>
-    <updated>2023-04-09T17:30:33+00:00</updated>
-    <content>I got fired  #harrypotter #skit #comedy </content>
-    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7220103787950755099" rel="alternate"/>
-    <published>2023-04-09T17:30:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ailaughatmyownjokes/video/7220535499838983450</id>
     <title>I got the video Idea from artyfwog who commented it during my stream so thank youuuuuuuuuu🥰🥰🥰#harrypotter #skit #comedy</title>
@@ -91,5 +83,13 @@
     <content>Quality permanent marker I must say #harrypotter #skit #comedy </content>
     <link href="https://tiktok.com/@ailaughatmyownjokes/video/7228619215715011866" rel="alternate"/>
     <published>2023-05-02T16:14:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ailaughatmyownjokes/video/7230137486058605850</id>
+    <title>"whaäättt u've never seen lörd öf the ringss???" no I haven't. I will. Eventually. Dunno when yet. Can't guarantee it tbh.  #lotr #lordoftherings #skit #comedy</title>
+    <updated>2023-05-06T18:26:21+00:00</updated>
+    <content>"whaäättt u've never seen lörd öf the ringss???" no I haven't. I will. Eventually. Dunno when yet. Can't guarantee it tbh.  #lotr #lordoftherings #skit #comedy</content>
+    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7230137486058605850" rel="alternate"/>
+    <published>2023-05-06T18:26:21+00:00</published>
   </entry>
 </feed>

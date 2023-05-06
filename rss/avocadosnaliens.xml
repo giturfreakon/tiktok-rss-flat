@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-05-05T19:04:10+00:00</updated>
+  <updated>2023-05-06T17:41:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7227575270260149546</id>
-    <title>[no title]</title>
-    <updated>2023-04-29T20:43:34+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7227575270260149546" rel="alternate"/>
-    <published>2023-04-29T20:43:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7227675728869920043</id>
     <title>IM NOT DOING THE TREND OK? #photographerlife #pentax #weddingphotographer </title>
@@ -91,5 +83,13 @@
     <content>Always aspire to be the hottest mom in the school pickup line #wiwiad </content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7229776173239192875" rel="alternate"/>
     <published>2023-05-05T19:04:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7230125940767083818</id>
+    <title>I cant take this anymore *continues to take it* #grwm #photographerlife #weddingphotographer #honkeytonkin #goodamerican </title>
+    <updated>2023-05-06T17:41:27+00:00</updated>
+    <content>I cant take this anymore *continues to take it* #grwm #photographerlife #weddingphotographer #honkeytonkin #goodamerican </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7230125940767083818" rel="alternate"/>
+    <published>2023-05-06T17:41:27+00:00</published>
   </entry>
 </feed>
