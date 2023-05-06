@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-05-05T21:30:45+00:00</updated>
+  <updated>2023-05-06T21:15:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7226084236460100907</id>
-    <title>#allforone #mha #gohan #pokemon #anime #acmetok #acmevillainsupport </title>
-    <updated>2023-04-25T20:17:33+00:00</updated>
-    <content>#allforone #mha #gohan #pokemon #anime #acmetok #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7226084236460100907" rel="alternate"/>
-    <published>2023-04-25T20:17:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7226456843734830382</id>
     <title>#allforone #mha #gohan #vegeta #dbz #anime #acmetok #acmevillainsupport </title>
@@ -91,5 +83,13 @@
     <content>#allforone #mha #gohan #dbz #buu #acmetok #acmevillainsupport </content>
     <link href="https://tiktok.com/@villainsupport/video/7229813945945591082" rel="alternate"/>
     <published>2023-05-05T21:30:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7230180971113450795</id>
+    <title>#allforone #mha #gohan #buu #dbz #anime #acmetok #acmevillainsupport </title>
+    <updated>2023-05-06T21:15:03+00:00</updated>
+    <content>#allforone #mha #gohan #buu #dbz #anime #acmetok #acmevillainsupport </content>
+    <link href="https://tiktok.com/@villainsupport/video/7230180971113450795" rel="alternate"/>
+    <published>2023-05-06T21:15:03+00:00</published>
   </entry>
 </feed>
