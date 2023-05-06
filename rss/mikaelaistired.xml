@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-05-05T18:42:14+00:00</updated>
+  <updated>2023-05-06T15:40:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7228315290587745578</id>
-    <title>Just forget that thanks</title>
-    <updated>2023-05-01T20:35:17+00:00</updated>
-    <content>Just forget that thanks</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7228315290587745578" rel="alternate"/>
-    <published>2023-05-01T20:35:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7228553610773155115</id>
-    <title>Updates to come</title>
-    <updated>2023-05-02T12:00:18+00:00</updated>
-    <content>Updates to come</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7228553610773155115" rel="alternate"/>
-    <published>2023-05-02T12:00:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7228656188483718446</id>
     <title>I will don’t test me</title>
@@ -91,5 +75,21 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@mikaelaistired/video/7229770516280741162" rel="alternate"/>
     <published>2023-05-05T18:42:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7230081744010169646</id>
+    <title>That worked out better than i had hoped </title>
+    <updated>2023-05-06T14:50:04+00:00</updated>
+    <content>That worked out better than i had hoped </content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7230081744010169646" rel="alternate"/>
+    <published>2023-05-06T14:50:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7230094803168546091</id>
+    <title>Take care of you </title>
+    <updated>2023-05-06T15:40:47+00:00</updated>
+    <content>Take care of you </content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7230094803168546091" rel="alternate"/>
+    <published>2023-05-06T15:40:47+00:00</published>
   </entry>
 </feed>
