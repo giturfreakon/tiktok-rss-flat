@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-05-05T17:05:28+00:00</updated>
+  <updated>2023-05-06T02:07:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7220584987974700331</id>
-    <title>No cause teehee #wlw #masc #lgbtq </title>
-    <updated>2023-04-11T00:37:36+00:00</updated>
-    <content>No cause teehee #wlw #masc #lgbtq </content>
-    <link href="https://tiktok.com/@atreegod/video/7220584987974700331" rel="alternate"/>
-    <published>2023-04-11T00:37:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7222444941216337198</id>
     <title>Ignore me saying nah in the befinning lol #wlw </title>
@@ -91,5 +83,13 @@
     <content>#wlw </content>
     <link href="https://tiktok.com/@atreegod/video/7229745578995977515" rel="alternate"/>
     <published>2023-05-05T17:05:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7229885185267879211</id>
+    <title>My thirst trap of the month lol #wlw </title>
+    <updated>2023-05-06T02:07:11+00:00</updated>
+    <content>My thirst trap of the month lol #wlw </content>
+    <link href="https://tiktok.com/@atreegod/video/7229885185267879211" rel="alternate"/>
+    <published>2023-05-06T02:07:11+00:00</published>
   </entry>
 </feed>
