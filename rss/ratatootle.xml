@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ratatootle</id>
   <title>@ratatootle | TikTok</title>
-  <updated>2023-05-07T15:14:48+00:00</updated>
+  <updated>2023-05-07T21:39:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ratatootle</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ratatootle/video/7224494242909981995</id>
-    <title>Back at it with Book Club for Haters</title>
-    <updated>2023-04-21T13:27:58+00:00</updated>
-    <content>Back at it with Book Club for Haters</content>
-    <link href="https://tiktok.com/@ratatootle/video/7224494242909981995" rel="alternate"/>
-    <published>2023-04-21T13:27:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ratatootle/video/7226150101234896170</id>
     <title>I am handling this fine i actually think 2020 part 2 sounds great </title>
@@ -91,5 +83,13 @@
     <content>Im pretty impressed tbh minus the lack of plie and trash timing</content>
     <link href="https://tiktok.com/@ratatootle/video/7230459240870104362" rel="alternate"/>
     <published>2023-05-07T15:14:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ratatootle/video/7230558454635564331</id>
+    <title>I did not get emotionally attached idk what youre talking about. Come back tomorrow for a deeply unhinged love story between me and @Barebells.usa this is not spons i am just insane</title>
+    <updated>2023-05-07T21:39:51+00:00</updated>
+    <content>I did not get emotionally attached idk what youre talking about. Come back tomorrow for a deeply unhinged love story between me and @Barebells.usa this is not spons i am just insane</content>
+    <link href="https://tiktok.com/@ratatootle/video/7230558454635564331" rel="alternate"/>
+    <published>2023-05-07T21:39:51+00:00</published>
   </entry>
 </feed>
