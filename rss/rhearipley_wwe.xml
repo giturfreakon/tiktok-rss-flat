@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@rhearipley_wwe</id>
   <title>@rhearipley_wwe | TikTok</title>
-  <updated>2023-05-06T17:34:33+00:00</updated>
+  <updated>2023-05-07T01:53:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rhearipley_wwe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rhearipley_wwe/video/7215580524893654318</id>
-    <title>Go buy the new T-Shirt and maybe Mami will bail you out 😈</title>
-    <updated>2023-03-28T12:57:52+00:00</updated>
-    <content>Go buy the new T-Shirt and maybe Mami will bail you out 😈</content>
-    <link href="https://tiktok.com/@rhearipley_wwe/video/7215580524893654318" rel="alternate"/>
-    <published>2023-03-28T12:57:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rhearipley_wwe/video/7216400763944389934</id>
     <title>See you there 👹⚖️ #WrestleMania</title>
@@ -91,5 +83,13 @@
     <content>#WWEBacklash, Mami’s here. </content>
     <link href="https://tiktok.com/@rhearipley_wwe/video/7230124143218412842" rel="alternate"/>
     <published>2023-05-06T17:34:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rhearipley_wwe/video/7230252599730113834</id>
+    <title>#MamiForever 😈 #WWEBacklash </title>
+    <updated>2023-05-07T01:53:02+00:00</updated>
+    <content>#MamiForever 😈 #WWEBacklash </content>
+    <link href="https://tiktok.com/@rhearipley_wwe/video/7230252599730113834" rel="alternate"/>
+    <published>2023-05-07T01:53:02+00:00</published>
   </entry>
 </feed>
