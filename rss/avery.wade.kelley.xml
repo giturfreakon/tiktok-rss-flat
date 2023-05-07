@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-05-05T14:52:30+00:00</updated>
+  <updated>2023-05-07T17:05:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7225385174672969002</id>
-    <title>#duet with @adriananightmare Hahhaa, finally we can make funny faces. #fyp </title>
-    <updated>2023-04-23T23:04:51+00:00</updated>
-    <content>#duet with @adriananightmare Hahhaa, finally we can make funny faces. #fyp </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7225385174672969002" rel="alternate"/>
-    <published>2023-04-23T23:04:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7226022047602937134</id>
-    <title>Speak Up. Please. We need more than oppressed people, we need everyone. EVERYONE. #fyp #trans </title>
-    <updated>2023-04-25T16:16:16+00:00</updated>
-    <content>Speak Up. Please. We need more than oppressed people, we need everyone. EVERYONE. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7226022047602937134" rel="alternate"/>
-    <published>2023-04-25T16:16:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7226068220048969002</id>
-    <title>Gather your fucking bricks. #fyp #trans </title>
-    <updated>2023-04-25T19:15:25+00:00</updated>
-    <content>Gather your fucking bricks. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7226068220048969002" rel="alternate"/>
-    <published>2023-04-25T19:15:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7226764417629998382</id>
     <title>#stitch with @avery.wade.kelley I use @drdhtbeardproducts every day to help my facial hair growth. I'd say it's definitely working, along with time and patience. :] #fyp #trans </title>
@@ -91,5 +67,29 @@
     <content>Surprised at actually liking my glasses with this filter. Lol. #fyp </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7229711308319542574" rel="alternate"/>
     <published>2023-05-05T14:52:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7230468527923203370</id>
+    <title>11 Months.  I've kept my head up through the storms of these anti trans bills, and it's getting heavy. I just need to rest. #fyp #trans </title>
+    <updated>2023-05-07T15:50:55+00:00</updated>
+    <content>11 Months.  I've kept my head up through the storms of these anti trans bills, and it's getting heavy. I just need to rest. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7230468527923203370" rel="alternate"/>
+    <published>2023-05-07T15:50:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7230485179008159018</id>
+    <title>I follow as many trans creators as I can. #fyp #trans </title>
+    <updated>2023-05-07T16:55:34+00:00</updated>
+    <content>I follow as many trans creators as I can. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7230485179008159018" rel="alternate"/>
+    <published>2023-05-07T16:55:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7230487710312680750</id>
+    <title>Friendly reminder to take a break! #fyp </title>
+    <updated>2023-05-07T17:05:21+00:00</updated>
+    <content>Friendly reminder to take a break! #fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7230487710312680750" rel="alternate"/>
+    <published>2023-05-07T17:05:21+00:00</published>
   </entry>
 </feed>
