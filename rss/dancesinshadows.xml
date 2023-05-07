@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-05-06T16:07:14+00:00</updated>
+  <updated>2023-05-07T15:21:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7226882704791309573</id>
-    <title>another fun tune by @Sub-Radio #drag #dragking #dragmakeuplook #dragmakeup </title>
-    <updated>2023-04-27T23:55:56+00:00</updated>
-    <content>another fun tune by @Sub-Radio #drag #dragking #dragmakeuplook #dragmakeup </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7226882704791309573" rel="alternate"/>
-    <published>2023-04-27T23:55:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7227495521869499653</id>
     <title>#duet with @Joker another lost in draft folders..  #jokerandharley #harleyquinn #harleyquinncosplay #harleyquinncosplayer #harleyquinnmakeup </title>
@@ -91,5 +83,13 @@
     <content>When we were kids, I often was Luigi, 6 my lil bro played mario 😄🤣 #cosplay #mushroomcostume #mushroomcosplay #thesupermariobrosmovie2023 #thesupermariobrosmovie </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7230101689762729222" rel="alternate"/>
     <published>2023-05-06T16:07:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7230461098372107525</id>
+    <title>beware the mad hatter... 2 wonderland characters down, 2 more to go.. .#wonderland #wonderlandapocalypse #wonderlandcosplay #madhatter #madhattercosplay </title>
+    <updated>2023-05-07T15:21:54+00:00</updated>
+    <content>beware the mad hatter... 2 wonderland characters down, 2 more to go.. .#wonderland #wonderlandapocalypse #wonderlandcosplay #madhatter #madhattercosplay </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7230461098372107525" rel="alternate"/>
+    <published>2023-05-07T15:21:54+00:00</published>
   </entry>
 </feed>
