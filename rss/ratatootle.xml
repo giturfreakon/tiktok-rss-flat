@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ratatootle</id>
   <title>@ratatootle | TikTok</title>
-  <updated>2023-05-05T22:07:22+00:00</updated>
+  <updated>2023-05-07T13:06:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ratatootle</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ratatootle/video/7223754136284728622</id>
-    <title>Just complaining dont mind me </title>
-    <updated>2023-04-19T13:36:03+00:00</updated>
-    <content>Just complaining dont mind me </content>
-    <link href="https://tiktok.com/@ratatootle/video/7223754136284728622" rel="alternate"/>
-    <published>2023-04-19T13:36:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ratatootle/video/7224115581123972398</id>
     <title>I love my dog</title>
@@ -91,5 +83,13 @@
     <content>@Barebells.usa i love you this is so funny (im coming for your job @noah beck) #barebells </content>
     <link href="https://tiktok.com/@ratatootle/video/7229823389593161006" rel="alternate"/>
     <published>2023-05-05T22:07:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ratatootle/video/7230426206288645422</id>
+    <title>This fight was inspired by when we were dragons lol</title>
+    <updated>2023-05-07T13:06:56+00:00</updated>
+    <content>This fight was inspired by when we were dragons lol</content>
+    <link href="https://tiktok.com/@ratatootle/video/7230426206288645422" rel="alternate"/>
+    <published>2023-05-07T13:06:56+00:00</published>
   </entry>
 </feed>
