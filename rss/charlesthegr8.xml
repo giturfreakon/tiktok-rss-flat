@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-05-07T19:55:51+00:00</updated>
+  <updated>2023-05-07T00:48:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7228819906014252331</id>
+    <title>This one hurts!!! 😔 #iykyk #disappointment #charlesthegr8 </title>
+    <updated>2023-05-03T05:13:40+00:00</updated>
+    <content>This one hurts!!! 😔 #iykyk #disappointment #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7228819906014252331" rel="alternate"/>
+    <published>2023-05-03T05:13:40+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7229027734016593195</id>
     <title>Guess ill wait till fall! 😔 #iykyk #charlesthegr8 #hotgirlsumm </title>
@@ -83,13 +91,5 @@
     <content>Mhm 😒 #iykyk #4u #charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7230236074163965227" rel="alternate"/>
     <published>2023-05-07T00:48:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7230531646364142891</id>
-    <title>You want great hair check the amazon store link in my bio</title>
-    <updated>2023-05-07T19:55:51+00:00</updated>
-    <content>You want great hair check the amazon store link in my bio</content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7230531646364142891" rel="alternate"/>
-    <published>2023-05-07T19:55:51+00:00</published>
   </entry>
 </feed>
