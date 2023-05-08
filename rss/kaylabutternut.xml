@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-05-08T05:25:15+00:00</updated>
+  <updated>2023-05-08T07:54:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7229865989192650027</id>
-    <title>Yes or no</title>
-    <updated>2023-05-06T00:52:38+00:00</updated>
-    <content>Yes or no</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7229865989192650027" rel="alternate"/>
-    <published>2023-05-06T00:52:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7229866907028114734</id>
     <title>Agree or disagree </title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7230678392679435563" rel="alternate"/>
     <published>2023-05-08T05:25:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7230716717125618986</id>
+    <title>Sleeping on the floor</title>
+    <updated>2023-05-08T07:54:01+00:00</updated>
+    <content>Sleeping on the floor</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7230716717125618986" rel="alternate"/>
+    <published>2023-05-08T07:54:01+00:00</published>
   </entry>
 </feed>
