@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-05-08T00:47:08+00:00</updated>
+  <updated>2023-05-08T12:00:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7229345732636069163</id>
-    <title>Nevermind then</title>
-    <updated>2023-05-04T15:14:05+00:00</updated>
-    <content>Nevermind then</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7229345732636069163" rel="alternate"/>
-    <published>2023-05-04T15:14:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7229444248251206954</id>
     <title>She is in her car</title>
@@ -91,5 +83,13 @@
     <content>I have cameras everywhere </content>
     <link href="https://tiktok.com/@mikaelaistired/video/7230606727153028398" rel="alternate"/>
     <published>2023-05-08T00:47:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7230780279688826155</id>
+    <title>It’s like you’re avoiding thinking about something </title>
+    <updated>2023-05-08T12:00:36+00:00</updated>
+    <content>It’s like you’re avoiding thinking about something </content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7230780279688826155" rel="alternate"/>
+    <published>2023-05-08T12:00:36+00:00</published>
   </entry>
 </feed>
