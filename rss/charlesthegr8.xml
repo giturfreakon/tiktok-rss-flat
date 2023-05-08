@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-05-08T07:22:28+00:00</updated>
+  <updated>2023-05-08T08:08:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7229027734016593195</id>
-    <title>Guess ill wait till fall! 😔 #iykyk #charlesthegr8 #hotgirlsumm </title>
-    <updated>2023-05-03T18:40:11+00:00</updated>
-    <content>Guess ill wait till fall! 😔 #iykyk #charlesthegr8 #hotgirlsumm </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7229027734016593195" rel="alternate"/>
-    <published>2023-05-03T18:40:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7229031245747997998</id>
     <title>Communication is 🔑 #comunicacion #4u #charlesthegr8 </title>
@@ -91,5 +83,13 @@
     <content>#iykyk #4u #charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7230708571321716010" rel="alternate"/>
     <published>2023-05-08T07:22:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7230720473296899370</id>
+    <title>#fypシ </title>
+    <updated>2023-05-08T08:08:39+00:00</updated>
+    <content>#fypシ </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7230720473296899370" rel="alternate"/>
+    <published>2023-05-08T08:08:39+00:00</published>
   </entry>
 </feed>
