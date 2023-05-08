@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@claudcirillo</id>
   <title>@claudcirillo | TikTok</title>
-  <updated>2023-05-01T22:09:11+00:00</updated>
+  <updated>2023-05-07T20:23:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @claudcirillo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7225760729381620993</id>
-    <title>Red felt right…</title>
-    <updated>2023-04-24T23:22:11+00:00</updated>
-    <content>Red felt right…</content>
-    <link href="https://tiktok.com/@claudcirillo/video/7225760729381620993" rel="alternate"/>
-    <published>2023-04-24T23:22:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@claudcirillo/video/7226096025776229634</id>
     <title>#pov : 2 years earlier, she had stumbled upon a wishing well and made a wish #fyp #foryou #foryoupage </title>
@@ -91,5 +83,13 @@
     <content>#pov : After they flirt with another girl, you confess you dont want your relationship to be a secret anymore #fyp #foryou #foryoupage </content>
     <link href="https://tiktok.com/@claudcirillo/video/7228339472818048258" rel="alternate"/>
     <published>2023-05-01T22:09:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7230538649224449281</id>
+    <title>Style my @MOTEL Sevila Mini Dress with me #motelrocks #fyp #foryou #foryoupage </title>
+    <updated>2023-05-07T20:23:04+00:00</updated>
+    <content>Style my @MOTEL Sevila Mini Dress with me #motelrocks #fyp #foryou #foryoupage </content>
+    <link href="https://tiktok.com/@claudcirillo/video/7230538649224449281" rel="alternate"/>
+    <published>2023-05-07T20:23:04+00:00</published>
   </entry>
 </feed>
