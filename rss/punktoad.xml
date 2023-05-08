@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-05-06T19:46:27+00:00</updated>
+  <updated>2023-05-08T02:15:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7227424014765985066</id>
-    <title>i just want some waffles #wafflehouse #godofwar #fyp </title>
-    <updated>2023-04-29T10:58:07+00:00</updated>
-    <content>i just want some waffles #wafflehouse #godofwar #fyp </content>
-    <link href="https://tiktok.com/@punktoad/video/7227424014765985066" rel="alternate"/>
-    <published>2023-04-29T10:58:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7227844048369814826</id>
     <title>tendies please #chickentenders #benstiller #fyp  </title>
@@ -91,5 +83,13 @@
     <content>whoops #festival #drumandbass #fyp </content>
     <link href="https://tiktok.com/@punktoad/video/7230158126459424046" rel="alternate"/>
     <published>2023-05-06T19:46:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7230629375354408235</id>
+    <title>its about to go down #d&amp;d #dungeonsanddragons #dndtiktok #dragon #nerdtok </title>
+    <updated>2023-05-08T02:15:06+00:00</updated>
+    <content>its about to go down #d&amp;d #dungeonsanddragons #dndtiktok #dragon #nerdtok </content>
+    <link href="https://tiktok.com/@punktoad/video/7230629375354408235" rel="alternate"/>
+    <published>2023-05-08T02:15:06+00:00</published>
   </entry>
 </feed>
