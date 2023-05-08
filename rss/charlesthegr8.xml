@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-05-08T08:08:39+00:00</updated>
+  <updated>2023-05-08T18:54:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7229031245747997998</id>
-    <title>Communication is 🔑 #comunicacion #4u #charlesthegr8 </title>
-    <updated>2023-05-03T18:53:46+00:00</updated>
-    <content>Communication is 🔑 #comunicacion #4u #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7229031245747997998" rel="alternate"/>
-    <published>2023-05-03T18:53:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7229038258859085099</id>
     <title>#iykyk #funny #charlesthegr8 </title>
@@ -91,5 +83,13 @@
     <content>#fypシ </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7230720473296899370" rel="alternate"/>
     <published>2023-05-08T08:08:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7230886943028956459</id>
+    <title>All that power for a hefty cost!!! 👀 #fypシ #iykyk #sharinggan #uchia #anime #charlesthegr8 </title>
+    <updated>2023-05-08T18:54:32+00:00</updated>
+    <content>All that power for a hefty cost!!! 👀 #fypシ #iykyk #sharinggan #uchia #anime #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7230886943028956459" rel="alternate"/>
+    <published>2023-05-08T18:54:32+00:00</published>
   </entry>
 </feed>
