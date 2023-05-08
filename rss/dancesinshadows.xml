@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-05-08T00:30:48+00:00</updated>
+  <updated>2023-05-08T19:42:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7227567584810388741</id>
-    <title>will post more or this look once its complete 💓 #wonderland #whiterabbitcosplay #cosplay #wonderlandcosplay </title>
-    <updated>2023-04-29T20:13:36+00:00</updated>
-    <content>will post more or this look once its complete 💓 #wonderland #whiterabbitcosplay #cosplay #wonderlandcosplay </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7227567584810388741" rel="alternate"/>
-    <published>2023-04-29T20:13:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7227632362069249286</id>
     <title>Sometimes, it's easier to just be quiet and go offline for a bit ❤️ sing @christian french  #dragmakeup #dragmakeuplook #dragking #drag #glumthesupernaturalhitman </title>
@@ -91,5 +83,13 @@
     <content>beware the Hatter. his lantern will not guide you home.  #madhattercosplay #madhatter #wonderlandcosplay #wonderlandapocalypse #wonderland </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7230602535537495301" rel="alternate"/>
     <published>2023-05-08T00:30:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7230899305278721286</id>
+    <title>feel free to duet and join inbonbthe dysfunction 😅🤣 #maladytheclown #thegoldengirls #comedy #clownmakeup </title>
+    <updated>2023-05-08T19:42:23+00:00</updated>
+    <content>feel free to duet and join inbonbthe dysfunction 😅🤣 #maladytheclown #thegoldengirls #comedy #clownmakeup </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7230899305278721286" rel="alternate"/>
+    <published>2023-05-08T19:42:23+00:00</published>
   </entry>
 </feed>
