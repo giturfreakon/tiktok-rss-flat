@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-05-07T15:21:54+00:00</updated>
+  <updated>2023-05-08T00:30:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7227495521869499653</id>
-    <title>#duet with @Joker another lost in draft folders..  #jokerandharley #harleyquinn #harleyquinncosplay #harleyquinncosplayer #harleyquinnmakeup </title>
-    <updated>2023-04-29T15:33:58+00:00</updated>
-    <content>#duet with @Joker another lost in draft folders..  #jokerandharley #harleyquinn #harleyquinncosplay #harleyquinncosplayer #harleyquinnmakeup </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7227495521869499653" rel="alternate"/>
-    <published>2023-04-29T15:33:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7227567584810388741</id>
     <title>will post more or this look once its complete 💓 #wonderland #whiterabbitcosplay #cosplay #wonderlandcosplay </title>
@@ -91,5 +83,13 @@
     <content>beware the mad hatter... 2 wonderland characters down, 2 more to go.. .#wonderland #wonderlandapocalypse #wonderlandcosplay #madhatter #madhattercosplay </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7230461098372107525" rel="alternate"/>
     <published>2023-05-07T15:21:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7230602535537495301</id>
+    <title>beware the Hatter. his lantern will not guide you home.  #madhattercosplay #madhatter #wonderlandcosplay #wonderlandapocalypse #wonderland </title>
+    <updated>2023-05-08T00:30:48+00:00</updated>
+    <content>beware the Hatter. his lantern will not guide you home.  #madhattercosplay #madhatter #wonderlandcosplay #wonderlandapocalypse #wonderland </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7230602535537495301" rel="alternate"/>
+    <published>2023-05-08T00:30:48+00:00</published>
   </entry>
 </feed>
