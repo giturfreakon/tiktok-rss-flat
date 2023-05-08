@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-05-07T13:57:05+00:00</updated>
+  <updated>2023-05-08T15:01:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7227114929805937962</id>
-    <title>Replying to @finnliggett28 Sure thing. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism #greenscreen </title>
-    <updated>2023-04-28T14:57:25+00:00</updated>
-    <content>Replying to @finnliggett28 Sure thing. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism #greenscreen </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7227114929805937962" rel="alternate"/>
-    <published>2023-04-28T14:57:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7227590567813729579</id>
     <title>Replying to @control.all.delete It's a weird one. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </title>
@@ -91,5 +83,13 @@
     <content>Replying to @cjohns005 Trans people are experiencing a few of these methods. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7230439158571994410" rel="alternate"/>
     <published>2023-05-07T13:57:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7230826787423538478</id>
+    <title>Replying to @carterisometimesfunny I've been trying to find the end of this rabbit hole for 2 weeks. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </title>
+    <updated>2023-05-08T15:01:08+00:00</updated>
+    <content>Replying to @carterisometimesfunny I've been trying to find the end of this rabbit hole for 2 weeks. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7230826787423538478" rel="alternate"/>
+    <published>2023-05-08T15:01:08+00:00</published>
   </entry>
 </feed>

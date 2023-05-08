@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-05-07T13:50:53+00:00</updated>
+  <updated>2023-05-08T16:23:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7226755694144277766</id>
-    <title>The @ACLU drag defense fund is waiting your pledge. We love you friends, we will continue to fight for freedom with you. ❤️</title>
-    <updated>2023-04-27T15:43:02+00:00</updated>
-    <content>The @ACLU drag defense fund is waiting your pledge. We love you friends, we will continue to fight for freedom with you. ❤️</content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7226755694144277766" rel="alternate"/>
-    <published>2023-04-27T15:43:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7227555621338467590</id>
     <title>Hes very jealous, you can tell #marriedlife #couplegoals #CapCut </title>
@@ -91,5 +83,13 @@
     <content>Oh. #busydonkey #CapCut </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7230437643883007237" rel="alternate"/>
     <published>2023-05-07T13:50:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7230848138527952134</id>
+    <title>I mean this will do for now</title>
+    <updated>2023-05-08T16:23:50+00:00</updated>
+    <content>I mean this will do for now</content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7230848138527952134" rel="alternate"/>
+    <published>2023-05-08T16:23:50+00:00</published>
   </entry>
 </feed>

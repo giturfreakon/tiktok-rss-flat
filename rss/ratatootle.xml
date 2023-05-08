@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ratatootle</id>
   <title>@ratatootle | TikTok</title>
-  <updated>2023-05-07T21:39:51+00:00</updated>
+  <updated>2023-05-08T16:20:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ratatootle</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ratatootle/video/7226150101234896170</id>
-    <title>I am handling this fine i actually think 2020 part 2 sounds great </title>
-    <updated>2023-04-26T00:33:07+00:00</updated>
-    <content>I am handling this fine i actually think 2020 part 2 sounds great </content>
-    <link href="https://tiktok.com/@ratatootle/video/7226150101234896170" rel="alternate"/>
-    <published>2023-04-26T00:33:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@ratatootle/video/7226806227655822634</id>
-    <title>Feeling like a celebrity rn @barebells.usa thank you so much!!! These are sensory friendly approved </title>
-    <updated>2023-04-27T18:59:17+00:00</updated>
-    <content>Feeling like a celebrity rn @barebells.usa thank you so much!!! These are sensory friendly approved </content>
-    <link href="https://tiktok.com/@ratatootle/video/7226806227655822634" rel="alternate"/>
-    <published>2023-04-27T18:59:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ratatootle/video/7228207638335687982</id>
     <title>New diagnosis unlocked: btw pls dont diagnose urself from me or this video i literallt dont know anything. Remember its about frequency and disruption. Everyone worries about fire sometimes. Literally begging you dont be weird about it in the comments it </title>
@@ -91,5 +75,21 @@
     <content>I did not get emotionally attached idk what youre talking about. Come back tomorrow for a deeply unhinged love story between me and @Barebells.usa this is not spons i am just insane</content>
     <link href="https://tiktok.com/@ratatootle/video/7230558454635564331" rel="alternate"/>
     <published>2023-05-07T21:39:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ratatootle/video/7230782026876521771</id>
+    <title>WHAT DO I DO LMFAO IT WONT OPEN AGAIN I BROKE IT </title>
+    <updated>2023-05-08T12:07:24+00:00</updated>
+    <content>WHAT DO I DO LMFAO IT WONT OPEN AGAIN I BROKE IT </content>
+    <link href="https://tiktok.com/@ratatootle/video/7230782026876521771" rel="alternate"/>
+    <published>2023-05-08T12:07:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ratatootle/video/7230847180766989610</id>
+    <title>Got sent a weird thing in the mail and developed an emotional attachment. This is my formal submission to be the new face of @Barebells.usa, go try the limited time pb protein bar, this is #notspons, but it is a very tasty snack. @Barebells </title>
+    <updated>2023-05-08T16:20:14+00:00</updated>
+    <content>Got sent a weird thing in the mail and developed an emotional attachment. This is my formal submission to be the new face of @Barebells.usa, go try the limited time pb protein bar, this is #notspons, but it is a very tasty snack. @Barebells </content>
+    <link href="https://tiktok.com/@ratatootle/video/7230847180766989610" rel="alternate"/>
+    <published>2023-05-08T16:20:14+00:00</published>
   </entry>
 </feed>
