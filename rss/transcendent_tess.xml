@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@transcendent_tess</id>
   <title>@transcendent_tess | TikTok</title>
-  <updated>2023-04-24T01:05:06+00:00</updated>
+  <updated>2023-05-08T18:59:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @transcendent_tess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@transcendent_tess/video/7213836962514406698</id>
-    <title>can someone help me out? also maybe recommend good mascara that doesn't itch? #makeuptroubles #makeupadvice </title>
-    <updated>2023-03-23T20:12:01+00:00</updated>
-    <content>can someone help me out? also maybe recommend good mascara that doesn't itch? #makeuptroubles #makeupadvice </content>
-    <link href="https://tiktok.com/@transcendent_tess/video/7213836962514406698" rel="alternate"/>
-    <published>2023-03-23T20:12:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@transcendent_tess/video/7213845188459105582</id>
-    <title>Replying to @brooklynd.23 </title>
-    <updated>2023-03-23T20:43:54+00:00</updated>
-    <content>Replying to @brooklynd.23 </content>
-    <link href="https://tiktok.com/@transcendent_tess/video/7213845188459105582" rel="alternate"/>
-    <published>2023-03-23T20:43:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@transcendent_tess/video/7213858699188636971</id>
     <title>Replying to @haileyymb I'm sorry I see this in my head and I can't stop giggling.</title>
@@ -91,5 +75,21 @@
     <content>#duet with @Noice👍 </content>
     <link href="https://tiktok.com/@transcendent_tess/video/7225416175235140906" rel="alternate"/>
     <published>2023-04-24T01:05:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@transcendent_tess/video/7230880062185245998</id>
+    <title>sometimes my brain just does this... share in my neurospices. #adhd #neurospicy #weirdvoices #construction #waterslide #wronganswersonly #gameshow #trucker #trucklife #transtrucker #lgbt🌈 </title>
+    <updated>2023-05-08T18:27:50+00:00</updated>
+    <content>sometimes my brain just does this... share in my neurospices. #adhd #neurospicy #weirdvoices #construction #waterslide #wronganswersonly #gameshow #trucker #trucklife #transtrucker #lgbt🌈 </content>
+    <link href="https://tiktok.com/@transcendent_tess/video/7230880062185245998" rel="alternate"/>
+    <published>2023-05-08T18:27:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@transcendent_tess/video/7230888340877217067</id>
+    <title>🎵lay lo la lay la laaaaayyyy!!!! hoodie at the gym 🎶 #transtrucker #trucklife #gymhoodie #lgbt🌈 #trans #transmtf #gettinginshape #startingfromthebottom #adhd #neurospicy #rant #adhdrant #highenergy </title>
+    <updated>2023-05-08T18:59:54+00:00</updated>
+    <content>🎵lay lo la lay la laaaaayyyy!!!! hoodie at the gym 🎶 #transtrucker #trucklife #gymhoodie #lgbt🌈 #trans #transmtf #gettinginshape #startingfromthebottom #adhd #neurospicy #rant #adhdrant #highenergy </content>
+    <link href="https://tiktok.com/@transcendent_tess/video/7230888340877217067" rel="alternate"/>
+    <published>2023-05-08T18:59:54+00:00</published>
   </entry>
 </feed>
