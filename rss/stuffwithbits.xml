@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-05-06T18:31:13+00:00</updated>
+  <updated>2023-05-07T19:48:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7228345197409602858</id>
-    <title>Replying to @spamandriel #reply #solardidsystem #sskestrel #sszenith #usethissound </title>
-    <updated>2023-05-01T22:31:18+00:00</updated>
-    <content>Replying to @spamandriel #reply #solardidsystem #sskestrel #sszenith #usethissound </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7228345197409602858" rel="alternate"/>
-    <published>2023-05-01T22:31:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7228611728244886827</id>
-    <title>Take care of yourself first! #solardidsystem #sskestrel </title>
-    <updated>2023-05-02T15:45:53+00:00</updated>
-    <content>Take care of yourself first! #solardidsystem #sskestrel </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7228611728244886827" rel="alternate"/>
-    <published>2023-05-02T15:45:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7228704498842242350</id>
-    <title>Remind me later to talk about my cool gear I use to make stuff inner world #sskestrel #solardidsystem #bekind </title>
-    <updated>2023-05-02T21:45:34+00:00</updated>
-    <content>Remind me later to talk about my cool gear I use to make stuff inner world #sskestrel #solardidsystem #bekind </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7228704498842242350" rel="alternate"/>
-    <published>2023-05-02T21:45:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7228707625989328170</id>
-    <title>#solardidsystem #sskestrel </title>
-    <updated>2023-05-02T21:57:38+00:00</updated>
-    <content>#solardidsystem #sskestrel </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7228707625989328170" rel="alternate"/>
-    <published>2023-05-02T21:57:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7228733992508476715</id>
     <title>She's so sweet to them 🥺 #solardidsystem </title>
@@ -91,5 +59,37 @@
     <content>NEVER leave your pets unattended with toys or bones they can chew or ingest. They can choke and if they swallow it, it can cause major internal damage that requires emergency surgery. #solardidsystem #sszenith </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7230138744928488746" rel="alternate"/>
     <published>2023-05-06T18:31:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7230508601717116203</id>
+    <title>Some days be like #solardidsystem #sszenith </title>
+    <updated>2023-05-07T18:26:28+00:00</updated>
+    <content>Some days be like #solardidsystem #sszenith </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7230508601717116203" rel="alternate"/>
+    <published>2023-05-07T18:26:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7230510553284775210</id>
+    <title>cashapp and Venmo are our username 😅 #solardidsystem #sszenith </title>
+    <updated>2023-05-07T18:33:56+00:00</updated>
+    <content>cashapp and Venmo are our username 😅 #solardidsystem #sszenith </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7230510553284775210" rel="alternate"/>
+    <published>2023-05-07T18:33:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7230516212579437867</id>
+    <title>We're different parts of the same brain but we are not the same identity #solardidsystem #sszenith #dissociativeidentitydisorder </title>
+    <updated>2023-05-07T18:55:54+00:00</updated>
+    <content>We're different parts of the same brain but we are not the same identity #solardidsystem #sszenith #dissociativeidentitydisorder </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7230516212579437867" rel="alternate"/>
+    <published>2023-05-07T18:55:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7230529760818924843</id>
+    <title>Replying to @jesschithavong #reply I had to redo the captions at least five times because ⏰⏰ kept deleting the middle of them #solardidsystem #sszenith #ssryn #boundaries </title>
+    <updated>2023-05-07T19:48:31+00:00</updated>
+    <content>Replying to @jesschithavong #reply I had to redo the captions at least five times because ⏰⏰ kept deleting the middle of them #solardidsystem #sszenith #ssryn #boundaries </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7230529760818924843" rel="alternate"/>
+    <published>2023-05-07T19:48:31+00:00</published>
   </entry>
 </feed>
