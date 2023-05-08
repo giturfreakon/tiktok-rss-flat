@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-05-08T15:41:07+00:00</updated>
+  <updated>2023-05-08T22:26:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7227489480150764843</id>
-    <title>Doing trends for the norm seems pointless. Trans rights now, black lives matter, indigenous need our help; There's so much going on. Help where you can. #fyp #trans </title>
-    <updated>2023-04-29T15:10:46+00:00</updated>
-    <content>Doing trends for the norm seems pointless. Trans rights now, black lives matter, indigenous need our help; There's so much going on. Help where you can. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7227489480150764843" rel="alternate"/>
-    <published>2023-04-29T15:10:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7228620763379584298</id>
     <title>We work hard, we play hard, and we look good doing it. We are just like you. Put me on any one of your gigs and I can show you how "manly" I am, which, if we're being honest here, is purely misogynistic and we should start just saying "they're good at the</title>
@@ -91,5 +83,13 @@
     <content>My tattoos are for me. They may scare some people, but fear is from misunderstanding and prejudgement. If you saw me work, you wouldn't even see my tattoos. I don't want to work for anyone who has a problem with them. Period. #fyp </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7230837072763014446" rel="alternate"/>
     <published>2023-05-08T15:41:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7230941457740303662</id>
+    <title>Passing the time. #fyp </title>
+    <updated>2023-05-08T22:26:00+00:00</updated>
+    <content>Passing the time. #fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7230941457740303662" rel="alternate"/>
+    <published>2023-05-08T22:26:00+00:00</published>
   </entry>
 </feed>

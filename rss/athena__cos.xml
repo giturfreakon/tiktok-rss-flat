@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-05-08T01:06:02+00:00</updated>
+  <updated>2023-05-08T21:14:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7227954864406498602</id>
-    <title>Idea from @tentacle._daddy  💜🖤💜 Blake is @prototype.fox  Filmed by Bella!  #rwby #rwbycosplay #blakebelladonna #blakecosplay #yangxiaolong #yangcosplay #wlw #bi #wlwcosplay #animecosplay </title>
-    <updated>2023-04-30T21:16:33+00:00</updated>
-    <content>Idea from @tentacle._daddy  💜🖤💜 Blake is @prototype.fox  Filmed by Bella!  #rwby #rwbycosplay #blakebelladonna #blakecosplay #yangxiaolong #yangcosplay #wlw #bi #wlwcosplay #animecosplay </content>
-    <link href="https://tiktok.com/@athena__cos/video/7227954864406498602" rel="alternate"/>
-    <published>2023-04-30T21:16:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7228303210837003563</id>
     <title>The best part is how menacing i feel with the drag effect tbh  Sent by @Ally Sabers  #darksaber #lightsaber #mandalorian </title>
@@ -91,5 +83,13 @@
     <content>Pov the devil tried making a deal with the lawful good ranger feat @jenningsbrower 🖤 #devil #ranger </content>
     <link href="https://tiktok.com/@athena__cos/video/7230611587487468846" rel="alternate"/>
     <published>2023-05-08T01:06:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7230922914420247851</id>
+    <title>“Ill swim and sail on savage seas…” Lady knights taking a moment to dance after the storm (literally it was thunder and rain right before this) #ladyknight #knightcore #ranger #fantasy #fantasycosplay with @Bella LeBaron and @The Adventurer </title>
+    <updated>2023-05-08T21:14:09+00:00</updated>
+    <content>“Ill swim and sail on savage seas…” Lady knights taking a moment to dance after the storm (literally it was thunder and rain right before this) #ladyknight #knightcore #ranger #fantasy #fantasycosplay with @Bella LeBaron and @The Adventurer </content>
+    <link href="https://tiktok.com/@athena__cos/video/7230922914420247851" rel="alternate"/>
+    <published>2023-05-08T21:14:09+00:00</published>
   </entry>
 </feed>
