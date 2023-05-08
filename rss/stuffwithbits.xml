@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-05-07T19:48:31+00:00</updated>
+  <updated>2023-05-08T19:49:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7228733992508476715</id>
-    <title>She's so sweet to them 🥺 #solardidsystem </title>
-    <updated>2023-05-02T23:40:03+00:00</updated>
-    <content>She's so sweet to them 🥺 #solardidsystem </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7228733992508476715" rel="alternate"/>
-    <published>2023-05-02T23:40:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7229362932566560043</id>
-    <title>thanks #solardidsystem #ssryn #boundary </title>
-    <updated>2023-05-04T16:20:44+00:00</updated>
-    <content>thanks #solardidsystem #ssryn #boundary </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7229362932566560043" rel="alternate"/>
-    <published>2023-05-04T16:20:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7229463843578187054</id>
     <title>Replying to @gianuzmzmn1 #reply #solardidsystem #ssryn #choosekindness </title>
@@ -91,5 +75,21 @@
     <content>Replying to @jesschithavong #reply I had to redo the captions at least five times because ⏰⏰ kept deleting the middle of them #solardidsystem #sszenith #ssryn #boundaries </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7230529760818924843" rel="alternate"/>
     <published>2023-05-07T19:48:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7230887798201388330</id>
+    <title>I am in disbelief #solardidsystem #ssdevereaux </title>
+    <updated>2023-05-08T18:57:49+00:00</updated>
+    <content>I am in disbelief #solardidsystem #ssdevereaux </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7230887798201388330" rel="alternate"/>
+    <published>2023-05-08T18:57:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7230901205931756846</id>
+    <title>This is no shade at all to those who do choose to share those moments. If that is empowering and validating for you, go for it. Either way, I'm proud of you for surviving. #solardidsystem #ssdevereaux </title>
+    <updated>2023-05-08T19:49:49+00:00</updated>
+    <content>This is no shade at all to those who do choose to share those moments. If that is empowering and validating for you, go for it. Either way, I'm proud of you for surviving. #solardidsystem #ssdevereaux </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7230901205931756846" rel="alternate"/>
+    <published>2023-05-08T19:49:49+00:00</published>
   </entry>
 </feed>
