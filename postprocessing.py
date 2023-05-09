@@ -7,10 +7,10 @@ from tiktokapipy.async_api import AsyncTikTokAPI
 # Now using a new TikTok library https://github.com/Russell-Newton/TikTokPy
 
 # Normal GitHub Pages URL
-# githubPagesUrl = "https://sparklitwizzl.github.io/tiktok-rss-flat/"
+githubPagesUrl = "https://giturfreakon.github.io/tiktok-rss-flat/"
 
 # Custom Domain
-githubPagesUrl = "https://tiktokrss.uselesslesbians.gay/"
+# githubPagesUrl = "https://tiktokrss.uselesslesbians.gay/"
 
 maxItems = 10
 subscriptionFileCount = 5
