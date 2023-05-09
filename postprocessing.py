@@ -13,7 +13,7 @@ githubPagesUrl = "https://giturfreakon.github.io/tiktok-rss-flat/"
 # githubPagesUrl = "https://tiktokrss.uselesslesbians.gay/"
 
 maxItems = 10
-subscriptionFileCount = 5
+subscriptionFileCount = 3
 
 
 def log( message ):
