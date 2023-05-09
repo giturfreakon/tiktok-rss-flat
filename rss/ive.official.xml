@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-05-05T09:00:27+00:00</updated>
+  <updated>2023-05-09T12:00:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7225894725713218824</id>
-    <title>우린 아이브~ 🐶🐿🐥🐰🐱🐯 #IAMchallenge #아이엠챌린지 #IAM #아이엠 #IVE #아이브 #IveIVE #아이해브아이브</title>
-    <updated>2023-04-25T08:02:04+00:00</updated>
-    <content>우린 아이브~ 🐶🐿🐥🐰🐱🐯 #IAMchallenge #아이엠챌린지 #IAM #아이엠 #IVE #아이브 #IveIVE #아이해브아이브</content>
-    <link href="https://www.tiktok.com/@ive.official/video/7225894725713218824" rel="alternate"/>
-    <published>2023-04-25T08:02:04+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7227041506782121223</id>
     <title>고양이가 눌렀어요 🐾🐈 #IAMchallenge #아이엠챌린지 #IAM #아이엠 #IVE #아이브 #LIZ #리즈 #IveIVE #아이해브아이브</title>
@@ -51,5 +43,13 @@
     <content>I AM 🐰🐯🐿😻🐶🐥💝 #IAMchallenge #아이엠챌린지 #IAM #아이엠 #IVE #아이브 #IveIVE #아이해브아이브 #어린이날</content>
     <link href="https://www.tiktok.com/@ive.official/video/7229620622463208712" rel="alternate"/>
     <published>2023-05-05T09:00:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7231151312774139137</id>
+    <title>IVE JAPAN 1st EP &lt;WAVE&gt; ‘WAVE’ MV https://youtu.be/qD1kP_nJU3o #IVE #아이브 #アイヴ #JAPAN1stEP #WAVE </title>
+    <updated>2023-05-09T12:00:21+00:00</updated>
+    <content>IVE JAPAN 1st EP &lt;WAVE&gt; ‘WAVE’ MV https://youtu.be/qD1kP_nJU3o #IVE #아이브 #アイヴ #JAPAN1stEP #WAVE </content>
+    <link href="https://www.tiktok.com/@ive.official/video/7231151312774139137" rel="alternate"/>
+    <published>2023-05-09T12:00:21+00:00</published>
   </entry>
 </feed>
