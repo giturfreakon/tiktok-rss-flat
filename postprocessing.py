@@ -64,7 +64,7 @@ async def run( tiktokUsername ):
 		feedGenerator.id( "https://tiktok.com/@" + tiktokUsername )
 		feedGenerator.title( "@" + tiktokUsername + " | TikTok" )
 		feedGenerator.author( { "name":"Conor ONeill","email":"conor@conoroneill.com" } )
-		feedGenerator.link( href = "http://tiktok.com", rel = "alternate" )
+		feedGenerator.link( href = "https://tiktok.com/@" + tiktokUsername, rel = "alternate" )
 		feedGenerator.logo( githubPagesUrl + "tiktok-rss.png" )
 		feedGenerator.subtitle( "Latest TikToks from @" + tiktokUsername )
 		feedGenerator.link( href = githubPagesUrl + "rss/" + tiktokUsername + ".xml", rel = "self" )
