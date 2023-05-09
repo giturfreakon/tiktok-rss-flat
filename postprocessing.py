@@ -73,7 +73,7 @@ async def run( tiktokUsername ):
 		# Set the last modification time for the feed to be the most recent post, else now.
 		updated = None
 		
-		async with AsyncTikTokAPI( navigation_retries = 3, navigation_timeout = 90 ) as api:
+		async with AsyncTikTokAPI( navigation_retries = 3, navigation_timeout = 60 ) as api:
 			tiktokUser = await api.user( tiktokUsername, video_limit = maxItems )
 			async for video in tiktokUser.videos:
 				log( f"processing video from @{ tiktokUsername }" )
