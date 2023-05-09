@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-05-04T16:55:14+00:00</updated>
+  <updated>2023-05-09T00:08:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7228289929271364910</id>
-    <title>Have any of you seen old vids of #madtv ? I used to watch them on yt because i live for alex borstein and her impressions </title>
-    <updated>2023-05-01T18:56:54+00:00</updated>
-    <content>Have any of you seen old vids of #madtv ? I used to watch them on yt because i live for alex borstein and her impressions </content>
-    <link href="https://tiktok.com/@kamehalani/video/7228289929271364910" rel="alternate"/>
-    <published>2023-05-01T18:56:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7228298064300100907</id>
-    <title>Aapi #aapifamily #aapiheritagemonth #kanaka #indigenoustiktok #nativehawaiian #hawaiian </title>
-    <updated>2023-05-01T19:28:25+00:00</updated>
-    <content>Aapi #aapifamily #aapiheritagemonth #kanaka #indigenoustiktok #nativehawaiian #hawaiian </content>
-    <link href="https://tiktok.com/@kamehalani/video/7228298064300100907" rel="alternate"/>
-    <published>2023-05-01T19:28:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7228380526296649006</id>
     <title>Ib @_.reina.x </title>
@@ -91,5 +75,21 @@
     <content>She did actually raise me #dollyparton @Dolly Parton  </content>
     <link href="https://tiktok.com/@kamehalani/video/7229371782631984430" rel="alternate"/>
     <published>2023-05-04T16:55:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7230964688987655467</id>
+    <title>Not a vibe #maewest #raquelwelch women should support women and raquel was not being cool </title>
+    <updated>2023-05-08T23:56:14+00:00</updated>
+    <content>Not a vibe #maewest #raquelwelch women should support women and raquel was not being cool </content>
+    <link href="https://tiktok.com/@kamehalani/video/7230964688987655467" rel="alternate"/>
+    <published>2023-05-08T23:56:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7230967941964074283</id>
+    <title>But i was alone so it doesnt count </title>
+    <updated>2023-05-09T00:08:54+00:00</updated>
+    <content>But i was alone so it doesnt count </content>
+    <link href="https://tiktok.com/@kamehalani/video/7230967941964074283" rel="alternate"/>
+    <published>2023-05-09T00:08:54+00:00</published>
   </entry>
 </feed>

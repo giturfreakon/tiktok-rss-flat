@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grouch_thebird</id>
   <title>@grouch_thebird | TikTok</title>
-  <updated>2023-05-08T05:54:00+00:00</updated>
+  <updated>2023-05-09T00:32:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -27,14 +27,6 @@
     <content>no, im batman</content>
     <link href="https://tiktok.com/@grouch_thebird/video/7229106544380595499" rel="alternate"/>
     <published>2023-05-03T23:45:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7229170785192135979</id>
-    <title>[no title]</title>
-    <updated>2023-05-04T03:55:07+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7229170785192135979" rel="alternate"/>
-    <published>2023-05-04T03:55:07+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@grouch_thebird/video/7229172010436414766</id>
@@ -91,5 +83,13 @@
     <content>I WAS CURIOUS AND I REGRET EVERYTHING NOW #mcdonalds </content>
     <link href="https://tiktok.com/@grouch_thebird/video/7230685785136221486" rel="alternate"/>
     <published>2023-05-08T05:54:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7230974147239693614</id>
+    <title>[no title]</title>
+    <updated>2023-05-09T00:32:54+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7230974147239693614" rel="alternate"/>
+    <published>2023-05-09T00:32:54+00:00</published>
   </entry>
 </feed>
