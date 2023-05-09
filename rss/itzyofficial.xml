@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-05-05T01:31:43+00:00</updated>
+  <updated>2023-05-09T10:51:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7212958169323015426</id>
-    <title>#TWICE #SETMEFREE CHALLENGE 🖤💙💟 #ITZY #MIDZY  #YEJI #RYUJIN #CHAERYEONG #예지 #류진 #채령 #트와이스 #READYTOBE</title>
-    <updated>2023-03-21T11:21:38+00:00</updated>
-    <content>#TWICE #SETMEFREE CHALLENGE 🖤💙💟 #ITZY #MIDZY  #YEJI #RYUJIN #CHAERYEONG #예지 #류진 #채령 #트와이스 #READYTOBE</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7212958169323015426" rel="alternate"/>
-    <published>2023-03-21T11:21:38+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7219171429340679426</id>
     <title>Come and dance with ITZY!  Let's go #MLBBALLSTAR #ALLSTARchallenge #MLBBxITZY #bethesuperstar #ITZY #MIDZY</title>
@@ -51,5 +43,13 @@
     <content>헤헷 믿지에게 사랑을 전하고 싶다던가 #류진 #Ryujin #아이묭사랑을전하고싶다던가 #아이묭챌린지 </content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7229504968275791112" rel="alternate"/>
     <published>2023-05-05T01:31:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7231133549045271835</id>
+    <title>🖤  #ITZY #있지 #YEJI#있지YEJI틴 #SVT #손오공 #손오공챌린지  #Super #SVT_Super</title>
+    <updated>2023-05-09T10:51:22+00:00</updated>
+    <content>🖤  #ITZY #있지 #YEJI#있지YEJI틴 #SVT #손오공 #손오공챌린지  #Super #SVT_Super</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7231133549045271835" rel="alternate"/>
+    <published>2023-05-09T10:51:22+00:00</published>
   </entry>
 </feed>
