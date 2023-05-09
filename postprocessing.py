@@ -61,10 +61,10 @@ async def run( tiktokUsername ):
 	log( f"run start ( { tiktokUsername } )" )
 	try:
 		feedGenerator = FeedGenerator()
-		feedGenerator.id( "https://tiktok.com/@" + tiktokUsername )
+		feedGenerator.id( "https://www.tiktok.com/@" + tiktokUsername )
 		feedGenerator.title( "@" + tiktokUsername + " | TikTok" )
 		feedGenerator.author( { "name":"Conor ONeill","email":"conor@conoroneill.com" } )
-		feedGenerator.link( href = "https://tiktok.com/@" + tiktokUsername, rel = "alternate" )
+		feedGenerator.link( href = "https://www.tiktok.com/@" + tiktokUsername, rel = "alternate" )
 		feedGenerator.logo( githubPagesUrl + "tiktok-rss.png" )
 		feedGenerator.subtitle( "Latest TikToks from @" + tiktokUsername )
 		feedGenerator.link( href = githubPagesUrl + "rss/" + tiktokUsername + ".xml", rel = "self" )
@@ -78,7 +78,7 @@ async def run( tiktokUsername ):
 			async for video in tiktokUser.videos:
 				log( f"processing video from @{ tiktokUsername }" )
 				try:
-					videoLink = f"https://tiktok.com/@{ tiktokUsername }/video/{ str( video.id ) }"
+					videoLink = f"https://www.tiktok.com/@{ tiktokUsername }/video/{ str( video.id ) }"
 					feedEntry = feedGenerator.add_entry()
 					feedEntry.id( videoLink )
 					
