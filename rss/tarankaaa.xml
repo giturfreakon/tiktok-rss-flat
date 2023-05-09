@@ -1,55 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://tiktok.com/@tarankaaa</id>
+  <id>https://www.tiktok.com/@tarankaaa</id>
   <title>@tarankaaa | TikTok</title>
   <updated>2023-05-01T12:08:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
   </author>
-  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://www.tiktok.com/@tarankaaa" rel="alternate"/>
   <link href="https://giturfreakon.github.io/tiktok-rss-flat/rss/tarankaaa.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tarankaaa</subtitle>
   <entry>
-    <id>https://tiktok.com/@tarankaaa/video/7227437776537537793</id>
+    <id>https://www.tiktok.com/@tarankaaa/video/7227437776537537793</id>
     <title>GRWM💖✨🐝 #grwm #makeup #누벨바그코리아 </title>
     <updated>2023-04-29T11:49:55+00:00</updated>
     <content>GRWM💖✨🐝 #grwm #makeup #누벨바그코리아 </content>
-    <link href="https://tiktok.com/@tarankaaa/video/7227437776537537793" rel="alternate"/>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7227437776537537793" rel="alternate"/>
     <published>2023-04-29T11:49:55+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@tarankaaa/video/7227828143447346433</id>
+    <id>https://www.tiktok.com/@tarankaaa/video/7227828143447346433</id>
     <title>#태닝메이크업 Tanned skin looks very beautiful🥹</title>
     <updated>2023-04-30T13:04:43+00:00</updated>
     <content>#태닝메이크업 Tanned skin looks very beautiful🥹</content>
-    <link href="https://tiktok.com/@tarankaaa/video/7227828143447346433" rel="alternate"/>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7227828143447346433" rel="alternate"/>
     <published>2023-04-30T13:04:43+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@tarankaaa/video/7227829231303150850</id>
+    <id>https://www.tiktok.com/@tarankaaa/video/7227829231303150850</id>
     <title>[no title]</title>
     <updated>2023-04-30T13:08:57+00:00</updated>
     <content>[no description]</content>
-    <link href="https://tiktok.com/@tarankaaa/video/7227829231303150850" rel="alternate"/>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7227829231303150850" rel="alternate"/>
     <published>2023-04-30T13:08:57+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@tarankaaa/video/7228184056922508545</id>
+    <id>https://www.tiktok.com/@tarankaaa/video/7228184056922508545</id>
     <title>👁️👄👁️</title>
     <updated>2023-05-01T12:05:51+00:00</updated>
     <content>👁️👄👁️</content>
-    <link href="https://tiktok.com/@tarankaaa/video/7228184056922508545" rel="alternate"/>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7228184056922508545" rel="alternate"/>
     <published>2023-05-01T12:05:51+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@tarankaaa/video/7228184729848188161</id>
+    <id>https://www.tiktok.com/@tarankaaa/video/7228184729848188161</id>
     <title>[no title]</title>
     <updated>2023-05-01T12:08:28+00:00</updated>
     <content>[no description]</content>
-    <link href="https://tiktok.com/@tarankaaa/video/7228184729848188161" rel="alternate"/>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7228184729848188161" rel="alternate"/>
     <published>2023-05-01T12:08:28+00:00</published>
   </entry>
 </feed>
