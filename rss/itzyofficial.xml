@@ -1,55 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://tiktok.com/@itzyofficial</id>
+  <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
   <updated>2023-05-05T01:31:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
   </author>
-  <link href="https://tiktok.com/@itzyofficial" rel="alternate"/>
+  <link href="https://www.tiktok.com/@itzyofficial" rel="alternate"/>
   <link href="https://giturfreakon.github.io/tiktok-rss-flat/rss/itzyofficial.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
   <entry>
-    <id>https://tiktok.com/@itzyofficial/video/7212958169323015426</id>
+    <id>https://www.tiktok.com/@itzyofficial/video/7212958169323015426</id>
     <title>#TWICE #SETMEFREE CHALLENGE 🖤💙💟 #ITZY #MIDZY  #YEJI #RYUJIN #CHAERYEONG #예지 #류진 #채령 #트와이스 #READYTOBE</title>
     <updated>2023-03-21T11:21:38+00:00</updated>
     <content>#TWICE #SETMEFREE CHALLENGE 🖤💙💟 #ITZY #MIDZY  #YEJI #RYUJIN #CHAERYEONG #예지 #류진 #채령 #트와이스 #READYTOBE</content>
-    <link href="https://tiktok.com/@itzyofficial/video/7212958169323015426" rel="alternate"/>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7212958169323015426" rel="alternate"/>
     <published>2023-03-21T11:21:38+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@itzyofficial/video/7219171429340679426</id>
+    <id>https://www.tiktok.com/@itzyofficial/video/7219171429340679426</id>
     <title>Come and dance with ITZY!  Let's go #MLBBALLSTAR #ALLSTARchallenge #MLBBxITZY #bethesuperstar #ITZY #MIDZY</title>
     <updated>2023-04-07T05:12:18+00:00</updated>
     <content>Come and dance with ITZY!  Let's go #MLBBALLSTAR #ALLSTARchallenge #MLBBxITZY #bethesuperstar #ITZY #MIDZY</content>
-    <link href="https://tiktok.com/@itzyofficial/video/7219171429340679426" rel="alternate"/>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7219171429340679426" rel="alternate"/>
     <published>2023-04-07T05:12:18+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@itzyofficial/video/7219730146108968199</id>
+    <id>https://www.tiktok.com/@itzyofficial/video/7219730146108968199</id>
     <title>ITZY THE 1ST WORLD TOUR &lt;CHECKMATE&gt; in #BANGKOK 공연장을 가득 채운 MIDZY의 함성 🤭 คอนเสิร์ตที่เต็มไปด้วยเสียงเชียร์ของ MIDZY 🤭 #ITZY #MIDZY #ITZY_WORLD_TOUR ✈</title>
     <updated>2023-04-08T17:20:24+00:00</updated>
     <content>ITZY THE 1ST WORLD TOUR &lt;CHECKMATE&gt; in #BANGKOK 공연장을 가득 채운 MIDZY의 함성 🤭 คอนเสิร์ตที่เต็มไปด้วยเสียงเชียร์ของ MIDZY 🤭 #ITZY #MIDZY #ITZY_WORLD_TOUR ✈</content>
-    <link href="https://tiktok.com/@itzyofficial/video/7219730146108968199" rel="alternate"/>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7219730146108968199" rel="alternate"/>
     <published>2023-04-08T17:20:24+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@itzyofficial/video/7229272671563844865</id>
+    <id>https://www.tiktok.com/@itzyofficial/video/7229272671563844865</id>
     <title>어린이날 있지's PICK은🤔⁉ | HAPPY CHILDREN'S DAY</title>
     <updated>2023-05-04T10:30:13+00:00</updated>
     <content>어린이날 있지's PICK은🤔⁉ | HAPPY CHILDREN'S DAY</content>
-    <link href="https://tiktok.com/@itzyofficial/video/7229272671563844865" rel="alternate"/>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7229272671563844865" rel="alternate"/>
     <published>2023-05-04T10:30:13+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@itzyofficial/video/7229504968275791112</id>
+    <id>https://www.tiktok.com/@itzyofficial/video/7229504968275791112</id>
     <title>헤헷 믿지에게 사랑을 전하고 싶다던가 #류진 #Ryujin #아이묭사랑을전하고싶다던가 #아이묭챌린지 </title>
     <updated>2023-05-05T01:31:43+00:00</updated>
     <content>헤헷 믿지에게 사랑을 전하고 싶다던가 #류진 #Ryujin #아이묭사랑을전하고싶다던가 #아이묭챌린지 </content>
-    <link href="https://tiktok.com/@itzyofficial/video/7229504968275791112" rel="alternate"/>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7229504968275791112" rel="alternate"/>
     <published>2023-05-05T01:31:43+00:00</published>
   </entry>
 </feed>
