@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@wooah_nv</id>
   <title>@wooah_nv | TikTok</title>
-  <updated>2023-05-03T10:29:59+00:00</updated>
+  <updated>2023-05-10T10:12:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @wooah_nv</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@wooah_nv/video/7223002427795066114</id>
-    <title>🍑🍑🍑 #wooah #우아 #NANA #WOOYEON #LUCY #나나 #우연 #루시 </title>
-    <updated>2023-04-17T12:58:29+00:00</updated>
-    <content>🍑🍑🍑 #wooah #우아 #NANA #WOOYEON #LUCY #나나 #우연 #루시 </content>
-    <link href="https://www.tiktok.com/@wooah_nv/video/7223002427795066114" rel="alternate"/>
-    <published>2023-04-17T12:58:29+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@wooah_nv/video/7223359685221453057</id>
     <title>LUCY DAY 'Danger' challenge 🍭🧁🩷 #wooah #우아 #LUCY #루시</title>
@@ -51,5 +43,13 @@
     <content>〰️🎶 #wooah #우아 #NANA #나나</content>
     <link href="https://www.tiktok.com/@wooah_nv/video/7228901511915474178" rel="alternate"/>
     <published>2023-05-03T10:29:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@wooah_nv/video/7231494735884455170</id>
+    <title>dc @Niana Guerrero #wooah #우아 #NANA #나나 </title>
+    <updated>2023-05-10T10:12:59+00:00</updated>
+    <content>dc @Niana Guerrero #wooah #우아 #NANA #나나 </content>
+    <link href="https://www.tiktok.com/@wooah_nv/video/7231494735884455170" rel="alternate"/>
+    <published>2023-05-10T10:12:59+00:00</published>
   </entry>
 </feed>
