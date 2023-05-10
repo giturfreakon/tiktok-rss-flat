@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nmixx_official</id>
   <title>@nmixx_official | TikTok</title>
-  <updated>2023-05-09T00:25:25+00:00</updated>
+  <updated>2023-05-10T00:21:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nmixx_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@nmixx_official/video/7228763165042019602</id>
-    <title>I love U Seattle💖🇺🇸 #NMIXX #엔믹스 #릴리 #LILY #해원 #HAEWON #expérgo #Love_Me_Like_This #SHOWCASETOUR #NICE_TO_MIXX_YOU</title>
-    <updated>2023-05-03T01:33:11+00:00</updated>
-    <content>I love U Seattle💖🇺🇸 #NMIXX #엔믹스 #릴리 #LILY #해원 #HAEWON #expérgo #Love_Me_Like_This #SHOWCASETOUR #NICE_TO_MIXX_YOU</content>
-    <link href="https://www.tiktok.com/@nmixx_official/video/7228763165042019602" rel="alternate"/>
-    <published>2023-05-03T01:33:11+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@nmixx_official/video/7229478571834674434</id>
     <title>Pull up challenge in San Jose 😎 #NMIXX #엔믹스 #설윤 #SULLYOON #지우 #JIWOO #expérgo #Love_Me_Like_This #SHOWCASETOUR #NICE_TO_MIXX_YOU</title>
@@ -51,5 +43,13 @@
     <content>💖🐶+🐰🦌💖 #NMIXX #엔믹스 #설윤 #SULLYOON #지우 #JIWOO #expérgo #Love_Me_Like_This #SHOWCASETOUR #NICE_TO_MIXX_YOU</content>
     <link href="https://www.tiktok.com/@nmixx_official/video/7230972174822100226" rel="alternate"/>
     <published>2023-05-09T00:25:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@nmixx_official/video/7231342178402897153</id>
+    <title>GOATED (🐰🐱🐤 ver.) 😎🔥 #NMIXX #엔믹스 #설윤 #SULLYOON #배이 #BAE #규진 #KYUJIN #expérgo #Love_Me_Like_This #SHOWCASETOUR #NICE_TO_MIXX_YOU</title>
+    <updated>2023-05-10T00:21:14+00:00</updated>
+    <content>GOATED (🐰🐱🐤 ver.) 😎🔥 #NMIXX #엔믹스 #설윤 #SULLYOON #배이 #BAE #규진 #KYUJIN #expérgo #Love_Me_Like_This #SHOWCASETOUR #NICE_TO_MIXX_YOU</content>
+    <link href="https://www.tiktok.com/@nmixx_official/video/7231342178402897153" rel="alternate"/>
+    <published>2023-05-10T00:21:14+00:00</published>
   </entry>
 </feed>
