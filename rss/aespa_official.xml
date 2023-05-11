@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-05-11T12:02:52+00:00</updated>
+  <updated>2023-05-11T14:02:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7231887796456197377</id>
-    <title>#SpicyChallenge🔥 with MIYEON #aespa #æspa #에스파 #KARINA #NINGNING #Spicy #aespa_Spicy #미연 #MIYEON</title>
-    <updated>2023-05-11T11:38:16+00:00</updated>
-    <content>#SpicyChallenge🔥 with MIYEON #aespa #æspa #에스파 #KARINA #NINGNING #Spicy #aespa_Spicy #미연 #MIYEON</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7231887796456197377" rel="alternate"/>
-    <published>2023-05-11T11:38:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7231893262745865473</id>
-    <title>‘Cause I'm too Spicy for your heart🥵   #SpicyChallenge #스파이시챌린지 #aespa #æspa #에스파 #KARINA #카리나 #Spicy #aespa_Spicy</title>
-    <updated>2023-05-11T11:59:30+00:00</updated>
-    <content>‘Cause I'm too Spicy for your heart🥵   #SpicyChallenge #스파이시챌린지 #aespa #æspa #에스파 #KARINA #카리나 #Spicy #aespa_Spicy</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7231893262745865473" rel="alternate"/>
-    <published>2023-05-11T11:59:30+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7231893543030197506</id>
     <title>Don't Stop 겁내지 마🚨   #SpicyChallenge #스파이시챌린지 #aespa #æspa #에스파 #GISELLE #지젤 #Spicy #aespa_Spicy</title>
@@ -51,5 +35,21 @@
     <content>우린 한계를 앞서☄️   #SpicyChallenge #스파이시챌린지 #aespa #æspa #에스파 #NINGNING #닝닝 #Spicy #aespa_Spicy</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7231894132082380033" rel="alternate"/>
     <published>2023-05-11T12:02:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7231924315711753474</id>
+    <title>Salty &amp; Sweet🥨🍫   #aespa #æspa #에스파 #MYWORLD #aespa_MYWORLD #SaltyandSweet #aespa_SaltyandSweet</title>
+    <updated>2023-05-11T14:00:02+00:00</updated>
+    <content>Salty &amp; Sweet🥨🍫   #aespa #æspa #에스파 #MYWORLD #aespa_MYWORLD #SaltyandSweet #aespa_SaltyandSweet</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7231924315711753474" rel="alternate"/>
+    <published>2023-05-11T14:00:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7231924907712498945</id>
+    <title>Salty &amp; Sweet😾😻   #aespa #æspa #에스파 #MYWORLD #aespa_MYWORLD #SaltyandSweet #aespa_SaltyandSweet</title>
+    <updated>2023-05-11T14:02:16+00:00</updated>
+    <content>Salty &amp; Sweet😾😻   #aespa #æspa #에스파 #MYWORLD #aespa_MYWORLD #SaltyandSweet #aespa_SaltyandSweet</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7231924907712498945" rel="alternate"/>
+    <published>2023-05-11T14:02:16+00:00</published>
   </entry>
 </feed>
