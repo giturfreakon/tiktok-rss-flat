@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-05-11T16:00:12+00:00</updated>
+  <updated>2023-05-12T15:36:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7229272671563844865</id>
-    <title>어린이날 있지's PICK은🤔⁉ | HAPPY CHILDREN'S DAY</title>
-    <updated>2023-05-04T10:30:13+00:00</updated>
-    <content>어린이날 있지's PICK은🤔⁉ | HAPPY CHILDREN'S DAY</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7229272671563844865" rel="alternate"/>
-    <published>2023-05-04T10:30:13+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7229504968275791112</id>
     <title>헤헷 믿지에게 사랑을 전하고 싶다던가 #류진 #Ryujin #아이묭사랑을전하고싶다던가 #아이묭챌린지 </title>
@@ -51,5 +43,13 @@
     <content>📁 ITZY @ 서울대.zip#ITZY #MIDZY#서울대학교 #SNU#SNUFESTIVAL</content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7231955300192914690" rel="alternate"/>
     <published>2023-05-11T16:00:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7232320166938397954</id>
+    <title>📁 ITZY @ 성균관대.zip #ITZY #MIDZY #성균관대학교 #SungkyunkwanUniversity #대동제</title>
+    <updated>2023-05-12T15:36:07+00:00</updated>
+    <content>📁 ITZY @ 성균관대.zip #ITZY #MIDZY #성균관대학교 #SungkyunkwanUniversity #대동제</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7232320166938397954" rel="alternate"/>
+    <published>2023-05-12T15:36:07+00:00</published>
   </entry>
 </feed>
