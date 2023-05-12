@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-05-11T06:58:35+00:00</updated>
+  <updated>2023-05-12T06:59:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7228914357940374802</id>
-    <title>HAVE WHAT WE WANT (MINIVE VER) https://youtu.be/hDx8RQsicys #IVE #아이브 #アイヴ  #MINIVE #미니브 #ミニヴ #강안지 #GANGANJI #달이 #DAL_E #나오리 #NAORI #체리 #CHERRY #치즈 #CHEEZ #이랑이 #ERANG_E</title>
-    <updated>2023-05-03T11:19:48+00:00</updated>
-    <content>HAVE WHAT WE WANT (MINIVE VER) https://youtu.be/hDx8RQsicys #IVE #아이브 #アイヴ  #MINIVE #미니브 #ミニヴ #강안지 #GANGANJI #달이 #DAL_E #나오리 #NAORI #체리 #CHERRY #치즈 #CHEEZ #이랑이 #ERANG_E</content>
-    <link href="https://www.tiktok.com/@ive.official/video/7228914357940374802" rel="alternate"/>
-    <published>2023-05-03T11:19:48+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7229620622463208712</id>
     <title>I AM 🐰🐯🐿😻🐶🐥💝 #IAMchallenge #아이엠챌린지 #IAM #아이엠 #IVE #아이브 #IveIVE #아이해브아이브 #어린이날</title>
@@ -51,5 +43,13 @@
     <content>GAEUL Ride the W-A-V-E 🎾 #WAVEchallenge #WAVE #IVE #아이브 #アイヴ #GAEUL #가을 #ガウル #JAPAN1stEP</content>
     <link href="https://www.tiktok.com/@ive.official/video/7231815710564027650" rel="alternate"/>
     <published>2023-05-11T06:58:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7232186959081344258</id>
+    <title>REI Ride the W-A-V-E 🎾 #WAVEchallenge #WAVE #IVE #아이브 #アイヴ #REI #레이 #レイ #JAPAN1stEP</title>
+    <updated>2023-05-12T06:59:12+00:00</updated>
+    <content>REI Ride the W-A-V-E 🎾 #WAVEchallenge #WAVE #IVE #아이브 #アイヴ #REI #레이 #レイ #JAPAN1stEP</content>
+    <link href="https://www.tiktok.com/@ive.official/video/7232186959081344258" rel="alternate"/>
+    <published>2023-05-12T06:59:12+00:00</published>
   </entry>
 </feed>
