@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-05-13T11:01:21+00:00</updated>
+  <updated>2023-05-14T08:01:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7231924907712498945</id>
-    <title>Salty &amp; Sweet😾😻   #aespa #æspa #에스파 #MYWORLD #aespa_MYWORLD #SaltyandSweet #aespa_SaltyandSweet</title>
-    <updated>2023-05-11T14:02:16+00:00</updated>
-    <content>Salty &amp; Sweet😾😻   #aespa #æspa #에스파 #MYWORLD #aespa_MYWORLD #SaltyandSweet #aespa_SaltyandSweet</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7231924907712498945" rel="alternate"/>
-    <published>2023-05-11T14:02:16+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7232496374154136833</id>
     <title>#SpicyChallenge 🔥 with #럭키오빠 ✨   #스파이시챌린지 #aespa #æspa #에스파 #Spicy #aespa_Spicy #김호영 </title>
@@ -57,5 +49,15 @@
     <content>#SpicyChallenge ☄️ with JUNGWOO🐾   #스파이시챌린지 #aespa #æspa #에스파 #KARINA #Spicy #aespa_Spicy #NCT #NCT127 #정우 #JUNGWOO</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7232620459093708033" rel="alternate"/>
     <published>2023-05-13T11:01:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7232945144029269250</id>
+    <title>너는 닿을수록 Thirsty 🫶
+ #aespa #æspa #에스파 #MYWORLD #aespa_MYWORLD #Thirsty #aespa_Thirsty </title>
+    <updated>2023-05-14T08:01:20+00:00</updated>
+    <content>너는 닿을수록 Thirsty 🫶
+ #aespa #æspa #에스파 #MYWORLD #aespa_MYWORLD #Thirsty #aespa_Thirsty </content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7232945144029269250" rel="alternate"/>
+    <published>2023-05-14T08:01:20+00:00</published>
   </entry>
 </feed>
