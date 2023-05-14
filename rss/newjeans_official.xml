@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@newjeans_official</id>
   <title>@newjeans_official | TikTok</title>
-  <updated>2023-05-08T04:00:18+00:00</updated>
+  <updated>2023-05-14T02:00:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @newjeans_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@newjeans_official/video/7226945790877404417</id>
-    <title>Another Bday Another Slay🐯🍓 #HAPPY_HYEIN_DAY #NewJeans #HYEIN  #뉴진스 #혜인</title>
-    <updated>2023-04-28T04:00:47+00:00</updated>
-    <content>Another Bday Another Slay🐯🍓 #HAPPY_HYEIN_DAY #NewJeans #HYEIN  #뉴진스 #혜인</content>
-    <link href="https://www.tiktok.com/@newjeans_official/video/7226945790877404417" rel="alternate"/>
-    <published>2023-04-28T04:00:47+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@newjeans_official/video/7228136124181499137</id>
     <title>⚡️PE class⚡️ #NewJeans #뉴진스 #HAERIN #HYEIN #Year_of_NewJeans</title>
@@ -51,5 +43,13 @@
     <content>Birthday Surprise🥳 for MINJI🐻🐶🫧 #HAPPY_MINJI_DAY #NewJeans #MINJI  #뉴진스 #민지</content>
     <link href="https://www.tiktok.com/@newjeans_official/video/7230656516657859842" rel="alternate"/>
     <published>2023-05-08T04:00:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@newjeans_official/video/7232852080531131650</id>
+    <title>Bunnies Camp Let’s go!🐰🏕 #NewJeans #뉴진스  #Bunnies_Camp #버니즈캠프</title>
+    <updated>2023-05-14T02:00:14+00:00</updated>
+    <content>Bunnies Camp Let’s go!🐰🏕 #NewJeans #뉴진스  #Bunnies_Camp #버니즈캠프</content>
+    <link href="https://www.tiktok.com/@newjeans_official/video/7232852080531131650" rel="alternate"/>
+    <published>2023-05-14T02:00:14+00:00</published>
   </entry>
 </feed>
