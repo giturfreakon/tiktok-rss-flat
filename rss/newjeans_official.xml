@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@newjeans_official</id>
   <title>@newjeans_official | TikTok</title>
-  <updated>2023-05-14T15:00:29+00:00</updated>
+  <updated>2023-05-16T05:00:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @newjeans_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@newjeans_official/video/7229543221376847106</id>
-    <title>we're kinda busy 🤷‍♀️ #NewJeans #뉴진스 #MINJI #HANNI #Year_of_NewJeans</title>
-    <updated>2023-05-05T04:00:07+00:00</updated>
-    <content>we're kinda busy 🤷‍♀️ #NewJeans #뉴진스 #MINJI #HANNI #Year_of_NewJeans</content>
-    <link href="https://www.tiktok.com/@newjeans_official/video/7229543221376847106" rel="alternate"/>
-    <published>2023-05-05T04:00:07+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@newjeans_official/video/7230084473247796482</id>
     <title>HAPPY MINJI DAY 🎂  민지의 생일을 축하합니다💞 HAPPY BIRTHDAY TO MINJI  #HAPPY_MINJI_DAY #NewJeans #MINJI  #뉴진스 #민지</title>
@@ -51,5 +43,13 @@
     <content>HAPPY HAERIN DAY 🎂 해린의 생일을 축하합니다💞 HAPPY BIRTHDAY TO HAERIN #HAPPY_HAERIN_DAY #NewJeans #HAERIN #뉴진스 #해린</content>
     <link href="https://www.tiktok.com/@newjeans_official/video/7233053160837844226" rel="alternate"/>
     <published>2023-05-14T15:00:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@newjeans_official/video/7233640694043249922</id>
+    <title>Wake up it's HAERIN's Bday! 😴🐈💚 #HAPPY_HAERIN_DAY #NewJeans #HAERIN #뉴진스 #해린</title>
+    <updated>2023-05-16T05:00:27+00:00</updated>
+    <content>Wake up it's HAERIN's Bday! 😴🐈💚 #HAPPY_HAERIN_DAY #NewJeans #HAERIN #뉴진스 #해린</content>
+    <link href="https://www.tiktok.com/@newjeans_official/video/7233640694043249922" rel="alternate"/>
+    <published>2023-05-16T05:00:27+00:00</published>
   </entry>
 </feed>
