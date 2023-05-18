@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-05-18T12:06:12+00:00</updated>
+  <updated>2023-05-18T14:01:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7234089551377992962</id>
-    <title>Random sauce game: which one is Spicy? 🥵   #SpicyGame #aespa #æspa #에스파 #KARINA #WINTER #MYWORLD #aespa_MYWORLD #Spicy #aespa_Spicy</title>
-    <updated>2023-05-17T10:02:11+00:00</updated>
-    <content>Random sauce game: which one is Spicy? 🥵   #SpicyGame #aespa #æspa #에스파 #KARINA #WINTER #MYWORLD #aespa_MYWORLD #Spicy #aespa_Spicy</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7234089551377992962" rel="alternate"/>
-    <published>2023-05-17T10:02:11+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7234119939416722689</id>
     <title>My life is complete with aespa and a cup of coffee ☕️🎧   #meinpublicmyheadphone #aespa #æspa #에스파 #GISELLE #지젤 #MYWORLD #aespa_MYWORLD #Thirsty #aespa_Thirsty</title>
@@ -55,5 +47,13 @@
     <content>the reason why i’m busy at work👩‍💻💭   #meinpublicmymind #aespa #æspa #에스파 #WINTER #윈터 #MYWORLD #aespa_MYWORLD #SaltyandSweet #aespa_SaltyandSweet</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7234492596997934338" rel="alternate"/>
     <published>2023-05-18T12:06:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7234522184369196289</id>
+    <title>깜빡 한순간 끌어당겨 You'll be mine 🏆 MY들 엠카 1위 고마워요🌶️🫶   #aespa #æspa #에스파  #Spicy #aespa_Spicy #Spicy1stwin #엠카운트다운</title>
+    <updated>2023-05-18T14:01:01+00:00</updated>
+    <content>깜빡 한순간 끌어당겨 You'll be mine 🏆 MY들 엠카 1위 고마워요🌶️🫶   #aespa #æspa #에스파  #Spicy #aespa_Spicy #Spicy1stwin #엠카운트다운</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7234522184369196289" rel="alternate"/>
+    <published>2023-05-18T14:01:01+00:00</published>
   </entry>
 </feed>
