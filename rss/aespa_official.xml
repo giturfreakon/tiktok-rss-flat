@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-05-19T11:59:37+00:00</updated>
+  <updated>2023-05-19T12:59:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7234455327708613889</id>
-    <title>#김종국 선배님과 함께 #SpicyChallenge 💪😬   #스파이시챌린지 #aespa #æspa #에스파 #Spicy #aespa_Spicy #짐종국</title>
-    <updated>2023-05-18T09:41:36+00:00</updated>
-    <content>#김종국 선배님과 함께 #SpicyChallenge 💪😬   #스파이시챌린지 #aespa #æspa #에스파 #Spicy #aespa_Spicy #짐종국</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7234455327708613889" rel="alternate"/>
-    <published>2023-05-18T09:41:36+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7234492596997934338</id>
     <title>the reason why i’m busy at work👩‍💻💭   #meinpublicmymind #aespa #æspa #에스파 #WINTER #윈터 #MYWORLD #aespa_MYWORLD #SaltyandSweet #aespa_SaltyandSweet</title>
@@ -51,5 +43,13 @@
     <content>My life - aespa = 0 #meinpublicmymind #aespa #æspa #에스파 #NINGNING #닝닝 #MYWORLD #aespa_MYWORLD #ImUnhappy #aespa_ImUnhappy</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7234861978370575617" rel="alternate"/>
     <published>2023-05-19T11:59:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7234877527594978562</id>
+    <title>기세가 다른 Move 널 압도하는 Groove MY🥹 뮤뱅 1위 감사합니다❤️‍🔥🏆   #aespa #æspa #에스파  #Spicy #aespa_Spicy #Spicy2ndwin #뮤직뱅크</title>
+    <updated>2023-05-19T12:59:57+00:00</updated>
+    <content>기세가 다른 Move 널 압도하는 Groove MY🥹 뮤뱅 1위 감사합니다❤️‍🔥🏆   #aespa #æspa #에스파  #Spicy #aespa_Spicy #Spicy2ndwin #뮤직뱅크</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7234877527594978562" rel="alternate"/>
+    <published>2023-05-19T12:59:57+00:00</published>
   </entry>
 </feed>
