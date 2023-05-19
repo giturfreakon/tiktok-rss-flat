@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-05-19T11:06:17+00:00</updated>
+  <updated>2023-05-19T11:59:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,18 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7234429528922246401</id>
-    <title>#SpicyChallenge 🥵 with #HONGEUNCHAE #홍은채 👿🐰
- 
- #스파이시챌린지 #aespa #æspa #에스파 #KARINA #NINGNING #Spicy #aespa_Spicy #LE_SSERAFIM #르세라핌</title>
-    <updated>2023-05-18T08:01:29+00:00</updated>
-    <content>#SpicyChallenge 🥵 with #HONGEUNCHAE #홍은채 👿🐰
- 
- #스파이시챌린지 #aespa #æspa #에스파 #KARINA #NINGNING #Spicy #aespa_Spicy #LE_SSERAFIM #르세라핌</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7234429528922246401" rel="alternate"/>
-    <published>2023-05-18T08:01:29+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7234455327708613889</id>
     <title>#김종국 선배님과 함께 #SpicyChallenge 💪😬   #스파이시챌린지 #aespa #æspa #에스파 #Spicy #aespa_Spicy #짐종국</title>
@@ -55,5 +43,13 @@
     <content>스파이시하다 영지야🌶️🚨 #카리나 with #이영지 #SpicyChallenge #스파이시챌린지 #aespa #æspa #에스파 #KARINA #Spicy #aespa_Spicy #차린건쥐뿔도없지만 #차쥐뿔</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7234848247867559170" rel="alternate"/>
     <published>2023-05-19T11:06:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7234861978370575617</id>
+    <title>My life - aespa = 0 #meinpublicmymind #aespa #æspa #에스파 #NINGNING #닝닝 #MYWORLD #aespa_MYWORLD #ImUnhappy #aespa_ImUnhappy</title>
+    <updated>2023-05-19T11:59:37+00:00</updated>
+    <content>My life - aespa = 0 #meinpublicmymind #aespa #æspa #에스파 #NINGNING #닝닝 #MYWORLD #aespa_MYWORLD #ImUnhappy #aespa_ImUnhappy</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7234861978370575617" rel="alternate"/>
+    <published>2023-05-19T11:59:37+00:00</published>
   </entry>
 </feed>
