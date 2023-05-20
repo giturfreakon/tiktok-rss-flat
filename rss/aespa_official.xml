@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-05-20T12:30:10+00:00</updated>
+  <updated>2023-05-20T14:49:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7234522184369196289</id>
-    <title>깜빡 한순간 끌어당겨 You'll be mine 🏆 MY들 엠카 1위 고마워요🌶️🫶   #aespa #æspa #에스파  #Spicy #aespa_Spicy #Spicy1stwin #엠카운트다운</title>
-    <updated>2023-05-18T14:01:01+00:00</updated>
-    <content>깜빡 한순간 끌어당겨 You'll be mine 🏆 MY들 엠카 1위 고마워요🌶️🫶   #aespa #æspa #에스파  #Spicy #aespa_Spicy #Spicy1stwin #엠카운트다운</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7234522184369196289" rel="alternate"/>
-    <published>2023-05-18T14:01:01+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7234848247867559170</id>
     <title>스파이시하다 영지야🌶️🚨 #카리나 with #이영지 #SpicyChallenge #스파이시챌린지 #aespa #æspa #에스파 #KARINA #Spicy #aespa_Spicy #차린건쥐뿔도없지만 #차쥐뿔</title>
@@ -51,5 +43,13 @@
     <content>뛰어들어 봐 Just right now👇🥰 MY!! 음중 1위 고마워요🏆   #aespa #æspa #에스파  #Spicy #aespa_Spicy #Spicy3rdwin #쇼음악중심 </content>
     <link href="https://www.tiktok.com/@aespa_official/video/7235240935855115521" rel="alternate"/>
     <published>2023-05-20T12:30:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7235276955015204114</id>
+    <title>I‘m too Spicy for your heart🩵 #aespa #æspa #에스파  #MYWORLD #aespa_MYWORLD  #Spicy #aespa_Spicy #연세대학교 #아카라카 </title>
+    <updated>2023-05-20T14:49:53+00:00</updated>
+    <content>I‘m too Spicy for your heart🩵 #aespa #æspa #에스파  #MYWORLD #aespa_MYWORLD  #Spicy #aespa_Spicy #연세대학교 #아카라카 </content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7235276955015204114" rel="alternate"/>
+    <published>2023-05-20T14:49:53+00:00</published>
   </entry>
 </feed>
