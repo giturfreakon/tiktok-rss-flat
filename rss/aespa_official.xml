@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-05-21T03:00:49+00:00</updated>
+  <updated>2023-05-21T11:59:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7234877527594978562</id>
-    <title>기세가 다른 Move 널 압도하는 Groove MY🥹 뮤뱅 1위 감사합니다❤️‍🔥🏆   #aespa #æspa #에스파  #Spicy #aespa_Spicy #Spicy2ndwin #뮤직뱅크</title>
-    <updated>2023-05-19T12:59:57+00:00</updated>
-    <content>기세가 다른 Move 널 압도하는 Groove MY🥹 뮤뱅 1위 감사합니다❤️‍🔥🏆   #aespa #æspa #에스파  #Spicy #aespa_Spicy #Spicy2ndwin #뮤직뱅크</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7234877527594978562" rel="alternate"/>
-    <published>2023-05-19T12:59:57+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7235240935855115521</id>
     <title>뛰어들어 봐 Just right now👇🥰 MY!! 음중 1위 고마워요🏆   #aespa #æspa #에스파  #Spicy #aespa_Spicy #Spicy3rdwin #쇼음악중심 </title>
@@ -55,5 +47,17 @@
  #스파이시챌린지 #aespa #æspa #에스파 #NINGNING #Spicy #aespa_Spicy #GIDLE #여자아이들 #우기</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7235465284616850690" rel="alternate"/>
     <published>2023-05-21T03:00:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7235604154184387842</id>
+    <title>#SpicyChallenge 💝 with #KIMCHAEWON #김채원 👿🐰
+ 
+ #스파이시챌린지 #aespa #æspa #에스파 #WINTER #Spicy #aespa_Spicy #LE_SSERAFIM #르세라핌 @LE SSERAFIM </title>
+    <updated>2023-05-21T11:59:38+00:00</updated>
+    <content>#SpicyChallenge 💝 with #KIMCHAEWON #김채원 👿🐰
+ 
+ #스파이시챌린지 #aespa #æspa #에스파 #WINTER #Spicy #aespa_Spicy #LE_SSERAFIM #르세라핌 @LE SSERAFIM </content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7235604154184387842" rel="alternate"/>
+    <published>2023-05-21T11:59:38+00:00</published>
   </entry>
 </feed>
