@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-05-12T15:36:07+00:00</updated>
+  <updated>2023-05-21T03:00:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7229504968275791112</id>
-    <title>헤헷 믿지에게 사랑을 전하고 싶다던가 #류진 #Ryujin #아이묭사랑을전하고싶다던가 #아이묭챌린지 </title>
-    <updated>2023-05-05T01:31:43+00:00</updated>
-    <content>헤헷 믿지에게 사랑을 전하고 싶다던가 #류진 #Ryujin #아이묭사랑을전하고싶다던가 #아이묭챌린지 </content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7229504968275791112" rel="alternate"/>
-    <published>2023-05-05T01:31:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7231133549045271835</id>
-    <title>🖤  #ITZY #있지 #YEJI#있지YEJI틴 #SVT #손오공 #손오공챌린지  #Super #SVT_Super</title>
-    <updated>2023-05-09T10:51:22+00:00</updated>
-    <content>🖤  #ITZY #있지 #YEJI#있지YEJI틴 #SVT #손오공 #손오공챌린지  #Super #SVT_Super</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7231133549045271835" rel="alternate"/>
-    <published>2023-05-09T10:51:22+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7231569973334871298</id>
     <title>📁 ITZY @ 수원대.zip #ITZY #MIDZY #수원대학교 #TheUniversityofSuwon #하루하루매일매일</title>
@@ -51,5 +35,21 @@
     <content>📁 ITZY @ 성균관대.zip #ITZY #MIDZY #성균관대학교 #SungkyunkwanUniversity #대동제</content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7232320166938397954" rel="alternate"/>
     <published>2023-05-12T15:36:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7235462652577746183</id>
+    <title>💔 #ifweeverbrokeup #ITZY #있지 #Ryujin #류진 </title>
+    <updated>2023-05-21T02:50:31+00:00</updated>
+    <content>💔 #ifweeverbrokeup #ITZY #있지 #Ryujin #류진 </content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7235462652577746183" rel="alternate"/>
+    <published>2023-05-21T02:50:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7235465136700476674</id>
+    <title>@itzyofficial 님과 #듀엣 #ifweeverbrokeup 🩷 #ITZY #있지 #Yuna #유나 </title>
+    <updated>2023-05-21T03:00:13+00:00</updated>
+    <content>@itzyofficial 님과 #듀엣 #ifweeverbrokeup 🩷 #ITZY #있지 #Yuna #유나 </content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7235465136700476674" rel="alternate"/>
+    <published>2023-05-21T03:00:13+00:00</published>
   </entry>
 </feed>
