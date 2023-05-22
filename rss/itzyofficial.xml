@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-05-21T03:00:13+00:00</updated>
+  <updated>2023-05-22T02:17:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7231569973334871298</id>
-    <title>📁 ITZY @ 수원대.zip #ITZY #MIDZY #수원대학교 #TheUniversityofSuwon #하루하루매일매일</title>
-    <updated>2023-05-10T15:04:58+00:00</updated>
-    <content>📁 ITZY @ 수원대.zip #ITZY #MIDZY #수원대학교 #TheUniversityofSuwon #하루하루매일매일</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7231569973334871298" rel="alternate"/>
-    <published>2023-05-10T15:04:58+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7231955300192914690</id>
     <title>📁 ITZY @ 서울대.zip#ITZY #MIDZY#서울대학교 #SNU#SNUFESTIVAL</title>
@@ -51,5 +43,13 @@
     <content>@itzyofficial 님과 #듀엣 #ifweeverbrokeup 🩷 #ITZY #있지 #Yuna #유나 </content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7235465136700476674" rel="alternate"/>
     <published>2023-05-21T03:00:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7235825256768736530</id>
+    <title>🖤 #ITZY #MIDZY #있지 #예지 #YEJI #ifweeverbrokeup #NEWYORK </title>
+    <updated>2023-05-22T02:17:37+00:00</updated>
+    <content>🖤 #ITZY #MIDZY #있지 #예지 #YEJI #ifweeverbrokeup #NEWYORK </content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7235825256768736530" rel="alternate"/>
+    <published>2023-05-22T02:17:37+00:00</published>
   </entry>
 </feed>
