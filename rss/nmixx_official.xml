@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nmixx_official</id>
   <title>@nmixx_official | TikTok</title>
-  <updated>2023-05-23T03:00:08+00:00</updated>
+  <updated>2023-05-23T06:09:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nmixx_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@nmixx_official/video/7231342178402897153</id>
-    <title>GOATED (🐰🐱🐤 ver.) 😎🔥 #NMIXX #엔믹스 #설윤 #SULLYOON #배이 #BAE #규진 #KYUJIN #expérgo #Love_Me_Like_This #SHOWCASETOUR #NICE_TO_MIXX_YOU</title>
-    <updated>2023-05-10T00:21:14+00:00</updated>
-    <content>GOATED (🐰🐱🐤 ver.) 😎🔥 #NMIXX #엔믹스 #설윤 #SULLYOON #배이 #BAE #규진 #KYUJIN #expérgo #Love_Me_Like_This #SHOWCASETOUR #NICE_TO_MIXX_YOU</content>
-    <link href="https://www.tiktok.com/@nmixx_official/video/7231342178402897153" rel="alternate"/>
-    <published>2023-05-10T00:21:14+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@nmixx_official/video/7232444167195004161</id>
     <title>💗Best Friend 4EVA 💗 #NMIXX #엔믹스 #지우 #JIWOO #규진 #KYUJIN #expérgo #Love_Me_Like_This #SHOWCASETOUR #NICE_TO_MIXX_YOU</title>
@@ -45,11 +37,19 @@
     <published>2023-05-16T23:16:36+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@nmixx_official/video/7236207304079691015</id>
-    <title>Trying out the new @LOEWE Paula's Ibiza 2023 collection ☀ Which is your favourite look? #NMIXX #엔믹스 #LOEWE #LOEWEpaulas</title>
-    <updated>2023-05-23T03:00:08+00:00</updated>
-    <content>Trying out the new @LOEWE Paula's Ibiza 2023 collection ☀ Which is your favourite look? #NMIXX #엔믹스 #LOEWE #LOEWEpaulas</content>
-    <link href="https://www.tiktok.com/@nmixx_official/video/7236207304079691015" rel="alternate"/>
-    <published>2023-05-23T03:00:08+00:00</published>
+    <id>https://www.tiktok.com/@nmixx_official/video/7236253337430002962</id>
+    <title>Nick 닉🦊 &amp; Judy 쮸디🐰 #NMIXX #엔믹스 #설윤 #SULLYOON #지우 #JIWOO #NickJudyChallenge </title>
+    <updated>2023-05-23T05:58:45+00:00</updated>
+    <content>Nick 닉🦊 &amp; Judy 쮸디🐰 #NMIXX #엔믹스 #설윤 #SULLYOON #지우 #JIWOO #NickJudyChallenge </content>
+    <link href="https://www.tiktok.com/@nmixx_official/video/7236253337430002962" rel="alternate"/>
+    <published>2023-05-23T05:58:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@nmixx_official/video/7236256078948863239</id>
+    <title>Trying out the new @LOEWE Paula's Ibiza 2023 collection ☀ Which is your favourite look? #NMIXX #엔믹스 #LOEWE #LOEWEpaulas </title>
+    <updated>2023-05-23T06:09:24+00:00</updated>
+    <content>Trying out the new @LOEWE Paula's Ibiza 2023 collection ☀ Which is your favourite look? #NMIXX #엔믹스 #LOEWE #LOEWEpaulas </content>
+    <link href="https://www.tiktok.com/@nmixx_official/video/7236256078948863239" rel="alternate"/>
+    <published>2023-05-23T06:09:24+00:00</published>
   </entry>
 </feed>
