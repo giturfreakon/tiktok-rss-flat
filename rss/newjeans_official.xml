@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@newjeans_official</id>
   <title>@newjeans_official | TikTok</title>
-  <updated>2023-05-23T02:00:09+00:00</updated>
+  <updated>2023-05-24T10:31:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @newjeans_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@newjeans_official/video/7230656516657859842</id>
-    <title>Birthday Surprise🥳 for MINJI🐻🐶🫧 #HAPPY_MINJI_DAY #NewJeans #MINJI  #뉴진스 #민지</title>
-    <updated>2023-05-08T04:00:18+00:00</updated>
-    <content>Birthday Surprise🥳 for MINJI🐻🐶🫧 #HAPPY_MINJI_DAY #NewJeans #MINJI  #뉴진스 #민지</content>
-    <link href="https://www.tiktok.com/@newjeans_official/video/7230656516657859842" rel="alternate"/>
-    <published>2023-05-08T04:00:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@newjeans_official/video/7232852080531131650</id>
-    <title>Bunnies Camp Let’s go!🐰🏕 #NewJeans #뉴진스  #Bunnies_Camp #버니즈캠프</title>
-    <updated>2023-05-14T02:00:14+00:00</updated>
-    <content>Bunnies Camp Let’s go!🐰🏕 #NewJeans #뉴진스  #Bunnies_Camp #버니즈캠프</content>
-    <link href="https://www.tiktok.com/@newjeans_official/video/7232852080531131650" rel="alternate"/>
-    <published>2023-05-14T02:00:14+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@newjeans_official/video/7233053160837844226</id>
     <title>HAPPY HAERIN DAY 🎂 해린의 생일을 축하합니다💞 HAPPY BIRTHDAY TO HAERIN #HAPPY_HAERIN_DAY #NewJeans #HAERIN #뉴진스 #해린</title>
@@ -51,5 +35,21 @@
     <content>New music coming out soon !  🥤 🥤 @Coca-Cola  #CokeStudio #RealMagic #CokePartner #광고 #NewJeans #뉴진스</content>
     <link href="https://www.tiktok.com/@newjeans_official/video/7236191826703650050" rel="alternate"/>
     <published>2023-05-23T02:00:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@newjeans_official/video/7236694233787288833</id>
+    <title>NewJeans at first sight 🫣 첫눈에 뉴진스 #NewJeans #뉴진스 #Year_of_NewJeans #LeeumMuseumofArt</title>
+    <updated>2023-05-24T10:29:41+00:00</updated>
+    <content>NewJeans at first sight 🫣 첫눈에 뉴진스 #NewJeans #뉴진스 #Year_of_NewJeans #LeeumMuseumofArt</content>
+    <link href="https://www.tiktok.com/@newjeans_official/video/7236694233787288833" rel="alternate"/>
+    <published>2023-05-24T10:29:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@newjeans_official/video/7236694623899487490</id>
+    <title>Rollercoaster ride with OMG 🎢 #NewJeans #뉴진스 #HANNI #DANIELLE #HYEIN #Year_of_NewJeans #LeeumMuseumofArt</title>
+    <updated>2023-05-24T10:31:13+00:00</updated>
+    <content>Rollercoaster ride with OMG 🎢 #NewJeans #뉴진스 #HANNI #DANIELLE #HYEIN #Year_of_NewJeans #LeeumMuseumofArt</content>
+    <link href="https://www.tiktok.com/@newjeans_official/video/7236694623899487490" rel="alternate"/>
+    <published>2023-05-24T10:31:13+00:00</published>
   </entry>
 </feed>
