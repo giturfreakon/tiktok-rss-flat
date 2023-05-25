@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-05-24T11:59:26+00:00</updated>
+  <updated>2023-05-25T09:50:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,18 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7235465284616850690</id>
-    <title>#SpicyChallenge ❤️‍🔥 with #YUQI 
- 
- #스파이시챌린지 #aespa #æspa #에스파 #NINGNING #Spicy #aespa_Spicy #GIDLE #여자아이들 #우기</title>
-    <updated>2023-05-21T03:00:49+00:00</updated>
-    <content>#SpicyChallenge ❤️‍🔥 with #YUQI 
- 
- #스파이시챌린지 #aespa #æspa #에스파 #NINGNING #Spicy #aespa_Spicy #GIDLE #여자아이들 #우기</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7235465284616850690" rel="alternate"/>
-    <published>2023-05-21T03:00:49+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7235604154184387842</id>
     <title>#SpicyChallenge 💝 with #KIMCHAEWON #김채원 👿🐰
@@ -59,5 +47,13 @@
     <content>Salty &amp; Sweet and yaaaang…🦖   #yaaaang #dinosaurchant #aespa #æspa #에스파 #MYWORLD #aespa_MYWORLD #SaltyandSweet #aespa_SaltyandSweet</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7236717360709651713" rel="alternate"/>
     <published>2023-05-24T11:59:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7237055315957779714</id>
+    <title>#SpicyChallenge ❤️‍🔥 with #미주 #스파이시챌린지 #aespa #æspa #에스파 #WINTER #Spicy #aespa_Spicy #셀폰코드</title>
+    <updated>2023-05-25T09:50:52+00:00</updated>
+    <content>#SpicyChallenge ❤️‍🔥 with #미주 #스파이시챌린지 #aespa #æspa #에스파 #WINTER #Spicy #aespa_Spicy #셀폰코드</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7237055315957779714" rel="alternate"/>
+    <published>2023-05-25T09:50:52+00:00</published>
   </entry>
 </feed>
