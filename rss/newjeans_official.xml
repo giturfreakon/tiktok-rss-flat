@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@newjeans_official</id>
   <title>@newjeans_official | TikTok</title>
-  <updated>2023-05-24T14:59:49+00:00</updated>
+  <updated>2023-05-26T01:59:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @newjeans_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@newjeans_official/video/7233640694043249922</id>
-    <title>Wake up it's HAERIN's Bday! 😴🐈💚 #HAPPY_HAERIN_DAY #NewJeans #HAERIN #뉴진스 #해린</title>
-    <updated>2023-05-16T05:00:27+00:00</updated>
-    <content>Wake up it's HAERIN's Bday! 😴🐈💚 #HAPPY_HAERIN_DAY #NewJeans #HAERIN #뉴진스 #해린</content>
-    <link href="https://www.tiktok.com/@newjeans_official/video/7233640694043249922" rel="alternate"/>
-    <published>2023-05-16T05:00:27+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@newjeans_official/video/7236191826703650050</id>
     <title>New music coming out soon !  🥤 🥤 @Coca-Cola  #CokeStudio #RealMagic #CokePartner #광고 #NewJeans #뉴진스</title>
@@ -51,5 +43,13 @@
     <content>We are releasing new music soon 🎧 @Coca-Cola  #CokeStudio #RealMagic #CokePartner #광고 #NewJeans #뉴진스</content>
     <link href="https://www.tiktok.com/@newjeans_official/video/7236763851692215554" rel="alternate"/>
     <published>2023-05-24T14:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@newjeans_official/video/7237304961539820802</id>
+    <title>Show us your moves ✧₊⁎✧₊⁎ @Coca-Cola  #CokeStudio #RealMagic #CokePartner #광고 #NewJeans #뉴진스</title>
+    <updated>2023-05-26T01:59:39+00:00</updated>
+    <content>Show us your moves ✧₊⁎✧₊⁎ @Coca-Cola  #CokeStudio #RealMagic #CokePartner #광고 #NewJeans #뉴진스</content>
+    <link href="https://www.tiktok.com/@newjeans_official/video/7237304961539820802" rel="alternate"/>
+    <published>2023-05-26T01:59:39+00:00</published>
   </entry>
 </feed>
