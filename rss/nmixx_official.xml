@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nmixx_official</id>
   <title>@nmixx_official | TikTok</title>
-  <updated>2023-05-27T01:16:18+00:00</updated>
+  <updated>2023-05-27T08:48:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nmixx_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@nmixx_official/video/7233189775799274770</id>
-    <title>📞🐨🐻‍❄🐶📞  #NMIXX #엔믹스 #릴리 #LILY #해원 #HAEWON #지우 #JIWOO #expérgo #Love_Me_Like_This #SHOWCASETOUR #NICE_TO_MIXX_YOU</title>
-    <updated>2023-05-14T23:50:45+00:00</updated>
-    <content>📞🐨🐻‍❄🐶📞  #NMIXX #엔믹스 #릴리 #LILY #해원 #HAEWON #지우 #JIWOO #expérgo #Love_Me_Like_This #SHOWCASETOUR #NICE_TO_MIXX_YOU</content>
-    <link href="https://www.tiktok.com/@nmixx_official/video/7233189775799274770" rel="alternate"/>
-    <published>2023-05-14T23:50:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@nmixx_official/video/7233923148725456129</id>
-    <title>Just looking up 😎 #NMIXX #엔믹스 #expérgo #Love_Me_Like_This #SHOWCASETOUR #NICE_TO_MIXX_YOU</title>
-    <updated>2023-05-16T23:16:36+00:00</updated>
-    <content>Just looking up 😎 #NMIXX #엔믹스 #expérgo #Love_Me_Like_This #SHOWCASETOUR #NICE_TO_MIXX_YOU</content>
-    <link href="https://www.tiktok.com/@nmixx_official/video/7233923148725456129" rel="alternate"/>
-    <published>2023-05-16T23:16:36+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@nmixx_official/video/7236253337430002962</id>
     <title>Nick 닉🦊 &amp; Judy 쮸디🐰 #NMIXX #엔믹스 #설윤 #SULLYOON #지우 #JIWOO #NickJudyChallenge </title>
@@ -51,5 +35,21 @@
     <content>이 밤🌌을 누구보다 빠르게 달려🏃‍♀️  엔써 맘에 안착💖 #NMIXX #엔믹스 #규진 #KYUJIN #HAPPY_KYUJIN_DAY #짱규진_생일_축하하세욥</content>
     <link href="https://www.tiktok.com/@nmixx_official/video/7237664872547306760" rel="alternate"/>
     <published>2023-05-27T01:16:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@nmixx_official/video/7237758037480443143</id>
+    <title>I love to get 2 on💗 #NMIXX #엔믹스 #규진 #KYUJIN #HAPPY_KYUJIN_DAY #짱규진_생일_축하하세욥 </title>
+    <updated>2023-05-27T07:17:46+00:00</updated>
+    <content>I love to get 2 on💗 #NMIXX #엔믹스 #규진 #KYUJIN #HAPPY_KYUJIN_DAY #짱규진_생일_축하하세욥 </content>
+    <link href="https://www.tiktok.com/@nmixx_official/video/7237758037480443143" rel="alternate"/>
+    <published>2023-05-27T07:17:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@nmixx_official/video/7237781416388398354</id>
+    <title>#JO1 #SATOKEIGO #MAMEHARAISSEI 선배님과 럽미라잌디스💗 #NMIXX #엔믹스 #규진 #KYUJIN #expérgo #Love_Me_Like_This #Love_Me_Like_This_Challenge </title>
+    <updated>2023-05-27T08:48:29+00:00</updated>
+    <content>#JO1 #SATOKEIGO #MAMEHARAISSEI 선배님과 럽미라잌디스💗 #NMIXX #엔믹스 #규진 #KYUJIN #expérgo #Love_Me_Like_This #Love_Me_Like_This_Challenge </content>
+    <link href="https://www.tiktok.com/@nmixx_official/video/7237781416388398354" rel="alternate"/>
+    <published>2023-05-27T08:48:29+00:00</published>
   </entry>
 </feed>
