@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-05-25T09:50:52+00:00</updated>
+  <updated>2023-05-27T12:00:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,18 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7235604154184387842</id>
-    <title>#SpicyChallenge 💝 with #KIMCHAEWON #김채원 👿🐰
- 
- #스파이시챌린지 #aespa #æspa #에스파 #WINTER #Spicy #aespa_Spicy #LE_SSERAFIM #르세라핌 @LE SSERAFIM </title>
-    <updated>2023-05-21T11:59:38+00:00</updated>
-    <content>#SpicyChallenge 💝 with #KIMCHAEWON #김채원 👿🐰
- 
- #스파이시챌린지 #aespa #æspa #에스파 #WINTER #Spicy #aespa_Spicy #LE_SSERAFIM #르세라핌 @LE SSERAFIM </content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7235604154184387842" rel="alternate"/>
-    <published>2023-05-21T11:59:38+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7236284494284688642</id>
     <title>우린 한계를 앞서 Wow x3 💥 MY 덕분이에요! 인가 1위까지 고마워요💝🏆 #aespa #æspa #에스파 #Spicy #aespa_Spicy #Spicy4thwin #인기가요</title>
@@ -55,5 +43,13 @@
     <content>#SpicyChallenge ❤️‍🔥 with #미주 #스파이시챌린지 #aespa #æspa #에스파 #WINTER #Spicy #aespa_Spicy #셀폰코드</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7237055315957779714" rel="alternate"/>
     <published>2023-05-25T09:50:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7237830941048065282</id>
+    <title>💙🌙aespa at Cannes⭐️🦋 #aespa #æspa #에스파 #CannesFilmFestival #Cannes2023 #aespaatCannes  #Chopard </title>
+    <updated>2023-05-27T12:00:41+00:00</updated>
+    <content>💙🌙aespa at Cannes⭐️🦋 #aespa #æspa #에스파 #CannesFilmFestival #Cannes2023 #aespaatCannes  #Chopard </content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7237830941048065282" rel="alternate"/>
+    <published>2023-05-27T12:00:41+00:00</published>
   </entry>
 </feed>
