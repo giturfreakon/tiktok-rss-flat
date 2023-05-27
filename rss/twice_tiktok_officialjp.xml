@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@twice_tiktok_officialjp</id>
   <title>@twice_tiktok_officialjp | TikTok</title>
-  <updated>2023-05-25T11:59:18+00:00</updated>
+  <updated>2023-05-27T09:00:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @twice_tiktok_officialjp</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_officialjp/video/7234121007215152386</id>
-    <title>TWICE JAPAN 10th SINGLE『Hare Hare』 2023.05.31 Release TWICE「Hare Hare」Dance TZUYU ver #TWICE #HareHare</title>
-    <updated>2023-05-17T12:04:14+00:00</updated>
-    <content>TWICE JAPAN 10th SINGLE『Hare Hare』 2023.05.31 Release TWICE「Hare Hare」Dance TZUYU ver #TWICE #HareHare</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_officialjp/video/7234121007215152386" rel="alternate"/>
-    <published>2023-05-17T12:04:14+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_officialjp/video/7236671850779004162</id>
     <title>TWICE JAPAN 10th SINGLE『Hare Hare』 2023.05.31 Release TWICE「Hare Hare」 NAYEON #TWICE #HareHare </title>
@@ -51,5 +43,13 @@
     <content>TWICE JAPAN 10th SINGLE『Hare Hare』 2023.05.31 Release TWICE「Hare Hare」 SANA #TWICE #HareHare</content>
     <link href="https://www.tiktok.com/@twice_tiktok_officialjp/video/7237088407321890050" rel="alternate"/>
     <published>2023-05-25T11:59:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_officialjp/video/7237784586216885506</id>
+    <title>TWICE JAPAN 10th SINGLE『Hare Hare』 2023.05.31 Release TWICE「Hare Hare」 JIHYO #TWICE #HareHare</title>
+    <updated>2023-05-27T09:00:50+00:00</updated>
+    <content>TWICE JAPAN 10th SINGLE『Hare Hare』 2023.05.31 Release TWICE「Hare Hare」 JIHYO #TWICE #HareHare</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_officialjp/video/7237784586216885506" rel="alternate"/>
+    <published>2023-05-27T09:00:50+00:00</published>
   </entry>
 </feed>
