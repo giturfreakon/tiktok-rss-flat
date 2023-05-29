@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tarankaaa</id>
   <title>@tarankaaa | TikTok</title>
-  <updated>2023-05-28T10:27:23+00:00</updated>
+  <updated>2023-05-29T10:21:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tarankaaa</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7237078330208488705</id>
-    <title>#매끈파운데이션 </title>
-    <updated>2023-05-25T11:20:10+00:00</updated>
-    <content>#매끈파운데이션 </content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7237078330208488705" rel="alternate"/>
-    <published>2023-05-25T11:20:10+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7237093321573797122</id>
     <title>🔈 skincare routine 1. Banila Co Clean it zero  2. 107 Chaga jelly 3. Numbuzin toner super glowing essence 4. Numbuzin deep sleep mask serum 5. Lavien micro collagen core cream 6. Beauty of Joseon retinal eye serum   #grwm #gurwm #skincare </title>
@@ -51,5 +43,13 @@
     <content>#랜덤테스트 i just woke up 😪</content>
     <link href="https://www.tiktok.com/@tarankaaa/video/7238177976695672066" rel="alternate"/>
     <published>2023-05-28T10:27:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7238547506005642498</id>
+    <title>What would my JoJo character look like</title>
+    <updated>2023-05-29T10:21:22+00:00</updated>
+    <content>What would my JoJo character look like</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7238547506005642498" rel="alternate"/>
+    <published>2023-05-29T10:21:22+00:00</published>
   </entry>
 </feed>
