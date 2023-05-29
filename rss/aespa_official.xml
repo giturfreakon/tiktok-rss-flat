@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-05-27T12:00:41+00:00</updated>
+  <updated>2023-05-29T12:00:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7236284494284688642</id>
-    <title>우린 한계를 앞서 Wow x3 💥 MY 덕분이에요! 인가 1위까지 고마워요💝🏆 #aespa #æspa #에스파 #Spicy #aespa_Spicy #Spicy4thwin #인기가요</title>
-    <updated>2023-05-23T07:59:42+00:00</updated>
-    <content>우린 한계를 앞서 Wow x3 💥 MY 덕분이에요! 인가 1위까지 고마워요💝🏆 #aespa #æspa #에스파 #Spicy #aespa_Spicy #Spicy4thwin #인기가요</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7236284494284688642" rel="alternate"/>
-    <published>2023-05-23T07:59:42+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7236346691018853633</id>
     <title>#SpicyChallenge 🥵 with #박재범 #스파이시챌린지 #aespa #æspa #에스파 #NINGNING #Spicy #aespa_Spicy</title>
@@ -51,5 +43,13 @@
     <content>💙🌙aespa at Cannes⭐️🦋 #aespa #æspa #에스파 #CannesFilmFestival #Cannes2023 #aespaatCannes  #Chopard </content>
     <link href="https://www.tiktok.com/@aespa_official/video/7237830941048065282" rel="alternate"/>
     <published>2023-05-27T12:00:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7238572955335134465</id>
+    <title>yummy🤩 #aespa #æspa #에스파 #MYWORLD #aespa_MYWORLD #Spicy #aespa_Spicy </title>
+    <updated>2023-05-29T12:00:06+00:00</updated>
+    <content>yummy🤩 #aespa #æspa #에스파 #MYWORLD #aespa_MYWORLD #Spicy #aespa_Spicy </content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7238572955335134465" rel="alternate"/>
+    <published>2023-05-29T12:00:06+00:00</published>
   </entry>
 </feed>
