@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@newjeans_official</id>
   <title>@newjeans_official | TikTok</title>
-  <updated>2023-05-30T09:29:38+00:00</updated>
+  <updated>2023-06-01T01:59:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @newjeans_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@newjeans_official/video/7236694233787288833</id>
-    <title>NewJeans at first sight 🫣 첫눈에 뉴진스 #NewJeans #뉴진스 #Year_of_NewJeans #LeeumMuseumofArt</title>
-    <updated>2023-05-24T10:29:41+00:00</updated>
-    <content>NewJeans at first sight 🫣 첫눈에 뉴진스 #NewJeans #뉴진스 #Year_of_NewJeans #LeeumMuseumofArt</content>
-    <link href="https://www.tiktok.com/@newjeans_official/video/7236694233787288833" rel="alternate"/>
-    <published>2023-05-24T10:29:41+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@newjeans_official/video/7236694623899487490</id>
     <title>Rollercoaster ride with OMG 🎢 #NewJeans #뉴진스 #HANNI #DANIELLE #HYEIN #Year_of_NewJeans #LeeumMuseumofArt</title>
@@ -51,5 +43,13 @@
     <content>왜 쳐다봐 강해륀👁_👁 #NewJeans #뉴진스  #HAERIN #MINJI #Year_of_NewJeans #LeeumMuseumofArt</content>
     <link href="https://www.tiktok.com/@newjeans_official/video/7238905275334266114" rel="alternate"/>
     <published>2023-05-30T09:29:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@newjeans_official/video/7239531459382365442</id>
+    <title>Bunnies Camp! 🚍🏡🎒🃏🎤👯‍♀️🔥🕯💤 #NewJeans #뉴진스 #Bunnies_Club #Year_of_NewJeans</title>
+    <updated>2023-06-01T01:59:38+00:00</updated>
+    <content>Bunnies Camp! 🚍🏡🎒🃏🎤👯‍♀️🔥🕯💤 #NewJeans #뉴진스 #Bunnies_Club #Year_of_NewJeans</content>
+    <link href="https://www.tiktok.com/@newjeans_official/video/7239531459382365442" rel="alternate"/>
+    <published>2023-06-01T01:59:38+00:00</published>
   </entry>
 </feed>

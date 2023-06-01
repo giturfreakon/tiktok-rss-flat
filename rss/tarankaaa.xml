@@ -13,6 +13,14 @@
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tarankaaa</subtitle>
   <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7238177976695672066</id>
+    <title>#랜덤테스트 i just woke up 😪</title>
+    <updated>2023-05-28T10:27:23+00:00</updated>
+    <content>#랜덤테스트 i just woke up 😪</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7238177976695672066" rel="alternate"/>
+    <published>2023-05-28T10:27:23+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7238948950747696386</id>
     <title>Okay??😧</title>
     <updated>2023-05-30T12:19:09+00:00</updated>
@@ -35,14 +43,6 @@
     <content>#cyberblue </content>
     <link href="https://www.tiktok.com/@tarankaaa/video/7238953001161919746" rel="alternate"/>
     <published>2023-05-30T12:34:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7239287297865223425</id>
-    <title>[no title]</title>
-    <updated>2023-05-31T10:12:05+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7239287297865223425" rel="alternate"/>
-    <published>2023-05-31T10:12:05+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7239309621616266497</id>
