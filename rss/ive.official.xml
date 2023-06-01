@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-05-31T04:55:42+00:00</updated>
+  <updated>2023-06-01T06:59:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7235218683658865928</id>
-    <title>아카라카 아이브 등장 10초 전 💙🩵 #IVE #아이브 #アイヴ #연세대학교 #아카라카</title>
-    <updated>2023-05-20T11:03:46+00:00</updated>
-    <content>아카라카 아이브 등장 10초 전 💙🩵 #IVE #아이브 #アイヴ #연세대학교 #아카라카</content>
-    <link href="https://www.tiktok.com/@ive.official/video/7235218683658865928" rel="alternate"/>
-    <published>2023-05-20T11:03:46+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7235221636016786696</id>
     <title>내 장점이 뭔지 알아 바로 ”연세대“인 거야💙🦅  #IVE #아이브 #アイヴ  #AfterLIKE #애프터라이크  #연세대학교 #아카라카</title>
@@ -51,5 +43,13 @@
     <content>뮤비 촬영장에서 레이 놀아주는 법..📸🍑 #IVE #아이브 #REI #레이 #IveIVE #아이해브아이브 #IAM #아이엠 #길거리사진작가 </content>
     <link href="https://www.tiktok.com/@ive.official/video/7239205766844927240" rel="alternate"/>
     <published>2023-05-31T04:55:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7239608670353378568</id>
+    <title>Somebody like ANYUJIN 🌊 #WAVEchallenge #WAVE #IVE #아이브 #アイヴ #ANYUJIN #안유진 #アンユジン #ユジン #JAPAN1stEP </title>
+    <updated>2023-06-01T06:59:10+00:00</updated>
+    <content>Somebody like ANYUJIN 🌊 #WAVEchallenge #WAVE #IVE #아이브 #アイヴ #ANYUJIN #안유진 #アンユジン #ユジン #JAPAN1stEP </content>
+    <link href="https://www.tiktok.com/@ive.official/video/7239608670353378568" rel="alternate"/>
+    <published>2023-06-01T06:59:10+00:00</published>
   </entry>
 </feed>
