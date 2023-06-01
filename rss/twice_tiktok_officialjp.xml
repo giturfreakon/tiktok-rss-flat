@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@twice_tiktok_officialjp</id>
   <title>@twice_tiktok_officialjp | TikTok</title>
-  <updated>2023-05-31T12:00:37+00:00</updated>
+  <updated>2023-06-01T03:21:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @twice_tiktok_officialjp</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_officialjp/video/7238201942374190337</id>
-    <title>TWICE JAPAN 10th SINGLE『Hare Hare』 2023.05.31 Release TWICE「Hare Hare」 CHAEYOUNG #TWICE #HareHare</title>
-    <updated>2023-05-28T12:00:22+00:00</updated>
-    <content>TWICE JAPAN 10th SINGLE『Hare Hare』 2023.05.31 Release TWICE「Hare Hare」 CHAEYOUNG #TWICE #HareHare</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_officialjp/video/7238201942374190337" rel="alternate"/>
-    <published>2023-05-28T12:00:22+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_officialjp/video/7238526770478189825</id>
     <title>TWICE JAPAN 10th SINGLE『Hare Hare』 2023.05.31 Release TWICE「Hare Hare」 TZUYU #TWICE #HareHare</title>
@@ -51,5 +43,13 @@
     <content>TWICE JAPAN 10th SINGLE『Hare Hare』 2023.05.31 Release Unit Dance☀ #TWICE #HareHare #JEONGYEON #MOMO #CHAEYOUNG</content>
     <link href="https://www.tiktok.com/@twice_tiktok_officialjp/video/7239315264829967617" rel="alternate"/>
     <published>2023-05-31T12:00:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_officialjp/video/7239552534740831490</id>
+    <title>TWICE JAPAN 10th SINGLE『Hare Hare』 2023.05.31 Release 「Hare Hare」が皆さんの心を照らす光となりますように♪ #TWICE #HareHare</title>
+    <updated>2023-06-01T03:21:28+00:00</updated>
+    <content>TWICE JAPAN 10th SINGLE『Hare Hare』 2023.05.31 Release 「Hare Hare」が皆さんの心を照らす光となりますように♪ #TWICE #HareHare</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_officialjp/video/7239552534740831490" rel="alternate"/>
+    <published>2023-06-01T03:21:28+00:00</published>
   </entry>
 </feed>
