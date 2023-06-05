@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@twice_tiktok_officialjp</id>
   <title>@twice_tiktok_officialjp | TikTok</title>
-  <updated>2023-06-04T12:01:12+00:00</updated>
+  <updated>2023-06-05T12:01:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @twice_tiktok_officialjp</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_officialjp/video/7239687393228459265</id>
-    <title>TWICE JAPAN 10th SINGLE『Hare Hare』 2023.05.31 Release Unit Dance☀ #TWICE #HareHare #NAYEON #JIHYO #TZUYU</title>
-    <updated>2023-06-01T12:04:41+00:00</updated>
-    <content>TWICE JAPAN 10th SINGLE『Hare Hare』 2023.05.31 Release Unit Dance☀ #TWICE #HareHare #NAYEON #JIHYO #TZUYU</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_officialjp/video/7239687393228459265" rel="alternate"/>
-    <published>2023-06-01T12:04:41+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_officialjp/video/7240056971368484097</id>
     <title>TWICE JAPAN 10th SINGLE『Hare Hare』 2023.05.31 Release Unit Dance☀ #TWICE #HareHare #SANA #MINA #DAHYUN</title>
@@ -51,5 +43,13 @@
     <content>TWICE JAPAN 10th SINGLE『Hare Hare』 2023.05.31 Release Dance Break #TWICE #HareHare #NAYEON #MOMO</content>
     <link href="https://www.tiktok.com/@twice_tiktok_officialjp/video/7240799754102394114" rel="alternate"/>
     <published>2023-06-04T12:01:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_officialjp/video/7241170800600993026</id>
+    <title>TWICE JAPAN 10th SINGLE『Hare Hare』 2023.05.31 Release Dance Break #TWICE #HareHare #JEONGYEON #SANA</title>
+    <updated>2023-06-05T12:01:03+00:00</updated>
+    <content>TWICE JAPAN 10th SINGLE『Hare Hare』 2023.05.31 Release Dance Break #TWICE #HareHare #JEONGYEON #SANA</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_officialjp/video/7241170800600993026" rel="alternate"/>
+    <published>2023-06-05T12:01:03+00:00</published>
   </entry>
 </feed>
