@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@twice_tiktok_official</id>
   <title>@twice_tiktok_official | TikTok</title>
-  <updated>2023-05-24T01:01:41+00:00</updated>
+  <updated>2023-06-09T05:33:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @twice_tiktok_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_official/video/7213950524222131463</id>
-    <title>#SETMEFREE challenge at Empire State Building🙌 @empirestatebldg  #TWICE #트와이스 #READYTOBE</title>
-    <updated>2023-03-24T03:32:34+00:00</updated>
-    <content>#SETMEFREE challenge at Empire State Building🙌 @empirestatebldg  #TWICE #트와이스 #READYTOBE</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7213950524222131463" rel="alternate"/>
-    <published>2023-03-24T03:32:34+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_official/video/7214050486024948993</id>
     <title>#SETMEFREE Challenge with #릴리🐨 #TWICE #트와이스 #READYTOBE</title>
@@ -51,5 +43,13 @@
     <content>With a simple light change, anything can "GO HARD"💕🐶🦄 #TWICE #트와이스 #JIHYO #지효 #JEONGYEON #정연 #GOHARD</content>
     <link href="https://www.tiktok.com/@twice_tiktok_official/video/7236547825461415169" rel="alternate"/>
     <published>2023-05-24T01:01:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_official/video/7242555153834839314</id>
+    <title>A little something special for ONCE from TWICE. Watch now exclusively on @amazonmusic  ✨ https://am.app.link/TWICE #TWICE #트와이스</title>
+    <updated>2023-06-09T05:33:02+00:00</updated>
+    <content>A little something special for ONCE from TWICE. Watch now exclusively on @amazonmusic  ✨ https://am.app.link/TWICE #TWICE #트와이스</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7242555153834839314" rel="alternate"/>
+    <published>2023-06-09T05:33:02+00:00</published>
   </entry>
 </feed>
