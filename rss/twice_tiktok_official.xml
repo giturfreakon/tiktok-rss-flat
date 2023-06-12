@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@twice_tiktok_official</id>
   <title>@twice_tiktok_official | TikTok</title>
-  <updated>2023-06-09T05:33:02+00:00</updated>
+  <updated>2023-06-12T09:03:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @twice_tiktok_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_official/video/7214050486024948993</id>
-    <title>#SETMEFREE Challenge with #릴리🐨 #TWICE #트와이스 #READYTOBE</title>
-    <updated>2023-03-24T10:00:23+00:00</updated>
-    <content>#SETMEFREE Challenge with #릴리🐨 #TWICE #트와이스 #READYTOBE</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7214050486024948993" rel="alternate"/>
-    <published>2023-03-24T10:00:23+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_official/video/7227455064573594898</id>
     <title>Our 5th World Tour "READY TO BE" now begins💗 Coming for you, ONCE😘 #TWICE #트와이스 #READYTOBE #TWICE_5TH_WORLD_TOUR</title>
@@ -51,5 +43,13 @@
     <content>A little something special for ONCE from TWICE. Watch now exclusively on @amazonmusic  ✨ https://am.app.link/TWICE #TWICE #트와이스</content>
     <link href="https://www.tiktok.com/@twice_tiktok_official/video/7242555153834839314" rel="alternate"/>
     <published>2023-06-09T05:33:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_official/video/7243722666803285255</id>
+    <title>Hi ONCE 💗 Watch the full video now exclusively on Amazon Music ✨  https://am.app.link/TWICE #TWICE #트와이스</title>
+    <updated>2023-06-12T09:03:34+00:00</updated>
+    <content>Hi ONCE 💗 Watch the full video now exclusively on Amazon Music ✨  https://am.app.link/TWICE #TWICE #트와이스</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7243722666803285255" rel="alternate"/>
+    <published>2023-06-12T09:03:34+00:00</published>
   </entry>
 </feed>
