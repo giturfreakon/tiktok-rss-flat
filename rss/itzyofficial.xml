@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-05-25T14:58:12+00:00</updated>
+  <updated>2023-06-12T09:26:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7232320166938397954</id>
-    <title>📁 ITZY @ 성균관대.zip #ITZY #MIDZY #성균관대학교 #SungkyunkwanUniversity #대동제</title>
-    <updated>2023-05-12T15:36:07+00:00</updated>
-    <content>📁 ITZY @ 성균관대.zip #ITZY #MIDZY #성균관대학교 #SungkyunkwanUniversity #대동제</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7232320166938397954" rel="alternate"/>
-    <published>2023-05-12T15:36:07+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7235462652577746183</id>
     <title>💔 #ifweeverbrokeup #ITZY #있지 #Ryujin #류진 </title>
@@ -51,5 +43,13 @@
     <content>📁 ITZY @ 고려대.zip #ITZY #MIDZY  #고려대학교 #KoreaUniversity #석탑대동제</content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7237134522515557640" rel="alternate"/>
     <published>2023-05-25T14:58:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7243728600166354194</id>
+    <title>🌠🌠🌠🌠🌠  #ITZY #MIDZY  #특챌린지 #S_Class_Challenge #5_STAR #특 #S_Class #StrayKids #Stay </title>
+    <updated>2023-06-12T09:26:35+00:00</updated>
+    <content>🌠🌠🌠🌠🌠  #ITZY #MIDZY  #특챌린지 #S_Class_Challenge #5_STAR #특 #S_Class #StrayKids #Stay </content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7243728600166354194" rel="alternate"/>
+    <published>2023-06-12T09:26:35+00:00</published>
   </entry>
 </feed>
