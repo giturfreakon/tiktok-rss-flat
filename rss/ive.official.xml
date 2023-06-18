@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-06-15T12:43:02+00:00</updated>
+  <updated>2023-06-18T06:17:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7240722072996039943</id>
-    <title>Somebody like JANGWONYOUNG 🌊 #WAVEchallenge #WAVE #IVE #아이브 #アイヴ #JANGWONYOUNG #장원영 #ジャンウォニョン #ウォニョン  #JAPAN1stEP </title>
-    <updated>2023-06-04T06:59:45+00:00</updated>
-    <content>Somebody like JANGWONYOUNG 🌊 #WAVEchallenge #WAVE #IVE #아이브 #アイヴ #JANGWONYOUNG #장원영 #ジャンウォニョン #ウォニョン  #JAPAN1stEP </content>
-    <link href="https://www.tiktok.com/@ive.official/video/7240722072996039943" rel="alternate"/>
-    <published>2023-06-04T06:59:45+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7241093588979895560</id>
     <title>Somebody like LIZ 🌊 #WAVEchallenge #WAVE #IVE #아이브 #アイヴ #LIZ #리즈 #リズ #JAPAN1stEP </title>
@@ -51,5 +43,13 @@
     <content>3, 2, 1 📸✨ #IAMchallenge #아이엠챌린지 #IAM #아이엠 #IVE #아이브 #IveIVE #아이해브아이브</content>
     <link href="https://www.tiktok.com/@ive.official/video/7244892477256109320" rel="alternate"/>
     <published>2023-06-15T12:43:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7245906262486043912</id>
+    <title>입에서 나는 소리 (어쨌든) 아님 🧀😽 #IVE #아이브 #アイヴ #LIZ #리즈 #リズ</title>
+    <updated>2023-06-18T06:17:03+00:00</updated>
+    <content>입에서 나는 소리 (어쨌든) 아님 🧀😽 #IVE #아이브 #アイヴ #LIZ #리즈 #リズ</content>
+    <link href="https://www.tiktok.com/@ive.official/video/7245906262486043912" rel="alternate"/>
+    <published>2023-06-18T06:17:03+00:00</published>
   </entry>
 </feed>
