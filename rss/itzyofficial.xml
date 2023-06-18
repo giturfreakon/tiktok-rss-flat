@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-06-12T09:26:35+00:00</updated>
+  <updated>2023-06-18T15:10:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7235462652577746183</id>
-    <title>💔 #ifweeverbrokeup #ITZY #있지 #Ryujin #류진 </title>
-    <updated>2023-05-21T02:50:31+00:00</updated>
-    <content>💔 #ifweeverbrokeup #ITZY #있지 #Ryujin #류진 </content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7235462652577746183" rel="alternate"/>
-    <published>2023-05-21T02:50:31+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7235465136700476674</id>
     <title>@itzyofficial 님과 #듀엣 #ifweeverbrokeup 🩷 #ITZY #있지 #Yuna #유나 </title>
@@ -51,5 +43,13 @@
     <content>🌠🌠🌠🌠🌠  #ITZY #MIDZY  #특챌린지 #S_Class_Challenge #5_STAR #특 #S_Class #StrayKids #Stay </content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7243728600166354194" rel="alternate"/>
     <published>2023-06-12T09:26:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7246043815176441089</id>
+    <title>ITZY &lt;KILL MY DOUBT&gt; https://youtu.be/FMbxuvqzI6Y ALBUM RELEASE 2023.07.31 MON 6PM (KST) | 5AM (EDT) #ITZY #MIDZY #ITZYComeback #ITZY_KILLMYDOUBT #ITZY_CAKE</title>
+    <updated>2023-06-18T15:10:51+00:00</updated>
+    <content>ITZY &lt;KILL MY DOUBT&gt; https://youtu.be/FMbxuvqzI6Y ALBUM RELEASE 2023.07.31 MON 6PM (KST) | 5AM (EDT) #ITZY #MIDZY #ITZYComeback #ITZY_KILLMYDOUBT #ITZY_CAKE</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7246043815176441089" rel="alternate"/>
+    <published>2023-06-18T15:10:51+00:00</published>
   </entry>
 </feed>
