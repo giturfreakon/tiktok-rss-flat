@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-06-18T06:17:03+00:00</updated>
+  <updated>2023-06-18T11:58:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7241093588979895560</id>
-    <title>Somebody like LIZ 🌊 #WAVEchallenge #WAVE #IVE #아이브 #アイヴ #LIZ #리즈 #リズ #JAPAN1stEP </title>
-    <updated>2023-06-05T07:01:26+00:00</updated>
-    <content>Somebody like LIZ 🌊 #WAVEchallenge #WAVE #IVE #아이브 #アイヴ #LIZ #리즈 #リズ #JAPAN1stEP </content>
-    <link href="https://www.tiktok.com/@ive.official/video/7241093588979895560" rel="alternate"/>
-    <published>2023-06-05T07:01:26+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7241140075239705863</id>
     <title>머물고픈 어딘가의 낯선 가을선배..❔😮 #IAMchallenge #아이엠챌린지 #IAM #아이엠 #IVE #아이브 #GAEUL #가을 #IveIVE #아이해브아이브</title>
@@ -51,5 +43,13 @@
     <content>입에서 나는 소리 (어쨌든) 아님 🧀😽 #IVE #아이브 #アイヴ #LIZ #리즈 #リズ</content>
     <link href="https://www.tiktok.com/@ive.official/video/7245906262486043912" rel="alternate"/>
     <published>2023-06-18T06:17:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7245994132550733064</id>
+    <title>최애의 🐿️🐥 💘✨ #IVE #아이브 #アイヴ #GAEUL #가을 #ガウル #REI #레이 #レイ</title>
+    <updated>2023-06-18T11:58:01+00:00</updated>
+    <content>최애의 🐿️🐥 💘✨ #IVE #아이브 #アイヴ #GAEUL #가을 #ガウル #REI #레이 #レイ</content>
+    <link href="https://www.tiktok.com/@ive.official/video/7245994132550733064" rel="alternate"/>
+    <published>2023-06-18T11:58:01+00:00</published>
   </entry>
 </feed>
