@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@newjeans_official</id>
   <title>@newjeans_official | TikTok</title>
-  <updated>2023-06-12T07:59:47+00:00</updated>
+  <updated>2023-06-19T01:55:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @newjeans_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@newjeans_official/video/7237304961539820802</id>
-    <title>Show us your moves ✧₊⁎✧₊⁎ @Coca-Cola  #CokeStudio #RealMagic #CokePartner #광고 #NewJeans #뉴진스</title>
-    <updated>2023-05-26T01:59:39+00:00</updated>
-    <content>Show us your moves ✧₊⁎✧₊⁎ @Coca-Cola  #CokeStudio #RealMagic #CokePartner #광고 #NewJeans #뉴진스</content>
-    <link href="https://www.tiktok.com/@newjeans_official/video/7237304961539820802" rel="alternate"/>
-    <published>2023-05-26T01:59:39+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@newjeans_official/video/7238905275334266114</id>
     <title>왜 쳐다봐 강해륀👁_👁 #NewJeans #뉴진스  #HAERIN #MINJI #Year_of_NewJeans #LeeumMuseumofArt</title>
@@ -51,5 +43,13 @@
     <content>When the video doesn't match the song😈🍪 #NewJeans #뉴진스 #Year_of_NewJeans #LeeumMuseumofArt</content>
     <link href="https://www.tiktok.com/@newjeans_official/video/7243706211667889409" rel="alternate"/>
     <published>2023-06-12T07:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@newjeans_official/video/7246209778060446978</id>
+    <title>Coming Soon! NewJeans 2nd EP 'Get Up' 🗓 2023.7.7. Pre-Release 🗓 2023.7.21. 2nd EP 'Get Up' Release  ✅ Pre-Order 2023.6.19. 11AM KST #Time_to_NewJeans #NewJeans #뉴진스 #NewJeans_2nd_EP</title>
+    <updated>2023-06-19T01:55:00+00:00</updated>
+    <content>Coming Soon! NewJeans 2nd EP 'Get Up' 🗓 2023.7.7. Pre-Release 🗓 2023.7.21. 2nd EP 'Get Up' Release  ✅ Pre-Order 2023.6.19. 11AM KST #Time_to_NewJeans #NewJeans #뉴진스 #NewJeans_2nd_EP</content>
+    <link href="https://www.tiktok.com/@newjeans_official/video/7246209778060446978" rel="alternate"/>
+    <published>2023-06-19T01:55:00+00:00</published>
   </entry>
 </feed>
