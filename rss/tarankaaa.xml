@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tarankaaa</id>
   <title>@tarankaaa | TikTok</title>
-  <updated>2023-06-18T11:02:38+00:00</updated>
+  <updated>2023-06-18T10:59:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tarankaaa</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7242312867423259905</id>
+    <title>[no title]</title>
+    <updated>2023-06-08T13:52:51+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7242312867423259905" rel="alternate"/>
+    <published>2023-06-08T13:52:51+00:00</published>
+  </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7244134499854880002</id>
     <title>#카사노바 </title>
@@ -43,13 +51,5 @@
     <content>B who??</content>
     <link href="https://www.tiktok.com/@tarankaaa/video/7245978944850103554" rel="alternate"/>
     <published>2023-06-18T10:59:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7245979856511552769</id>
-    <title>FROM THE FIRST TIME lmao </title>
-    <updated>2023-06-18T11:02:38+00:00</updated>
-    <content>FROM THE FIRST TIME lmao </content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7245979856511552769" rel="alternate"/>
-    <published>2023-06-18T11:02:38+00:00</published>
   </entry>
 </feed>
