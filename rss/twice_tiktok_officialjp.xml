@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@twice_tiktok_officialjp</id>
   <title>@twice_tiktok_officialjp | TikTok</title>
-  <updated>2023-06-22T11:57:46+00:00</updated>
+  <updated>2023-06-23T11:58:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @twice_tiktok_officialjp</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_officialjp/video/7245993768027966722</id>
-    <title>MISAMO JAPAN 1st MINI ALBUM『Masterpiece』 2023.07.26 Release 「Marshmallow」SANA ver Like Ding-Dong Ding-Dong Happy day💖 #Marshmallow #SANA #MISAMO #NewMusic</title>
-    <updated>2023-06-18T11:56:38+00:00</updated>
-    <content>MISAMO JAPAN 1st MINI ALBUM『Masterpiece』 2023.07.26 Release 「Marshmallow」SANA ver Like Ding-Dong Ding-Dong Happy day💖 #Marshmallow #SANA #MISAMO #NewMusic</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_officialjp/video/7245993768027966722" rel="alternate"/>
-    <published>2023-06-18T11:56:38+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_officialjp/video/7246365408792431874</id>
     <title>MISAMO JAPAN 1st MINI ALBUM『Masterpiece』 2023.07.26 Release 「Marshmallow」 MOMO ver 魔法かけてMirror Mirror〜🪞 #Marshmallow #MOMO #MISAMO #NewMusic</title>
@@ -51,5 +43,13 @@
     <content>MISAMO JAPAN 1st MINI ALBUM『Masterpiece』 2023.07.26 Release   「Marshmallow」Behind   SANA   #Marshmallow #SANA #MISAMO #MarshmallowChillChallenge</content>
     <link href="https://www.tiktok.com/@twice_tiktok_officialjp/video/7247478398824484098" rel="alternate"/>
     <published>2023-06-22T11:57:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_officialjp/video/7247849617361063170</id>
+    <title>MISAMO JAPAN 1st MINI ALBUM『Masterpiece』 2023.07.26 Release   「Marshmallow」Behind   MOMO   #Marshmallow #MOMO #MISAMO #MarshmallowChillChallenge</title>
+    <updated>2023-06-23T11:58:17+00:00</updated>
+    <content>MISAMO JAPAN 1st MINI ALBUM『Masterpiece』 2023.07.26 Release   「Marshmallow」Behind   MOMO   #Marshmallow #MOMO #MISAMO #MarshmallowChillChallenge</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_officialjp/video/7247849617361063170" rel="alternate"/>
+    <published>2023-06-23T11:58:17+00:00</published>
   </entry>
 </feed>
