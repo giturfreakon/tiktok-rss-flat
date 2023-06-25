@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@newjeans_official</id>
   <title>@newjeans_official | TikTok</title>
-  <updated>2023-06-19T23:03:48+00:00</updated>
+  <updated>2023-06-25T14:59:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @newjeans_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@newjeans_official/video/7239531459382365442</id>
-    <title>Bunnies Camp! 🚍🏡🎒🃏🎤👯‍♀️🔥🕯💤 #NewJeans #뉴진스 #Bunnies_Club #Year_of_NewJeans</title>
-    <updated>2023-06-01T01:59:38+00:00</updated>
-    <content>Bunnies Camp! 🚍🏡🎒🃏🎤👯‍♀️🔥🕯💤 #NewJeans #뉴진스 #Bunnies_Club #Year_of_NewJeans</content>
-    <link href="https://www.tiktok.com/@newjeans_official/video/7239531459382365442" rel="alternate"/>
-    <published>2023-06-01T01:59:38+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@newjeans_official/video/7242500313347869953</id>
     <title>OMG at Bunnies Camp 🐰⛺️ D-22! #NewJeans #뉴진스  #Bunnies_Camp #버니즈캠프 #FILMBYMINJI</title>
@@ -51,5 +43,13 @@
     <content>ZERO Remix ₊✧˚ 🎧 ˚✧₊ with @J.I.D  Coming 21st June @ 8 AM KST. @Coca-Cola  #CokeStudio #RealMagic #CokePartner #광고 #NewJeans #뉴진스</content>
     <link href="https://www.tiktok.com/@newjeans_official/video/7246536735750884609" rel="alternate"/>
     <published>2023-06-19T23:03:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@newjeans_official/video/7248638503804882178</id>
+    <title>NewJeans 'ETA' Teaser #NewJeans #뉴진스  #NewJeans_ETA #NewJeans_GetUp #Time_to_NewJeans</title>
+    <updated>2023-06-25T14:59:36+00:00</updated>
+    <content>NewJeans 'ETA' Teaser #NewJeans #뉴진스  #NewJeans_ETA #NewJeans_GetUp #Time_to_NewJeans</content>
+    <link href="https://www.tiktok.com/@newjeans_official/video/7248638503804882178" rel="alternate"/>
+    <published>2023-06-25T14:59:36+00:00</published>
   </entry>
 </feed>
