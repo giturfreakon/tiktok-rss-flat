@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@twice_tiktok_official</id>
   <title>@twice_tiktok_official | TikTok</title>
-  <updated>2023-06-14T10:45:14+00:00</updated>
+  <updated>2023-06-25T15:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @twice_tiktok_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_official/video/7242555153834839314</id>
-    <title>A little something special for ONCE from TWICE. Watch now exclusively on @amazonmusic  ✨ https://am.app.link/TWICE #TWICE #트와이스</title>
-    <updated>2023-06-09T05:33:02+00:00</updated>
-    <content>A little something special for ONCE from TWICE. Watch now exclusively on @amazonmusic  ✨ https://am.app.link/TWICE #TWICE #트와이스</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7242555153834839314" rel="alternate"/>
-    <published>2023-06-09T05:33:02+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_official/video/7243722666803285255</id>
     <title>Hi ONCE 💗 Watch the full video now exclusively on Amazon Music ✨  https://am.app.link/TWICE #TWICE #트와이스</title>
@@ -51,5 +43,13 @@
     <content>완벽한 궁극의 아이돌 ✧트와이스✧ #TWICE #트와이스</content>
     <link href="https://www.tiktok.com/@twice_tiktok_official/video/7244491026407181569" rel="alternate"/>
     <published>2023-06-14T10:45:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_official/video/7248524103982845185</id>
+    <title>JIHYO The 1st Mini Album "ZONE" Release on 2023.08.18🔥 #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</title>
+    <updated>2023-06-25T15:00:00+00:00</updated>
+    <content>JIHYO The 1st Mini Album "ZONE" Release on 2023.08.18🔥 #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7248524103982845185" rel="alternate"/>
+    <published>2023-06-25T15:00:00+00:00</published>
   </entry>
 </feed>
