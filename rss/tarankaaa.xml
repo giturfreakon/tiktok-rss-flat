@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tarankaaa</id>
   <title>@tarankaaa | TikTok</title>
-  <updated>2023-06-28T11:51:14+00:00</updated>
+  <updated>2023-06-28T12:00:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tarankaaa</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7244137575223446785</id>
-    <title>[no title]</title>
-    <updated>2023-06-13T11:53:39+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7244137575223446785" rel="alternate"/>
-    <published>2023-06-13T11:53:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7245978944850103554</id>
-    <title>B who??</title>
-    <updated>2023-06-18T10:59:07+00:00</updated>
-    <content>B who??</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7245978944850103554" rel="alternate"/>
-    <published>2023-06-18T10:59:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7249686949500439809</id>
-    <title>[no title]</title>
-    <updated>2023-06-28T10:48:04+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7249686949500439809" rel="alternate"/>
-    <published>2023-06-28T10:48:04+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7249694090642590977</id>
     <title>[no title]</title>
@@ -51,5 +27,29 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@tarankaaa/video/7249703224406592769" rel="alternate"/>
     <published>2023-06-28T11:51:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7249703800406084865</id>
+    <title>#글램룩 im sorry. </title>
+    <updated>2023-06-28T11:53:28+00:00</updated>
+    <content>#글램룩 im sorry. </content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7249703800406084865" rel="alternate"/>
+    <published>2023-06-28T11:53:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7249705174275493122</id>
+    <title>[no title]</title>
+    <updated>2023-06-28T11:58:47+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7249705174275493122" rel="alternate"/>
+    <published>2023-06-28T11:58:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7249705493776633089</id>
+    <title>[no title]</title>
+    <updated>2023-06-28T12:00:03+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7249705493776633089" rel="alternate"/>
+    <published>2023-06-28T12:00:03+00:00</published>
   </entry>
 </feed>
