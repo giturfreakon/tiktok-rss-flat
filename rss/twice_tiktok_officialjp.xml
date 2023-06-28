@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@twice_tiktok_officialjp</id>
   <title>@twice_tiktok_officialjp | TikTok</title>
-  <updated>2023-06-27T09:04:27+00:00</updated>
+  <updated>2023-06-28T08:56:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @twice_tiktok_officialjp</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_officialjp/video/7247478398824484098</id>
-    <title>MISAMO JAPAN 1st MINI ALBUM『Masterpiece』 2023.07.26 Release   「Marshmallow」Behind   SANA   #Marshmallow #SANA #MISAMO #MarshmallowChillChallenge</title>
-    <updated>2023-06-22T11:57:46+00:00</updated>
-    <content>MISAMO JAPAN 1st MINI ALBUM『Masterpiece』 2023.07.26 Release   「Marshmallow」Behind   SANA   #Marshmallow #SANA #MISAMO #MarshmallowChillChallenge</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_officialjp/video/7247478398824484098" rel="alternate"/>
-    <published>2023-06-22T11:57:46+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_officialjp/video/7247849617361063170</id>
     <title>MISAMO JAPAN 1st MINI ALBUM『Masterpiece』 2023.07.26 Release   「Marshmallow」Behind   MOMO   #Marshmallow #MOMO #MISAMO #MarshmallowChillChallenge</title>
@@ -51,5 +43,13 @@
     <content>TWICEからONCEの皆様に特別プレゼント！ 今すぐAmazon Musicで御覧ください✨  https://am.app.link/TWICE @AmazonMusic   @Amazon Music （アマゾンミュージック）  #AmazonMusic #AmazonMusicJp</content>
     <link href="https://www.tiktok.com/@twice_tiktok_officialjp/video/7249289162069773570" rel="alternate"/>
     <published>2023-06-27T09:04:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_officialjp/video/7249658262415510785</id>
+    <title>TWICEからONCEの皆様に特別プレゼント！ 今すぐAmazon Musicで御覧ください✨  https://am.app.link/TWICE @AmazonMusic @Amazon Music （アマゾンミュージック）  #AmazonMusic  #AmazonMusicJp </title>
+    <updated>2023-06-28T08:56:46+00:00</updated>
+    <content>TWICEからONCEの皆様に特別プレゼント！ 今すぐAmazon Musicで御覧ください✨  https://am.app.link/TWICE @AmazonMusic @Amazon Music （アマゾンミュージック）  #AmazonMusic  #AmazonMusicJp </content>
+    <link href="https://www.tiktok.com/@twice_tiktok_officialjp/video/7249658262415510785" rel="alternate"/>
+    <published>2023-06-28T08:56:46+00:00</published>
   </entry>
 </feed>
