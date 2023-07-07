@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@twice_tiktok_official</id>
   <title>@twice_tiktok_official | TikTok</title>
-  <updated>2023-06-30T15:04:59+00:00</updated>
+  <updated>2023-07-03T04:50:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @twice_tiktok_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_official/video/7250123263169334530</id>
-    <title>반전의 아이콘! 깜찍 리더 ✿ #지효 TWIST! Adorable Leader ✿ #JIHYO #원스 #ONCE #트와이스 #TWICE  #원스4기 #ONCE_4TH_GENERATION</title>
-    <updated>2023-06-29T15:01:10+00:00</updated>
-    <content>반전의 아이콘! 깜찍 리더 ✿ #지효 TWIST! Adorable Leader ✿ #JIHYO #원스 #ONCE #트와이스 #TWICE  #원스4기 #ONCE_4TH_GENERATION</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7250123263169334530" rel="alternate"/>
-    <published>2023-06-29T15:01:10+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_official/video/7250123340139007233</id>
     <title>오늘의 포토제닉! 얼짱 감성 소녀 ⋈* #채영 Photogenic &amp; Delicate Unnie ⋈* #CHAEYOUNG #원스 #ONCE #트와이스 #TWICE  #원스4기 #ONCE_4TH_GENERATION</title>
@@ -51,5 +43,13 @@
     <content>엉뚱 발랄 OO세대의 등장? ✧ #쯔위 Cheerful OO Generation? ✧ #TZUYU #원스 #ONCE #트와이스 #TWICE  #원스4기 #ONCE_4TH_GENERATION</content>
     <link href="https://www.tiktok.com/@twice_tiktok_official/video/7250495328997395713" rel="alternate"/>
     <published>2023-06-30T15:04:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_official/video/7251450131667537154</id>
+    <title>pov: we are gonna sleep good tonight now after our READY TO BE show💖🍭 #TWICE #트와이스 #Basics #READYTOBE #TWICE_5TH_WORLD_TOUR</title>
+    <updated>2023-07-03T04:50:07+00:00</updated>
+    <content>pov: we are gonna sleep good tonight now after our READY TO BE show💖🍭 #TWICE #트와이스 #Basics #READYTOBE #TWICE_5TH_WORLD_TOUR</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7251450131667537154" rel="alternate"/>
+    <published>2023-07-03T04:50:07+00:00</published>
   </entry>
 </feed>

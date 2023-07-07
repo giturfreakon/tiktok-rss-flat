@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@wooah_nv</id>
   <title>@wooah_nv | TikTok</title>
-  <updated>2023-06-27T10:03:04+00:00</updated>
+  <updated>2023-07-05T10:14:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @wooah_nv</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@wooah_nv/video/7244515451819085058</id>
-    <title>천재 아이돌 권나나 ✨ #wooah #우아 #NANA #나나 </title>
-    <updated>2023-06-14T12:20:03+00:00</updated>
-    <content>천재 아이돌 권나나 ✨ #wooah #우아 #NANA #나나 </content>
-    <link href="https://www.tiktok.com/@wooah_nv/video/7244515451819085058" rel="alternate"/>
-    <published>2023-06-14T12:20:03+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@wooah_nv/video/7244896209930816770</id>
     <title>💔 #wooah #우아 #LUCY #루시#루ᄉINSEO #민서 </title>
@@ -51,5 +43,13 @@
     <content>우울과 우웅은 한 끗 차이입니다 🪼🙆‍♀️ #wooah #우아 #WOOYEON #우연 #MINSEO #민서 </content>
     <link href="https://www.tiktok.com/@wooah_nv/video/7249304272175697153" rel="alternate"/>
     <published>2023-06-27T10:03:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@wooah_nv/video/7252275866384878849</id>
+    <title>🌊 #wooah #우아 #NANA #나나 </title>
+    <updated>2023-07-05T10:14:24+00:00</updated>
+    <content>🌊 #wooah #우아 #NANA #나나 </content>
+    <link href="https://www.tiktok.com/@wooah_nv/video/7252275866384878849" rel="alternate"/>
+    <published>2023-07-05T10:14:24+00:00</published>
   </entry>
 </feed>
