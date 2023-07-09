@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-07-06T15:15:17+00:00</updated>
+  <updated>2023-07-09T15:03:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7235825256768736530</id>
-    <title>🖤 #ITZY #MIDZY #있지 #예지 #YEJI #ifweeverbrokeup #NEWYORK </title>
-    <updated>2023-05-22T02:17:37+00:00</updated>
-    <content>🖤 #ITZY #MIDZY #있지 #예지 #YEJI #ifweeverbrokeup #NEWYORK </content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7235825256768736530" rel="alternate"/>
-    <published>2023-05-22T02:17:37+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7237134522515557640</id>
     <title>📁 ITZY @ 고려대.zip #ITZY #MIDZY  #고려대학교 #KoreaUniversity #석탑대동제</title>
@@ -51,5 +43,13 @@
     <content>닉예지🩵주디유나  NickYeji🩷JudyYuna #ITZY #MIDZY #닉주디챌린지 #닉주디 #nickjudychallenge #nickjudy </content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7252724503262874887" rel="alternate"/>
     <published>2023-07-06T15:15:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7253834756293479682</id>
+    <title>ITZY &lt;KILL MY DOUBT&gt; CONCEPT CLIP 1https://youtu.be/zd5yhmOXnqE#ITZY #MIDZY#ITZYComeback#ITZY_KILLMYDOUBT#ITZY_CAKE</title>
+    <updated>2023-07-09T15:03:40+00:00</updated>
+    <content>ITZY &lt;KILL MY DOUBT&gt; CONCEPT CLIP 1https://youtu.be/zd5yhmOXnqE#ITZY #MIDZY#ITZYComeback#ITZY_KILLMYDOUBT#ITZY_CAKE</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7253834756293479682" rel="alternate"/>
+    <published>2023-07-09T15:03:40+00:00</published>
   </entry>
 </feed>
