@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@twice_tiktok_official</id>
   <title>@twice_tiktok_official | TikTok</title>
-  <updated>2023-07-03T04:50:07+00:00</updated>
+  <updated>2023-07-10T13:20:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @twice_tiktok_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_official/video/7250123340139007233</id>
-    <title>오늘의 포토제닉! 얼짱 감성 소녀 ⋈* #채영 Photogenic &amp; Delicate Unnie ⋈* #CHAEYOUNG #원스 #ONCE #트와이스 #TWICE  #원스4기 #ONCE_4TH_GENERATION</title>
-    <updated>2023-06-29T15:01:29+00:00</updated>
-    <content>오늘의 포토제닉! 얼짱 감성 소녀 ⋈* #채영 Photogenic &amp; Delicate Unnie ⋈* #CHAEYOUNG #원스 #ONCE #트와이스 #TWICE  #원스4기 #ONCE_4TH_GENERATION</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7250123340139007233" rel="alternate"/>
-    <published>2023-06-29T15:01:29+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_official/video/7250495296357158146</id>
     <title>마성의 매력! 오사카 소녀 ˶• ༝ •˶ #사나 Charming Osaka Girl ˶• ༝ •˶ #SANA #원스 #ONCE #트와이스 #TWICE  #원스4기 #ONCE_4TH_GENERATION</title>
@@ -51,5 +43,13 @@
     <content>pov: we are gonna sleep good tonight now after our READY TO BE show💖🍭 #TWICE #트와이스 #Basics #READYTOBE #TWICE_5TH_WORLD_TOUR</content>
     <link href="https://www.tiktok.com/@twice_tiktok_official/video/7251450131667537154" rel="alternate"/>
     <published>2023-07-03T04:50:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_official/video/7254120617195097345</id>
+    <title>#JEONGYEON becomes the professional recorder player🎺, plays for her biggest fans #NAYEON &amp; #MINA  #원스 #ONCE #트와이스 #TWICE #원스4기 #ONCE_4TH_GENERATION</title>
+    <updated>2023-07-10T13:20:00+00:00</updated>
+    <content>#JEONGYEON becomes the professional recorder player🎺, plays for her biggest fans #NAYEON &amp; #MINA  #원스 #ONCE #트와이스 #TWICE #원스4기 #ONCE_4TH_GENERATION</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7254120617195097345" rel="alternate"/>
+    <published>2023-07-10T13:20:00+00:00</published>
   </entry>
 </feed>
