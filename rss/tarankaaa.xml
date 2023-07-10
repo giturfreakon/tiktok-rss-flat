@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tarankaaa</id>
   <title>@tarankaaa | TikTok</title>
-  <updated>2023-07-10T12:12:18+00:00</updated>
+  <updated>2023-07-09T10:34:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,22 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tarankaaa</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7252296711564004609</id>
+    <title>[no title]</title>
+    <updated>2023-07-05T11:35:17+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7252296711564004609" rel="alternate"/>
+    <published>2023-07-05T11:35:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7252299667483020546</id>
+    <title>😐</title>
+    <updated>2023-07-05T11:46:45+00:00</updated>
+    <content>😐</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7252299667483020546" rel="alternate"/>
+    <published>2023-07-05T11:46:45+00:00</published>
+  </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7252678743309700353</id>
     <title>[no title]</title>
@@ -29,27 +45,11 @@
     <published>2023-07-07T12:04:11+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7253046600182861058</id>
-    <title>[no title]</title>
-    <updated>2023-07-07T12:05:13+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7253046600182861058" rel="alternate"/>
-    <published>2023-07-07T12:05:13+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7253765505301941506</id>
     <title>?</title>
     <updated>2023-07-09T10:34:58+00:00</updated>
     <content>?</content>
     <link href="https://www.tiktok.com/@tarankaaa/video/7253765505301941506" rel="alternate"/>
     <published>2023-07-09T10:34:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7254161675421519105</id>
-    <title>[no title]</title>
-    <updated>2023-07-10T12:12:18+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7254161675421519105" rel="alternate"/>
-    <published>2023-07-10T12:12:18+00:00</published>
   </entry>
 </feed>
