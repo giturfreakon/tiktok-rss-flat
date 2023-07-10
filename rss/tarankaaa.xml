@@ -13,6 +13,14 @@
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tarankaaa</subtitle>
   <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7252299667483020546</id>
+    <title>😐</title>
+    <updated>2023-07-05T11:46:45+00:00</updated>
+    <content>😐</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7252299667483020546" rel="alternate"/>
+    <published>2023-07-05T11:46:45+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7252678743309700353</id>
     <title>[no title]</title>
     <updated>2023-07-06T12:17:43+00:00</updated>
@@ -35,14 +43,6 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@tarankaaa/video/7253046600182861058" rel="alternate"/>
     <published>2023-07-07T12:05:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7253763246249872641</id>
-    <title>[no title]</title>
-    <updated>2023-07-09T10:26:13+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7253763246249872641" rel="alternate"/>
-    <published>2023-07-09T10:26:13+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7253765505301941506</id>
