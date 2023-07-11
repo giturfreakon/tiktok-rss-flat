@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-07-10T15:01:49+00:00</updated>
+  <updated>2023-07-11T15:00:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7243728600166354194</id>
-    <title>🌠🌠🌠🌠🌠  #ITZY #MIDZY  #특챌린지 #S_Class_Challenge #5_STAR #특 #S_Class #StrayKids #Stay </title>
-    <updated>2023-06-12T09:26:35+00:00</updated>
-    <content>🌠🌠🌠🌠🌠  #ITZY #MIDZY  #특챌린지 #S_Class_Challenge #5_STAR #특 #S_Class #StrayKids #Stay </content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7243728600166354194" rel="alternate"/>
-    <published>2023-06-12T09:26:35+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7246043815176441089</id>
     <title>ITZY &lt;KILL MY DOUBT&gt; https://youtu.be/FMbxuvqzI6Y ALBUM RELEASE 2023.07.31 MON 6PM (KST) | 5AM (EDT) #ITZY #MIDZY #ITZYComeback #ITZY_KILLMYDOUBT #ITZY_CAKE</title>
@@ -51,5 +43,13 @@
     <content>ITZY &lt;KILL MY DOUBT&gt; CONCEPT CLIP 2 https://youtu.be/ydhB2WIUeKY #ITZY #MIDZY #ITZYComeback #ITZY_KILLMYDOUBT #ITZY_CAKE </content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7254205371613515026" rel="alternate"/>
     <published>2023-07-10T15:01:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7254576184812440833</id>
+    <title>ITZY &lt;KILL MY DOUBT&gt; CONCEPT CLIP 3https://youtu.be/BOTeXpLDj80#ITZY #MIDZY#ITZYComeback#ITZY_KILLMYDOUBT#ITZY_CAKE</title>
+    <updated>2023-07-11T15:00:47+00:00</updated>
+    <content>ITZY &lt;KILL MY DOUBT&gt; CONCEPT CLIP 3https://youtu.be/BOTeXpLDj80#ITZY #MIDZY#ITZYComeback#ITZY_KILLMYDOUBT#ITZY_CAKE</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7254576184812440833" rel="alternate"/>
+    <published>2023-07-11T15:00:47+00:00</published>
   </entry>
 </feed>
