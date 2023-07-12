@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@twice_tiktok_official</id>
   <title>@twice_tiktok_official | TikTok</title>
-  <updated>2023-07-11T09:00:44+00:00</updated>
+  <updated>2023-07-12T13:20:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @twice_tiktok_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_official/video/7250495304565361922</id>
-    <title>˗ˋˏ 흥은 내가 최고! 에너자이저 흥-다현 ˎˊ˗ #다현 ˗ˋˏ I’m THE Energizer ˎˊ˗ #DAHYUN #원스 #ONCE #트와이스 #TWICE  #원스4기 #ONCE_4TH_GENERATION</title>
-    <updated>2023-06-30T15:04:54+00:00</updated>
-    <content>˗ˋˏ 흥은 내가 최고! 에너자이저 흥-다현 ˎˊ˗ #다현 ˗ˋˏ I’m THE Energizer ˎˊ˗ #DAHYUN #원스 #ONCE #트와이스 #TWICE  #원스4기 #ONCE_4TH_GENERATION</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7250495304565361922" rel="alternate"/>
-    <published>2023-06-30T15:04:54+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_official/video/7250495328997395713</id>
     <title>엉뚱 발랄 OO세대의 등장? ✧ #쯔위 Cheerful OO Generation? ✧ #TZUYU #원스 #ONCE #트와이스 #TWICE  #원스4기 #ONCE_4TH_GENERATION</title>
@@ -51,5 +43,13 @@
     <content>원스 항상 나의 곁에 있어줘 ♡ ONCE, always stay with TWICE ♡ #원스 #ONCE #트와이스 #TWICE  #원스4기 #ONCE_4TH_GENERATION</content>
     <link href="https://www.tiktok.com/@twice_tiktok_official/video/7254483399136529666" rel="alternate"/>
     <published>2023-07-11T09:00:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_official/video/7254921328900214018</id>
+    <title>Hit me one time baby 다시 한 번 ♬ #원스 #ONCE #트와이스 #TWICE  #원스4기 #ONCE_4TH_GENERATION</title>
+    <updated>2023-07-12T13:20:08+00:00</updated>
+    <content>Hit me one time baby 다시 한 번 ♬ #원스 #ONCE #트와이스 #TWICE  #원스4기 #ONCE_4TH_GENERATION</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7254921328900214018" rel="alternate"/>
+    <published>2023-07-12T13:20:08+00:00</published>
   </entry>
 </feed>
