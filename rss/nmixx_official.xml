@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nmixx_official</id>
   <title>@nmixx_official | TikTok</title>
-  <updated>2023-07-11T10:53:26+00:00</updated>
+  <updated>2023-07-12T01:40:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nmixx_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@nmixx_official/video/7252656586580167937</id>
-    <title>No way ☝️☝️ #NMIXX #엔믹스 #A_Midsummer_NMIXXs_Dream #Roller_Coaster #Party_O_Clock</title>
-    <updated>2023-07-06T10:51:46+00:00</updated>
-    <content>No way ☝️☝️ #NMIXX #엔믹스 #A_Midsummer_NMIXXs_Dream #Roller_Coaster #Party_O_Clock</content>
-    <link href="https://www.tiktok.com/@nmixx_official/video/7252656586580167937" rel="alternate"/>
-    <published>2023-07-06T10:51:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@nmixx_official/video/7253032278174010642</id>
-    <title>#DAY6 #데이식스 #성진 선배님🐻과 청룡열차 ride ride ride🐲🎢 #NMIXX #엔믹스 #해원 #HAEWON #A_Midsummer_NMIXXs_Dream #Roller_Coaster #Roller_Coaster_Challenge</title>
-    <updated>2023-07-07T11:09:36+00:00</updated>
-    <content>#DAY6 #데이식스 #성진 선배님🐻과 청룡열차 ride ride ride🐲🎢 #NMIXX #엔믹스 #해원 #HAEWON #A_Midsummer_NMIXXs_Dream #Roller_Coaster #Roller_Coaster_Challenge</content>
-    <link href="https://www.tiktok.com/@nmixx_official/video/7253032278174010642" rel="alternate"/>
-    <published>2023-07-07T11:09:36+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@nmixx_official/video/7254511808449432839</id>
     <title>Beep Beep LIL-gling LIL-gling🔔 #NMIXX #엔믹스 #릴리 #LILY #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</title>
@@ -51,5 +35,21 @@
     <content>베개 싸움 Party🛏️ Don’t Stop—! #NMIXX #엔믹스 #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</content>
     <link href="https://www.tiktok.com/@nmixx_official/video/7254512451314535698" rel="alternate"/>
     <published>2023-07-11T10:53:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@nmixx_official/video/7254740634903334151</id>
+    <title>아이! 엔써를 위해 파티하고 있었는데 믹치겠다😬 #NMIXX #엔믹스 #해원 #HAEWON #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </title>
+    <updated>2023-07-12T01:38:58+00:00</updated>
+    <content>아이! 엔써를 위해 파티하고 있었는데 믹치겠다😬 #NMIXX #엔믹스 #해원 #HAEWON #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </content>
+    <link href="https://www.tiktok.com/@nmixx_official/video/7254740634903334151" rel="alternate"/>
+    <published>2023-07-12T01:38:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@nmixx_official/video/7254741100810784007</id>
+    <title>지우와 파리 어?! 클락🤭🪩 #NMIXX #엔믹스 #지우 #JIWOO #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </title>
+    <updated>2023-07-12T01:40:59+00:00</updated>
+    <content>지우와 파리 어?! 클락🤭🪩 #NMIXX #엔믹스 #지우 #JIWOO #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </content>
+    <link href="https://www.tiktok.com/@nmixx_official/video/7254741100810784007" rel="alternate"/>
+    <published>2023-07-12T01:40:59+00:00</published>
   </entry>
 </feed>
