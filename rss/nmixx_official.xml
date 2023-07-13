@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nmixx_official</id>
   <title>@nmixx_official | TikTok</title>
-  <updated>2023-07-12T10:46:09+00:00</updated>
+  <updated>2023-07-12T20:24:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nmixx_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@nmixx_official/video/7254801498645744904</id>
-    <title>#비투비 #BTOB #서은광 #SEO_EUNKWANG 선배님과 함께 Party O'Clock😸🎙#NMIXX #엔믹스 #릴리 #LILY #규진 #KYUJIN #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </title>
-    <updated>2023-07-12T05:35:06+00:00</updated>
-    <content>#비투비 #BTOB #서은광 #SEO_EUNKWANG 선배님과 함께 Party O'Clock😸🎙#NMIXX #엔믹스 #릴리 #LILY #규진 #KYUJIN #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </content>
-    <link href="https://www.tiktok.com/@nmixx_official/video/7254801498645744904" rel="alternate"/>
-    <published>2023-07-12T05:35:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@nmixx_official/video/7254814059818749192</id>
-    <title>지금이 몇 시야!⏰ 완전 파티할 시간 아니야😤 #NMIXX #엔믹스 #해원 #HAEWON #지우 #JIWOO #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </title>
-    <updated>2023-07-12T06:23:51+00:00</updated>
-    <content>지금이 몇 시야!⏰ 완전 파티할 시간 아니야😤 #NMIXX #엔믹스 #해원 #HAEWON #지우 #JIWOO #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </content>
-    <link href="https://www.tiktok.com/@nmixx_official/video/7254814059818749192" rel="alternate"/>
-    <published>2023-07-12T06:23:51+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@nmixx_official/video/7254816954735660290</id>
     <title>#StrayKids #스트레이키즈 #현진 선배님과 함께 Party O'Clock👑🥟 #NMIXX #엔믹스 #규진 #KYUJIN #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</title>
@@ -51,5 +35,21 @@
     <content>It's 규진 TIME👀 따라할게 규진이가 원하는 Pose #NMIXX #Party_O_Clock #Party_O_Clock_Challenge #원더킬포챌린지 #1theKILLPOchallenge @1theK (원더케이) </content>
     <link href="https://www.tiktok.com/@nmixx_official/video/7254881657033854216" rel="alternate"/>
     <published>2023-07-12T10:46:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@nmixx_official/video/7255030263380462855</id>
+    <title>오늘 Party O'Clock 드레스 코드는 핑크로 하겠습니다💕 #NMIXX #엔믹스 #설윤 #SULLYOON #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </title>
+    <updated>2023-07-12T20:22:52+00:00</updated>
+    <content>오늘 Party O'Clock 드레스 코드는 핑크로 하겠습니다💕 #NMIXX #엔믹스 #설윤 #SULLYOON #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </content>
+    <link href="https://www.tiktok.com/@nmixx_official/video/7255030263380462855" rel="alternate"/>
+    <published>2023-07-12T20:22:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@nmixx_official/video/7255030679388343559</id>
+    <title>이번 정류장은 NSWER와 함께하는 Party O'Clock 입니다🚏 #NMIXX #엔믹스 #배이 #BAE #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </title>
+    <updated>2023-07-12T20:24:31+00:00</updated>
+    <content>이번 정류장은 NSWER와 함께하는 Party O'Clock 입니다🚏 #NMIXX #엔믹스 #배이 #BAE #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </content>
+    <link href="https://www.tiktok.com/@nmixx_official/video/7255030679388343559" rel="alternate"/>
+    <published>2023-07-12T20:24:31+00:00</published>
   </entry>
 </feed>
