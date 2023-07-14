@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nmixx_official</id>
   <title>@nmixx_official | TikTok</title>
-  <updated>2023-07-14T02:02:05+00:00</updated>
+  <updated>2023-07-14T12:01:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nmixx_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@nmixx_official/video/7255228239214316802</id>
-    <title>#기우쌤 과 함께✨ 땋은 머리처럼 팔목도 징글링 밍글링🐶 #NMIXX #엔믹스 #지우 #JIWOO #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</title>
-    <updated>2023-07-13T09:11:06+00:00</updated>
-    <content>#기우쌤 과 함께✨ 땋은 머리처럼 팔목도 징글링 밍글링🐶 #NMIXX #엔믹스 #지우 #JIWOO #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</content>
-    <link href="https://www.tiktok.com/@nmixx_official/video/7255228239214316802" rel="alternate"/>
-    <published>2023-07-13T09:11:06+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@nmixx_official/video/7255235080069598466</id>
     <title>#샤이니 #SHINee #키 #KEY 선배님과 HARD하게 Jingling-Mingling 멈추지 못했다지? 🐹🐰✨ #NMIXX #엔믹스 #설윤 #SULLYOON #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</title>
@@ -51,5 +43,13 @@
     <content>숲 속 뀨냥이와 Jingling-Mingling😻🍃 #NMIXX #엔믹스 #규진 #KYUJIN #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </content>
     <link href="https://www.tiktok.com/@nmixx_official/video/7255488768424135944" rel="alternate"/>
     <published>2023-07-14T02:02:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@nmixx_official/video/7255643231667391752</id>
+    <title>랄랄님이랑 Party O'Clock Challenge 해도 되나요? 그러세요 그럼👩‍🎤 #NMIXX #엔믹스 #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </title>
+    <updated>2023-07-14T12:01:26+00:00</updated>
+    <content>랄랄님이랑 Party O'Clock Challenge 해도 되나요? 그러세요 그럼👩‍🎤 #NMIXX #엔믹스 #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </content>
+    <link href="https://www.tiktok.com/@nmixx_official/video/7255643231667391752" rel="alternate"/>
+    <published>2023-07-14T12:01:26+00:00</published>
   </entry>
 </feed>
