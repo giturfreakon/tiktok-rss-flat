@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial_jp</id>
   <title>@itzyofficial_jp | TikTok</title>
-  <updated>2023-05-19T06:01:11+00:00</updated>
+  <updated>2023-07-15T04:01:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial_jp</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial_jp/video/7202454553772543233</id>
-    <title>ITZY THE 1ST WORLD TOUR &lt;CHECKMATE&gt; in JAPAN D-1 https://youtu.be/DpQJ0zrdmAk  #ITZY #MIDZY  #ITZY_WORLD_TOUR #ITZY_CHECKMATE</title>
-    <updated>2023-02-21T04:02:19+00:00</updated>
-    <content>ITZY THE 1ST WORLD TOUR &lt;CHECKMATE&gt; in JAPAN D-1 https://youtu.be/DpQJ0zrdmAk  #ITZY #MIDZY  #ITZY_WORLD_TOUR #ITZY_CHECKMATE</content>
-    <link href="https://www.tiktok.com/@itzyofficial_jp/video/7202454553772543233" rel="alternate"/>
-    <published>2023-02-21T04:02:19+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial_jp/video/7210262607977123073</id>
     <title>🍭Happy Whiteday❤✨ #ITZY #MIDZY #YEJI #LIA #RYUJIN #CHAERYEONG #YUNA </title>
@@ -51,5 +43,13 @@
     <content>I think that #MIDZY is the BEST👑 #ITZY #YEJI #LIA #RYUJIN #CHAERYEONG #YUNA</content>
     <link href="https://www.tiktok.com/@itzyofficial_jp/video/7234769612422876418" rel="alternate"/>
     <published>2023-05-19T06:01:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial_jp/video/7255890577533750530</id>
+    <title>Hey hey hey 🤚真夏は....I see that I'm icy!!!🔥❄ #ITZY #MIDZY #YEJI #イェジ #YUNA #ユナ#ICY #JYP_JAPAN_POPUP_STORE_2023</title>
+    <updated>2023-07-15T04:01:22+00:00</updated>
+    <content>Hey hey hey 🤚真夏は....I see that I'm icy!!!🔥❄ #ITZY #MIDZY #YEJI #イェジ #YUNA #ユナ#ICY #JYP_JAPAN_POPUP_STORE_2023</content>
+    <link href="https://www.tiktok.com/@itzyofficial_jp/video/7255890577533750530" rel="alternate"/>
+    <published>2023-07-15T04:01:22+00:00</published>
   </entry>
 </feed>
