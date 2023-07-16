@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nmixx_official</id>
   <title>@nmixx_official | TikTok</title>
-  <updated>2023-07-15T03:06:35+00:00</updated>
+  <updated>2023-07-15T11:22:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nmixx_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@nmixx_official/video/7255488768424135944</id>
-    <title>숲 속 뀨냥이와 Jingling-Mingling😻🍃 #NMIXX #엔믹스 #규진 #KYUJIN #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </title>
-    <updated>2023-07-14T02:02:05+00:00</updated>
-    <content>숲 속 뀨냥이와 Jingling-Mingling😻🍃 #NMIXX #엔믹스 #규진 #KYUJIN #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </content>
-    <link href="https://www.tiktok.com/@nmixx_official/video/7255488768424135944" rel="alternate"/>
-    <published>2023-07-14T02:02:05+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@nmixx_official/video/7255643231667391752</id>
     <title>랄랄님이랑 Party O'Clock Challenge 해도 되나요? 그러세요 그럼👩‍🎤 #NMIXX #엔믹스 #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </title>
@@ -51,5 +43,13 @@
     <content>가능한 Party O'Clock 챌린지 #코요태 #KOYOTE #김종민 #빽가 선배님과 같이해요! 가능~한?🍃 #NMIXX #엔믹스 #릴리 #LILY #규진 #KYUNIN #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </content>
     <link href="https://www.tiktok.com/@nmixx_official/video/7255876482042465544" rel="alternate"/>
     <published>2023-07-15T03:06:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@nmixx_official/video/7256004249614699794</id>
+    <title>충격💥본격 강아지가 냥냥펀치하는 영상🐶  #NMIXX #엔믹스 #지우 #JIWOO #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</title>
+    <updated>2023-07-15T11:22:23+00:00</updated>
+    <content>충격💥본격 강아지가 냥냥펀치하는 영상🐶  #NMIXX #엔믹스 #지우 #JIWOO #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</content>
+    <link href="https://www.tiktok.com/@nmixx_official/video/7256004249614699794" rel="alternate"/>
+    <published>2023-07-15T11:22:23+00:00</published>
   </entry>
 </feed>
