@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nmixx_official</id>
   <title>@nmixx_official | TikTok</title>
-  <updated>2023-07-17T01:36:39+00:00</updated>
+  <updated>2023-07-17T07:13:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nmixx_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@nmixx_official/video/7255876482042465544</id>
-    <title>가능한 Party O'Clock 챌린지 #코요태 #KOYOTE #김종민 #빽가 선배님과 같이해요! 가능~한?🍃 #NMIXX #엔믹스 #릴리 #LILY #규진 #KYUNIN #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </title>
-    <updated>2023-07-15T03:06:35+00:00</updated>
-    <content>가능한 Party O'Clock 챌린지 #코요태 #KOYOTE #김종민 #빽가 선배님과 같이해요! 가능~한?🍃 #NMIXX #엔믹스 #릴리 #LILY #규진 #KYUNIN #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </content>
-    <link href="https://www.tiktok.com/@nmixx_official/video/7255876482042465544" rel="alternate"/>
-    <published>2023-07-15T03:06:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@nmixx_official/video/7256004249614699794</id>
-    <title>충격💥본격 강아지가 냥냥펀치하는 영상🐶  #NMIXX #엔믹스 #지우 #JIWOO #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</title>
-    <updated>2023-07-15T11:22:23+00:00</updated>
-    <content>충격💥본격 강아지가 냥냥펀치하는 영상🐶  #NMIXX #엔믹스 #지우 #JIWOO #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</content>
-    <link href="https://www.tiktok.com/@nmixx_official/video/7256004249614699794" rel="alternate"/>
-    <published>2023-07-15T11:22:23+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@nmixx_official/video/7256360280492412168</id>
     <title>#NewJeans #뉴진스 #해린 님과 Super Cuty하게 냥글링🐱 밍글링🐾 #NMIXX  #엔믹스 #규진 #KYUJIN #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</title>
@@ -51,5 +35,21 @@
     <content>🐻‍❄️🐤: 이것은 단순한 헤드폰이 아닙니다🎧 🐨:🫢🎉 #NMIXX  #엔믹스 #릴리 #LILY #해원 #HAEWON  #배이 #BAE  #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</content>
     <link href="https://www.tiktok.com/@nmixx_official/video/7256595454002089217" rel="alternate"/>
     <published>2023-07-17T01:36:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@nmixx_official/video/7256678627662695687</id>
+    <title>#문희경 선배님과 함께 Party O'Clock 누려봐! #NMIXX #엔믹스 #릴리 #LILY #배이 #BAE  #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </title>
+    <updated>2023-07-17T06:59:20+00:00</updated>
+    <content>#문희경 선배님과 함께 Party O'Clock 누려봐! #NMIXX #엔믹스 #릴리 #LILY #배이 #BAE  #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </content>
+    <link href="https://www.tiktok.com/@nmixx_official/video/7256678627662695687" rel="alternate"/>
+    <published>2023-07-17T06:59:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@nmixx_official/video/7256682314959277314</id>
+    <title>#StrayKids #스트레이키즈 #리노 선배님과 징글링 밍글링 스텝 큼지막이 밟지🐱🐰🐾 #NMIXX #엔믹스 #설윤 #SULLYOON #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</title>
+    <updated>2023-07-17T07:13:42+00:00</updated>
+    <content>#StrayKids #스트레이키즈 #리노 선배님과 징글링 밍글링 스텝 큼지막이 밟지🐱🐰🐾 #NMIXX #엔믹스 #설윤 #SULLYOON #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</content>
+    <link href="https://www.tiktok.com/@nmixx_official/video/7256682314959277314" rel="alternate"/>
+    <published>2023-07-17T07:13:42+00:00</published>
   </entry>
 </feed>
