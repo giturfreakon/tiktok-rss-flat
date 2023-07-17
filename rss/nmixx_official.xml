@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nmixx_official</id>
   <title>@nmixx_official | TikTok</title>
-  <updated>2023-07-17T07:34:06+00:00</updated>
+  <updated>2023-07-17T13:02:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nmixx_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@nmixx_official/video/7256594813938584833</id>
-    <title>[단독] 릴개듀 한강에서 Party 개최, NSWER들 Come on over right now 하길 기다려••🪩  #NMIXX  #엔믹스 #릴리 #LILY #해원 #HAEWON  #배이 #BAE  #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</title>
-    <updated>2023-07-17T01:34:11+00:00</updated>
-    <content>[단독] 릴개듀 한강에서 Party 개최, NSWER들 Come on over right now 하길 기다려••🪩  #NMIXX  #엔믹스 #릴리 #LILY #해원 #HAEWON  #배이 #BAE  #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</content>
-    <link href="https://www.tiktok.com/@nmixx_official/video/7256594813938584833" rel="alternate"/>
-    <published>2023-07-17T01:34:11+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@nmixx_official/video/7256595454002089217</id>
     <title>🐻‍❄️🐤: 이것은 단순한 헤드폰이 아닙니다🎧 🐨:🫢🎉 #NMIXX  #엔믹스 #릴리 #LILY #해원 #HAEWON  #배이 #BAE  #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</title>
@@ -51,5 +43,13 @@
     <content>#ZEROBASEONE #제로베이스원 #김규빈 #한유진 님과 Party O'Clock이 피었습니다🌹 #NMIXX #엔믹스 #지우 #JIWOO #규진 #KYUJIN #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </content>
     <link href="https://www.tiktok.com/@nmixx_official/video/7256687594660957447" rel="alternate"/>
     <published>2023-07-17T07:34:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@nmixx_official/video/7256772170712386824</id>
+    <title>Marry Me...🧻💍 #NMIXX #엔믹스 #해원 #HAEWON #배이 #BAE  #A_Midsummer_NMIXXs_Dream #Party_O_Clock </title>
+    <updated>2023-07-17T13:02:19+00:00</updated>
+    <content>Marry Me...🧻💍 #NMIXX #엔믹스 #해원 #HAEWON #배이 #BAE  #A_Midsummer_NMIXXs_Dream #Party_O_Clock </content>
+    <link href="https://www.tiktok.com/@nmixx_official/video/7256772170712386824" rel="alternate"/>
+    <published>2023-07-17T13:02:19+00:00</published>
   </entry>
 </feed>
