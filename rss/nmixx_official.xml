@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nmixx_official</id>
   <title>@nmixx_official | TikTok</title>
-  <updated>2023-07-18T07:28:32+00:00</updated>
+  <updated>2023-07-18T08:04:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nmixx_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@nmixx_official/video/7257010789708565767</id>
-    <title>It's party time 별이 깨어나는 까만 여름밤 💫🌌 #NMIXX #엔믹스 #설윤 #SULLYOON #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </title>
-    <updated>2023-07-18T04:28:18+00:00</updated>
-    <content>It's party time 별이 깨어나는 까만 여름밤 💫🌌 #NMIXX #엔믹스 #설윤 #SULLYOON #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </content>
-    <link href="https://www.tiktok.com/@nmixx_official/video/7257010789708565767" rel="alternate"/>
-    <published>2023-07-18T04:28:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@nmixx_official/video/7257010797660884242</id>
-    <title>It's party time 별이 깨어나는 까만 여름밤 💫🌌 #NMIXX #엔믹스 #배이 #BAE #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </title>
-    <updated>2023-07-18T04:28:19+00:00</updated>
-    <content>It's party time 별이 깨어나는 까만 여름밤 💫🌌 #NMIXX #엔믹스 #배이 #BAE #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </content>
-    <link href="https://www.tiktok.com/@nmixx_official/video/7257010797660884242" rel="alternate"/>
-    <published>2023-07-18T04:28:19+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@nmixx_official/video/7257010818884128018</id>
     <title>It's party time 별이 깨어나는 까만 여름밤 💫🌌 #NMIXX #엔믹스 #지우 #JIWOO #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </title>
@@ -51,5 +35,21 @@
     <content>#TREASURE #트레저 #T5 #준규 #도영 선배님과 함께 Party하러 MOVE💎 #NMIXX #엔믹스 #해원 #HAEWON #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </content>
     <link href="https://www.tiktok.com/@nmixx_official/video/7257057238492155154" rel="alternate"/>
     <published>2023-07-18T07:28:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@nmixx_official/video/7257066009956224264</id>
+    <title>수업 끝났다🏫🎒 얘들아 Party O'Clock이다!🪩⏰ #NMIXX #엔믹스 #해원 #HAEWON #지우 #JIWOO #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </title>
+    <updated>2023-07-18T08:02:34+00:00</updated>
+    <content>수업 끝났다🏫🎒 얘들아 Party O'Clock이다!🪩⏰ #NMIXX #엔믹스 #해원 #HAEWON #지우 #JIWOO #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </content>
+    <link href="https://www.tiktok.com/@nmixx_official/video/7257066009956224264" rel="alternate"/>
+    <published>2023-07-18T08:02:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@nmixx_official/video/7257066527176805639</id>
+    <title>학교 끝나고 롤러코스터 타러 갈 NSWER~🎢💕 #NMIXX #엔믹스 #설윤 #SULLYOON #배이 #BAE #A_Midsummer_NMIXXs_Dream #Roller_Coaster #Roller_Coaster_Challenge </title>
+    <updated>2023-07-18T08:04:34+00:00</updated>
+    <content>학교 끝나고 롤러코스터 타러 갈 NSWER~🎢💕 #NMIXX #엔믹스 #설윤 #SULLYOON #배이 #BAE #A_Midsummer_NMIXXs_Dream #Roller_Coaster #Roller_Coaster_Challenge </content>
+    <link href="https://www.tiktok.com/@nmixx_official/video/7257066527176805639" rel="alternate"/>
+    <published>2023-07-18T08:04:34+00:00</published>
   </entry>
 </feed>
