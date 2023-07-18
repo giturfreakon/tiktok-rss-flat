@@ -12,7 +12,7 @@ githubPagesUrl = "https://giturfreakon.github.io/tiktok-rss-flat/"
 # Custom Domain
 # githubPagesUrl = "https://tiktokrss.uselesslesbians.gay/"
 
-maxItems = 5
+maxItems = 10
 subscriptionFileCount = 3
 
 
