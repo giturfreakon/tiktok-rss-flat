@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial_jp</id>
   <title>@itzyofficial_jp | TikTok</title>
-  <updated>2023-07-15T04:01:22+00:00</updated>
+  <updated>2023-07-19T04:01:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial_jp</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial_jp/video/7200984115972246785</id>
-    <title>ITZY THE 1ST WORLD TOUR &lt;CHECKMATE&gt; in JAPAN #LIA   D-5 https://youtu.be/ZsBvfY6uFJw   #ITZY #MIDZY  #ITZY_WORLD_TOUR #ITZY_CHECKMATE</title>
-    <updated>2023-02-17T05:00:04+00:00</updated>
-    <content>ITZY THE 1ST WORLD TOUR &lt;CHECKMATE&gt; in JAPAN #LIA   D-5 https://youtu.be/ZsBvfY6uFJw   #ITZY #MIDZY  #ITZY_WORLD_TOUR #ITZY_CHECKMATE</content>
-    <link href="https://www.tiktok.com/@itzyofficial_jp/video/7200984115972246785" rel="alternate"/>
-    <published>2023-02-17T05:00:04+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial_jp/video/7201339730540252418</id>
     <title>ITZY THE 1ST WORLD TOUR &lt;CHECKMATE&gt; in JAPAN #RYUJIN   D-4 https://youtu.be/8BQpz-iGFek   #ITZY #MIDZY  #ITZY_WORLD_TOUR #ITZY_CHECKMATE</title>
@@ -91,5 +83,13 @@
     <content>Hey hey hey 🤚真夏は....I see that I'm icy!!!🔥❄ #ITZY #MIDZY #YEJI #イェジ #YUNA #ユナ#ICY #JYP_JAPAN_POPUP_STORE_2023</content>
     <link href="https://www.tiktok.com/@itzyofficial_jp/video/7255890577533750530" rel="alternate"/>
     <published>2023-07-15T04:01:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial_jp/video/7257374982240472322</id>
+    <title>1,2,3! Ready, get, set, go Summer!!!!☀🌊 #ITZY #MIDZY #LIA #リア #RYUJIN #リュジン#CHAERYEONG #チェリョン #SNEAKERS #JYP_JAPAN_POPUP_STORE_2023</title>
+    <updated>2023-07-19T04:01:33+00:00</updated>
+    <content>1,2,3! Ready, get, set, go Summer!!!!☀🌊 #ITZY #MIDZY #LIA #リア #RYUJIN #リュジン#CHAERYEONG #チェリョン #SNEAKERS #JYP_JAPAN_POPUP_STORE_2023</content>
+    <link href="https://www.tiktok.com/@itzyofficial_jp/video/7257374982240472322" rel="alternate"/>
+    <published>2023-07-19T04:01:33+00:00</published>
   </entry>
 </feed>
