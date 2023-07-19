@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-07-11T02:49:01+00:00</updated>
+  <updated>2023-07-19T12:30:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7244480880809348354</id>
-    <title>aespa at Gov Ball NYC🗽🎸⚡️ #aespa #æspa #에스파 #govballnyc #aespaatGovBallNYC </title>
-    <updated>2023-06-14T10:05:51+00:00</updated>
-    <content>aespa at Gov Ball NYC🗽🎸⚡️ #aespa #æspa #에스파 #govballnyc #aespaatGovBallNYC </content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7244480880809348354" rel="alternate"/>
-    <published>2023-06-14T10:05:51+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7244881033185791233</id>
     <title>#SpicyChallenge 🔥 with #TAEYONG #태용   #스파이시챌린지 #aespa #æspa #에스파 #KARINA #카리나 #Spicy #aespa_Spicy #NCT #NCT127</title>
@@ -103,5 +95,13 @@
     <content>🦋🖤🤍 #aespa #æspa #에스파 #NINGNING #닝닝  #Versace #VersaceLaVacanza @Versace </content>
     <link href="https://www.tiktok.com/@aespa_official/video/7254387600293678338" rel="alternate"/>
     <published>2023-07-11T02:49:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7257506219957505281</id>
+    <title>💙아우디즈🌙  ‪#aespa‬ ‪#æspa‬ ‪#에스파‬ #KARINA #카리나 #GISELLE #지젤 </title>
+    <updated>2023-07-19T12:30:49+00:00</updated>
+    <content>💙아우디즈🌙  ‪#aespa‬ ‪#æspa‬ ‪#에스파‬ #KARINA #카리나 #GISELLE #지젤 </content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7257506219957505281" rel="alternate"/>
+    <published>2023-07-19T12:30:49+00:00</published>
   </entry>
 </feed>
