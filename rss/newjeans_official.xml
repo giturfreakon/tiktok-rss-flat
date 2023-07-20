@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@newjeans_official</id>
   <title>@newjeans_official | TikTok</title>
-  <updated>2023-07-17T09:28:11+00:00</updated>
+  <updated>2023-07-20T07:58:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @newjeans_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@newjeans_official/video/7253054120397966599</id>
-    <title>I'm Super Shy🤭Super Shy🍒🍋🥝 #NewJeans #뉴진스  #NewJeans_SuperShy #NewJeans_GetUp #Time_to_NewJeans</title>
-    <updated>2023-07-07T12:34:22+00:00</updated>
-    <content>I'm Super Shy🤭Super Shy🍒🍋🥝 #NewJeans #뉴진스  #NewJeans_SuperShy #NewJeans_GetUp #Time_to_NewJeans</content>
-    <link href="https://www.tiktok.com/@newjeans_official/video/7253054120397966599" rel="alternate"/>
-    <published>2023-07-07T12:34:22+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@newjeans_official/video/7253354437089955080</id>
     <title>NewJeans You &amp; me💚 #NewJeans #뉴진스  #NewJeans_NewJeans #NewJeans_GetUp #Time_to_NewJeans</title>
@@ -91,5 +83,13 @@
     <content>Super Close-up Shy🤭🍏🧃 #NewJeans #뉴진스  #NewJeans_SuperShy #NewJeans_GetUp #Time_to_NewJeans</content>
     <link href="https://www.tiktok.com/@newjeans_official/video/7256716991954685191" rel="alternate"/>
     <published>2023-07-17T09:28:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@newjeans_official/video/7257807258678086930</id>
+    <title>I REALLY DON'T KNOW 😼 #NewJeans #뉴진스 #NewJeans_ETA #NewJeans_GetUp #NewJeans_ASAP  #Time_to_NewJeans</title>
+    <updated>2023-07-20T07:58:59+00:00</updated>
+    <content>I REALLY DON'T KNOW 😼 #NewJeans #뉴진스 #NewJeans_ETA #NewJeans_GetUp #NewJeans_ASAP  #Time_to_NewJeans</content>
+    <link href="https://www.tiktok.com/@newjeans_official/video/7257807258678086930" rel="alternate"/>
+    <published>2023-07-20T07:58:59+00:00</published>
   </entry>
 </feed>
