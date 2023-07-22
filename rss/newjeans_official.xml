@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@newjeans_official</id>
   <title>@newjeans_official | TikTok</title>
-  <updated>2023-07-21T14:58:42+00:00</updated>
+  <updated>2023-07-21T12:10:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @newjeans_official</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@newjeans_official/video/7254838375268535559</id>
+    <title>It’s giving NEWJEANS😲 #NewJeans #뉴진스 #NewJeans_NewJeans #NewJeans_GetUp #Time_to_NewJeans</title>
+    <updated>2023-07-12T07:58:12+00:00</updated>
+    <content>It’s giving NEWJEANS😲 #NewJeans #뉴진스 #NewJeans_NewJeans #NewJeans_GetUp #Time_to_NewJeans</content>
+    <link href="https://www.tiktok.com/@newjeans_official/video/7254838375268535559" rel="alternate"/>
+    <published>2023-07-12T07:58:12+00:00</published>
+  </entry>
   <entry>
     <id>https://www.tiktok.com/@newjeans_official/video/7255277008710585607</id>
     <title>I wanna tell you but I'm Super Shy 🫣 #NewJeans #뉴진스 #NewJeans_SuperShy #NewJeans_GetUp #Time_to_NewJeans</title>
@@ -83,13 +91,5 @@
     <content>What’s your ETA, what’s your ETA ⚠️ #NewJeans #뉴진스  #NewJeans_ETA #NewJeans_GetUp #Time_to_NewJeans</content>
     <link href="https://www.tiktok.com/@newjeans_official/video/7258243212106534151" rel="alternate"/>
     <published>2023-07-21T12:10:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@newjeans_official/video/7258286483696585991</id>
-    <title>NewJeans Day🎂 버니즈 여러분! 뉴진스에게 데뷔 1주년 축하 메시지를 댓글로 남겨주세요.💟 비디오가 공개된 7월 22일 0시부터 24시간 동안 댓글 작성이 가능하며, 이후 영상은 비공개 처리되어 1년 뒤인 2024년 7월 22일에 다시 공개됩니다.🐰🕰 #NewJeans #뉴진스 #NewJeansDay #NewJeans_1st_Anniversary</title>
-    <updated>2023-07-21T14:58:42+00:00</updated>
-    <content>NewJeans Day🎂 버니즈 여러분! 뉴진스에게 데뷔 1주년 축하 메시지를 댓글로 남겨주세요.💟 비디오가 공개된 7월 22일 0시부터 24시간 동안 댓글 작성이 가능하며, 이후 영상은 비공개 처리되어 1년 뒤인 2024년 7월 22일에 다시 공개됩니다.🐰🕰 #NewJeans #뉴진스 #NewJeansDay #NewJeans_1st_Anniversary</content>
-    <link href="https://www.tiktok.com/@newjeans_official/video/7258286483696585991" rel="alternate"/>
-    <published>2023-07-21T14:58:42+00:00</published>
   </entry>
 </feed>
