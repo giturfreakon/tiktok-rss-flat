@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-07-23T15:07:17+00:00</updated>
+  <updated>2023-07-23T15:09:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7256432056069098754</id>
-    <title>ITZY &lt;KILL MY DOUBT&gt; Album Spoiler https://youtu.be/pBvJT6AQpGM  🥊 ALBUM RELEASE 2023.07.31 MON 6PM (KST) | 5AM (EDT)  #ITZY #MIDZY#ITZYComeback#ITZY_KILLMYDOUBT#ITZY_CAKE</title>
-    <updated>2023-07-16T15:02:31+00:00</updated>
-    <content>ITZY &lt;KILL MY DOUBT&gt; Album Spoiler https://youtu.be/pBvJT6AQpGM  🥊 ALBUM RELEASE 2023.07.31 MON 6PM (KST) | 5AM (EDT)  #ITZY #MIDZY#ITZYComeback#ITZY_KILLMYDOUBT#ITZY_CAKE</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7256432056069098754" rel="alternate"/>
-    <published>2023-07-16T15:02:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7256957403411959042</id>
-    <title>Let’s Run Run Run with ITZY🏃‍ 🎉Thank you MIDZY for 10M VIEWS🎉 #ITZY #MIDZY#ITZY_KILLMYDOUBT#ITZY_BETONME#BetReadyWithMe#BetReadyWithITZY</title>
-    <updated>2023-07-18T01:01:17+00:00</updated>
-    <content>Let’s Run Run Run with ITZY🏃‍ 🎉Thank you MIDZY for 10M VIEWS🎉 #ITZY #MIDZY#ITZY_KILLMYDOUBT#ITZY_BETONME#BetReadyWithMe#BetReadyWithITZY</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7256957403411959042" rel="alternate"/>
-    <published>2023-07-18T01:01:17+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7256958731546561793</id>
     <title>BET ON #YEJI 💝 🎉Thank you MIDZY for 10M VIEWS🎉 #ITZY #MIDZY#ITZY_KILLMYDOUBT#ITZY_BETONME</title>
@@ -91,5 +75,21 @@
     <content>ITZY "None of My Business" #RYUJIN #류진  #ITZY #있지 #ITZY_KILLMYDOUBT #ITZY_NoneofMyBusiness</content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7259030881967312129" rel="alternate"/>
     <published>2023-07-23T15:07:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7259031079128943873</id>
+    <title>ITZY "None of My Business" #CHAERYEONG #채령  #ITZY #있지 #ITZY_KILLMYDOUBT #ITZY_NoneofMyBusiness</title>
+    <updated>2023-07-23T15:08:04+00:00</updated>
+    <content>ITZY "None of My Business" #CHAERYEONG #채령  #ITZY #있지 #ITZY_KILLMYDOUBT #ITZY_NoneofMyBusiness</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7259031079128943873" rel="alternate"/>
+    <published>2023-07-23T15:08:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7259031552145902850</id>
+    <title>ITZY "None of My Business" #YUNA #유나  #ITZY #있지 #ITZY_KILLMYDOUBT #ITZY_NoneofMyBusiness</title>
+    <updated>2023-07-23T15:09:54+00:00</updated>
+    <content>ITZY "None of My Business" #YUNA #유나  #ITZY #있지 #ITZY_KILLMYDOUBT #ITZY_NoneofMyBusiness</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7259031552145902850" rel="alternate"/>
+    <published>2023-07-23T15:09:54+00:00</published>
   </entry>
 </feed>
