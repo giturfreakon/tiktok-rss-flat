@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-07-23T15:09:54+00:00</updated>
+  <updated>2023-07-24T15:05:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7256958731546561793</id>
-    <title>BET ON #YEJI 💝 🎉Thank you MIDZY for 10M VIEWS🎉 #ITZY #MIDZY#ITZY_KILLMYDOUBT#ITZY_BETONME</title>
-    <updated>2023-07-18T01:06:24+00:00</updated>
-    <content>BET ON #YEJI 💝 🎉Thank you MIDZY for 10M VIEWS🎉 #ITZY #MIDZY#ITZY_KILLMYDOUBT#ITZY_BETONME</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7256958731546561793" rel="alternate"/>
-    <published>2023-07-18T01:06:24+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7256959315964120321</id>
     <title>BET ON #LIA 💝 🎉Thank you MIDZY for 10M VIEWS🎉 #ITZY #MIDZY#ITZY_KILLMYDOUBT#ITZY_BETONME</title>
@@ -91,5 +83,13 @@
     <content>ITZY "None of My Business" #YUNA #유나  #ITZY #있지 #ITZY_KILLMYDOUBT #ITZY_NoneofMyBusiness</content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7259031552145902850" rel="alternate"/>
     <published>2023-07-23T15:09:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7259401548877319431</id>
+    <title>ITZY "None of My Business" #YEJI #예지 #YUNA #유나 #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE #ITZY_NOMB #ITZY_NoneofMyBusiness</title>
+    <updated>2023-07-24T15:05:42+00:00</updated>
+    <content>ITZY "None of My Business" #YEJI #예지 #YUNA #유나 #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE #ITZY_NOMB #ITZY_NoneofMyBusiness</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7259401548877319431" rel="alternate"/>
+    <published>2023-07-24T15:05:42+00:00</published>
   </entry>
 </feed>
