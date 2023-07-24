@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tarankaaa</id>
   <title>@tarankaaa | TikTok</title>
-  <updated>2023-07-23T12:13:01+00:00</updated>
+  <updated>2023-07-24T13:46:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tarankaaa</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7255274587640876290</id>
-    <title>guys i dont know how to thank you all for our first live stream 🥲 i feel so happy and grateful to you all!! Special thanks to all those who sent cute gifts thank you guys 😭🤍</title>
-    <updated>2023-07-13T12:10:57+00:00</updated>
-    <content>guys i dont know how to thank you all for our first live stream 🥲 i feel so happy and grateful to you all!! Special thanks to all those who sent cute gifts thank you guys 😭🤍</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7255274587640876290" rel="alternate"/>
-    <published>2023-07-13T12:10:57+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7255707198934863105</id>
     <title>😭😭😭</title>
@@ -91,5 +83,13 @@
     <content>#iphonecamera </content>
     <link href="https://www.tiktok.com/@tarankaaa/video/7258985969293085954" rel="alternate"/>
     <published>2023-07-23T12:13:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7259381206276525313</id>
+    <title>These  filters …</title>
+    <updated>2023-07-24T13:46:47+00:00</updated>
+    <content>These  filters …</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7259381206276525313" rel="alternate"/>
+    <published>2023-07-24T13:46:47+00:00</published>
   </entry>
 </feed>
