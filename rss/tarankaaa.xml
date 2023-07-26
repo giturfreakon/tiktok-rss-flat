@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tarankaaa</id>
   <title>@tarankaaa | TikTok</title>
-  <updated>2023-07-26T09:46:07+00:00</updated>
+  <updated>2023-07-26T10:51:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tarankaaa</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7256415034526469377</id>
-    <title>#늙음필터  no way </title>
-    <updated>2023-07-16T13:56:28+00:00</updated>
-    <content>#늙음필터  no way </content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7256415034526469377" rel="alternate"/>
-    <published>2023-07-16T13:56:28+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7256416059870285058</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@tarankaaa/video/7260061374951279874" rel="alternate"/>
     <published>2023-07-26T09:46:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7260078149298425089</id>
+    <title>[no title]</title>
+    <updated>2023-07-26T10:51:12+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7260078149298425089" rel="alternate"/>
+    <published>2023-07-26T10:51:12+00:00</published>
   </entry>
 </feed>
