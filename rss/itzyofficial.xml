@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-07-26T15:02:35+00:00</updated>
+  <updated>2023-07-27T15:01:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7259030340998565121</id>
-    <title>ITZY "None of My Business" #YEJI #예지  #ITZY #있지 #ITZY_KILLMYDOUBT #ITZY_NoneofMyBusiness</title>
-    <updated>2023-07-23T15:05:12+00:00</updated>
-    <content>ITZY "None of My Business" #YEJI #예지  #ITZY #있지 #ITZY_KILLMYDOUBT #ITZY_NoneofMyBusiness</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7259030340998565121" rel="alternate"/>
-    <published>2023-07-23T15:05:12+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7259030603385834754</id>
     <title>ITZY "None of My Business" #LIA #리아  #ITZY #있지 #ITZY_KILLMYDOUBT #ITZY_NoneofMyBusiness</title>
@@ -91,5 +83,13 @@
     <content>📷 Selfie Behind #ITZY #있지  #ITZY_KILLMYDOUBT  #ITZY_NOMB #ITZY_NoneofMyBusiness</content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7260142923382148370" rel="alternate"/>
     <published>2023-07-26T15:02:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7260513809754836225</id>
+    <title>ITZY "CAKE" M/V Teaser 2 🎬 https://youtu.be/H9OdyC87Bb0 🥊 ALBUM RELEASE  2023.07.31 MON 6PM (KST) | 5AM (EDT) #ITZY #MIDZY #ITZYComeback #ITZY_KILLMYDOUBT #ITZY_CAKE </title>
+    <updated>2023-07-27T15:01:50+00:00</updated>
+    <content>ITZY "CAKE" M/V Teaser 2 🎬 https://youtu.be/H9OdyC87Bb0 🥊 ALBUM RELEASE  2023.07.31 MON 6PM (KST) | 5AM (EDT) #ITZY #MIDZY #ITZYComeback #ITZY_KILLMYDOUBT #ITZY_CAKE </content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7260513809754836225" rel="alternate"/>
+    <published>2023-07-27T15:01:50+00:00</published>
   </entry>
 </feed>
