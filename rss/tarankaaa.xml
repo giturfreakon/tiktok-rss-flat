@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tarankaaa</id>
   <title>@tarankaaa | TikTok</title>
-  <updated>2023-07-26T13:09:46+00:00</updated>
+  <updated>2023-07-27T13:59:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tarankaaa</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7258568553828207873</id>
-    <title>[no title]</title>
-    <updated>2023-07-22T09:13:13+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7258568553828207873" rel="alternate"/>
-    <published>2023-07-22T09:13:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7258616299079683329</id>
-    <title>😙</title>
-    <updated>2023-07-22T12:18:30+00:00</updated>
-    <content>😙</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7258616299079683329" rel="alternate"/>
-    <published>2023-07-22T12:18:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7258985969293085954</id>
-    <title>#iphonecamera </title>
-    <updated>2023-07-23T12:13:01+00:00</updated>
-    <content>#iphonecamera </content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7258985969293085954" rel="alternate"/>
-    <published>2023-07-23T12:13:01+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7259381206276525313</id>
     <title>These  filters …</title>
@@ -91,5 +67,29 @@
     <content>#강해보이는얼굴 😭😭😭😭😭😭😭😭</content>
     <link href="https://www.tiktok.com/@tarankaaa/video/7260113850308103426" rel="alternate"/>
     <published>2023-07-26T13:09:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7260493865931541762</id>
+    <title>[no title]</title>
+    <updated>2023-07-27T13:44:25+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7260493865931541762" rel="alternate"/>
+    <published>2023-07-27T13:44:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7260494060018765057</id>
+    <title>#절친슐렉 i love this song </title>
+    <updated>2023-07-27T13:45:11+00:00</updated>
+    <content>#절친슐렉 i love this song </content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7260494060018765057" rel="alternate"/>
+    <published>2023-07-27T13:45:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7260497737769176322</id>
+    <title>[no title]</title>
+    <updated>2023-07-27T13:59:28+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7260497737769176322" rel="alternate"/>
+    <published>2023-07-27T13:59:28+00:00</published>
   </entry>
 </feed>
