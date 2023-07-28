@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@newjeans_official</id>
   <title>@newjeans_official | TikTok</title>
-  <updated>2023-07-27T08:58:57+00:00</updated>
+  <updated>2023-07-28T02:58:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @newjeans_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@newjeans_official/video/7258922943676189970</id>
-    <title>𝓨𝓸𝓾 𝓶𝓪𝔂 𝓫𝓮   𝓞𝓷 𝓶𝔂 𝓶𝓲𝓷𝓭.𖥔 ݁ ˖  #NewJeans #뉴진스 #NewJeans_CoolWithYou #NewJeans_GetUp #Time_to_NewJeans</title>
-    <updated>2023-07-23T08:08:32+00:00</updated>
-    <content>𝓨𝓸𝓾 𝓶𝓪𝔂 𝓫𝓮   𝓞𝓷 𝓶𝔂 𝓶𝓲𝓷𝓭.𖥔 ݁ ˖  #NewJeans #뉴진스 #NewJeans_CoolWithYou #NewJeans_GetUp #Time_to_NewJeans</content>
-    <link href="https://www.tiktok.com/@newjeans_official/video/7258922943676189970" rel="alternate"/>
-    <published>2023-07-23T08:08:32+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@newjeans_official/video/7258923214842236167</id>
     <title>Need a boy on my arm εꨄ︎з Want a boy on my arm 🖤 #NewJeans #뉴진스 #NewJeans_ETA #NewJeans_GetUp #Time_to_NewJeans</title>
@@ -91,5 +83,13 @@
     <content>NEW HAIR NEW TEE NEWJEANS YOU AND ME #NewJeans #뉴진스 #NewJeans_NewJeans #NewJeans_GetUp #Time_to_NewJeans</content>
     <link href="https://www.tiktok.com/@newjeans_official/video/7260420289413123329" rel="alternate"/>
     <published>2023-07-27T08:58:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@newjeans_official/video/7260698565557718274</id>
+    <title>외쳐 ETA 💙 #NewJeans #뉴진스  #NewJeans_ETA #NewJeans_GetUp #Time_to_NewJeans</title>
+    <updated>2023-07-28T02:58:50+00:00</updated>
+    <content>외쳐 ETA 💙 #NewJeans #뉴진스  #NewJeans_ETA #NewJeans_GetUp #Time_to_NewJeans</content>
+    <link href="https://www.tiktok.com/@newjeans_official/video/7260698565557718274" rel="alternate"/>
+    <published>2023-07-28T02:58:50+00:00</published>
   </entry>
 </feed>
