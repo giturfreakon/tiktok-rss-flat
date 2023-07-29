@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-07-29T09:05:49+00:00</updated>
+  <updated>2023-07-29T09:09:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7259031552145902850</id>
-    <title>ITZY "None of My Business" #YUNA #유나  #ITZY #있지 #ITZY_KILLMYDOUBT #ITZY_NoneofMyBusiness</title>
-    <updated>2023-07-23T15:09:54+00:00</updated>
-    <content>ITZY "None of My Business" #YUNA #유나  #ITZY #있지 #ITZY_KILLMYDOUBT #ITZY_NoneofMyBusiness</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7259031552145902850" rel="alternate"/>
-    <published>2023-07-23T15:09:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7259401548877319431</id>
-    <title>ITZY "None of My Business" #YEJI #예지 #YUNA #유나 #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE #ITZY_NOMB #ITZY_NoneofMyBusiness</title>
-    <updated>2023-07-24T15:05:42+00:00</updated>
-    <content>ITZY "None of My Business" #YEJI #예지 #YUNA #유나 #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE #ITZY_NOMB #ITZY_NoneofMyBusiness</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7259401548877319431" rel="alternate"/>
-    <published>2023-07-24T15:05:42+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7259402110171663623</id>
     <title>ITZY "None of My Business"  #LIA #리아 #RYUJIN #류진 #CHAERYEONG #채령 #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE #ITZY_NOMB #ITZY_NoneofMyBusiness</title>
@@ -91,5 +75,21 @@
     <content>🎬BOXING the Scene🎬 #류진 #RYUJIN #ITZY #있지  #ITZY_KILLMYDOUBT #BOXING_the_Scene</content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7261164241485450504" rel="alternate"/>
     <published>2023-07-29T09:05:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7261164822694300936</id>
+    <title>🎬BOXING the Scene🎬 #리아 #LIA #ITZY #있지  #ITZY_KILLMYDOUBT #BOXING_the_Scene</title>
+    <updated>2023-07-29T09:08:03+00:00</updated>
+    <content>🎬BOXING the Scene🎬 #리아 #LIA #ITZY #있지  #ITZY_KILLMYDOUBT #BOXING_the_Scene</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7261164822694300936" rel="alternate"/>
+    <published>2023-07-29T09:08:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7261165168699182344</id>
+    <title>🎬BOXING the Scene🎬 #예지 #YEJI #ITZY #있지  #ITZY_KILLMYDOUBT #BOXING_the_Scene</title>
+    <updated>2023-07-29T09:09:25+00:00</updated>
+    <content>🎬BOXING the Scene🎬 #예지 #YEJI #ITZY #있지  #ITZY_KILLMYDOUBT #BOXING_the_Scene</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7261165168699182344" rel="alternate"/>
+    <published>2023-07-29T09:09:25+00:00</published>
   </entry>
 </feed>
