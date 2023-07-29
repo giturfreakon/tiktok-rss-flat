@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-07-27T15:01:50+00:00</updated>
+  <updated>2023-07-29T09:05:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7259030603385834754</id>
-    <title>ITZY "None of My Business" #LIA #리아  #ITZY #있지 #ITZY_KILLMYDOUBT #ITZY_NoneofMyBusiness</title>
-    <updated>2023-07-23T15:06:12+00:00</updated>
-    <content>ITZY "None of My Business" #LIA #리아  #ITZY #있지 #ITZY_KILLMYDOUBT #ITZY_NoneofMyBusiness</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7259030603385834754" rel="alternate"/>
-    <published>2023-07-23T15:06:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7259030881967312129</id>
-    <title>ITZY "None of My Business" #RYUJIN #류진  #ITZY #있지 #ITZY_KILLMYDOUBT #ITZY_NoneofMyBusiness</title>
-    <updated>2023-07-23T15:07:17+00:00</updated>
-    <content>ITZY "None of My Business" #RYUJIN #류진  #ITZY #있지 #ITZY_KILLMYDOUBT #ITZY_NoneofMyBusiness</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7259030881967312129" rel="alternate"/>
-    <published>2023-07-23T15:07:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7259031079128943873</id>
-    <title>ITZY "None of My Business" #CHAERYEONG #채령  #ITZY #있지 #ITZY_KILLMYDOUBT #ITZY_NoneofMyBusiness</title>
-    <updated>2023-07-23T15:08:04+00:00</updated>
-    <content>ITZY "None of My Business" #CHAERYEONG #채령  #ITZY #있지 #ITZY_KILLMYDOUBT #ITZY_NoneofMyBusiness</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7259031079128943873" rel="alternate"/>
-    <published>2023-07-23T15:08:04+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7259031552145902850</id>
     <title>ITZY "None of My Business" #YUNA #유나  #ITZY #있지 #ITZY_KILLMYDOUBT #ITZY_NoneofMyBusiness</title>
@@ -91,5 +67,29 @@
     <content>ITZY "CAKE" M/V Teaser 2 🎬 https://youtu.be/H9OdyC87Bb0 🥊 ALBUM RELEASE  2023.07.31 MON 6PM (KST) | 5AM (EDT) #ITZY #MIDZY #ITZYComeback #ITZY_KILLMYDOUBT #ITZY_CAKE </content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7260513809754836225" rel="alternate"/>
     <published>2023-07-27T15:01:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7261163060658769159</id>
+    <title>🎬BOXING the Scene🎬 #유나 #YUNA #ITZY #있지  #ITZY_KILLMYDOUBT #BOXING_the_Scene</title>
+    <updated>2023-07-29T09:01:14+00:00</updated>
+    <content>🎬BOXING the Scene🎬 #유나 #YUNA #ITZY #있지  #ITZY_KILLMYDOUBT #BOXING_the_Scene</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7261163060658769159" rel="alternate"/>
+    <published>2023-07-29T09:01:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7261163497730428168</id>
+    <title>🎬BOXING the Scene🎬 #채령 #CHAERYEONG #ITZY #있지  #ITZY_KILLMYDOUBT #BOXING_the_Scene</title>
+    <updated>2023-07-29T09:02:55+00:00</updated>
+    <content>🎬BOXING the Scene🎬 #채령 #CHAERYEONG #ITZY #있지  #ITZY_KILLMYDOUBT #BOXING_the_Scene</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7261163497730428168" rel="alternate"/>
+    <published>2023-07-29T09:02:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7261164241485450504</id>
+    <title>🎬BOXING the Scene🎬 #류진 #RYUJIN #ITZY #있지  #ITZY_KILLMYDOUBT #BOXING_the_Scene</title>
+    <updated>2023-07-29T09:05:49+00:00</updated>
+    <content>🎬BOXING the Scene🎬 #류진 #RYUJIN #ITZY #있지  #ITZY_KILLMYDOUBT #BOXING_the_Scene</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7261164241485450504" rel="alternate"/>
+    <published>2023-07-29T09:05:49+00:00</published>
   </entry>
 </feed>
