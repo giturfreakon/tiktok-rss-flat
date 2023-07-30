@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-07-19T12:30:49+00:00</updated>
+  <updated>2023-07-30T15:03:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7244881033185791233</id>
-    <title>#SpicyChallenge 🔥 with #TAEYONG #태용   #스파이시챌린지 #aespa #æspa #에스파 #KARINA #카리나 #Spicy #aespa_Spicy #NCT #NCT127</title>
-    <updated>2023-06-15T11:58:39+00:00</updated>
-    <content>#SpicyChallenge 🔥 with #TAEYONG #태용   #스파이시챌린지 #aespa #æspa #에스파 #KARINA #카리나 #Spicy #aespa_Spicy #NCT #NCT127</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7244881033185791233" rel="alternate"/>
-    <published>2023-06-15T11:58:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7245623259188743425</id>
-    <title>Run Run Run Kitty Kitty Run Run 🐈‍⬛ with #TAEYONG   #aespa #æspa #에스파 #KARINA #카리나 #MYWORLD #aespa_MYWORLD #SaltyandSweet #aespa_SaltyandSweet #태용 #NCT #NCT127</title>
-    <updated>2023-06-17T11:58:52+00:00</updated>
-    <content>Run Run Run Kitty Kitty Run Run 🐈‍⬛ with #TAEYONG   #aespa #æspa #에스파 #KARINA #카리나 #MYWORLD #aespa_MYWORLD #SaltyandSweet #aespa_SaltyandSweet #태용 #NCT #NCT127</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7245623259188743425" rel="alternate"/>
-    <published>2023-06-17T11:58:52+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7247357706250538242</id>
     <title>Calling out to US MYs! The 3rd Mini Album 'MY WORLD' US release COUNTDOWN D-9! ❤Pre-order OFFICIAL ‘Poster Version' on the official aespa US website to get your favorite copy! #aespa #æspa #에스파 #MYWORLD #aespa_MYWORLD</title>
@@ -103,5 +87,21 @@
     <content>💙아우디즈🌙  ‪#aespa‬ ‪#æspa‬ ‪#에스파‬ #KARINA #카리나 #GISELLE #지젤 </content>
     <link href="https://www.tiktok.com/@aespa_official/video/7257506219957505281" rel="alternate"/>
     <published>2023-07-19T12:30:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7261627236963405063</id>
+    <title>🐠 ➫ 2023.08.18 0AM (KST) / 0AM (PDT) / 0AM (EST) *Releasing at your local time midnight #aespa #æspa #에스파 #BetterThings #aespaBetterThings #PopMusic #SongOfTheSummer</title>
+    <updated>2023-07-30T15:02:28+00:00</updated>
+    <content>🐠 ➫ 2023.08.18 0AM (KST) / 0AM (PDT) / 0AM (EST) *Releasing at your local time midnight #aespa #æspa #에스파 #BetterThings #aespaBetterThings #PopMusic #SongOfTheSummer</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7261627236963405063" rel="alternate"/>
+    <published>2023-07-30T15:02:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7261627575326248200</id>
+    <title>Coming s⏰🩵n ➫ 2023.08.18 0AM (KST) / 0AM (PDT) / 0AM (EST) *Releasing at your local time midnight #aespa #æspa #에스파 #BetterThings #aespaBetterThings #PopMusic #SongOfTheSummer</title>
+    <updated>2023-07-30T15:03:46+00:00</updated>
+    <content>Coming s⏰🩵n ➫ 2023.08.18 0AM (KST) / 0AM (PDT) / 0AM (EST) *Releasing at your local time midnight #aespa #æspa #에스파 #BetterThings #aespaBetterThings #PopMusic #SongOfTheSummer</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7261627575326248200" rel="alternate"/>
+    <published>2023-07-30T15:03:46+00:00</published>
   </entry>
 </feed>
