@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-07-30T09:07:48+00:00</updated>
+  <updated>2023-07-30T09:15:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,46 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7261163060658769159</id>
-    <title>🎬BOXING the Scene🎬 #유나 #YUNA #ITZY #있지  #ITZY_KILLMYDOUBT #BOXING_the_Scene</title>
-    <updated>2023-07-29T09:01:14+00:00</updated>
-    <content>🎬BOXING the Scene🎬 #유나 #YUNA #ITZY #있지  #ITZY_KILLMYDOUBT #BOXING_the_Scene</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7261163060658769159" rel="alternate"/>
-    <published>2023-07-29T09:01:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7261163497730428168</id>
-    <title>🎬BOXING the Scene🎬 #채령 #CHAERYEONG #ITZY #있지  #ITZY_KILLMYDOUBT #BOXING_the_Scene</title>
-    <updated>2023-07-29T09:02:55+00:00</updated>
-    <content>🎬BOXING the Scene🎬 #채령 #CHAERYEONG #ITZY #있지  #ITZY_KILLMYDOUBT #BOXING_the_Scene</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7261163497730428168" rel="alternate"/>
-    <published>2023-07-29T09:02:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7261164241485450504</id>
-    <title>🎬BOXING the Scene🎬 #류진 #RYUJIN #ITZY #있지  #ITZY_KILLMYDOUBT #BOXING_the_Scene</title>
-    <updated>2023-07-29T09:05:49+00:00</updated>
-    <content>🎬BOXING the Scene🎬 #류진 #RYUJIN #ITZY #있지  #ITZY_KILLMYDOUBT #BOXING_the_Scene</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7261164241485450504" rel="alternate"/>
-    <published>2023-07-29T09:05:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7261164822694300936</id>
-    <title>🎬BOXING the Scene🎬 #리아 #LIA #ITZY #있지  #ITZY_KILLMYDOUBT #BOXING_the_Scene</title>
-    <updated>2023-07-29T09:08:03+00:00</updated>
-    <content>🎬BOXING the Scene🎬 #리아 #LIA #ITZY #있지  #ITZY_KILLMYDOUBT #BOXING_the_Scene</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7261164822694300936" rel="alternate"/>
-    <published>2023-07-29T09:08:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7261165168699182344</id>
-    <title>🎬BOXING the Scene🎬 #예지 #YEJI #ITZY #있지  #ITZY_KILLMYDOUBT #BOXING_the_Scene</title>
-    <updated>2023-07-29T09:09:25+00:00</updated>
-    <content>🎬BOXING the Scene🎬 #예지 #YEJI #ITZY #있지  #ITZY_KILLMYDOUBT #BOXING_the_Scene</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7261165168699182344" rel="alternate"/>
-    <published>2023-07-29T09:09:25+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7261533892795043073</id>
     <title>🥊Title Match🥊 #RYUJIN vs #YEJI #ITZY #있지 #예지 #류진  #ITZY_KILLMYDOUBT #Title_Match </title>
@@ -91,5 +51,45 @@
     <content>🥊Title Match🥊 #LIA vs #YEJI #ITZY #있지 #예지 #리아  #ITZY_KILLMYDOUBT #Title_Match </content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7261535835449740546" rel="alternate"/>
     <published>2023-07-30T09:07:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7261536172382440705</id>
+    <title>🥊Title Match🥊 #CHAERYEONG vs #YEJI #ITZY #있지 #예지 #채령  #ITZY_KILLMYDOUBT #Title_Match </title>
+    <updated>2023-07-30T09:09:07+00:00</updated>
+    <content>🥊Title Match🥊 #CHAERYEONG vs #YEJI #ITZY #있지 #예지 #채령  #ITZY_KILLMYDOUBT #Title_Match </content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7261536172382440705" rel="alternate"/>
+    <published>2023-07-30T09:09:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7261536446249520386</id>
+    <title>🥊Title Match🥊 #RYUJIN vs #YUNA #ITZY #있지 #류진 #유나  #ITZY_KILLMYDOUBT #Title_Match </title>
+    <updated>2023-07-30T09:10:12+00:00</updated>
+    <content>🥊Title Match🥊 #RYUJIN vs #YUNA #ITZY #있지 #류진 #유나  #ITZY_KILLMYDOUBT #Title_Match </content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7261536446249520386" rel="alternate"/>
+    <published>2023-07-30T09:10:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7261536924576288002</id>
+    <title>🥊Title Match🥊 #RYUJIN vs #LIA #ITZY #있지 #리아 #류진 #ITZY_KILLMYDOUBT #Title_Match </title>
+    <updated>2023-07-30T09:12:02+00:00</updated>
+    <content>🥊Title Match🥊 #RYUJIN vs #LIA #ITZY #있지 #리아 #류진 #ITZY_KILLMYDOUBT #Title_Match </content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7261536924576288002" rel="alternate"/>
+    <published>2023-07-30T09:12:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7261537316898868481</id>
+    <title>🥊Title Match🥊 #CHAERYEONG vs #LIA #ITZY #있지 #리아 #채령 #ITZY_KILLMYDOUBT #Title_Match </title>
+    <updated>2023-07-30T09:13:33+00:00</updated>
+    <content>🥊Title Match🥊 #CHAERYEONG vs #LIA #ITZY #있지 #리아 #채령 #ITZY_KILLMYDOUBT #Title_Match </content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7261537316898868481" rel="alternate"/>
+    <published>2023-07-30T09:13:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7261537781493599489</id>
+    <title>🥊Title Match🥊 #YUNA vs #YEJI #ITZY #있지 #예지 #유나 #ITZY_KILLMYDOUBT #Title_Match </title>
+    <updated>2023-07-30T09:15:21+00:00</updated>
+    <content>🥊Title Match🥊 #YUNA vs #YEJI #ITZY #있지 #예지 #유나 #ITZY_KILLMYDOUBT #Title_Match </content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7261537781493599489" rel="alternate"/>
+    <published>2023-07-30T09:15:21+00:00</published>
   </entry>
 </feed>
