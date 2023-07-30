@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-07-29T09:09:25+00:00</updated>
+  <updated>2023-07-30T09:07:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,46 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7259402110171663623</id>
-    <title>ITZY "None of My Business"  #LIA #리아 #RYUJIN #류진 #CHAERYEONG #채령 #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE #ITZY_NOMB #ITZY_NoneofMyBusiness</title>
-    <updated>2023-07-24T15:07:52+00:00</updated>
-    <content>ITZY "None of My Business"  #LIA #리아 #RYUJIN #류진 #CHAERYEONG #채령 #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE #ITZY_NOMB #ITZY_NoneofMyBusiness</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7259402110171663623" rel="alternate"/>
-    <published>2023-07-24T15:07:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7259771612667399442</id>
-    <title>ITZY "CAKE" M/V Teaser 1  🎬 https://youtu.be/0bfFi6aA2IA 🥊 ALBUM RELEASE  2023.07.31 MON 6PM (KST) | 5AM (EDT) #ITZY #MIDZY #ITZYComeback #ITZY_KILLMYDOUBT #ITZY_CAKE</title>
-    <updated>2023-07-25T15:01:41+00:00</updated>
-    <content>ITZY "CAKE" M/V Teaser 1  🎬 https://youtu.be/0bfFi6aA2IA 🥊 ALBUM RELEASE  2023.07.31 MON 6PM (KST) | 5AM (EDT) #ITZY #MIDZY #ITZYComeback #ITZY_KILLMYDOUBT #ITZY_CAKE</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7259771612667399442" rel="alternate"/>
-    <published>2023-07-25T15:01:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7260142644464979218</id>
-    <title>ITZY "None of My Business"  #ITZY #있지  #ITZY_KILLMYDOUBT  #ITZY_NOMB #ITZY_NoneofMyBusiness</title>
-    <updated>2023-07-26T15:01:29+00:00</updated>
-    <content>ITZY "None of My Business"  #ITZY #있지  #ITZY_KILLMYDOUBT  #ITZY_NOMB #ITZY_NoneofMyBusiness</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7260142644464979218" rel="alternate"/>
-    <published>2023-07-26T15:01:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7260142923382148370</id>
-    <title>📷 Selfie Behind #ITZY #있지  #ITZY_KILLMYDOUBT  #ITZY_NOMB #ITZY_NoneofMyBusiness</title>
-    <updated>2023-07-26T15:02:35+00:00</updated>
-    <content>📷 Selfie Behind #ITZY #있지  #ITZY_KILLMYDOUBT  #ITZY_NOMB #ITZY_NoneofMyBusiness</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7260142923382148370" rel="alternate"/>
-    <published>2023-07-26T15:02:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7260513809754836225</id>
-    <title>ITZY "CAKE" M/V Teaser 2 🎬 https://youtu.be/H9OdyC87Bb0 🥊 ALBUM RELEASE  2023.07.31 MON 6PM (KST) | 5AM (EDT) #ITZY #MIDZY #ITZYComeback #ITZY_KILLMYDOUBT #ITZY_CAKE </title>
-    <updated>2023-07-27T15:01:50+00:00</updated>
-    <content>ITZY "CAKE" M/V Teaser 2 🎬 https://youtu.be/H9OdyC87Bb0 🥊 ALBUM RELEASE  2023.07.31 MON 6PM (KST) | 5AM (EDT) #ITZY #MIDZY #ITZYComeback #ITZY_KILLMYDOUBT #ITZY_CAKE </content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7260513809754836225" rel="alternate"/>
-    <published>2023-07-27T15:01:50+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7261163060658769159</id>
     <title>🎬BOXING the Scene🎬 #유나 #YUNA #ITZY #있지  #ITZY_KILLMYDOUBT #BOXING_the_Scene</title>
@@ -91,5 +51,45 @@
     <content>🎬BOXING the Scene🎬 #예지 #YEJI #ITZY #있지  #ITZY_KILLMYDOUBT #BOXING_the_Scene</content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7261165168699182344" rel="alternate"/>
     <published>2023-07-29T09:09:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7261533892795043073</id>
+    <title>🥊Title Match🥊 #RYUJIN vs #YEJI #ITZY #있지 #예지 #류진  #ITZY_KILLMYDOUBT #Title_Match </title>
+    <updated>2023-07-30T09:00:16+00:00</updated>
+    <content>🥊Title Match🥊 #RYUJIN vs #YEJI #ITZY #있지 #예지 #류진  #ITZY_KILLMYDOUBT #Title_Match </content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7261533892795043073" rel="alternate"/>
+    <published>2023-07-30T09:00:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7261534318520978689</id>
+    <title>🥊Title Match🥊 #LIA vs #YUNA #ITZY #있지 #리아 #유나  #ITZY_KILLMYDOUBT #Title_Match </title>
+    <updated>2023-07-30T09:01:54+00:00</updated>
+    <content>🥊Title Match🥊 #LIA vs #YUNA #ITZY #있지 #리아 #유나  #ITZY_KILLMYDOUBT #Title_Match </content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7261534318520978689" rel="alternate"/>
+    <published>2023-07-30T09:01:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7261534841433312513</id>
+    <title>🥊Title Match🥊 #CHAERYEONG vs #YUNA #ITZY #있지 #채령 #유나  #ITZY_KILLMYDOUBT #Title_Match </title>
+    <updated>2023-07-30T09:03:58+00:00</updated>
+    <content>🥊Title Match🥊 #CHAERYEONG vs #YUNA #ITZY #있지 #채령 #유나  #ITZY_KILLMYDOUBT #Title_Match </content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7261534841433312513" rel="alternate"/>
+    <published>2023-07-30T09:03:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7261535313317612802</id>
+    <title>🥊Title Match🥊 #RYUJIN vs #CHAERYEONG #ITZY #있지 #류진 #채령  #ITZY_KILLMYDOUBT #Title_Match </title>
+    <updated>2023-07-30T09:05:46+00:00</updated>
+    <content>🥊Title Match🥊 #RYUJIN vs #CHAERYEONG #ITZY #있지 #류진 #채령  #ITZY_KILLMYDOUBT #Title_Match </content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7261535313317612802" rel="alternate"/>
+    <published>2023-07-30T09:05:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7261535835449740546</id>
+    <title>🥊Title Match🥊 #LIA vs #YEJI #ITZY #있지 #예지 #리아  #ITZY_KILLMYDOUBT #Title_Match </title>
+    <updated>2023-07-30T09:07:48+00:00</updated>
+    <content>🥊Title Match🥊 #LIA vs #YEJI #ITZY #있지 #예지 #리아  #ITZY_KILLMYDOUBT #Title_Match </content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7261535835449740546" rel="alternate"/>
+    <published>2023-07-30T09:07:48+00:00</published>
   </entry>
 </feed>
