@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-08-01T08:56:54+00:00</updated>
+  <updated>2023-08-01T09:40:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7261536172382440705</id>
-    <title>🥊Title Match🥊 #CHAERYEONG vs #YEJI #ITZY #있지 #예지 #채령  #ITZY_KILLMYDOUBT #Title_Match </title>
-    <updated>2023-07-30T09:09:07+00:00</updated>
-    <content>🥊Title Match🥊 #CHAERYEONG vs #YEJI #ITZY #있지 #예지 #채령  #ITZY_KILLMYDOUBT #Title_Match </content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7261536172382440705" rel="alternate"/>
-    <published>2023-07-30T09:09:07+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7261536446249520386</id>
     <title>🥊Title Match🥊 #RYUJIN vs #YUNA #ITZY #있지 #류진 #유나  #ITZY_KILLMYDOUBT #Title_Match </title>
@@ -91,5 +83,13 @@
     <content>[ #CAKEChallenge ] 가요광장에서 만난 #이은지 선배님과 함께 CAKE🍰CAKE🍰CAKE🍰CAKE🍰CAKE🍰 #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE</content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7262275201423904002" rel="alternate"/>
     <published>2023-08-01T08:56:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7262286505844968706</id>
+    <title>[ #CAKEChallenge ] 리무진서비스 대표 🐱 #이무진 선배님과 ITZY 대표 🐱 #예지 의 케익 한판 말기🍰🍰🍰🍰🍰 #ITZY #MIDZY #YEJI #ITZY_KILLMYDOUBT #ITZY_CAKE </title>
+    <updated>2023-08-01T09:40:47+00:00</updated>
+    <content>[ #CAKEChallenge ] 리무진서비스 대표 🐱 #이무진 선배님과 ITZY 대표 🐱 #예지 의 케익 한판 말기🍰🍰🍰🍰🍰 #ITZY #MIDZY #YEJI #ITZY_KILLMYDOUBT #ITZY_CAKE </content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7262286505844968706" rel="alternate"/>
+    <published>2023-08-01T09:40:47+00:00</published>
   </entry>
 </feed>
