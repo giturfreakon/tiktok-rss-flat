@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-08-01T11:33:04+00:00</updated>
+  <updated>2023-08-02T03:27:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7261917057740999944</id>
-    <title>왕! 하고 먹어버려 다 yeah like😋❤ #ITZY #있지 #YEJI #예지 #RYUJIN #류진  #ITZY_KILLMYDOUBT #ITZY_CAKE #CakeChallenge</title>
-    <updated>2023-07-31T09:47:07+00:00</updated>
-    <content>왕! 하고 먹어버려 다 yeah like😋❤ #ITZY #있지 #YEJI #예지 #RYUJIN #류진  #ITZY_KILLMYDOUBT #ITZY_CAKE #CakeChallenge</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7261917057740999944" rel="alternate"/>
-    <published>2023-07-31T09:47:07+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7261917779106860296</id>
     <title>CAKE CAKE CAKE CAKE CAKE🍰 #ITZY #있지 #LIA #리아 #CHAERYEONG #채령 #YUNA #유나 #ITZY_KILLMYDOUBT #ITZY_CAKE #CakeChallenge</title>
@@ -91,5 +83,13 @@
     <content>[ #CAKEChallenge ]  🥊 맏막즈 왕! 하고 먹어버려 다🥊  #ITZY #MIDZY #있지 #YEJI #예지 #YUNA #유나 #ITZY_KILLMYDOUBT #ITZY_CAKE</content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7262315451168869639" rel="alternate"/>
     <published>2023-08-01T11:33:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7262561411065187586</id>
+    <title>🍰ITZY’s PICK🍰  배스킨라빈스에서 ITZY의 #CAKEChallenge 를 만나보세요 #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE #배스킨라빈스 #배라 #baskinrobbins  </title>
+    <updated>2023-08-02T03:27:33+00:00</updated>
+    <content>🍰ITZY’s PICK🍰  배스킨라빈스에서 ITZY의 #CAKEChallenge 를 만나보세요 #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE #배스킨라빈스 #배라 #baskinrobbins  </content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7262561411065187586" rel="alternate"/>
+    <published>2023-08-02T03:27:33+00:00</published>
   </entry>
 </feed>
