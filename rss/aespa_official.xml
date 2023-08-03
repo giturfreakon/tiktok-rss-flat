@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-08-02T04:00:07+00:00</updated>
+  <updated>2023-08-03T04:00:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7250695683072707848</id>
-    <title>Find out what makes aespa laugh in Tabloid version 👀🔍 OFFICIAL version only available on aespa official US website - link in bio! #aespa #æspa #에스파 #MYWORLD #aespa_MYWORLD</title>
-    <updated>2023-07-01T04:02:27+00:00</updated>
-    <content>Find out what makes aespa laugh in Tabloid version 👀🔍 OFFICIAL version only available on aespa official US website - link in bio! #aespa #æspa #에스파 #MYWORLD #aespa_MYWORLD</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7250695683072707848" rel="alternate"/>
-    <published>2023-07-01T04:02:27+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7251189784255728898</id>
     <title>#지젤 과 닿을수록 Thirsty with #웻보이 💦
@@ -103,5 +95,13 @@
     <content>🌙📱⭐️ ➫ 2023.08.18 0AM(KST) / 0AM(ET) *Releasing at your local time midnight #aespa #æspa #에스파 #BetterThings #aespaBetterThings #NewMusic #PopMusic #SongOfTheSummer</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7262569795105672466" rel="alternate"/>
     <published>2023-08-02T04:00:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7262940898726563090</id>
+    <title>💙📱🦋 ➫ 2023.08.18 0AM(KST) / 0AM(ET) *Releasing at your local time midnight #aespa #æspa #에스파 #BetterThings #aespaBetterThings #NewMusic #PopMusic #SongOfTheSummer</title>
+    <updated>2023-08-03T04:00:08+00:00</updated>
+    <content>💙📱🦋 ➫ 2023.08.18 0AM(KST) / 0AM(ET) *Releasing at your local time midnight #aespa #æspa #에스파 #BetterThings #aespaBetterThings #NewMusic #PopMusic #SongOfTheSummer</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7262940898726563090" rel="alternate"/>
+    <published>2023-08-03T04:00:08+00:00</published>
   </entry>
 </feed>
