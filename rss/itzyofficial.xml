@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-08-05T09:07:42+00:00</updated>
+  <updated>2023-08-05T12:11:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7263067016787954945</id>
-    <title>[ #CAKEChallenge ] CAKE CAKE CAKE CAKE CAKE🍰 CAKE is everywhere❤️‍🔥 #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE</title>
-    <updated>2023-08-03T12:09:32+00:00</updated>
-    <content>[ #CAKEChallenge ] CAKE CAKE CAKE CAKE CAKE🍰 CAKE is everywhere❤️‍🔥 #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7263067016787954945" rel="alternate"/>
-    <published>2023-08-03T12:09:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7263420314904710408</id>
-    <title>It's a piece of cake🍰 cake🍰 cake🍰 cake🍰 cake🍰 #ITZY #있지 #ITZY_KILLMYDOUBT #ITZY_CAKE #CakeChallenge</title>
-    <updated>2023-08-04T11:00:31+00:00</updated>
-    <content>It's a piece of cake🍰 cake🍰 cake🍰 cake🍰 cake🍰 #ITZY #있지 #ITZY_KILLMYDOUBT #ITZY_CAKE #CakeChallenge</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7263420314904710408" rel="alternate"/>
-    <published>2023-08-04T11:00:31+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7263420844251172114</id>
     <title>땡덩's a piece of cake🍰❤️‍🔥 #ITZY #있지 #YEJI #예지 #RYUJIN #류진 #ITZY_KILLMYDOUBT #ITZY_CAKE #CakeChallenge</title>
@@ -91,5 +75,21 @@
     <content>[ #CAKEChallenge ] 동네스타 #조나단 님도 신나게 Ooh wee~😆🤟 다 같이 CAKE CAKE CAKE CAKE CAKE🍰 #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE </content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7263762319988002049" rel="alternate"/>
     <published>2023-08-05T09:07:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7263809501780856082</id>
+    <title>[ #CAKEChallenge ] 아이돌 인간극장에서 ITZY가 왕! 하고 먹어버려 다!😋 #ITZY #MIDZY #YEJI #예지 #CHAERYEONG #채령 #ITZY_KILLMYDOUBT #ITZY_CAKE</title>
+    <updated>2023-08-05T12:10:46+00:00</updated>
+    <content>[ #CAKEChallenge ] 아이돌 인간극장에서 ITZY가 왕! 하고 먹어버려 다!😋 #ITZY #MIDZY #YEJI #예지 #CHAERYEONG #채령 #ITZY_KILLMYDOUBT #ITZY_CAKE</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7263809501780856082" rel="alternate"/>
+    <published>2023-08-05T12:10:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7263809768282787079</id>
+    <title>[ #CAKEChallenge ] 아이돌 인간극장에서 ITZY가 왕! 하고 먹어버려 다!🥊 #ITZY #MIDZY #LIA #리아 #RYUJIN #류진 #YUNA #유나 #ITZY_KILLMYDOUBT #ITZY_CAKE</title>
+    <updated>2023-08-05T12:11:48+00:00</updated>
+    <content>[ #CAKEChallenge ] 아이돌 인간극장에서 ITZY가 왕! 하고 먹어버려 다!🥊 #ITZY #MIDZY #LIA #리아 #RYUJIN #류진 #YUNA #유나 #ITZY_KILLMYDOUBT #ITZY_CAKE</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7263809768282787079" rel="alternate"/>
+    <published>2023-08-05T12:11:48+00:00</published>
   </entry>
 </feed>
