@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-08-05T03:03:54+00:00</updated>
+  <updated>2023-08-05T07:28:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7263003592120945928</id>
-    <title>CAKE TUTORIAL - MIRRORED VER. (1.0x) 🍰 It's a piece of cake 🍰 #ITZY #있지 #YUNA #유나 #ITZY_KILLMYDOUBT  #ITZY_CAKE #CakeChallenge</title>
-    <updated>2023-08-03T08:03:24+00:00</updated>
-    <content>CAKE TUTORIAL - MIRRORED VER. (1.0x) 🍰 It's a piece of cake 🍰 #ITZY #있지 #YUNA #유나 #ITZY_KILLMYDOUBT  #ITZY_CAKE #CakeChallenge</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7263003592120945928" rel="alternate"/>
-    <published>2023-08-03T08:03:24+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7263003821918391559</id>
     <title>🍰ITZY's CAKE🍰 #ITZY #있지 #ITZY_KILLMYDOUBT #ITZY_CAKE #CakeChallenge</title>
@@ -91,5 +83,13 @@
     <content>🍰왕하고 CAKE에게 먹혀버린 령채🥰 #ITZY #있지 #CHAERYEONG #채령 #YUNA #유나 #ITZY_KILLMYDOUBT  #ITZY_CAKE #CakeChallenge #ITZY_Turning_CAKE</content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7263668564824018184" rel="alternate"/>
     <published>2023-08-05T03:03:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7263736613992254721</id>
+    <title>[ #CAKEChallenge ] #오마이걸 선배님과 챌린지를 하니 시원한 #여름이_들려 🩵 #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE #OHMYGIRL #OMG</title>
+    <updated>2023-08-05T07:28:00+00:00</updated>
+    <content>[ #CAKEChallenge ] #오마이걸 선배님과 챌린지를 하니 시원한 #여름이_들려 🩵 #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE #OHMYGIRL #OMG</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7263736613992254721" rel="alternate"/>
+    <published>2023-08-05T07:28:00+00:00</published>
   </entry>
 </feed>
