@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nmixx_official</id>
   <title>@nmixx_official | TikTok</title>
-  <updated>2023-08-01T11:13:09+00:00</updated>
+  <updated>2023-08-06T06:17:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nmixx_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@nmixx_official/video/7259760085797195009</id>
-    <title>#퍼플키스 #PURPLE_KISS #수안 #SWAN 선배님과 함께 Let's Party O'Clock dance🦢 #NMIXX #엔믹스 #릴리 #LILY #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </title>
-    <updated>2023-07-25T14:16:58+00:00</updated>
-    <content>#퍼플키스 #PURPLE_KISS #수안 #SWAN 선배님과 함께 Let's Party O'Clock dance🦢 #NMIXX #엔믹스 #릴리 #LILY #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </content>
-    <link href="https://www.tiktok.com/@nmixx_official/video/7259760085797195009" rel="alternate"/>
-    <published>2023-07-25T14:16:58+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@nmixx_official/video/7260018204322417921</id>
     <title>#ICHILLIN #아이칠린 #이지 #예주 선배님과 #KICKSTART O'Clock🤟 #NMIXX #엔믹스 #릴리 #LILY #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge </title>
@@ -91,5 +83,13 @@
     <content>#투모로우바이투게더 #TOMORROW_X_TOGETHER #TXT #연준 #YEONJUN 님과 함께 Do Party Like That🎵🦊 #NMIXX #엔믹스 #해원 #HAEWON #규진 #KYUJIN #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</content>
     <link href="https://www.tiktok.com/@nmixx_official/video/7262310310248320257" rel="alternate"/>
     <published>2023-08-01T11:13:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@nmixx_official/video/7264089552904555777</id>
+    <title>#제니파크 의 #제니 와 한림즈 징글링 밍글링🪩✨ #NMIXX #엔믹스 #배이 #BAE #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</title>
+    <updated>2023-08-06T06:17:32+00:00</updated>
+    <content>#제니파크 의 #제니 와 한림즈 징글링 밍글링🪩✨ #NMIXX #엔믹스 #배이 #BAE #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</content>
+    <link href="https://www.tiktok.com/@nmixx_official/video/7264089552904555777" rel="alternate"/>
+    <published>2023-08-06T06:17:32+00:00</published>
   </entry>
 </feed>
