@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tarankaaa</id>
   <title>@tarankaaa | TikTok</title>
-  <updated>2023-08-06T11:56:48+00:00</updated>
+  <updated>2023-08-07T09:51:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tarankaaa</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7260078149298425089</id>
-    <title>[no title]</title>
-    <updated>2023-07-26T10:51:12+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7260078149298425089" rel="alternate"/>
-    <published>2023-07-26T10:51:12+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7260087295129308417</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>First glasses &gt;&gt;&gt;</content>
     <link href="https://www.tiktok.com/@tarankaaa/video/7264176988171046145" rel="alternate"/>
     <published>2023-08-06T11:56:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7264515695285701889</id>
+    <title>#강해보이는얼굴 </title>
+    <updated>2023-08-07T09:51:11+00:00</updated>
+    <content>#강해보이는얼굴 </content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7264515695285701889" rel="alternate"/>
+    <published>2023-08-07T09:51:11+00:00</published>
   </entry>
 </feed>
