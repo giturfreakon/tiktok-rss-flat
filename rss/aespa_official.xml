@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-08-04T04:03:10+00:00</updated>
+  <updated>2023-08-07T04:00:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7251561111374286081</id>
-    <title>❤️‍🔥✨ #광고  #aespa #æspa #에스파  #KARINA #카리나 #yslbeauty #입생로랑뷰티 #꾸뛰르미니클러치</title>
-    <updated>2023-07-03T12:00:45+00:00</updated>
-    <content>❤️‍🔥✨ #광고  #aespa #æspa #에스파  #KARINA #카리나 #yslbeauty #입생로랑뷰티 #꾸뛰르미니클러치</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7251561111374286081" rel="alternate"/>
-    <published>2023-07-03T12:00:45+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7252303071940775170</id>
     <title>최애의 #aespa 🪄💖💫🌟✨
@@ -97,5 +89,13 @@
     <content>Guess the lyrics🤔⁉️ ➫ 2023.08.18 0AM(KST) / 0AM(ET) *Releasing at your local time midnight #aespa #æspa #에스파 #BetterThings #aespaBetterThings #NewMusic #PopMusic #SongOfTheSummer</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7263312750456098055" rel="alternate"/>
     <published>2023-08-04T04:03:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7264425229101976850</id>
+    <title>Better Things To Do with MY Time🐠⏰🩵 ➫ 2023.08.18 0AM(KST) / 0AM(ET) *Releasing at your local time midnight #BetterThingschallenge  #aespa #æspa #에스파 #BetterThings #aespaBetterThings #NewMusic #PopMusic #SongOfTheSummer</title>
+    <updated>2023-08-07T04:00:09+00:00</updated>
+    <content>Better Things To Do with MY Time🐠⏰🩵 ➫ 2023.08.18 0AM(KST) / 0AM(ET) *Releasing at your local time midnight #BetterThingschallenge  #aespa #æspa #에스파 #BetterThings #aespaBetterThings #NewMusic #PopMusic #SongOfTheSummer</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7264425229101976850" rel="alternate"/>
+    <published>2023-08-07T04:00:09+00:00</published>
   </entry>
 </feed>
