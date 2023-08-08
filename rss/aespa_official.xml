@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-08-08T03:02:55+00:00</updated>
+  <updated>2023-08-08T04:02:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7254387600293678338</id>
-    <title>🦋🖤🤍 #aespa #æspa #에스파 #NINGNING #닝닝  #Versace #VersaceLaVacanza @Versace </title>
-    <updated>2023-07-11T02:49:01+00:00</updated>
-    <content>🦋🖤🤍 #aespa #æspa #에스파 #NINGNING #닝닝  #Versace #VersaceLaVacanza @Versace </content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7254387600293678338" rel="alternate"/>
-    <published>2023-07-11T02:49:01+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7257506219957505281</id>
     <title>💙아우디즈🌙  ‪#aespa‬ ‪#æspa‬ ‪#에스파‬ #KARINA #카리나 #GISELLE #지젤 </title>
@@ -91,5 +83,13 @@
     <content>[1 min⏰] EP.01 aespa 에스파 'Better Things' Sitcom 🏡 aespa 에스파 Digital Single ‘Better Things’ ➫ 2023.08.18 #aespa #æspa #에스파 #BetterThings #aespaBetterThings </content>
     <link href="https://www.tiktok.com/@aespa_official/video/7264781572094610696" rel="alternate"/>
     <published>2023-08-08T03:02:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7264796877265194248</id>
+    <title>when your socks have personality🫨🧦🧹 ➫ 2023.08.18  #aespa #æspa #에스파 #BetterThings #aespaBetterThings #NewMusic #PopMusic #SongOfTheSummer</title>
+    <updated>2023-08-08T04:02:19+00:00</updated>
+    <content>when your socks have personality🫨🧦🧹 ➫ 2023.08.18  #aespa #æspa #에스파 #BetterThings #aespaBetterThings #NewMusic #PopMusic #SongOfTheSummer</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7264796877265194248" rel="alternate"/>
+    <published>2023-08-08T04:02:19+00:00</published>
   </entry>
 </feed>
