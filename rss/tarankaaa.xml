@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tarankaaa</id>
   <title>@tarankaaa | TikTok</title>
-  <updated>2023-08-07T09:51:11+00:00</updated>
+  <updated>2023-08-10T10:01:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tarankaaa</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7260087295129308417</id>
-    <title>[no title]</title>
-    <updated>2023-07-26T11:26:41+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7260087295129308417" rel="alternate"/>
-    <published>2023-07-26T11:26:41+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7260088987262487810</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>#강해보이는얼굴 </content>
     <link href="https://www.tiktok.com/@tarankaaa/video/7264515695285701889" rel="alternate"/>
     <published>2023-08-07T09:51:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7265631625277476098</id>
+    <title>#늙음필터 grandma can i sing me a song…?</title>
+    <updated>2023-08-10T10:01:34+00:00</updated>
+    <content>#늙음필터 grandma can i sing me a song…?</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7265631625277476098" rel="alternate"/>
+    <published>2023-08-10T10:01:34+00:00</published>
   </entry>
 </feed>
