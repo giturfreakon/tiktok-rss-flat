@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-08-09T03:59:45+00:00</updated>
+  <updated>2023-08-10T03:02:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7261627236963405063</id>
-    <title>🐠 ➫ 2023.08.18 0AM(KST) / 0AM(ET) *Releasing at your local time midnight #aespa #æspa #에스파 #BetterThings #aespaBetterThings #PopMusic #SongOfTheSummer</title>
-    <updated>2023-07-30T15:02:28+00:00</updated>
-    <content>🐠 ➫ 2023.08.18 0AM(KST) / 0AM(ET) *Releasing at your local time midnight #aespa #æspa #에스파 #BetterThings #aespaBetterThings #PopMusic #SongOfTheSummer</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7261627236963405063" rel="alternate"/>
-    <published>2023-07-30T15:02:28+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7261627575326248200</id>
     <title>Coming s⏰🩵n ➫ 2023.08.18 0AM (KST) / 0AM (PDT) / 0AM (EST) *Releasing at your local time midnight #aespa #æspa #에스파 #BetterThings #aespaBetterThings #PopMusic #SongOfTheSummer</title>
@@ -91,5 +83,13 @@
     <content>🤔🦖💭 #IKnowYou #FayeWebster #aespa #æspa #에스파 #KARINA #카리나</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7265167300347612424" rel="alternate"/>
     <published>2023-08-09T03:59:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7265523644862975239</id>
+    <title>[1 min⏰] EP.02 aespa 에스파 'Better Things' Sitcom 🏝️ aespa 에스파 Digital Single ‘Better Things’ ➫ 2023.08.18 1PM(KST) #aespa #æspa #에스파 #BetterThings #aespaBetterThings </title>
+    <updated>2023-08-10T03:02:35+00:00</updated>
+    <content>[1 min⏰] EP.02 aespa 에스파 'Better Things' Sitcom 🏝️ aespa 에스파 Digital Single ‘Better Things’ ➫ 2023.08.18 1PM(KST) #aespa #æspa #에스파 #BetterThings #aespaBetterThings </content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7265523644862975239" rel="alternate"/>
+    <published>2023-08-10T03:02:35+00:00</published>
   </entry>
 </feed>
