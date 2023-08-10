@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@newjeans_official</id>
   <title>@newjeans_official | TikTok</title>
-  <updated>2023-07-30T07:56:47+00:00</updated>
+  <updated>2023-08-10T06:47:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @newjeans_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@newjeans_official/video/7260057151593532673</id>
-    <title>So much to do and lots to see 💫 Just for a minute ⌚️ #NewJeans #뉴진스 #NewJeans_ASAP #NewJeans_GetUp #Time_to_NewJeans</title>
-    <updated>2023-07-26T09:29:45+00:00</updated>
-    <content>So much to do and lots to see 💫 Just for a minute ⌚️ #NewJeans #뉴진스 #NewJeans_ASAP #NewJeans_GetUp #Time_to_NewJeans</content>
-    <link href="https://www.tiktok.com/@newjeans_official/video/7260057151593532673" rel="alternate"/>
-    <published>2023-07-26T09:29:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@newjeans_official/video/7260315964242251010</id>
-    <title>See me like no other 🕯❤️‍🩹 #NewJeans #뉴진스  #NewJeans_CoolWithYou #NewJeans_GetUp #Time_to_NewJeans</title>
-    <updated>2023-07-27T02:14:08+00:00</updated>
-    <content>See me like no other 🕯❤️‍🩹 #NewJeans #뉴진스  #NewJeans_CoolWithYou #NewJeans_GetUp #Time_to_NewJeans</content>
-    <link href="https://www.tiktok.com/@newjeans_official/video/7260315964242251010" rel="alternate"/>
-    <published>2023-07-27T02:14:08+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@newjeans_official/video/7260316253145894145</id>
     <title>Now where are you? ⚠️ NewJeans #뉴진스  #NewJeans_ETA #NewJeans_GetUp #Time_to_NewJeans</title>
@@ -91,5 +75,21 @@
     <content>Bunnies now where are you?✈️🏙 #NewJeans #뉴진스 #NewJeans_ETA #NewJeans_GetUp #Time_to_NewJeans</content>
     <link href="https://www.tiktok.com/@newjeans_official/video/7261517531456883969" rel="alternate"/>
     <published>2023-07-30T07:56:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@newjeans_official/video/7265580795505413377</id>
+    <title>can someone stop meee🎤🎧  #NewJeans #뉴진스 #NewJeans_ETA #NewJeans_GetUp #Time_to_NewJeans</title>
+    <updated>2023-08-10T06:44:17+00:00</updated>
+    <content>can someone stop meee🎤🎧  #NewJeans #뉴진스 #NewJeans_ETA #NewJeans_GetUp #Time_to_NewJeans</content>
+    <link href="https://www.tiktok.com/@newjeans_official/video/7265580795505413377" rel="alternate"/>
+    <published>2023-08-10T06:44:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@newjeans_official/video/7265581547808410882</id>
+    <title>Cool Photo With You 😎 #NewJeans #뉴진스 #NewJeans_CoolWithYou #NewJeans_GetUp #Time_to_NewJeans</title>
+    <updated>2023-08-10T06:47:14+00:00</updated>
+    <content>Cool Photo With You 😎 #NewJeans #뉴진스 #NewJeans_CoolWithYou #NewJeans_GetUp #Time_to_NewJeans</content>
+    <link href="https://www.tiktok.com/@newjeans_official/video/7265581547808410882" rel="alternate"/>
+    <published>2023-08-10T06:47:14+00:00</published>
   </entry>
 </feed>
