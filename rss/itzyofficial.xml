@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-08-12T07:40:16+00:00</updated>
+  <updated>2023-08-12T07:46:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7264039707439287559</id>
-    <title>[ #CAKEChallenge ] 🎬왕하고 CAKE에게 먹히지 못한 유우나🐰 (NG Ver.) #ITZY #MIDZY #있지 #LIA #리아 #YUNA #유나 #ITZY_KILLMYDOUBT #ITZY_CAKE  #ITZY_Turning_CAKE #CAKE_망한챌린지대회</title>
-    <updated>2023-08-06T03:04:06+00:00</updated>
-    <content>[ #CAKEChallenge ] 🎬왕하고 CAKE에게 먹히지 못한 유우나🐰 (NG Ver.) #ITZY #MIDZY #있지 #LIA #리아 #YUNA #유나 #ITZY_KILLMYDOUBT #ITZY_CAKE  #ITZY_Turning_CAKE #CAKE_망한챌린지대회</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7264039707439287559" rel="alternate"/>
-    <published>2023-08-06T03:04:06+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7264040022821588242</id>
     <title>[ #CAKEChallenge ] 🎬왕하고 CAKE에게 먹히지 못한 령지곤지🤍 (NG Ver.) #ITZY #MIDZY #있지 #YEJI #예지 #RYUJIN #류진  #CHAERYEONG #채령  #ITZY_KILLMYDOUBT #ITZY_CAKE  #ITZY_Turning_CAKE  #CAKE_망한챌린지대회</title>
@@ -91,5 +83,13 @@
     <content>#스트레이키즈 #리노 선배님과의 #특 별한 #CAKEChallenge  제 점수는요? 바로 #5_STAR ⭐️ #ITZY #MIDZY  #ITZY_KILLMYDOUBT  #ITZY_CAKE  #StrayKids #LeeKnow</content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7266337377663126785" rel="alternate"/>
     <published>2023-08-12T07:40:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7266338943409376513</id>
+    <title>Hurry up, join the #CAKEChallenge 🍰 #엔믹스 와 함께하는 지금이 바로 있지의 #Party_O_Clock #ITZY #MIDZY  #ITZY_KILLMYDOUBT  #ITZY_CAKE #NMIXX </title>
+    <updated>2023-08-12T07:46:32+00:00</updated>
+    <content>Hurry up, join the #CAKEChallenge 🍰 #엔믹스 와 함께하는 지금이 바로 있지의 #Party_O_Clock #ITZY #MIDZY  #ITZY_KILLMYDOUBT  #ITZY_CAKE #NMIXX </content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7266338943409376513" rel="alternate"/>
+    <published>2023-08-12T07:46:32+00:00</published>
   </entry>
 </feed>
