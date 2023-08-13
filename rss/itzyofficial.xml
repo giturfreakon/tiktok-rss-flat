@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-08-12T07:46:32+00:00</updated>
+  <updated>2023-08-13T09:15:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7264040022821588242</id>
-    <title>[ #CAKEChallenge ] 🎬왕하고 CAKE에게 먹히지 못한 령지곤지🤍 (NG Ver.) #ITZY #MIDZY #있지 #YEJI #예지 #RYUJIN #류진  #CHAERYEONG #채령  #ITZY_KILLMYDOUBT #ITZY_CAKE  #ITZY_Turning_CAKE  #CAKE_망한챌린지대회</title>
-    <updated>2023-08-06T03:05:19+00:00</updated>
-    <content>[ #CAKEChallenge ] 🎬왕하고 CAKE에게 먹히지 못한 령지곤지🤍 (NG Ver.) #ITZY #MIDZY #있지 #YEJI #예지 #RYUJIN #류진  #CHAERYEONG #채령  #ITZY_KILLMYDOUBT #ITZY_CAKE  #ITZY_Turning_CAKE  #CAKE_망한챌린지대회</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7264040022821588242" rel="alternate"/>
-    <published>2023-08-06T03:05:19+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7264040393640054023</id>
     <title>[ #CAKEChallenge ] 🎬왕하고 CAKE에게 먹히지 못한 령채🥰 (NG Ver.) #ITZY #MIDZY #있지 #CHAERYEONG #채령 #YUNA #유나  #ITZY_KILLMYDOUBT #ITZY_CAKE  #ITZY_Turning_CAKE #CAKE_망한챌린지대회</title>
@@ -91,5 +83,13 @@
     <content>Hurry up, join the #CAKEChallenge 🍰 #엔믹스 와 함께하는 지금이 바로 있지의 #Party_O_Clock #ITZY #MIDZY  #ITZY_KILLMYDOUBT  #ITZY_CAKE #NMIXX </content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7266338943409376513" rel="alternate"/>
     <published>2023-08-12T07:46:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7266733077320191233</id>
+    <title>#LIPGLOSS 마저 찰떡인 #더보이즈 #THEBOYZ 선배님과 #CAKEChallenge 🍰 이 비주얼 너무 #PHANTASY 😘 #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE</title>
+    <updated>2023-08-13T09:15:44+00:00</updated>
+    <content>#LIPGLOSS 마저 찰떡인 #더보이즈 #THEBOYZ 선배님과 #CAKEChallenge 🍰 이 비주얼 너무 #PHANTASY 😘 #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7266733077320191233" rel="alternate"/>
+    <published>2023-08-13T09:15:44+00:00</published>
   </entry>
 </feed>
