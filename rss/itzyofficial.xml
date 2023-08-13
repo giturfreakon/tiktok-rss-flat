@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-08-13T13:51:22+00:00</updated>
+  <updated>2023-08-13T14:12:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7264131744687852802</id>
-    <title>#인피니트 선배님과 #CAKEChallenge 지금부터 #Begin !  이건 마치 #New_Emotions ♾️ #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE #INFINITE </title>
-    <updated>2023-08-06T09:01:17+00:00</updated>
-    <content>#인피니트 선배님과 #CAKEChallenge 지금부터 #Begin !  이건 마치 #New_Emotions ♾️ #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE #INFINITE </content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7264131744687852802" rel="alternate"/>
-    <published>2023-08-06T09:01:17+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7264858272887360776</id>
     <title>🍰왕하고 CAKE에게 먹혀버린 예지수😆 #ITZY #있지 #YEJI #예지 #LIA #리아 #YUNA #유나 #ITZY_KILLMYDOUBT  #ITZY_CAKE #CakeChallenge #ITZY_Turning_CAKE</title>
@@ -91,5 +83,13 @@
     <content>#조유리_TAXI_타고_직진 🚕 하다가 잠깐 #CAKEChallenge 한 조각🍰 하고 가실게요 #ITZY #MIDZY  #ITZY_KILLMYDOUBT  #ITZY_CAKE  #JOYURI #조유리 </content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7266804101328014594" rel="alternate"/>
     <published>2023-08-13T13:51:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7266809503566302466</id>
+    <title>#전소미 #JEONSOMI 선배님과 함께 #CAKEChallenge 로 다시 만날때까지 #FastForward ⏩️⏩️⏩️ #ITZY #MIDZY  #ITZY_KILLMYDOUBT  #ITZY_CAKE </title>
+    <updated>2023-08-13T14:12:19+00:00</updated>
+    <content>#전소미 #JEONSOMI 선배님과 함께 #CAKEChallenge 로 다시 만날때까지 #FastForward ⏩️⏩️⏩️ #ITZY #MIDZY  #ITZY_KILLMYDOUBT  #ITZY_CAKE </content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7266809503566302466" rel="alternate"/>
+    <published>2023-08-13T14:12:19+00:00</published>
   </entry>
 </feed>
