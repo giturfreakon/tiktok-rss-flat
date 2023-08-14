@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-08-13T03:59:13+00:00</updated>
+  <updated>2023-08-14T04:00:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7263312750456098055</id>
-    <title>Guess the lyrics🤔⁉️ ➫ 2023.08.18 0AM(KST) / 0AM(ET) *Releasing at your local time midnight #aespa #æspa #에스파 #BetterThings #aespaBetterThings #NewMusic #PopMusic #SongOfTheSummer</title>
-    <updated>2023-08-04T04:03:10+00:00</updated>
-    <content>Guess the lyrics🤔⁉️ ➫ 2023.08.18 0AM(KST) / 0AM(ET) *Releasing at your local time midnight #aespa #æspa #에스파 #BetterThings #aespaBetterThings #NewMusic #PopMusic #SongOfTheSummer</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7263312750456098055" rel="alternate"/>
-    <published>2023-08-04T04:03:10+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7264425229101976850</id>
     <title>Better Things To Do with MY Time🐠⏰🩵 ➫ 2023.08.18 0AM(KST) / 0AM(ET) *Releasing at your local time midnight #BetterThingschallenge  #aespa #æspa #에스파 #BetterThings #aespaBetterThings #NewMusic #PopMusic #SongOfTheSummer</title>
@@ -91,5 +83,13 @@
     <content>You wanna know all about me🐠🫧🩵 aespa 에스파 Digital Single 'Better Things' ➫ 2023.08.18 1PM(KST) / 0AM(ET) #BetterThingsChallenge #aespa #æspa #에스파 #BetterThings #aespaBetterThings #NewMusic #PopMusic #SongOfTheSummer</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7266651511478832392" rel="alternate"/>
     <published>2023-08-13T03:59:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7267022902845787410</id>
+    <title>Wanna know about me But he can't have me💔 aespa 에스파 Digital Single 'Better Things' ➫ 2023.08.18 1PM(KST) / 0AM(ET) #BetterThingsChallenge #aespa #æspa #에스파 #BetterThings #aespaBetterThings #NewMusic #PopMusic #SongOfTheSummer</title>
+    <updated>2023-08-14T04:00:24+00:00</updated>
+    <content>Wanna know about me But he can't have me💔 aespa 에스파 Digital Single 'Better Things' ➫ 2023.08.18 1PM(KST) / 0AM(ET) #BetterThingsChallenge #aespa #æspa #에스파 #BetterThings #aespaBetterThings #NewMusic #PopMusic #SongOfTheSummer</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7267022902845787410" rel="alternate"/>
+    <published>2023-08-14T04:00:24+00:00</published>
   </entry>
 </feed>
