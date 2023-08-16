@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@twice_tiktok_official</id>
   <title>@twice_tiktok_official | TikTok</title>
-  <updated>2023-08-15T15:02:57+00:00</updated>
+  <updated>2023-08-16T14:59:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @twice_tiktok_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_official/video/7265538407214976258</id>
-    <title>JIHYO The 1st Mini Album "ZONE" Walking through ZYO's ZONE with ZYO 🚶‍♀️ #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</title>
-    <updated>2023-08-10T03:59:50+00:00</updated>
-    <content>JIHYO The 1st Mini Album "ZONE" Walking through ZYO's ZONE with ZYO 🚶‍♀️ #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7265538407214976258" rel="alternate"/>
-    <published>2023-08-10T03:59:50+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_official/video/7265977927320227080</id>
     <title>JIHYO "Killin' Me Good" M/V Teaser 1 #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</title>
@@ -91,5 +83,13 @@
     <content>JIHYO "Nightmare" Poster ver. #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</content>
     <link href="https://www.tiktok.com/@twice_tiktok_official/video/7267564727159524610" rel="alternate"/>
     <published>2023-08-15T15:02:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_official/video/7267935051449404673</id>
+    <title>JIHYO "Killin' Me Good" M/V Teaser 2 #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</title>
+    <updated>2023-08-16T14:59:59+00:00</updated>
+    <content>JIHYO "Killin' Me Good" M/V Teaser 2 #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7267935051449404673" rel="alternate"/>
+    <published>2023-08-16T14:59:59+00:00</published>
   </entry>
 </feed>
