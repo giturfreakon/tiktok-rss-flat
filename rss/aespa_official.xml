@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-08-14T10:21:36+00:00</updated>
+  <updated>2023-08-17T12:01:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7264781572094610696</id>
-    <title>[1 min⏰] EP.01 aespa 에스파 'Better Things' Sitcom 🏡 aespa 에스파 Digital Single ‘Better Things’ ➫ 2023.08.18 #aespa #æspa #에스파 #BetterThings #aespaBetterThings </title>
-    <updated>2023-08-08T03:02:55+00:00</updated>
-    <content>[1 min⏰] EP.01 aespa 에스파 'Better Things' Sitcom 🏡 aespa 에스파 Digital Single ‘Better Things’ ➫ 2023.08.18 #aespa #æspa #에스파 #BetterThings #aespaBetterThings </content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7264781572094610696" rel="alternate"/>
-    <published>2023-08-08T03:02:55+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7264796877265194248</id>
     <title>when your socks have personality🫨🧦🧹 ➫ 2023.08.18  #aespa #æspa #에스파 #BetterThings #aespaBetterThings #NewMusic #PopMusic #SongOfTheSummer</title>
@@ -91,5 +83,13 @@
     <content>🧛‍♀️🦖🫨 #vampire #OliviaRodrigo  #aespa #æspa #에스파  #GISELLE #지젤 #KARINA #카리나</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7267121130840919314" rel="alternate"/>
     <published>2023-08-14T10:21:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7268260029248244994</id>
+    <title>i just keep coming back to minjeong 😏🎸 #Violet #TOYOUUuuUu #aespa #æspa #에스파 #WINTER #윈터</title>
+    <updated>2023-08-17T12:01:04+00:00</updated>
+    <content>i just keep coming back to minjeong 😏🎸 #Violet #TOYOUUuuUu #aespa #æspa #에스파 #WINTER #윈터</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7268260029248244994" rel="alternate"/>
+    <published>2023-08-17T12:01:04+00:00</published>
   </entry>
 </feed>
