@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-08-13T14:12:19+00:00</updated>
+  <updated>2023-08-18T09:59:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7264858272887360776</id>
-    <title>🍰왕하고 CAKE에게 먹혀버린 예지수😆 #ITZY #있지 #YEJI #예지 #LIA #리아 #YUNA #유나 #ITZY_KILLMYDOUBT  #ITZY_CAKE #CakeChallenge #ITZY_Turning_CAKE</title>
-    <updated>2023-08-08T08:00:32+00:00</updated>
-    <content>🍰왕하고 CAKE에게 먹혀버린 예지수😆 #ITZY #있지 #YEJI #예지 #LIA #리아 #YUNA #유나 #ITZY_KILLMYDOUBT  #ITZY_CAKE #CakeChallenge #ITZY_Turning_CAKE</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7264858272887360776" rel="alternate"/>
-    <published>2023-08-08T08:00:32+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7264858446829309202</id>
     <title>🍰왕하고 CAKE에게 먹혀버린 령채🦊 #ITZY #있지 #RYUJIN #류진 #CHAERYEONG #채령  #ITZY_KILLMYDOUBT  #ITZY_CAKE #CakeChallenge  #ITZY_Turning_CAKE</title>
@@ -91,5 +83,13 @@
     <content>#전소미 #JEONSOMI 선배님과 함께 #CAKEChallenge 로 다시 만날때까지 #FastForward ⏩️⏩️⏩️ #ITZY #MIDZY  #ITZY_KILLMYDOUBT  #ITZY_CAKE </content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7266809503566302466" rel="alternate"/>
     <published>2023-08-13T14:12:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7268599859568037128</id>
+    <title>너무 귀엽고 예뻐서 절대 #UNFORGIVEN ❤️‍🔥 #르세라핌 #홍은채 #HONGEUNCHAE 님과 함께한 #CAKEChallenge 🍰 #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE  #LE_SSERAFIM </title>
+    <updated>2023-08-18T09:59:54+00:00</updated>
+    <content>너무 귀엽고 예뻐서 절대 #UNFORGIVEN ❤️‍🔥 #르세라핌 #홍은채 #HONGEUNCHAE 님과 함께한 #CAKEChallenge 🍰 #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE  #LE_SSERAFIM </content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7268599859568037128" rel="alternate"/>
+    <published>2023-08-18T09:59:54+00:00</published>
   </entry>
 </feed>
