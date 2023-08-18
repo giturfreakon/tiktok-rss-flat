@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@twice_tiktok_official</id>
   <title>@twice_tiktok_official | TikTok</title>
-  <updated>2023-08-18T04:06:38+00:00</updated>
+  <updated>2023-08-18T05:03:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @twice_tiktok_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_official/video/7267394619174931713</id>
-    <title>JIHYO The 1st Mini Album "ZONE" Open your eyes and come into ZYO's ZONE🚪 #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</title>
-    <updated>2023-08-15T04:02:53+00:00</updated>
-    <content>JIHYO The 1st Mini Album "ZONE" Open your eyes and come into ZYO's ZONE🚪 #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7267394619174931713" rel="alternate"/>
-    <published>2023-08-15T04:02:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_official/video/7267563987192302850</id>
-    <title>JIHYO "Killin' Me Good" Poster ver. #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</title>
-    <updated>2023-08-15T15:00:05+00:00</updated>
-    <content>JIHYO "Killin' Me Good" Poster ver. #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7267563987192302850" rel="alternate"/>
-    <published>2023-08-15T15:00:05+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_official/video/7267564101847567617</id>
     <title>JIHYO "Talkin’ About It (Feat. 24kGoldn)" Poster ver. #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</title>
@@ -91,5 +75,21 @@
     <content>🎥 JIHYO "Killin' Me Good" M/V (Shorts ver.) #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</content>
     <link href="https://www.tiktok.com/@twice_tiktok_official/video/7268508838607785218" rel="alternate"/>
     <published>2023-08-18T04:06:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_official/video/7268523338752920834</id>
+    <title>🔫 #KillinMeGood Challenge 🔫 #TWICE #트와이스 #JIHYO #지효 #ZONE</title>
+    <updated>2023-08-18T05:02:55+00:00</updated>
+    <content>🔫 #KillinMeGood Challenge 🔫 #TWICE #트와이스 #JIHYO #지효 #ZONE</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7268523338752920834" rel="alternate"/>
+    <published>2023-08-18T05:02:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_official/video/7268523363889450242</id>
+    <title>👖 #KillinMeGood Challenge 👖 #TWICE #트와이스 #JIHYO #지효 #ZONE</title>
+    <updated>2023-08-18T05:03:01+00:00</updated>
+    <content>👖 #KillinMeGood Challenge 👖 #TWICE #트와이스 #JIHYO #지효 #ZONE</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7268523363889450242" rel="alternate"/>
+    <published>2023-08-18T05:03:01+00:00</published>
   </entry>
 </feed>
