@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@twice_tiktok_official</id>
   <title>@twice_tiktok_official | TikTok</title>
-  <updated>2023-08-18T15:23:03+00:00</updated>
+  <updated>2023-08-19T05:00:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @twice_tiktok_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_official/video/7267564562432511234</id>
-    <title>JIHYO "Don’t Wanna Go Back (Duet with Heize)" Poster ver. #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</title>
-    <updated>2023-08-15T15:02:20+00:00</updated>
-    <content>JIHYO "Don’t Wanna Go Back (Duet with Heize)" Poster ver. #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7267564562432511234" rel="alternate"/>
-    <published>2023-08-15T15:02:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_official/video/7267564721375546625</id>
-    <title>JIHYO "Room" Poster ver. #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</title>
-    <updated>2023-08-15T15:02:56+00:00</updated>
-    <content>JIHYO "Room" Poster ver. #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7267564721375546625" rel="alternate"/>
-    <published>2023-08-15T15:02:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_official/video/7267564727159524610</id>
-    <title>JIHYO "Nightmare" Poster ver. #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</title>
-    <updated>2023-08-15T15:02:57+00:00</updated>
-    <content>JIHYO "Nightmare" Poster ver. #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7267564727159524610" rel="alternate"/>
-    <published>2023-08-15T15:02:57+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_official/video/7267935051449404673</id>
     <title>JIHYO "Killin' Me Good" M/V Teaser 2 #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</title>
@@ -91,5 +67,29 @@
     <content>#KillinMeGood Challenge with #Key #TWICE #트와이스 #JIHYO #지효 #ZONE</content>
     <link href="https://www.tiktok.com/@twice_tiktok_official/video/7268683161838603522" rel="alternate"/>
     <published>2023-08-18T15:23:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_official/video/7268893782827945218</id>
+    <title>#KillinMeGood Challenge with #CHAEYOUNG #TWICE #트와이스 #JIHYO #지효 #ZONE</title>
+    <updated>2023-08-19T05:00:24+00:00</updated>
+    <content>#KillinMeGood Challenge with #CHAEYOUNG #TWICE #트와이스 #JIHYO #지효 #ZONE</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7268893782827945218" rel="alternate"/>
+    <published>2023-08-19T05:00:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_official/video/7268893868806982913</id>
+    <title>#KillinMeGood Challenge with #이하음 #TWICE #트와이스 #JIHYO #지효 #ZONE</title>
+    <updated>2023-08-19T05:00:47+00:00</updated>
+    <content>#KillinMeGood Challenge with #이하음 #TWICE #트와이스 #JIHYO #지효 #ZONE</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7268893868806982913" rel="alternate"/>
+    <published>2023-08-19T05:00:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_official/video/7268893899194764546</id>
+    <title>#KillinMeGood Challenge with #김세정 #김나영 #TWICE #트와이스 #JIHYO #지효 #ZONE</title>
+    <updated>2023-08-19T05:00:50+00:00</updated>
+    <content>#KillinMeGood Challenge with #김세정 #김나영 #TWICE #트와이스 #JIHYO #지효 #ZONE</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7268893899194764546" rel="alternate"/>
+    <published>2023-08-19T05:00:50+00:00</published>
   </entry>
 </feed>
