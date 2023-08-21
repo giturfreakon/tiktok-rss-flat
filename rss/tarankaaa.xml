@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tarankaaa</id>
   <title>@tarankaaa | TikTok</title>
-  <updated>2023-08-21T11:29:48+00:00</updated>
+  <updated>2023-08-21T17:20:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tarankaaa</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7266419107405368577</id>
-    <title>#강해보이는얼굴 guys  i wanna do a live stream in an hour here, are u going to join me? 🤍</title>
-    <updated>2023-08-12T12:57:24+00:00</updated>
-    <content>#강해보이는얼굴 guys  i wanna do a live stream in an hour here, are u going to join me? 🤍</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7266419107405368577" rel="alternate"/>
-    <published>2023-08-12T12:57:24+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7267891147844996360</id>
     <title>#grwm 💓💓💓</title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@tarankaaa/video/7269736296107592967" rel="alternate"/>
     <published>2023-08-21T11:29:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7269826808910974216</id>
+    <title>#강해보이는얼굴 мне понравилось сримать видосы с папой </title>
+    <updated>2023-08-21T17:20:59+00:00</updated>
+    <content>#강해보이는얼굴 мне понравилось сримать видосы с папой </content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7269826808910974216" rel="alternate"/>
+    <published>2023-08-21T17:20:59+00:00</published>
   </entry>
 </feed>
