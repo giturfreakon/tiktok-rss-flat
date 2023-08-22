@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-08-21T04:59:53+00:00</updated>
+  <updated>2023-08-22T04:59:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7266651511478832392</id>
-    <title>You wanna know all about me🐠🫧🩵 aespa 에스파 Digital Single 'Better Things' ➫ 2023.08.18 1PM(KST) / 0AM(ET) #BetterThingsChallenge #aespa #æspa #에스파 #BetterThings #aespaBetterThings #NewMusic #PopMusic #SongOfTheSummer</title>
-    <updated>2023-08-13T03:59:13+00:00</updated>
-    <content>You wanna know all about me🐠🫧🩵 aespa 에스파 Digital Single 'Better Things' ➫ 2023.08.18 1PM(KST) / 0AM(ET) #BetterThingsChallenge #aespa #æspa #에스파 #BetterThings #aespaBetterThings #NewMusic #PopMusic #SongOfTheSummer</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7266651511478832392" rel="alternate"/>
-    <published>2023-08-13T03:59:13+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7267022902845787410</id>
     <title>Wanna know about me But he can't have me💔 aespa 에스파 Digital Single 'Better Things' ➫ 2023.08.18 1PM(KST) / 0AM(ET) #BetterThingsChallenge #aespa #æspa #에스파 #BetterThings #aespaBetterThings #NewMusic #PopMusic #SongOfTheSummer</title>
@@ -91,5 +83,13 @@
     <content>#BetterThingsChallenge 🩵🫧🐠 with #JEONSOMI  #aespa #æspa #에스파 #GISELLE  #BetterThings #aespaBetterThings</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7269635817801272578" rel="alternate"/>
     <published>2023-08-21T04:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7270006767495499009</id>
+    <title>#BetterThingsChallenge 🪸🫧❤️‍🔥 with #UKNOW #aespa #æspa #에스파 #KARINA #WINTER #BetterThings #aespaBetterThings</title>
+    <updated>2023-08-22T04:59:21+00:00</updated>
+    <content>#BetterThingsChallenge 🪸🫧❤️‍🔥 with #UKNOW #aespa #æspa #에스파 #KARINA #WINTER #BetterThings #aespaBetterThings</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7270006767495499009" rel="alternate"/>
+    <published>2023-08-22T04:59:21+00:00</published>
   </entry>
 </feed>
