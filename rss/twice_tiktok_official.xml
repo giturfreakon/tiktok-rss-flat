@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@twice_tiktok_official</id>
   <title>@twice_tiktok_official | TikTok</title>
-  <updated>2023-08-22T09:00:09+00:00</updated>
+  <updated>2023-08-23T05:02:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,46 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @twice_tiktok_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_official/video/7269636232601160961</id>
-    <title>#KillinMeGood Challenge with #SANA #TWICE #트와이스 #JIHYO #지효 #ZONE</title>
-    <updated>2023-08-21T05:01:31+00:00</updated>
-    <content>#KillinMeGood Challenge with #SANA #TWICE #트와이스 #JIHYO #지효 #ZONE</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7269636232601160961" rel="alternate"/>
-    <published>2023-08-21T05:01:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_official/video/7269636359155944706</id>
-    <title>ZYO's ZONE Sketch #2 #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood </title>
-    <updated>2023-08-21T05:01:59+00:00</updated>
-    <content>ZYO's ZONE Sketch #2 #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood </content>
-    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7269636359155944706" rel="alternate"/>
-    <published>2023-08-21T05:01:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_official/video/7269697693696478466</id>
-    <title>🎥 JIHYO "Killin' Me Good" Choreography Video (Shorts ver.) #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</title>
-    <updated>2023-08-21T08:59:59+00:00</updated>
-    <content>🎥 JIHYO "Killin' Me Good" Choreography Video (Shorts ver.) #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7269697693696478466" rel="alternate"/>
-    <published>2023-08-21T08:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_official/video/7269713881298177282</id>
-    <title>#KillinMeGood Challenge with #강남 선배님 #TWICE #트와이스 #JIHYO #지효 #ZONE</title>
-    <updated>2023-08-21T10:02:48+00:00</updated>
-    <content>#KillinMeGood Challenge with #강남 선배님 #TWICE #트와이스 #JIHYO #지효 #ZONE</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7269713881298177282" rel="alternate"/>
-    <published>2023-08-21T10:02:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_official/video/7270007074489208065</id>
-    <title>🌼 #KillinMeGood Challenge 🌼 #TWICE #트와이스 #JIHYO #지효 #ZONE</title>
-    <updated>2023-08-22T05:00:33+00:00</updated>
-    <content>🌼 #KillinMeGood Challenge 🌼 #TWICE #트와이스 #JIHYO #지효 #ZONE</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7270007074489208065" rel="alternate"/>
-    <published>2023-08-22T05:00:33+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_official/video/7270007083888610562</id>
     <title>#10Seconds Challenge 10초마다 지효 생각이 나 💭🖤 #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</title>
@@ -91,5 +51,45 @@
     <content>#KillinMeGood Challenge with #이무진 #TWICE #트와이스 #JIHYO #지효 #ZONE</content>
     <link href="https://www.tiktok.com/@twice_tiktok_official/video/7270068820541295874" rel="alternate"/>
     <published>2023-08-22T09:00:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_official/video/7270378685356641538</id>
+    <title>💙 #KillinMeGood Challenge 💙 #TWICE #트와이스 #JIHYO #지효 #ZONE</title>
+    <updated>2023-08-23T05:02:36+00:00</updated>
+    <content>💙 #KillinMeGood Challenge 💙 #TWICE #트와이스 #JIHYO #지효 #ZONE</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7270378685356641538" rel="alternate"/>
+    <published>2023-08-23T05:02:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_official/video/7270378700049288449</id>
+    <title>「Killin' Me Good」 story is... #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</title>
+    <updated>2023-08-23T05:02:37+00:00</updated>
+    <content>「Killin' Me Good」 story is... #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7270378700049288449" rel="alternate"/>
+    <published>2023-08-23T05:02:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_official/video/7270378696110836994</id>
+    <title>#KillinMeGood Challenge with #THEBOYZ #ERIC #TWICE #트와이스 #JIHYO #지효 #ZONE</title>
+    <updated>2023-08-23T05:02:39+00:00</updated>
+    <content>#KillinMeGood Challenge with #THEBOYZ #ERIC #TWICE #트와이스 #JIHYO #지효 #ZONE</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7270378696110836994" rel="alternate"/>
+    <published>2023-08-23T05:02:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_official/video/7270378698384166145</id>
+    <title>#KillinMeGood Challenge with #명재현 #운학 #TWICE #트와이스 #JIHYO #지효 #ZONE</title>
+    <updated>2023-08-23T05:02:40+00:00</updated>
+    <content>#KillinMeGood Challenge with #명재현 #운학 #TWICE #트와이스 #JIHYO #지효 #ZONE</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7270378698384166145" rel="alternate"/>
+    <published>2023-08-23T05:02:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_official/video/7270378716734213377</id>
+    <title>ZYO's ZONE Sketch #4 #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood #Closer</title>
+    <updated>2023-08-23T05:02:42+00:00</updated>
+    <content>ZYO's ZONE Sketch #4 #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood #Closer</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7270378716734213377" rel="alternate"/>
+    <published>2023-08-23T05:02:42+00:00</published>
   </entry>
 </feed>
