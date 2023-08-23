@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@twice_tiktok_official</id>
   <title>@twice_tiktok_official | TikTok</title>
-  <updated>2023-08-23T05:02:42+00:00</updated>
+  <updated>2023-08-23T06:48:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @twice_tiktok_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_official/video/7270007083888610562</id>
-    <title>#10Seconds Challenge 10초마다 지효 생각이 나 💭🖤 #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</title>
-    <updated>2023-08-22T05:00:34+00:00</updated>
-    <content>#10Seconds Challenge 10초마다 지효 생각이 나 💭🖤 #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7270007083888610562" rel="alternate"/>
-    <published>2023-08-22T05:00:34+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_official/video/7270007162020039937</id>
     <title>#KillinMeGood Challenge with #DAHYUN #TWICE #트와이스 #JIHYO #지효 #ZONE</title>
@@ -91,5 +83,13 @@
     <content>ZYO's ZONE Sketch #4 #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood #Closer</content>
     <link href="https://www.tiktok.com/@twice_tiktok_official/video/7270378716734213377" rel="alternate"/>
     <published>2023-08-23T05:02:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_official/video/7270405982910450945</id>
+    <title>Drive JIHYO’s car with the official ZONE filter 🚗 #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</title>
+    <updated>2023-08-23T06:48:31+00:00</updated>
+    <content>Drive JIHYO’s car with the official ZONE filter 🚗 #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7270405982910450945" rel="alternate"/>
+    <published>2023-08-23T06:48:31+00:00</published>
   </entry>
 </feed>
