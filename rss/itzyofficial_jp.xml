@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial_jp</id>
   <title>@itzyofficial_jp | TikTok</title>
-  <updated>2023-08-24T04:05:18+00:00</updated>
+  <updated>2023-08-25T04:03:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial_jp</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial_jp/video/7201712308224150785</id>
-    <title>ITZY THE 1ST WORLD TOUR &lt;CHECKMATE&gt; in JAPAN #CHAERYEONG D-3 https://youtu.be/gPH5LPJ_E2I  #ITZY #MIDZY  #ITZY_WORLD_TOUR #ITZY_CHECKMATE</title>
-    <updated>2023-02-19T04:02:04+00:00</updated>
-    <content>ITZY THE 1ST WORLD TOUR &lt;CHECKMATE&gt; in JAPAN #CHAERYEONG D-3 https://youtu.be/gPH5LPJ_E2I  #ITZY #MIDZY  #ITZY_WORLD_TOUR #ITZY_CHECKMATE</content>
-    <link href="https://www.tiktok.com/@itzyofficial_jp/video/7201712308224150785" rel="alternate"/>
-    <published>2023-02-19T04:02:04+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial_jp/video/7202084871039208705</id>
     <title>ITZY THE 1ST WORLD TOUR &lt;CHECKMATE&gt; in JAPAN #YUNA   D-2 https://youtu.be/gfJhteWcD3w   #ITZY #MIDZY  #ITZY_WORLD_TOUR #ITZY_CHECKMATE</title>
@@ -91,5 +83,13 @@
     <content>. ♟ITZY THE 1ST WORLD TOUR &lt;CHECKMATE&gt; in JAPAN LIVE DVD &amp; Blu-ray 📀 📌 2023.08.30 (Wed) Release ✨ #YEJI#ITZY #MIDZY #ITZY_WORLD_TOUR #ITZY_CHECKMATE</content>
     <link href="https://www.tiktok.com/@itzyofficial_jp/video/7270735015187582210" rel="alternate"/>
     <published>2023-08-24T04:05:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial_jp/video/7271105656319429889</id>
+    <title>♟ITZY THE 1ST WORLD TOUR &lt;CHECKMATE&gt; in JAPAN LIVE DVD &amp; Blu-ray 📀 📌 2023.08.30 (Wed) Release ✨ #LIA#ITZY #MIDZY #ITZY_WORLD_TOUR #ITZY_CHECKMATE</title>
+    <updated>2023-08-25T04:03:35+00:00</updated>
+    <content>♟ITZY THE 1ST WORLD TOUR &lt;CHECKMATE&gt; in JAPAN LIVE DVD &amp; Blu-ray 📀 📌 2023.08.30 (Wed) Release ✨ #LIA#ITZY #MIDZY #ITZY_WORLD_TOUR #ITZY_CHECKMATE</content>
+    <link href="https://www.tiktok.com/@itzyofficial_jp/video/7271105656319429889" rel="alternate"/>
+    <published>2023-08-25T04:03:35+00:00</published>
   </entry>
 </feed>
