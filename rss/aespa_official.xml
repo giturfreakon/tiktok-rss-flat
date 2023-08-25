@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-08-25T04:59:00+00:00</updated>
+  <updated>2023-08-25T11:59:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7267121130840919314</id>
-    <title>🧛‍♀️🦖🫨 #vampire #OliviaRodrigo  #aespa #æspa #에스파  #GISELLE #지젤 #KARINA #카리나</title>
-    <updated>2023-08-14T10:21:36+00:00</updated>
-    <content>🧛‍♀️🦖🫨 #vampire #OliviaRodrigo  #aespa #æspa #에스파  #GISELLE #지젤 #KARINA #카리나</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7267121130840919314" rel="alternate"/>
-    <published>2023-08-14T10:21:36+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7268260029248244994</id>
     <title>i just keep coming back to minjeong 😏🎸 #Violet #TOYOUUuuUu #aespa #æspa #에스파 #WINTER #윈터</title>
@@ -91,5 +83,23 @@
     <content>#BetterThingsChallenge 💝🫧🪸 with #HYO #aespa #æspa #에스파 #KARINA #GISELLE #BetterThings #aespaBetterThings</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7271119939832941825" rel="alternate"/>
     <published>2023-08-25T04:59:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7271228206424886529</id>
+    <title>#aespa big girls making money 💸🫧🖤
+  
+ #BetterThingsChallenge
+ #æspa #에스파
+ #KARINA #GISELLE #WINTER #NINGNING
+ #BetterThings #aespaBetterThings</title>
+    <updated>2023-08-25T11:59:08+00:00</updated>
+    <content>#aespa big girls making money 💸🫧🖤
+  
+ #BetterThingsChallenge
+ #æspa #에스파
+ #KARINA #GISELLE #WINTER #NINGNING
+ #BetterThings #aespaBetterThings</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7271228206424886529" rel="alternate"/>
+    <published>2023-08-25T11:59:08+00:00</published>
   </entry>
 </feed>

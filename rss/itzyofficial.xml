@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-08-25T01:18:55+00:00</updated>
+  <updated>2023-08-25T12:41:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7266804101328014594</id>
-    <title>#조유리_TAXI_타고_직진 🚕 하다가 잠깐 #CAKEChallenge 한 조각🍰 하고 가실게요 #ITZY #MIDZY  #ITZY_KILLMYDOUBT  #ITZY_CAKE  #JOYURI #조유리 </title>
-    <updated>2023-08-13T13:51:22+00:00</updated>
-    <content>#조유리_TAXI_타고_직진 🚕 하다가 잠깐 #CAKEChallenge 한 조각🍰 하고 가실게요 #ITZY #MIDZY  #ITZY_KILLMYDOUBT  #ITZY_CAKE  #JOYURI #조유리 </content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7266804101328014594" rel="alternate"/>
-    <published>2023-08-13T13:51:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7266809503566302466</id>
-    <title>#전소미 #JEONSOMI 선배님과 함께 #CAKEChallenge 로 다시 만날때까지 #FastForward ⏩️⏩️⏩️ #ITZY #MIDZY  #ITZY_KILLMYDOUBT  #ITZY_CAKE </title>
-    <updated>2023-08-13T14:12:19+00:00</updated>
-    <content>#전소미 #JEONSOMI 선배님과 함께 #CAKEChallenge 로 다시 만날때까지 #FastForward ⏩️⏩️⏩️ #ITZY #MIDZY  #ITZY_KILLMYDOUBT  #ITZY_CAKE </content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7266809503566302466" rel="alternate"/>
-    <published>2023-08-13T14:12:19+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7268599859568037128</id>
     <title>너무 귀엽고 예뻐서 절대 #UNFORGIVEN ❤️‍🔥 #르세라핌 #홍은채 #HONGEUNCHAE 님과 함께한 #CAKEChallenge 🍰 #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE  #LE_SSERAFIM </title>
@@ -91,5 +75,21 @@
     <content>MIDZY 덕분에 매일이 like ITZY's birthday💝 🎉Thank you MIDZY for 30M VIEWS🎉 🎬 https://youtu.be/0bIRwBpBcZQ #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE</content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7271063212186012930" rel="alternate"/>
     <published>2023-08-25T01:18:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7271236491433544961</id>
+    <title>Sometimes sometimes #예지 #YEJI 는 시원한 바람을 원해 🩵 📹 Filmed by #류진 #RYUJIN  💨 Wind by #채령 #CHAERYEONG  #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE  #CAKEChallenge</title>
+    <updated>2023-08-25T12:31:16+00:00</updated>
+    <content>Sometimes sometimes #예지 #YEJI 는 시원한 바람을 원해 🩵 📹 Filmed by #류진 #RYUJIN  💨 Wind by #채령 #CHAERYEONG  #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE  #CAKEChallenge</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7271236491433544961" rel="alternate"/>
+    <published>2023-08-25T12:31:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7271239188517833986</id>
+    <title>#리아 #LIA 궁합즈의 움직임대로 yeah like 🍰 📹 Filmed by #유나 #YUNA #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE  #CAKEChallenge</title>
+    <updated>2023-08-25T12:41:45+00:00</updated>
+    <content>#리아 #LIA 궁합즈의 움직임대로 yeah like 🍰 📹 Filmed by #유나 #YUNA #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE  #CAKEChallenge</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7271239188517833986" rel="alternate"/>
+    <published>2023-08-25T12:41:45+00:00</published>
   </entry>
 </feed>
