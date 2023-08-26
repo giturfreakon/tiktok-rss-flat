@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-08-25T12:41:45+00:00</updated>
+  <updated>2023-08-26T04:25:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7268599859568037128</id>
-    <title>너무 귀엽고 예뻐서 절대 #UNFORGIVEN ❤️‍🔥 #르세라핌 #홍은채 #HONGEUNCHAE 님과 함께한 #CAKEChallenge 🍰 #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE  #LE_SSERAFIM </title>
-    <updated>2023-08-18T09:59:54+00:00</updated>
-    <content>너무 귀엽고 예뻐서 절대 #UNFORGIVEN ❤️‍🔥 #르세라핌 #홍은채 #HONGEUNCHAE 님과 함께한 #CAKEChallenge 🍰 #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE  #LE_SSERAFIM </content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7268599859568037128" rel="alternate"/>
-    <published>2023-08-18T09:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7268611833550867720</id>
-    <title>#스테이씨 #시은 님과 #CAKEChallenge 하고 보니 오늘 하루도 SO #TEENFRESH 🩵 슬픔은 다 #Bubble 처럼 사라져🫧 #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE  #STAYC #Sieun </title>
-    <updated>2023-08-18T10:46:16+00:00</updated>
-    <content>#스테이씨 #시은 님과 #CAKEChallenge 하고 보니 오늘 하루도 SO #TEENFRESH 🩵 슬픔은 다 #Bubble 처럼 사라져🫧 #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE  #STAYC #Sieun </content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7268611833550867720" rel="alternate"/>
-    <published>2023-08-18T10:46:16+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7268645391267106056</id>
     <title>우리 MIDZY 만나러 가자!  ㄴ 🎂K 🎂K 🎂K 🎂K 🎂K #ITZY #MIDZY  #ITZY_KILLMYDOUBT  #ITZY_CAKE  #CAKEChallenge</title>
@@ -91,5 +75,21 @@
     <content>#리아 #LIA 궁합즈의 움직임대로 yeah like 🍰 📹 Filmed by #유나 #YUNA #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE  #CAKEChallenge</content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7271239188517833986" rel="alternate"/>
     <published>2023-08-25T12:41:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7271481178618596609</id>
+    <title>🐱캣즈🐱 #예지 #YEJI #류진 #RYUJIN #채령 #CHAERYEONG 📹 BEHIND THE CHALLENGE #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE #CAKEChallenge</title>
+    <updated>2023-08-26T04:20:49+00:00</updated>
+    <content>🐱캣즈🐱 #예지 #YEJI #류진 #RYUJIN #채령 #CHAERYEONG 📹 BEHIND THE CHALLENGE #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE #CAKEChallenge</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7271481178618596609" rel="alternate"/>
+    <published>2023-08-26T04:20:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7271482265270619394</id>
+    <title>🩷궁합즈🩷 #리아 #LIA #유나 #YUNA 📹 BEHIND THE CHALLENGE #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE  #CAKEChallenge</title>
+    <updated>2023-08-26T04:25:03+00:00</updated>
+    <content>🩷궁합즈🩷 #리아 #LIA #유나 #YUNA 📹 BEHIND THE CHALLENGE #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE  #CAKEChallenge</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7271482265270619394" rel="alternate"/>
+    <published>2023-08-26T04:25:03+00:00</published>
   </entry>
 </feed>
