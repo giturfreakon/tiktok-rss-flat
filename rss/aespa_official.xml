@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-08-27T09:58:41+00:00</updated>
+  <updated>2023-08-27T12:00:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7268970989898255617</id>
-    <title>#aespa and #XG big girls making money 💸🖤   #BetterThingsChallenge #æspa #KARINA #GISELLE #CHISA #JURIA #BetterThings #aespaBetterThings</title>
-    <updated>2023-08-19T10:00:00+00:00</updated>
-    <content>#aespa and #XG big girls making money 💸🖤   #BetterThingsChallenge #æspa #KARINA #GISELLE #CHISA #JURIA #BetterThings #aespaBetterThings</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7268970989898255617" rel="alternate"/>
-    <published>2023-08-19T10:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7269002047280762114</id>
     <title>my energy is just too precious to waste ⚡️🫶⚡️   #BetterThingsChallenge #aespa #æspa #에스파 #BetterThings #aespaBetterThings</title>
@@ -109,5 +101,21 @@
  #BetterThings #aespaBetterThings</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7271939334209654018" rel="alternate"/>
     <published>2023-08-27T09:58:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7271970631158205698</id>
+    <title>Cutie pies 🐶
+ 
+ #Atlanta
+ #aespa #æspa #에스파
+ #NINGNING #닝닝</title>
+    <updated>2023-08-27T12:00:08+00:00</updated>
+    <content>Cutie pies 🐶
+ 
+ #Atlanta
+ #aespa #æspa #에스파
+ #NINGNING #닝닝</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7271970631158205698" rel="alternate"/>
+    <published>2023-08-27T12:00:08+00:00</published>
   </entry>
 </feed>
