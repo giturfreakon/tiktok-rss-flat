@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-08-27T08:59:52+00:00</updated>
+  <updated>2023-08-27T15:03:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7270889354245983506</id>
-    <title>Ooh wee🍰 lalala lalala la la~😆 #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE  #CAKEChallenge</title>
-    <updated>2023-08-24T14:04:12+00:00</updated>
-    <content>Ooh wee🍰 lalala lalala la la~😆 #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE  #CAKEChallenge</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7270889354245983506" rel="alternate"/>
-    <published>2023-08-24T14:04:12+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7271063212186012930</id>
     <title>MIDZY 덕분에 매일이 like ITZY's birthday💝 🎉Thank you MIDZY for 30M VIEWS🎉 🎬 https://youtu.be/0bIRwBpBcZQ #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE</title>
@@ -91,5 +83,13 @@
     <content>똑똑똑🚪 세상에서 단 하나뿐인 #OneandOnly #CAKEChallenge 를 #BOYNEXTDOOR 와 함께 🍰 #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE</content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7271924172870274311" rel="alternate"/>
     <published>2023-08-27T08:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7272017862787632386</id>
+    <title>ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION RECRUITMENT 🎤 BAND ITZY 🎸 https://youtu.be/M8QXJ1F4yqc Coming Soon @ YES24 2023.09.04 MON 7PM (KST) #ITZY #MIDZY #MIDZY3RDGENERATION </title>
+    <updated>2023-08-27T15:03:25+00:00</updated>
+    <content>ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION RECRUITMENT 🎤 BAND ITZY 🎸 https://youtu.be/M8QXJ1F4yqc Coming Soon @ YES24 2023.09.04 MON 7PM (KST) #ITZY #MIDZY #MIDZY3RDGENERATION </content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7272017862787632386" rel="alternate"/>
+    <published>2023-08-27T15:03:25+00:00</published>
   </entry>
 </feed>
