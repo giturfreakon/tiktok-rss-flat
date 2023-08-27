@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-08-26T13:41:33+00:00</updated>
+  <updated>2023-08-27T07:57:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7270111667944574216</id>
-    <title>줏대있게 왕! 하고 케익 먹기를 6번이나 실패한 #스트레이키즈 #창빈 선배님과 빛깔번쩍한 #S_Class #CAKEChallenge 🎂 #ITZY #MIDZY  #ITZY_KILLMYDOUBT  #ITZY_CAKE  #StrayKids #Changbin</title>
-    <updated>2023-08-22T11:46:24+00:00</updated>
-    <content>줏대있게 왕! 하고 케익 먹기를 6번이나 실패한 #스트레이키즈 #창빈 선배님과 빛깔번쩍한 #S_Class #CAKEChallenge 🎂 #ITZY #MIDZY  #ITZY_KILLMYDOUBT  #ITZY_CAKE  #StrayKids #Changbin</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7270111667944574216" rel="alternate"/>
-    <published>2023-08-22T11:46:24+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7270360872067927304</id>
     <title>#에이티즈 #민기 선배님과 #청양고추Vibe 잔뜩 뿌린 #CAKEChallenge 🍰 멋쁨에 심장이 자꾸 #BOUNCY ❤️‍🔥 #ITZY #MIDZY  #ITZY_KILLMYDOUBT  #ITZY_CAKE  #ATEEZ #MINGI </title>
@@ -91,5 +83,13 @@
     <content>#트리플에스 와 #CAKEChallenge 말아버려 like La La La La Heart 💖 마치 like #LOVElution 🩷 #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE #tripleS </content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7271625681551805697" rel="alternate"/>
     <published>2023-08-26T13:41:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7271908185592597767</id>
+    <title>십 초 마다 생각이 나는 #트와이스 #지효 선배님의 #CAKEChallenge is so #KillinMeGood ❤‍🔥 #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE #TWICE #JIHYO</title>
+    <updated>2023-08-27T07:57:48+00:00</updated>
+    <content>십 초 마다 생각이 나는 #트와이스 #지효 선배님의 #CAKEChallenge is so #KillinMeGood ❤‍🔥 #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE #TWICE #JIHYO</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7271908185592597767" rel="alternate"/>
+    <published>2023-08-27T07:57:48+00:00</published>
   </entry>
 </feed>
