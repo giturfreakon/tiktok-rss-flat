@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@newjeans_official</id>
   <title>@newjeans_official | TikTok</title>
-  <updated>2023-08-29T08:59:06+00:00</updated>
+  <updated>2023-08-31T01:47:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @newjeans_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@newjeans_official/video/7268605769971551496</id>
-    <title>Hi it's me again I'm back 👋 #NewJeans #뉴진스  #NewJeans_ASAP #NewJeans_GetUp #Time_to_NewJeans</title>
-    <updated>2023-08-18T10:22:47+00:00</updated>
-    <content>Hi it's me again I'm back 👋 #NewJeans #뉴진스  #NewJeans_ASAP #NewJeans_GetUp #Time_to_NewJeans</content>
-    <link href="https://www.tiktok.com/@newjeans_official/video/7268605769971551496" rel="alternate"/>
-    <published>2023-08-18T10:22:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@newjeans_official/video/7269960095524588818</id>
-    <title>Hype 'V'oy with #BTS #V 🧸 #NewJeans #뉴진스  #NewJeans_HypeBoy #Time_to_NewJeans</title>
-    <updated>2023-08-22T01:58:13+00:00</updated>
-    <content>Hype 'V'oy with #BTS #V 🧸 #NewJeans #뉴진스  #NewJeans_HypeBoy #Time_to_NewJeans</content>
-    <link href="https://www.tiktok.com/@newjeans_official/video/7269960095524588818" rel="alternate"/>
-    <published>2023-08-22T01:58:13+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@newjeans_official/video/7270099344366275848</id>
     <title>Team NewJeans Styled in Women’s football jerseys 🐰⚽️ #광고 #teamnike #NikeFC #REPYOURFED #NewJeans #뉴진스 #Time_to_NewJeans</title>
@@ -91,5 +75,21 @@
     <content>L.o.v.e.L.e.e 🪐💞 #NewJeans #뉴진스 #Time_to_NewJeans</content>
     <link href="https://www.tiktok.com/@newjeans_official/video/7272666158652853512" rel="alternate"/>
     <published>2023-08-29T08:59:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@newjeans_official/video/7273296873505459463</id>
+    <title>WHAT'S ETA BACKWARDS? #NewJeans #뉴진스 #NewJeans_ETA #NewJeans_GetUp #Time_to_NewJeans</title>
+    <updated>2023-08-31T01:46:38+00:00</updated>
+    <content>WHAT'S ETA BACKWARDS? #NewJeans #뉴진스 #NewJeans_ETA #NewJeans_GetUp #Time_to_NewJeans</content>
+    <link href="https://www.tiktok.com/@newjeans_official/video/7273296873505459463" rel="alternate"/>
+    <published>2023-08-31T01:46:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@newjeans_official/video/7273297085179448594</id>
+    <title>g͓̽e͓̽t͓̽ ͓̽u͓̽p͓̽ ͓̽c͓̽o͓̽r͓̽e͓̽ #NewJeans #뉴진스 #NewJeans_GetUp #Time_to_NewJeans</title>
+    <updated>2023-08-31T01:47:28+00:00</updated>
+    <content>g͓̽e͓̽t͓̽ ͓̽u͓̽p͓̽ ͓̽c͓̽o͓̽r͓̽e͓̽ #NewJeans #뉴진스 #NewJeans_GetUp #Time_to_NewJeans</content>
+    <link href="https://www.tiktok.com/@newjeans_official/video/7273297085179448594" rel="alternate"/>
+    <published>2023-08-31T01:47:28+00:00</published>
   </entry>
 </feed>
