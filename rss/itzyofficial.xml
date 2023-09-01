@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-08-27T15:03:25+00:00</updated>
+  <updated>2023-09-01T10:46:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7271063212186012930</id>
-    <title>MIDZY 덕분에 매일이 like ITZY's birthday💝 🎉Thank you MIDZY for 30M VIEWS🎉 🎬 https://youtu.be/0bIRwBpBcZQ #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE</title>
-    <updated>2023-08-25T01:18:55+00:00</updated>
-    <content>MIDZY 덕분에 매일이 like ITZY's birthday💝 🎉Thank you MIDZY for 30M VIEWS🎉 🎬 https://youtu.be/0bIRwBpBcZQ #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7271063212186012930" rel="alternate"/>
-    <published>2023-08-25T01:18:55+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7271236491433544961</id>
     <title>Sometimes sometimes #예지 #YEJI 는 시원한 바람을 원해 🩵 📹 Filmed by #류진 #RYUJIN  💨 Wind by #채령 #CHAERYEONG  #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE  #CAKEChallenge</title>
@@ -91,5 +83,13 @@
     <content>ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION RECRUITMENT 🎤 BAND ITZY 🎸 https://youtu.be/M8QXJ1F4yqc Coming Soon @ YES24 2023.09.04 MON 7PM (KST) #ITZY #MIDZY #MIDZY3RDGENERATION </content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7272017862787632386" rel="alternate"/>
     <published>2023-08-27T15:03:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7273807119277657345</id>
+    <title>공일즈🐱 #류진 #RYUJIN #채령 #CHAERYEONG 스타일로 Shake it shake❤️‍🔥 #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE  #CAKEChallenge</title>
+    <updated>2023-09-01T10:46:37+00:00</updated>
+    <content>공일즈🐱 #류진 #RYUJIN #채령 #CHAERYEONG 스타일로 Shake it shake❤️‍🔥 #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE  #CAKEChallenge</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7273807119277657345" rel="alternate"/>
+    <published>2023-09-01T10:46:37+00:00</published>
   </entry>
 </feed>
