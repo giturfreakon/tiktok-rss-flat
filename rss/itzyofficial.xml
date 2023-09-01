@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-09-01T10:46:37+00:00</updated>
+  <updated>2023-09-01T11:57:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7271236491433544961</id>
-    <title>Sometimes sometimes #예지 #YEJI 는 시원한 바람을 원해 🩵 📹 Filmed by #류진 #RYUJIN  💨 Wind by #채령 #CHAERYEONG  #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE  #CAKEChallenge</title>
-    <updated>2023-08-25T12:31:16+00:00</updated>
-    <content>Sometimes sometimes #예지 #YEJI 는 시원한 바람을 원해 🩵 📹 Filmed by #류진 #RYUJIN  💨 Wind by #채령 #CHAERYEONG  #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE  #CAKEChallenge</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7271236491433544961" rel="alternate"/>
-    <published>2023-08-25T12:31:16+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7271239188517833986</id>
     <title>#리아 #LIA 궁합즈의 움직임대로 yeah like 🍰 📹 Filmed by #유나 #YUNA #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE  #CAKEChallenge</title>
@@ -91,5 +83,13 @@
     <content>공일즈🐱 #류진 #RYUJIN #채령 #CHAERYEONG 스타일로 Shake it shake❤️‍🔥 #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE  #CAKEChallenge</content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7273807119277657345" rel="alternate"/>
     <published>2023-09-01T10:46:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7273825261190253842</id>
+    <title>SHOUT OUT TO #ALL_MY_GIRLS 🎤 #에버글로우 #아샤 님과 함께한 #CAKEChallenge 완전 #SLAY ❤️‍🔥 #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE #EVERGLOW #AISHA</title>
+    <updated>2023-09-01T11:57:00+00:00</updated>
+    <content>SHOUT OUT TO #ALL_MY_GIRLS 🎤 #에버글로우 #아샤 님과 함께한 #CAKEChallenge 완전 #SLAY ❤️‍🔥 #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE #EVERGLOW #AISHA</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7273825261190253842" rel="alternate"/>
+    <published>2023-09-01T11:57:00+00:00</published>
   </entry>
 </feed>

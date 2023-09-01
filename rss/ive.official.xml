@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-08-31T04:59:22+00:00</updated>
+  <updated>2023-09-01T12:11:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7250444137613249799</id>
-    <title>최애의 치즈랑이 🐱🐯✨ #IVE #아이브 #アイヴ #LIZ #리즈 #リズ #LEESEO #이서 #イソ</title>
-    <updated>2023-06-30T11:46:18+00:00</updated>
-    <content>최애의 치즈랑이 🐱🐯✨ #IVE #아이브 #アイヴ #LIZ #리즈 #リズ #LEESEO #이서 #イソ</content>
-    <link href="https://www.tiktok.com/@ive.official/video/7250444137613249799" rel="alternate"/>
-    <published>2023-06-30T11:46:18+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7250490756962569490</id>
     <title>자기 전에 올리는 마카레나 💁‍♀ (P.S 🎵 오늘의 추천 곡 “NOT SORRY - 이영지”…🫶) #IVE #아이브 #アイヴ #ANYUJIN #안유진 #アンユジン #ユジン #이영지 #뿅뿅지구오락실2 #eartharcade2 </title>
@@ -91,5 +83,13 @@
     <content>생일 기념 체리냥이파 선물 🐈🤍 #IVE #아이브 #アイヴ #JANGWONYOUNG #장원영 #ジャンウォニョン #ウォニョン #HappyJANGWONYOUNGday #해피_버스데이_녕 🐰 </content>
     <link href="https://www.tiktok.com/@ive.official/video/7273346548145147137" rel="alternate"/>
     <published>2023-08-31T04:59:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7273828947433999617</id>
+    <title>Every Single Day, I'll be Missing You 🐕🧁 #IVE #아이브 #アイヴ #ANYUJIN #안유진 #アンユジン #ユジン #HappyANYUJINday #9월_최대이벤트_안유진생일 🌟</title>
+    <updated>2023-09-01T12:11:20+00:00</updated>
+    <content>Every Single Day, I'll be Missing You 🐕🧁 #IVE #아이브 #アイヴ #ANYUJIN #안유진 #アンユジン #ユジン #HappyANYUJINday #9월_최대이벤트_안유진생일 🌟</content>
+    <link href="https://www.tiktok.com/@ive.official/video/7273828947433999617" rel="alternate"/>
+    <published>2023-09-01T12:11:20+00:00</published>
   </entry>
 </feed>

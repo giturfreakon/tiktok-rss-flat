@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-09-01T10:00:14+00:00</updated>
+  <updated>2023-09-01T12:00:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7271119939832941825</id>
-    <title>#BetterThingsChallenge 💝🫧🪸 with #HYO #aespa #æspa #에스파 #KARINA #GISELLE #BetterThings #aespaBetterThings</title>
-    <updated>2023-08-25T04:59:00+00:00</updated>
-    <content>#BetterThingsChallenge 💝🫧🪸 with #HYO #aespa #æspa #에스파 #KARINA #GISELLE #BetterThings #aespaBetterThings</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7271119939832941825" rel="alternate"/>
-    <published>2023-08-25T04:59:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7271228206424886529</id>
     <title>#aespa big girls making money 💸🫧🖤
@@ -139,5 +131,13 @@
     <content>🎺🫧✨ #Chicago #pinkchampagne #aespa #æspa #에스파 #KARINA #카리나</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7273795166656367880" rel="alternate"/>
     <published>2023-09-01T10:00:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7273826131424398600</id>
+    <title>Bombastic side eye 👀   #bombasticsideeye #aespa #æspa #에스파 #BetterThings #aespaBetterThings</title>
+    <updated>2023-09-01T12:00:23+00:00</updated>
+    <content>Bombastic side eye 👀   #bombasticsideeye #aespa #æspa #에스파 #BetterThings #aespaBetterThings</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7273826131424398600" rel="alternate"/>
+    <published>2023-09-01T12:00:23+00:00</published>
   </entry>
 </feed>
