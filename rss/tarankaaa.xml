@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tarankaaa</id>
   <title>@tarankaaa | TikTok</title>
-  <updated>2023-08-27T12:04:36+00:00</updated>
+  <updated>2023-09-02T09:49:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tarankaaa</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7269736296107592967</id>
-    <title>[no title]</title>
-    <updated>2023-08-21T11:29:48+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7269736296107592967" rel="alternate"/>
-    <published>2023-08-21T11:29:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7270500396102143240</id>
-    <title>@Stefan Taran woth my brother 🥸</title>
-    <updated>2023-08-23T12:54:53+00:00</updated>
-    <content>@Stefan Taran woth my brother 🥸</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7270500396102143240" rel="alternate"/>
-    <published>2023-08-23T12:54:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7270500843298786567</id>
-    <title>we love this song ❤️❤️❤️</title>
-    <updated>2023-08-23T12:56:36+00:00</updated>
-    <content>we love this song ❤️❤️❤️</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7270500843298786567" rel="alternate"/>
-    <published>2023-08-23T12:56:36+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7270501441616301320</id>
     <title>With my brother 👨‍🌾 @Stefan Taran </title>
@@ -91,5 +67,29 @@
     <content>siblings 👨‍🌾@Stefan Taran </content>
     <link href="https://www.tiktok.com/@tarankaaa/video/7271971785975827719" rel="alternate"/>
     <published>2023-08-27T12:04:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7274162810932743431</id>
+    <title>Thank you so much for joining my live stream 😭🫶</title>
+    <updated>2023-09-02T09:46:53+00:00</updated>
+    <content>Thank you so much for joining my live stream 😭🫶</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7274162810932743431" rel="alternate"/>
+    <published>2023-09-02T09:46:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7274163070602120466</id>
+    <title>#판타지드래곤 😭😭😭</title>
+    <updated>2023-09-02T09:47:53+00:00</updated>
+    <content>#판타지드래곤 😭😭😭</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7274163070602120466" rel="alternate"/>
+    <published>2023-09-02T09:47:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7274163509942996232</id>
+    <title>[no title]</title>
+    <updated>2023-09-02T09:49:35+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7274163509942996232" rel="alternate"/>
+    <published>2023-09-02T09:49:35+00:00</published>
   </entry>
 </feed>
