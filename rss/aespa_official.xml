@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-09-02T14:45:47+00:00</updated>
+  <updated>2023-09-03T10:00:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7271970631158205698</id>
-    <title>Cutie pies 🐶
- 
- #Atlanta
- #aespa #æspa #에스파
- #NINGNING #닝닝</title>
-    <updated>2023-08-27T12:00:08+00:00</updated>
-    <content>Cutie pies 🐶
- 
- #Atlanta
- #aespa #æspa #에스파
- #NINGNING #닝닝</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7271970631158205698" rel="alternate"/>
-    <published>2023-08-27T12:00:08+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7272310463432805634</id>
     <title>#aespa you're our number 1️⃣ fan now 💘
@@ -121,5 +105,13 @@
     <content>Better things to do with my time ⭐️🪸⏰    #BetterThingsChallenge #aespa #æspa #에스파 #WINTER #윈터 #BetterThings #aespaBetterThings</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7274239830140161281" rel="alternate"/>
     <published>2023-09-02T14:45:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7274537359461321992</id>
+    <title>Me = obsessed with MY 🫶   #aespa #æspa #에스파 #KARINA #GISELLE #audiz Better things to do with my time ⏰❤️‍🔥🌙 </title>
+    <updated>2023-09-03T10:00:18+00:00</updated>
+    <content>Me = obsessed with MY 🫶   #aespa #æspa #에스파 #KARINA #GISELLE #audiz Better things to do with my time ⏰❤️‍🔥🌙 </content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7274537359461321992" rel="alternate"/>
+    <published>2023-09-03T10:00:18+00:00</published>
   </entry>
 </feed>
