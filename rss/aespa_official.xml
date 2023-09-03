@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-09-03T10:00:18+00:00</updated>
+  <updated>2023-09-03T12:05:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7272310463432805634</id>
-    <title>#aespa you're our number 1️⃣ fan now 💘
- 
- #BetterThingsChallenge
- #æspa #에스파
- #BetterThings #aespaBetterThings</title>
-    <updated>2023-08-28T09:58:52+00:00</updated>
-    <content>#aespa you're our number 1️⃣ fan now 💘
- 
- #BetterThingsChallenge
- #æspa #에스파
- #BetterThings #aespaBetterThings</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7272310463432805634" rel="alternate"/>
-    <published>2023-08-28T09:58:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7272341259631496450</id>
-    <title>Lucid Dream 😴⭐️💫
- 
- #Atlanta
- #aespa #æspa #에스파
- #WINTER #윈터</title>
-    <updated>2023-08-28T11:58:21+00:00</updated>
-    <content>Lucid Dream 😴⭐️💫
- 
- #Atlanta
- #aespa #æspa #에스파
- #WINTER #윈터</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7272341259631496450" rel="alternate"/>
-    <published>2023-08-28T11:58:21+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7272696857149672705</id>
     <title>💌 Invite our number 1️⃣ fan to our 'Better Things' MV Set
@@ -113,5 +81,21 @@
     <content>Me = obsessed with MY 🫶   #aespa #æspa #에스파 #KARINA #GISELLE #audiz Better things to do with my time ⏰❤️‍🔥🌙 </content>
     <link href="https://www.tiktok.com/@aespa_official/video/7274537359461321992" rel="alternate"/>
     <published>2023-09-03T10:00:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7274568333725355272</id>
+    <title>Better things to do with my time ⏰❤️‍🔥🌙  #BetterThingsChallenge #aespa #æspa #에스파 #GISELLE #지젤 #BetterThings #aespaBetterThings</title>
+    <updated>2023-09-03T12:00:31+00:00</updated>
+    <content>Better things to do with my time ⏰❤️‍🔥🌙  #BetterThingsChallenge #aespa #æspa #에스파 #GISELLE #지젤 #BetterThings #aespaBetterThings</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7274568333725355272" rel="alternate"/>
+    <published>2023-09-03T12:00:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7274569623184461063</id>
+    <title>Better things to do with my time 🐠💦💙  #BetterThingsChallenge #aespa #æspa #에스파 #KARINA #카리나 #BetterThings #aespaBetterThings</title>
+    <updated>2023-09-03T12:05:32+00:00</updated>
+    <content>Better things to do with my time 🐠💦💙  #BetterThingsChallenge #aespa #æspa #에스파 #KARINA #카리나 #BetterThings #aespaBetterThings</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7274569623184461063" rel="alternate"/>
+    <published>2023-09-03T12:05:32+00:00</published>
   </entry>
 </feed>
