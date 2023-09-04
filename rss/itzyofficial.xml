@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-09-02T09:19:25+00:00</updated>
+  <updated>2023-09-04T01:00:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7271482265270619394</id>
-    <title>🩷궁합즈🩷 #리아 #LIA #유나 #YUNA 📹 BEHIND THE CHALLENGE #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE  #CAKEChallenge</title>
-    <updated>2023-08-26T04:25:03+00:00</updated>
-    <content>🩷궁합즈🩷 #리아 #LIA #유나 #YUNA 📹 BEHIND THE CHALLENGE #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE  #CAKEChallenge</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7271482265270619394" rel="alternate"/>
-    <published>2023-08-26T04:25:03+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7271615232261377287</id>
     <title>#소녀시대 #효연 선배님과 Come take a #Picture 📸 Come take a #CAKEChallenge for me~ 🍰 💕 #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE #GirlsGeneration #HYO </title>
@@ -91,5 +83,13 @@
     <content>맏막즈💖 #YEJI #예지 #YUNA #유나 의 케미 넘치는 Shake it shake✨ #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE  #CAKEChallenge</content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7274155728137391362" rel="alternate"/>
     <published>2023-09-02T09:19:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7274769320742292738</id>
+    <title>CAKE 막방 기념 케이크도 왕! 하고 먹어버려 다 yeah like❤️‍🔥 #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE  #CAKEChallenge</title>
+    <updated>2023-09-04T01:00:35+00:00</updated>
+    <content>CAKE 막방 기념 케이크도 왕! 하고 먹어버려 다 yeah like❤️‍🔥 #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE  #CAKEChallenge</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7274769320742292738" rel="alternate"/>
+    <published>2023-09-04T01:00:35+00:00</published>
   </entry>
 </feed>
