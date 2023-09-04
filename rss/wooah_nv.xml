@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@wooah_nv</id>
   <title>@wooah_nv | TikTok</title>
-  <updated>2023-08-30T13:53:12+00:00</updated>
+  <updated>2023-09-04T07:05:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @wooah_nv</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@wooah_nv/video/7257112251117620482</id>
-    <title>우리 집 꼬부기 고양이 됐다 🐱 #wooah #우아 #MINSEO #민서 </title>
-    <updated>2023-07-18T11:02:01+00:00</updated>
-    <content>우리 집 꼬부기 고양이 됐다 🐱 #wooah #우아 #MINSEO #민서 </content>
-    <link href="https://www.tiktok.com/@wooah_nv/video/7257112251117620482" rel="alternate"/>
-    <published>2023-07-18T11:02:01+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@wooah_nv/video/7258240680202341633</id>
     <title>🕺🕺 #wooah #우아 #SORA #소라 #MINSEO #민서 </title>
@@ -91,5 +83,13 @@
     <content>#HAPPY_SORA_DAY 💛 #wooah #우아 </content>
     <link href="https://www.tiktok.com/@wooah_nv/video/7273113022955097346" rel="alternate"/>
     <published>2023-08-30T13:53:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@wooah_nv/video/7274863462256282882</id>
+    <title>Love wow! #wooah #우아 #MINSEO #민서#민서veLeeChallenge </title>
+    <updated>2023-09-04T07:05:48+00:00</updated>
+    <content>Love wow! #wooah #우아 #MINSEO #민서#민서veLeeChallenge </content>
+    <link href="https://www.tiktok.com/@wooah_nv/video/7274863462256282882" rel="alternate"/>
+    <published>2023-09-04T07:05:48+00:00</published>
   </entry>
 </feed>
