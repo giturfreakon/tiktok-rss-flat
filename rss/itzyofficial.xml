@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-09-05T03:07:02+00:00</updated>
+  <updated>2023-09-05T05:12:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7271908185592597767</id>
-    <title>십 초 마다 생각이 나는 #트와이스 #지효 선배님의 #CAKEChallenge is so #KillinMeGood ❤‍🔥 #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE #TWICE #JIHYO</title>
-    <updated>2023-08-27T07:57:48+00:00</updated>
-    <content>십 초 마다 생각이 나는 #트와이스 #지효 선배님의 #CAKEChallenge is so #KillinMeGood ❤‍🔥 #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE #TWICE #JIHYO</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7271908185592597767" rel="alternate"/>
-    <published>2023-08-27T07:57:48+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7271924172870274311</id>
     <title>똑똑똑🚪 세상에서 단 하나뿐인 #OneandOnly #CAKEChallenge 를 #BOYNEXTDOOR 와 함께 🍰 #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE</title>
@@ -91,5 +83,13 @@
     <content>different kind #HOMEBOY #xikers #싸이커스 와의#싸이커ᄉ와의같은 #CAKEChallenge 🩵 #ITZY #MIDZY  #ITZY_KILLMYDOUBT  #ITZY_CAKE </content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7275173020967226642" rel="alternate"/>
     <published>2023-09-05T03:07:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7275205310355229954</id>
+    <title>ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION #YEJI Join BAND ITZY 🎸 ~ 2023.09.17 SUN 23:59 (KST) @ YES24 🎹 KOR https://bit.ly/3L7U5GE 🥁 GLOBAL https://bit.ly/3qZ8Ww8 #ITZY #MIDZY  #MIDZY3RDGENERATION</title>
+    <updated>2023-09-05T05:12:23+00:00</updated>
+    <content>ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION #YEJI Join BAND ITZY 🎸 ~ 2023.09.17 SUN 23:59 (KST) @ YES24 🎹 KOR https://bit.ly/3L7U5GE 🥁 GLOBAL https://bit.ly/3qZ8Ww8 #ITZY #MIDZY  #MIDZY3RDGENERATION</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7275205310355229954" rel="alternate"/>
+    <published>2023-09-05T05:12:23+00:00</published>
   </entry>
 </feed>
