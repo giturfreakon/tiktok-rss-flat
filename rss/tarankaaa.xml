@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tarankaaa</id>
   <title>@tarankaaa | TikTok</title>
-  <updated>2023-09-06T11:26:22+00:00</updated>
+  <updated>2023-09-07T11:25:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tarankaaa</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7270929533451160850</id>
-    <title>[no title]</title>
-    <updated>2023-08-24T16:40:08+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7270929533451160850" rel="alternate"/>
-    <published>2023-08-24T16:40:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7270930229969931528</id>
-    <title>[no title]</title>
-    <updated>2023-08-24T16:42:53+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7270930229969931528" rel="alternate"/>
-    <published>2023-08-24T16:42:53+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7271971429883677959</id>
     <title>@Stefan Taran with my brothef 👨‍🌾</title>
@@ -91,5 +75,21 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@tarankaaa/video/7275672794715704594" rel="alternate"/>
     <published>2023-09-06T11:26:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7276042168345611527</id>
+    <title>[no title]</title>
+    <updated>2023-09-07T11:19:44+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7276042168345611527" rel="alternate"/>
+    <published>2023-09-07T11:19:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7276043584153963794</id>
+    <title>[no title]</title>
+    <updated>2023-09-07T11:25:14+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7276043584153963794" rel="alternate"/>
+    <published>2023-09-07T11:25:14+00:00</published>
   </entry>
 </feed>
