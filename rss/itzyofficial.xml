@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-09-07T05:12:32+00:00</updated>
+  <updated>2023-09-08T05:13:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7273807119277657345</id>
-    <title>공일즈🐱 #류진 #RYUJIN #채령 #CHAERYEONG 스타일로 Shake it shake❤️‍🔥 #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE  #CAKEChallenge</title>
-    <updated>2023-09-01T10:46:37+00:00</updated>
-    <content>공일즈🐱 #류진 #RYUJIN #채령 #CHAERYEONG 스타일로 Shake it shake❤️‍🔥 #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE  #CAKEChallenge</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7273807119277657345" rel="alternate"/>
-    <published>2023-09-01T10:46:37+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7273825261190253842</id>
     <title>SHOUT OUT TO #ALL_MY_GIRLS 🎤 #에버글로우 #아샤 님과 함께한 #CAKEChallenge 완전 #SLAY ❤️‍🔥 #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE #EVERGLOW #AISHA</title>
@@ -91,5 +83,13 @@
     <content>ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION #RYUJIN Join BAND ITZY 🎸 ~ 2023.09.17 SUN 23:59 (KST) @ YES24 🎹 KOR https://bit.ly/3L7U5GE 🥁 GLOBAL https://bit.ly/3qZ8Ww8 #ITZY #MIDZY #MIDZY3RDGENERATION </content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7275947536295169288" rel="alternate"/>
     <published>2023-09-07T05:12:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7276318793293466881</id>
+    <title>ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION #CHAERYEONG Join BAND ITZY 🎸  ~ 2023.09.17 SUN 23:59 (KST) @ YES24 🎹 KOR https://bit.ly/3L7U5GE 🥁 GLOBAL https://bit.ly/3qZ8Ww8 #ITZY #MIDZY #MIDZY3RDGENERATION</title>
+    <updated>2023-09-08T05:13:13+00:00</updated>
+    <content>ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION #CHAERYEONG Join BAND ITZY 🎸  ~ 2023.09.17 SUN 23:59 (KST) @ YES24 🎹 KOR https://bit.ly/3L7U5GE 🥁 GLOBAL https://bit.ly/3qZ8Ww8 #ITZY #MIDZY #MIDZY3RDGENERATION</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7276318793293466881" rel="alternate"/>
+    <published>2023-09-08T05:13:13+00:00</published>
   </entry>
 </feed>
