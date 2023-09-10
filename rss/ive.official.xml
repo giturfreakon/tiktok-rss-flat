@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-09-04T13:27:27+00:00</updated>
+  <updated>2023-09-10T12:42:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7250706420297927954</id>
-    <title>If we ever broke up 😠🍒 #IVE #아이브 #アイヴ #JANGWONYOUNG #장원영 #ジャンウォニョン #ウォニョン </title>
-    <updated>2023-07-01T04:44:06+00:00</updated>
-    <content>If we ever broke up 😠🍒 #IVE #아이브 #アイヴ #JANGWONYOUNG #장원영 #ジャンウォニョン #ウォニョン </content>
-    <link href="https://www.tiktok.com/@ive.official/video/7250706420297927954" rel="alternate"/>
-    <published>2023-07-01T04:44:06+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7250805176771054855</id>
     <title>마카레나 챌린지라고 쓰고 웃참챌이라고 읽는다  #IVE #아이브 #アイヴ #ANYUJIN #안유진 #アンユジン #ユジン #REI #레이 #レイ #마카레나챌린지 </title>
@@ -91,5 +83,13 @@
     <content>헤헤 밥진이 🐶 #IVE #아이브 #アイヴ #ANYUJIN #안유진 #アンユジン #ユジン #1stEP #IVEMINE #Eitherway #OfftheRecord #BADDIE</content>
     <link href="https://www.tiktok.com/@ive.official/video/7274961821038152967" rel="alternate"/>
     <published>2023-09-04T13:27:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7277176831923490049</id>
+    <title>가을이는 러블리 💕💖 #IVE #아이브 #アイヴ #GAEUL #가을 #ガウル #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie  #LoveLeeChallenge #러브리챌린지 </title>
+    <updated>2023-09-10T12:42:50+00:00</updated>
+    <content>가을이는 러블리 💕💖 #IVE #아이브 #アイヴ #GAEUL #가을 #ガウル #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie  #LoveLeeChallenge #러브리챌린지 </content>
+    <link href="https://www.tiktok.com/@ive.official/video/7277176831923490049" rel="alternate"/>
+    <published>2023-09-10T12:42:50+00:00</published>
   </entry>
 </feed>
