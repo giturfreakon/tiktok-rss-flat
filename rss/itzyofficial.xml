@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-09-10T06:09:39+00:00</updated>
+  <updated>2023-09-10T06:58:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7275205310355229954</id>
-    <title>ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION #YEJI Join BAND ITZY 🎸 ~ 2023.09.17 SUN 23:59 (KST) @ YES24 🎹 KOR https://bit.ly/3L7U5GE 🥁 GLOBAL https://bit.ly/3qZ8Ww8 #ITZY #MIDZY  #MIDZY3RDGENERATION</title>
-    <updated>2023-09-05T05:12:23+00:00</updated>
-    <content>ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION #YEJI Join BAND ITZY 🎸 ~ 2023.09.17 SUN 23:59 (KST) @ YES24 🎹 KOR https://bit.ly/3L7U5GE 🥁 GLOBAL https://bit.ly/3qZ8Ww8 #ITZY #MIDZY  #MIDZY3RDGENERATION</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7275205310355229954" rel="alternate"/>
-    <published>2023-09-05T05:12:23+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7275576447001971976</id>
     <title>ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION #LIA Join BAND ITZY 🎸 ~ 2023.09.17 SUN 23:59 (KST) @ YES24 🎹 KOR https://bit.ly/3L7U5GE 🥁 GLOBAL https://bit.ly/3qZ8Ww8 #ITZY #MIDZY  #MIDZY3RDGENERATION</title>
@@ -91,5 +83,13 @@
     <content>@JayB💕 님과 #듀엣 reaction to ITZY 🍰CAKE🍰  #YUNA </content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7277075500575608066" rel="alternate"/>
     <published>2023-09-10T06:09:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7277088176747973896</id>
+    <title>📢땡덩📢 #SmokeChallenge #스모크챌린지 가 도착하였습니다💌 #ITZY #MIDZY #YEJI #예지 #RYUJIN #류진</title>
+    <updated>2023-09-10T06:58:48+00:00</updated>
+    <content>📢땡덩📢 #SmokeChallenge #스모크챌린지 가 도착하였습니다💌 #ITZY #MIDZY #YEJI #예지 #RYUJIN #류진</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7277088176747973896" rel="alternate"/>
+    <published>2023-09-10T06:58:48+00:00</published>
   </entry>
 </feed>
