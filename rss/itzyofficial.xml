@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-09-10T12:08:57+00:00</updated>
+  <updated>2023-09-12T05:30:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7275947536295169288</id>
-    <title>ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION #RYUJIN Join BAND ITZY 🎸 ~ 2023.09.17 SUN 23:59 (KST) @ YES24 🎹 KOR https://bit.ly/3L7U5GE 🥁 GLOBAL https://bit.ly/3qZ8Ww8 #ITZY #MIDZY #MIDZY3RDGENERATION </title>
-    <updated>2023-09-07T05:12:32+00:00</updated>
-    <content>ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION #RYUJIN Join BAND ITZY 🎸 ~ 2023.09.17 SUN 23:59 (KST) @ YES24 🎹 KOR https://bit.ly/3L7U5GE 🥁 GLOBAL https://bit.ly/3qZ8Ww8 #ITZY #MIDZY #MIDZY3RDGENERATION </content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7275947536295169288" rel="alternate"/>
-    <published>2023-09-07T05:12:32+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7276318793293466881</id>
     <title>ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION #CHAERYEONG Join BAND ITZY 🎸  ~ 2023.09.17 SUN 23:59 (KST) @ YES24 🎹 KOR https://bit.ly/3L7U5GE 🥁 GLOBAL https://bit.ly/3qZ8Ww8 #ITZY #MIDZY #MIDZY3RDGENERATION</title>
@@ -91,5 +83,13 @@
     <content>트월ㅋㅋㅋㅋㅋㅋ크크크크크 #ITZY #MIDZY  #YEJI #예지 #RYUJIN #류진 #트월ㅋ챌린지</content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7277168106013756679" rel="alternate"/>
     <published>2023-09-10T12:08:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7277807498965290242</id>
+    <title>BAND ITZY Introduction🎤 | ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION Join BAND ITZY 🎸 ~ 2023.09.17 SUN 23:59 (KST) @ YES24 🎹 KOR https://bit.ly/3L7U5GE 🥁 GLOBAL https://bit.ly/3qZ8Ww8 #ITZY #MIDZY #MIDZY3RDGENERATION</title>
+    <updated>2023-09-12T05:30:08+00:00</updated>
+    <content>BAND ITZY Introduction🎤 | ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION Join BAND ITZY 🎸 ~ 2023.09.17 SUN 23:59 (KST) @ YES24 🎹 KOR https://bit.ly/3L7U5GE 🥁 GLOBAL https://bit.ly/3qZ8Ww8 #ITZY #MIDZY #MIDZY3RDGENERATION</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7277807498965290242" rel="alternate"/>
+    <published>2023-09-12T05:30:08+00:00</published>
   </entry>
 </feed>
