@@ -13,6 +13,14 @@
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tarankaaa</subtitle>
   <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7275669880286760210</id>
+    <title>[no title]</title>
+    <updated>2023-09-06T11:15:04+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7275669880286760210" rel="alternate"/>
+    <published>2023-09-06T11:15:04+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7275671258476432658</id>
     <title>[no title]</title>
     <updated>2023-09-06T11:20:25+00:00</updated>
@@ -75,14 +83,6 @@
     <content>👻</content>
     <link href="https://www.tiktok.com/@tarankaaa/video/7276746108435434759" rel="alternate"/>
     <published>2023-09-09T08:51:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7276746371661712658</id>
-    <title>Brown eyes 😍😍😍</title>
-    <updated>2023-09-09T08:52:24+00:00</updated>
-    <content>Brown eyes 😍😍😍</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7276746371661712658" rel="alternate"/>
-    <published>2023-09-09T08:52:24+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7276747426872970504</id>
