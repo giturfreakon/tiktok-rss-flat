@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-09-10T12:02:52+00:00</updated>
+  <updated>2023-09-12T12:00:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7273826131424398600</id>
-    <title>Bombastic side eye 👀   #bombasticsideeye #aespa #æspa #에스파 #BetterThings #aespaBetterThings</title>
-    <updated>2023-09-01T12:00:23+00:00</updated>
-    <content>Bombastic side eye 👀   #bombasticsideeye #aespa #æspa #에스파 #BetterThings #aespaBetterThings</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7273826131424398600" rel="alternate"/>
-    <published>2023-09-01T12:00:23+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7274166249570061575</id>
     <title>#audiz 💙🖤   #gossipgirl  #aespa #æspa #에스파 #KARINA #GISELLE</title>
@@ -91,5 +83,13 @@
     <content>❤️‍🔥   #MEXICOCITY #Promiscuous #aespa #æspa #에스파 #2HOT4U #GISELLE #지젤</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7277166532738714882" rel="alternate"/>
     <published>2023-09-10T12:02:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7277908127842897170</id>
+    <title>aespa's how-to prepare for a stage? 🪩✨ #aespa #æspa #에스파 #BetterThings #SYNK_HYPERLINE #aespaLIVETOUR2023_SYNK_HYPERLINE</title>
+    <updated>2023-09-12T12:00:36+00:00</updated>
+    <content>aespa's how-to prepare for a stage? 🪩✨ #aespa #æspa #에스파 #BetterThings #SYNK_HYPERLINE #aespaLIVETOUR2023_SYNK_HYPERLINE</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7277908127842897170" rel="alternate"/>
+    <published>2023-09-12T12:00:36+00:00</published>
   </entry>
 </feed>
