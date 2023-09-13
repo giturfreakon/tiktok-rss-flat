@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-09-12T12:00:36+00:00</updated>
+  <updated>2023-09-13T11:59:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7274166249570061575</id>
-    <title>#audiz 💙🖤   #gossipgirl  #aespa #æspa #에스파 #KARINA #GISELLE</title>
-    <updated>2023-09-02T10:00:13+00:00</updated>
-    <content>#audiz 💙🖤   #gossipgirl  #aespa #æspa #에스파 #KARINA #GISELLE</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7274166249570061575" rel="alternate"/>
-    <published>2023-09-02T10:00:13+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7274239394188479745</id>
     <title>Better things to do with my time 🦋🫧🐠    #BetterThingsChallenge #aespa #æspa #에스파 #NINGNING #닝닝 #BetterThings #aespaBetterThings</title>
@@ -91,5 +83,13 @@
     <content>aespa's how-to prepare for a stage? 🪩✨ #aespa #æspa #에스파 #BetterThings #SYNK_HYPERLINE #aespaLIVETOUR2023_SYNK_HYPERLINE</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7277908127842897170" rel="alternate"/>
     <published>2023-09-12T12:00:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7278278967826631954</id>
+    <title>aespa's must-have item? 👀🎁 #aespa #æspa #에스파 #BetterThings #SYNK_HYPERLINE #aespaLIVETOUR2023_SYNK_HYPERLINE</title>
+    <updated>2023-09-13T11:59:39+00:00</updated>
+    <content>aespa's must-have item? 👀🎁 #aespa #æspa #에스파 #BetterThings #SYNK_HYPERLINE #aespaLIVETOUR2023_SYNK_HYPERLINE</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7278278967826631954" rel="alternate"/>
+    <published>2023-09-13T11:59:39+00:00</published>
   </entry>
 </feed>
