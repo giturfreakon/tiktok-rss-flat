@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@newjeans_official</id>
   <title>@newjeans_official | TikTok</title>
-  <updated>2023-09-14T15:18:45+00:00</updated>
+  <updated>2023-09-15T12:49:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @newjeans_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@newjeans_official/video/7271198611134795015</id>
-    <title>🎵Tik t🍬k tik t💗k 출근길🎵 #NewJeans #뉴진스 #NewJeans_ASAP #NewJeans_GetUp #Time_to_NewJeans</title>
-    <updated>2023-08-25T10:04:17+00:00</updated>
-    <content>🎵Tik t🍬k tik t💗k 출근길🎵 #NewJeans #뉴진스 #NewJeans_ASAP #NewJeans_GetUp #Time_to_NewJeans</content>
-    <link href="https://www.tiktok.com/@newjeans_official/video/7271198611134795015" rel="alternate"/>
-    <published>2023-08-25T10:04:17+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@newjeans_official/video/7271906264442096914</id>
     <title>Hurry up don’t say maybe 🧚 #NewJeans #뉴진스 #NewJeans_ASAP #NewJeans_GetUp #Time_to_NewJeans</title>
@@ -91,5 +83,13 @@
     <content>NewJeans @ SEOUL NATIONAL UNIV 💙 #NewJeans #뉴진스 #NewJeans_ETA #서울대학교 #스누페</content>
     <link href="https://www.tiktok.com/@newjeans_official/video/7278701356351786258" rel="alternate"/>
     <published>2023-09-14T15:18:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@newjeans_official/video/7279034040156556562</id>
+    <title>NewJeans @ HONGIK UNIV 💙 #NewJeans #뉴진스 #NewJeans_HypeBoy #홍익대학교 #대동제</title>
+    <updated>2023-09-15T12:49:43+00:00</updated>
+    <content>NewJeans @ HONGIK UNIV 💙 #NewJeans #뉴진스 #NewJeans_HypeBoy #홍익대학교 #대동제</content>
+    <link href="https://www.tiktok.com/@newjeans_official/video/7279034040156556562" rel="alternate"/>
+    <published>2023-09-15T12:49:43+00:00</published>
   </entry>
 </feed>
