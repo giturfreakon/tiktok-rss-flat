@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@twice_tiktok_official</id>
   <title>@twice_tiktok_official | TikTok</title>
-  <updated>2023-09-15T04:56:14+00:00</updated>
+  <updated>2023-09-16T01:00:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @twice_tiktok_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_official/video/7271955295226662145</id>
-    <title>#KillinMeGood Challenge with #xikers #민재 #진식 #TWICE #트와이스 #JIHYO #지효 #ZONE</title>
-    <updated>2023-08-27T11:00:37+00:00</updated>
-    <content>#KillinMeGood Challenge with #xikers #민재 #진식 #TWICE #트와이스 #JIHYO #지효 #ZONE</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7271955295226662145" rel="alternate"/>
-    <published>2023-08-27T11:00:37+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_official/video/7272017282371472642</id>
     <title>🎥 JIHYO "Closer" Choreography Video (Shorts ver.) #TWICE #트와이스 #JIHYO #지효 #ZONE #KillinMeGood #Closer</title>
@@ -91,5 +83,13 @@
     <content>JIHYO's newest single "Killin' Me Good (English Ver.)" is now available on all streaming platforms🧡 Check it out and share your thoughts! 🎵"Killin' Me Good (English Ver.)" JIHYO.lnk.to/KillinMeGood  #TWICE #트와이스 #JIHYO #지효 #KillinMeGood </content>
     <link href="https://www.tiktok.com/@twice_tiktok_official/video/7278912005623287041" rel="alternate"/>
     <published>2023-09-15T04:56:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_official/video/7279222367010704641</id>
+    <title>🪩#KillinMeGood English Ver. Challenge🪩 🎵"Killin' Me Good (English Ver.)" JIHYO.lnk.to/KillinMeGood  #TWICE #트와이스 #JIHYO #지효 </title>
+    <updated>2023-09-16T01:00:36+00:00</updated>
+    <content>🪩#KillinMeGood English Ver. Challenge🪩 🎵"Killin' Me Good (English Ver.)" JIHYO.lnk.to/KillinMeGood  #TWICE #트와이스 #JIHYO #지효 </content>
+    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7279222367010704641" rel="alternate"/>
+    <published>2023-09-16T01:00:36+00:00</published>
   </entry>
 </feed>
