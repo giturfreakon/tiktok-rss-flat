@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial_jp</id>
   <title>@itzyofficial_jp | TikTok</title>
-  <updated>2023-09-16T04:06:49+00:00</updated>
+  <updated>2023-09-17T04:03:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial_jp</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial_jp/video/7271476510417014017</id>
-    <title>♟ITZY THE 1ST WORLD TOUR &lt;CHECKMATE&gt; in JAPAN LIVE DVD &amp; Blu-ray 📀 📌 2023.08.30 (Wed) Release ✨ #RYUJIN#ITZY#MIDZY#ITZY_WORLD_TOUR #ITZY_CHECKMATE</title>
-    <updated>2023-08-26T04:02:42+00:00</updated>
-    <content>♟ITZY THE 1ST WORLD TOUR &lt;CHECKMATE&gt; in JAPAN LIVE DVD &amp; Blu-ray 📀 📌 2023.08.30 (Wed) Release ✨ #RYUJIN#ITZY#MIDZY#ITZY_WORLD_TOUR #ITZY_CHECKMATE</content>
-    <link href="https://www.tiktok.com/@itzyofficial_jp/video/7271476510417014017" rel="alternate"/>
-    <published>2023-08-26T04:02:42+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial_jp/video/7271848119145336065</id>
     <title>♟ITZY THE 1ST WORLD TOUR &lt;CHECKMATE&gt; in JAPAN LIVE DVD &amp; Blu-ray 📀 📌 2023.08.30 (Wed) Release ✨ #CHAERYEONG#ITZY #MIDZY #ITZY_WORLD_TOUR #ITZY_CHECKMATE</title>
@@ -91,5 +83,13 @@
     <content>ITZY JAPAN 1st Album『RINGO』 2023.10.18(wed) Release Track Sampler「RINGO」 🔗https://itzyjapan.com/feature/ringo #ITZY #RINGO #ITZY_RINGO</content>
     <link href="https://www.tiktok.com/@itzyofficial_jp/video/7279270359533227266" rel="alternate"/>
     <published>2023-09-16T04:06:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial_jp/video/7279640647584238849</id>
+    <title>ITZY JAPAN 1st Album『RINGO』 2023.10.18(wed) Release Track Sampler「Sugar-holic」 🔗https://itzyjapan.com/feature/ringo #ITZY #RINGO #ITZY_RINGO #sugarholic</title>
+    <updated>2023-09-17T04:03:43+00:00</updated>
+    <content>ITZY JAPAN 1st Album『RINGO』 2023.10.18(wed) Release Track Sampler「Sugar-holic」 🔗https://itzyjapan.com/feature/ringo #ITZY #RINGO #ITZY_RINGO #sugarholic</content>
+    <link href="https://www.tiktok.com/@itzyofficial_jp/video/7279640647584238849" rel="alternate"/>
+    <published>2023-09-17T04:03:43+00:00</published>
   </entry>
 </feed>
