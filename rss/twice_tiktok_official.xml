@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@twice_tiktok_official</id>
   <title>@twice_tiktok_official | TikTok</title>
-  <updated>2023-09-18T01:00:52+00:00</updated>
+  <updated>2023-09-18T14:07:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @twice_tiktok_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_official/video/7272233698446036226</id>
-    <title>#KillinMeGood Challenge with #김세정 #김나영 Behind the Scenes🤣 #TWICE #트와이스 #JIHYO #지효 #ZONE</title>
-    <updated>2023-08-28T05:01:01+00:00</updated>
-    <content>#KillinMeGood Challenge with #김세정 #김나영 Behind the Scenes🤣 #TWICE #트와이스 #JIHYO #지효 #ZONE</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7272233698446036226" rel="alternate"/>
-    <published>2023-08-28T05:01:01+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_official/video/7272233711888796929</id>
     <title>#KillinMeGood Challenge with manager unnie #TWICE #트와이스 #JIHYO #지효 #ZONE</title>
@@ -91,5 +83,13 @@
     <content>👀Look into JIHYO's eyes and you'll feel things you never knew you could👀 🎵"Killin' Me Good (English Ver.)" JIHYO.lnk.to/KillinMeGood  #TWICE #트와이스 #JIHYO #지효 #KillinMeGood  </content>
     <link href="https://www.tiktok.com/@twice_tiktok_official/video/7279964598646721794" rel="alternate"/>
     <published>2023-09-18T01:00:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_official/video/7280167292770536706</id>
+    <title>Don’t forget to also check out "Talkin’ About It (Feat. 24kGoldn)" in the 'Killin' Me Good (English Ver.)' single! 🎵"Killin' Me Good (English Ver.)" JIHYO.lnk.to/KillinMeGood  #TWICE #트와이스 #JIHYO #지효 #KillinMeGood </title>
+    <updated>2023-09-18T14:07:20+00:00</updated>
+    <content>Don’t forget to also check out "Talkin’ About It (Feat. 24kGoldn)" in the 'Killin' Me Good (English Ver.)' single! 🎵"Killin' Me Good (English Ver.)" JIHYO.lnk.to/KillinMeGood  #TWICE #트와이스 #JIHYO #지효 #KillinMeGood </content>
+    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7280167292770536706" rel="alternate"/>
+    <published>2023-09-18T14:07:20+00:00</published>
   </entry>
 </feed>
