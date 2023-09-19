@@ -13,6 +13,14 @@
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tarankaaa</subtitle>
   <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7276746108435434759</id>
+    <title>👻</title>
+    <updated>2023-09-09T08:51:23+00:00</updated>
+    <content>👻</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7276746108435434759" rel="alternate"/>
+    <published>2023-09-09T08:51:23+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7276747426872970504</id>
     <title>[no title]</title>
     <updated>2023-09-09T08:56:30+00:00</updated>
@@ -43,14 +51,6 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@tarankaaa/video/7280129544584039688" rel="alternate"/>
     <published>2023-09-18T11:40:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7280129766458461458</id>
-    <title>#매끈파운데이션 </title>
-    <updated>2023-09-18T11:41:42+00:00</updated>
-    <content>#매끈파운데이션 </content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7280129766458461458" rel="alternate"/>
-    <published>2023-09-18T11:41:42+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7280130408598080786</id>
