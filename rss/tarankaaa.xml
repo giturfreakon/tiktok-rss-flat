@@ -13,6 +13,14 @@
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tarankaaa</subtitle>
   <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7279019698627366162</id>
+    <title>[no title]</title>
+    <updated>2023-09-15T11:54:04+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7279019698627366162" rel="alternate"/>
+    <published>2023-09-15T11:54:04+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7279020437907066120</id>
     <title>[no title]</title>
     <updated>2023-09-15T11:56:57+00:00</updated>
@@ -67,14 +75,6 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@tarankaaa/video/7280198773962181895" rel="alternate"/>
     <published>2023-09-18T16:09:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7280505371465092360</id>
-    <title>#강해보이는얼굴 </title>
-    <updated>2023-09-19T11:59:14+00:00</updated>
-    <content>#강해보이는얼굴 </content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7280505371465092360" rel="alternate"/>
-    <published>2023-09-19T11:59:14+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7280506023922732295</id>
