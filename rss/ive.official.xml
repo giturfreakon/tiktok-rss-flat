@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-09-22T14:08:24+00:00</updated>
+  <updated>2023-09-22T14:16:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,46 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7258104952545905928</id>
-    <title>레이의 하루(진짜 이게 다)😎✈️ #IVE #아이브 #REI #레이 #IWANT #펩시 #PEPSI_ZERO_SUGAR #펩시제로슈거 #IWANTchallenge #아이원트챌린지</title>
-    <updated>2023-07-21T03:14:22+00:00</updated>
-    <content>레이의 하루(진짜 이게 다)😎✈️ #IVE #아이브 #REI #레이 #IWANT #펩시 #PEPSI_ZERO_SUGAR #펩시제로슈거 #IWANTchallenge #아이원트챌린지</content>
-    <link href="https://www.tiktok.com/@ive.official/video/7258104952545905928" rel="alternate"/>
-    <published>2023-07-21T03:14:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7273346548145147137</id>
-    <title>생일 기념 체리냥이파 선물 🐈🤍 #IVE #아이브 #アイヴ #JANGWONYOUNG #장원영 #ジャンウォニョン #ウォニョン #HappyJANGWONYOUNGday #해피_버스데이_녕 🐰 </title>
-    <updated>2023-08-31T04:59:22+00:00</updated>
-    <content>생일 기념 체리냥이파 선물 🐈🤍 #IVE #아이브 #アイヴ #JANGWONYOUNG #장원영 #ジャンウォニョン #ウォニョン #HappyJANGWONYOUNGday #해피_버스데이_녕 🐰 </content>
-    <link href="https://www.tiktok.com/@ive.official/video/7273346548145147137" rel="alternate"/>
-    <published>2023-08-31T04:59:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7273828947433999617</id>
-    <title>Every Single Day, I'll be Missing You 🐕🧁 #IVE #아이브 #アイヴ #ANYUJIN #안유진 #アンユジン #ユジン #HappyANYUJINday #9월_최대이벤트_안유진생일 🌟</title>
-    <updated>2023-09-01T12:11:20+00:00</updated>
-    <content>Every Single Day, I'll be Missing You 🐕🧁 #IVE #아이브 #アイヴ #ANYUJIN #안유진 #アンユジン #ユジン #HappyANYUJINday #9월_최대이벤트_안유진생일 🌟</content>
-    <link href="https://www.tiktok.com/@ive.official/video/7273828947433999617" rel="alternate"/>
-    <published>2023-09-01T12:11:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7274961821038152967</id>
-    <title>헤헤 밥진이 🐶 #IVE #아이브 #アイヴ #ANYUJIN #안유진 #アンユジン #ユジン #1stEP #IVEMINE #Eitherway #OfftheRecord #BADDIE</title>
-    <updated>2023-09-04T13:27:27+00:00</updated>
-    <content>헤헤 밥진이 🐶 #IVE #아이브 #アイヴ #ANYUJIN #안유진 #アンユジン #ユジン #1stEP #IVEMINE #Eitherway #OfftheRecord #BADDIE</content>
-    <link href="https://www.tiktok.com/@ive.official/video/7274961821038152967" rel="alternate"/>
-    <published>2023-09-04T13:27:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7277176831923490049</id>
-    <title>가을이는 러블리 💕💖 #IVE #아이브 #アイヴ #GAEUL #가을 #ガウル #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie  #LoveLeeChallenge #러브리챌린지 </title>
-    <updated>2023-09-10T12:42:50+00:00</updated>
-    <content>가을이는 러블리 💕💖 #IVE #아이브 #アイヴ #GAEUL #가을 #ガウル #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie  #LoveLeeChallenge #러브리챌린지 </content>
-    <link href="https://www.tiktok.com/@ive.official/video/7277176831923490049" rel="alternate"/>
-    <published>2023-09-10T12:42:50+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7277404219940818194</id>
     <title>레이뿅삐뽀삐뽑뽑삐뽀 🐣 #IVE #아이브 #アイヴ #REI #레이 #レイ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie</title>
@@ -91,5 +51,45 @@
     <content>IVE THE 1st EP &lt;I'VE MINE&gt; Either Way Teaser ANYUJIN https://youtu.be/dXg-UnnyMMw ALBUM RELEASE 2023.10.13 FRI #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie </content>
     <link href="https://www.tiktok.com/@ive.official/video/7281651904059395330" rel="alternate"/>
     <published>2023-09-22T14:08:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7281652389436722433</id>
+    <title>IVE THE 1st EP &lt;I'VE MINE&gt; Either Way Teaser GAEUL https://youtu.be/mn5fshWB6mM ALBUM RELEASE 2023.10.13 FRI #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie </title>
+    <updated>2023-09-22T14:10:17+00:00</updated>
+    <content>IVE THE 1st EP &lt;I'VE MINE&gt; Either Way Teaser GAEUL https://youtu.be/mn5fshWB6mM ALBUM RELEASE 2023.10.13 FRI #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie </content>
+    <link href="https://www.tiktok.com/@ive.official/video/7281652389436722433" rel="alternate"/>
+    <published>2023-09-22T14:10:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7281652626977033473</id>
+    <title>IVE THE 1st EP &lt;I'VE MINE&gt; Either Way Teaser LIZ https://youtu.be/MBF21zEboxA ALBUM RELEASE 2023.10.13 FRI #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie </title>
+    <updated>2023-09-22T14:11:12+00:00</updated>
+    <content>IVE THE 1st EP &lt;I'VE MINE&gt; Either Way Teaser LIZ https://youtu.be/MBF21zEboxA ALBUM RELEASE 2023.10.13 FRI #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie </content>
+    <link href="https://www.tiktok.com/@ive.official/video/7281652626977033473" rel="alternate"/>
+    <published>2023-09-22T14:11:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7281652971195223297</id>
+    <title>IVE THE 1st EP &lt;I'VE MINE&gt; Either Way Teaser REI https://youtu.be/rQrJJ2vwn6Y ALBUM RELEASE 2023.10.13 FRI #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie </title>
+    <updated>2023-09-22T14:12:33+00:00</updated>
+    <content>IVE THE 1st EP &lt;I'VE MINE&gt; Either Way Teaser REI https://youtu.be/rQrJJ2vwn6Y ALBUM RELEASE 2023.10.13 FRI #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie </content>
+    <link href="https://www.tiktok.com/@ive.official/video/7281652971195223297" rel="alternate"/>
+    <published>2023-09-22T14:12:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7281653593067769090</id>
+    <title>IVE THE 1st EP &lt;I'VE MINE&gt; Either Way Teaser LEESEO https://youtu.be/8iA7HTg3lpU ALBUM RELEASE 2023.10.13 FRI #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie</title>
+    <updated>2023-09-22T14:14:56+00:00</updated>
+    <content>IVE THE 1st EP &lt;I'VE MINE&gt; Either Way Teaser LEESEO https://youtu.be/8iA7HTg3lpU ALBUM RELEASE 2023.10.13 FRI #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie</content>
+    <link href="https://www.tiktok.com/@ive.official/video/7281653593067769090" rel="alternate"/>
+    <published>2023-09-22T14:14:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7281653935645920514</id>
+    <title>IVE THE 1st EP &lt;I'VE MINE&gt; Either Way Teaser JANGWONYOUNG https://youtu.be/bPux8HPqBZE ALBUM RELEASE 2023.10.13 FRI #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie </title>
+    <updated>2023-09-22T14:16:17+00:00</updated>
+    <content>IVE THE 1st EP &lt;I'VE MINE&gt; Either Way Teaser JANGWONYOUNG https://youtu.be/bPux8HPqBZE ALBUM RELEASE 2023.10.13 FRI #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie </content>
+    <link href="https://www.tiktok.com/@ive.official/video/7281653935645920514" rel="alternate"/>
+    <published>2023-09-22T14:16:17+00:00</published>
   </entry>
 </feed>
