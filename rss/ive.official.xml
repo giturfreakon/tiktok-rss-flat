@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-09-22T14:16:17+00:00</updated>
+  <updated>2023-09-25T09:16:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7277404219940818194</id>
-    <title>레이뿅삐뽀삐뽑뽑삐뽀 🐣 #IVE #아이브 #アイヴ #REI #레이 #レイ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie</title>
-    <updated>2023-09-11T03:25:13+00:00</updated>
-    <content>레이뿅삐뽀삐뽑뽑삐뽀 🐣 #IVE #아이브 #アイヴ #REI #레이 #レイ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie</content>
-    <link href="https://www.tiktok.com/@ive.official/video/7277404219940818194" rel="alternate"/>
-    <published>2023-09-11T03:25:13+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7278296359214517511</id>
     <title>스모크 혹시 늦었어요..?  #IVE #아이브 #アイヴ #ANYUJIN #안유진 #アンユジン #ユジン #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie #smokechallenge #스모크챌린지</title>
@@ -91,5 +83,13 @@
     <content>IVE THE 1st EP &lt;I'VE MINE&gt; Either Way Teaser JANGWONYOUNG https://youtu.be/bPux8HPqBZE ALBUM RELEASE 2023.10.13 FRI #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie </content>
     <link href="https://www.tiktok.com/@ive.official/video/7281653935645920514" rel="alternate"/>
     <published>2023-09-22T14:16:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7282689912099458312</id>
+    <title>IVE 아이브 ‘Either Way' MV https://youtu.be/_Hu4GYtye5U ALBUM RELEASE 2023.10.13 FRI #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie</title>
+    <updated>2023-09-25T09:16:24+00:00</updated>
+    <content>IVE 아이브 ‘Either Way' MV https://youtu.be/_Hu4GYtye5U ALBUM RELEASE 2023.10.13 FRI #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie</content>
+    <link href="https://www.tiktok.com/@ive.official/video/7282689912099458312" rel="alternate"/>
+    <published>2023-09-25T09:16:24+00:00</published>
   </entry>
 </feed>
