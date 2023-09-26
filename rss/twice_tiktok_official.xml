@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@twice_tiktok_official</id>
   <title>@twice_tiktok_official | TikTok</title>
-  <updated>2023-09-25T03:02:23+00:00</updated>
+  <updated>2023-09-26T03:01:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @twice_tiktok_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_official/video/7279222367010704641</id>
-    <title>🪩#KillinMeGood English Ver. Challenge🪩 🎵"Killin' Me Good (English Ver.)" JIHYO.lnk.to/KillinMeGood  #TWICE #트와이스 #JIHYO #지효 </title>
-    <updated>2023-09-16T01:00:36+00:00</updated>
-    <content>🪩#KillinMeGood English Ver. Challenge🪩 🎵"Killin' Me Good (English Ver.)" JIHYO.lnk.to/KillinMeGood  #TWICE #트와이스 #JIHYO #지효 </content>
-    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7279222367010704641" rel="alternate"/>
-    <published>2023-09-16T01:00:36+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_official/video/7279423304845348098</id>
     <title>🎙️Sing along with JIHYO and feel the rhythm flow!🎙️ 🎵"Killin' Me Good (English Ver.)" JIHYO.lnk.to/KillinMeGood   #TWICE #트와이스 #JIHYO #지효 #KillinMeGood </title>
@@ -91,5 +83,13 @@
     <content>Shy NAYEON X Felix Behind-the-Scene Images #TWICE #트와이스 #NAYEON #나연 #StrayKids #스트레이키즈 #필릭스 #Felix #IM_NAYEON #NOPROBLEM</content>
     <link href="https://www.tiktok.com/@twice_tiktok_official/video/7282593516998413569" rel="alternate"/>
     <published>2023-09-25T03:02:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_official/video/7282964485269163266</id>
+    <title>JYP Official 🐰X🐥 #TWICE #트와이스 #NAYEON #나연 #StrayKids #스트레이키즈 #필릭스 #Felix #IM_NAYEON #NOPROBLEM</title>
+    <updated>2023-09-26T03:01:54+00:00</updated>
+    <content>JYP Official 🐰X🐥 #TWICE #트와이스 #NAYEON #나연 #StrayKids #스트레이키즈 #필릭스 #Felix #IM_NAYEON #NOPROBLEM</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7282964485269163266" rel="alternate"/>
+    <published>2023-09-26T03:01:54+00:00</published>
   </entry>
 </feed>
