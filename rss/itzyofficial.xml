@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-09-16T11:00:25+00:00</updated>
+  <updated>2023-09-27T09:03:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7277168106013756679</id>
-    <title>트월ㅋㅋㅋㅋㅋㅋ크크크크크 #ITZY #MIDZY  #YEJI #예지 #RYUJIN #류진 #트월ㅋ챌린지</title>
-    <updated>2023-09-10T12:08:57+00:00</updated>
-    <content>트월ㅋㅋㅋㅋㅋㅋ크크크크크 #ITZY #MIDZY  #YEJI #예지 #RYUJIN #류진 #트월ㅋ챌린지</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7277168106013756679" rel="alternate"/>
-    <published>2023-09-10T12:08:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7277807498965290242</id>
-    <title>BAND ITZY Introduction🎤 | ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION Join BAND ITZY 🎸 ~ 2023.09.17 SUN 23:59 (KST) @ YES24 🎹 KOR https://bit.ly/3L7U5GE 🥁 GLOBAL https://bit.ly/3qZ8Ww8 #ITZY #MIDZY #MIDZY3RDGENERATION</title>
-    <updated>2023-09-12T05:30:08+00:00</updated>
-    <content>BAND ITZY Introduction🎤 | ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION Join BAND ITZY 🎸 ~ 2023.09.17 SUN 23:59 (KST) @ YES24 🎹 KOR https://bit.ly/3L7U5GE 🥁 GLOBAL https://bit.ly/3qZ8Ww8 #ITZY #MIDZY #MIDZY3RDGENERATION</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7277807498965290242" rel="alternate"/>
-    <published>2023-09-12T05:30:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7277892733216296194</id>
-    <title>ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION D-5 #YEJI Join BAND ITZY 🎸 ~ 2023.09.17 SUN 23:59 (KST) @ YES24 🎹 KOR https://bit.ly/3L7U5GE 🥁 GLOBAL https://bit.ly/3qZ8Ww8 #ITZY #MIDZY #MIDZY3RDGENERATION</title>
-    <updated>2023-09-12T11:00:53+00:00</updated>
-    <content>ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION D-5 #YEJI Join BAND ITZY 🎸 ~ 2023.09.17 SUN 23:59 (KST) @ YES24 🎹 KOR https://bit.ly/3L7U5GE 🥁 GLOBAL https://bit.ly/3qZ8Ww8 #ITZY #MIDZY #MIDZY3RDGENERATION</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7277892733216296194" rel="alternate"/>
-    <published>2023-09-12T11:00:53+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7277895097704860935</id>
     <title>#키 선배님 좋아, #KEY 선배님 멋져 😎 #Good_and_Great 한 #CAKEChallenge 에 so grateful ✨ #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE #SHINee #샤이니 </title>
@@ -91,5 +67,29 @@
     <content>ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION D-1 #YUNA Join BAND ITZY 🎸 ~ 2023.09.17 SUN 23:59 (KST) @ YES24 🎹 KOR https://bit.ly/3L7U5GE 🥁 GLOBAL https://bit.ly/3qZ8Ww8 #ITZY #MIDZY  #MIDZY3RDGENERATION</content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7279376943269596418" rel="alternate"/>
     <published>2023-09-16T11:00:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7283427967571709186</id>
+    <title>해.피.추.석.❤ #ITZY #MIDZY  #추석 #CHUSEOK</title>
+    <updated>2023-09-27T09:00:27+00:00</updated>
+    <content>해.피.추.석.❤ #ITZY #MIDZY  #추석 #CHUSEOK</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7283427967571709186" rel="alternate"/>
+    <published>2023-09-27T09:00:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7283428310581824769</id>
+    <title>추석에는 맛있는 떡 #CAKEChallenge  #ITZY #MIDZY #추석 #CHUSEOK</title>
+    <updated>2023-09-27T09:01:45+00:00</updated>
+    <content>추석에는 맛있는 떡 #CAKEChallenge  #ITZY #MIDZY #추석 #CHUSEOK</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7283428310581824769" rel="alternate"/>
+    <published>2023-09-27T09:01:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7283428640816188674</id>
+    <title>추석맞이 있지’s PICK은!?🍂 #ITZY #MIDZY #추석 #CHUSEOK</title>
+    <updated>2023-09-27T09:03:03+00:00</updated>
+    <content>추석맞이 있지’s PICK은!?🍂 #ITZY #MIDZY #추석 #CHUSEOK</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7283428640816188674" rel="alternate"/>
+    <published>2023-09-27T09:03:03+00:00</published>
   </entry>
 </feed>
