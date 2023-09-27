@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@el7zup_official_</id>
   <title>@el7zup_official_ | TikTok</title>
-  <updated>2023-09-26T13:00:18+00:00</updated>
+  <updated>2023-09-27T13:00:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @el7zup_official_</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@el7zup_official_/video/7280861444193651976</id>
-    <title>EL7Z UP의 릴레이 60초 인터뷰!🎙️ [7+UP] 활동에서 궁금한 질문을 모아 모아🧩  #EL7ZUP #엘즈업 #CHEEKY #CHEEKY_빨리모여_지금여기 </title>
-    <updated>2023-09-20T11:00:59+00:00</updated>
-    <content>EL7Z UP의 릴레이 60초 인터뷰!🎙️ [7+UP] 활동에서 궁금한 질문을 모아 모아🧩  #EL7ZUP #엘즈업 #CHEEKY #CHEEKY_빨리모여_지금여기 </content>
-    <link href="https://www.tiktok.com/@el7zup_official_/video/7280861444193651976" rel="alternate"/>
-    <published>2023-09-20T11:00:59+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@el7zup_official_/video/7281232225704643847</id>
     <title>불빛보다 빛나는✨ #H1KEY 와 함께한 #치키챌린지 💕 @H1-KEY #CHEEKY_Challenge #치키챌린지 #EL7ZUP #엘즈업 #CHEEKY #휘서 #HWISEO #NewMusic </title>
@@ -91,5 +83,13 @@
     <content>EL7Z UP이 알려주는 #치키챌린지 Guide와 함께라면  우리 모두 치키치키우~ 성공👌🏻 #CHEEKY_Challenge #치키챌린지 #EL7ZUP #엘즈업 #CHEEKY #연희 #YEONHEE #나나 #NANA #휘서 #HWISEO #유키 #YUKI #이모지챌린지 #emoji #emojichallenge #NewMusic</content>
     <link href="https://www.tiktok.com/@el7zup_official_/video/7283118704932441351" rel="alternate"/>
     <published>2023-09-26T13:00:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@el7zup_official_/video/7283489786998967560</id>
+    <title>#치키챌린지 를 따라 하면 무슨 일이 일어날까요? CHEEKY가 #체인지챌린지 마법의 주문💫 #CHEEKY_Challenge #치키챌린지 #EL7ZUP #엘즈업 #CHEEKY #나나 #NANA #유키 #YUKI #change #changechallenge #NewMusic</title>
+    <updated>2023-09-27T13:00:18+00:00</updated>
+    <content>#치키챌린지 를 따라 하면 무슨 일이 일어날까요? CHEEKY가 #체인지챌린지 마법의 주문💫 #CHEEKY_Challenge #치키챌린지 #EL7ZUP #엘즈업 #CHEEKY #나나 #NANA #유키 #YUKI #change #changechallenge #NewMusic</content>
+    <link href="https://www.tiktok.com/@el7zup_official_/video/7283489786998967560" rel="alternate"/>
+    <published>2023-09-27T13:00:18+00:00</published>
   </entry>
 </feed>
