@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-09-25T12:02:43+00:00</updated>
+  <updated>2023-09-27T01:10:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7279391476478381320</id>
-    <title>🐾😽😻  #aespa #æspa #에스파 #WINTER #윈터 #冬子 </title>
-    <updated>2023-09-16T11:56:45+00:00</updated>
-    <content>🐾😽😻  #aespa #æspa #에스파 #WINTER #윈터 #冬子 </content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7279391476478381320" rel="alternate"/>
-    <published>2023-09-16T11:56:45+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7279762641667640584</id>
     <title>🤨💙 #aespa #æspa #에스파 #KARINA #카리나</title>
@@ -91,5 +83,25 @@
     <content>#BetterThingsChallenge 💚🍑🐠 with #JAEHYUN #aespa #æspa #에스파  #WINTER #윈터 #재현  #NCT #NCTU @NCT Official  #BetterThings #aespaBetterThings</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7282732774656691474" rel="alternate"/>
     <published>2023-09-25T12:02:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7283306902874770696</id>
+    <title>🎉 한국 MY 여러분, 드디어 시작합니다!  🎉
+ 'LYNK-POP: THE 1st VR CONCERT aespa'를 위한 사전예매가 시작되었습니다! 🎫✨. 현실의 경계를 허물고 에스파와 함께 ænergy를 느껴보세요! 10월 5일까지 제한된 수량으로 판매되니 지금 바로 메가박스 스토어에서 만나요! https://m.megabox.co.kr/re/WebApp/event/detail?eventNo=14145
+ 
+ 🎉 It's Finally Starting</title>
+    <updated>2023-09-27T01:10:39+00:00</updated>
+    <content>🎉 한국 MY 여러분, 드디어 시작합니다!  🎉
+ 'LYNK-POP: THE 1st VR CONCERT aespa'를 위한 사전예매가 시작되었습니다! 🎫✨. 현실의 경계를 허물고 에스파와 함께 ænergy를 느껴보세요! 10월 5일까지 제한된 수량으로 판매되니 지금 바로 메가박스 스토어에서 만나요! https://m.megabox.co.kr/re/WebApp/event/detail?eventNo=14145
+ 
+ 🎉 It's Finally Starting Korea MYs! 🎉
+ 'LYNK-POP: THE 1st VR CONCERT aespa' Early Bird ticket packages are ON SALE NOW 🎫✨. Experience our world in VR and feel the ænergy! Limited quantities until October 5th, so get your tickets through the Megabox app now!
+ https://m.megabox.co.kr/re/WebApp/event/detail?eventNo=14145
+ 
+ #aespa #æspa #에스파 #LYNKPOP 
+ #aespaweek #COEX #Megabox 
+ #VR #VRConcerts</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7283306902874770696" rel="alternate"/>
+    <published>2023-09-27T01:10:39+00:00</published>
   </entry>
 </feed>
