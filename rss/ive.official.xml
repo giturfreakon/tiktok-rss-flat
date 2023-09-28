@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-09-27T05:59:28+00:00</updated>
+  <updated>2023-09-28T04:58:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7280853949538684161</id>
-    <title>한다 깜냥이의 챌린지 😎 #IVE #아이브 #アイヴ #LIZ #리즈 #リズ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie #smokechallenge #스모크챌린지 </title>
-    <updated>2023-09-20T10:31:56+00:00</updated>
-    <content>한다 깜냥이의 챌린지 😎 #IVE #아이브 #アイヴ #LIZ #리즈 #リズ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie #smokechallenge #스모크챌린지 </content>
-    <link href="https://www.tiktok.com/@ive.official/video/7280853949538684161" rel="alternate"/>
-    <published>2023-09-20T10:31:56+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7281651904059395330</id>
     <title>IVE THE 1st EP &lt;I'VE MINE&gt; Either Way Teaser ANYUJIN https://youtu.be/dXg-UnnyMMw ALBUM RELEASE 2023.10.13 FRI #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie </title>
@@ -91,5 +83,13 @@
     <content>모두 다 'IVE'야 🎉 #EitherWaychallenge #이더웨이챌린지 #EitherWay #이더웨이 #OfftheRecord #Baddie #IVE #아이브 #アイヴ #GAEUL #가을 #ガウル #JANGWONYOUNG #장원영 #ジャンウォニョン #ウォニョン #LIZ #리즈 #リズ #1stEP #IVEMINE </content>
     <link href="https://www.tiktok.com/@ive.official/video/7283381329717103874" rel="alternate"/>
     <published>2023-09-27T05:59:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7283736749434522881</id>
+    <title>✌...🐣🐯 #EitherWaychallenge #이더웨이챌린지 #EitherWay #이더웨이 #OfftheRecord #Baddie #IVE #아이브 #アイヴ #REI #레이 #レイ#LEESEO #이서 #イソ #1stEP #IVEMINE </title>
+    <updated>2023-09-28T04:58:42+00:00</updated>
+    <content>✌...🐣🐯 #EitherWaychallenge #이더웨이챌린지 #EitherWay #이더웨이 #OfftheRecord #Baddie #IVE #아이브 #アイヴ #REI #레이 #レイ#LEESEO #이서 #イソ #1stEP #IVEMINE </content>
+    <link href="https://www.tiktok.com/@ive.official/video/7283736749434522881" rel="alternate"/>
+    <published>2023-09-28T04:58:42+00:00</published>
   </entry>
 </feed>
