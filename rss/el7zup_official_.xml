@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@el7zup_official_</id>
   <title>@el7zup_official_ | TikTok</title>
-  <updated>2023-09-29T11:00:14+00:00</updated>
+  <updated>2023-09-29T13:00:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @el7zup_official_</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@el7zup_official_/video/7282376393021754632</id>
-    <title>오늘도 멈출 수 없는 #치키챌린지 💕 하루 종일 #치킨챌린지 🍗  #CHEEKY_Challenge #치키챌린지 #EL7ZUP #엘즈업 #CHEEKY #chickenchallenge #케이 #KEI #예은 #YEEUN #NewMusic</title>
-    <updated>2023-09-24T12:59:45+00:00</updated>
-    <content>오늘도 멈출 수 없는 #치키챌린지 💕 하루 종일 #치킨챌린지 🍗  #CHEEKY_Challenge #치키챌린지 #EL7ZUP #엘즈업 #CHEEKY #chickenchallenge #케이 #KEI #예은 #YEEUN #NewMusic</content>
-    <link href="https://www.tiktok.com/@el7zup_official_/video/7282376393021754632" rel="alternate"/>
-    <published>2023-09-24T12:59:45+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@el7zup_official_/video/7282716695905553672</id>
     <title>둘만의 7Heaven 속에서💜 #퍼플키스 #수안 님과 함께한 #치키챌린지 😘 @purplekiss_official  ⠀ #CHEEKY_Challenge #치키챌린지 #EL7ZUP #엘즈업 #CHEEKY #케이 #KEI #PURPLE_KISS #SWAN #NewMusic </title>
@@ -91,5 +83,13 @@
     <content>#친한친구 #달디 와 함께한 #치키챌린지 😘 @영재 YOUNGJAE  ⠀ #CHEEKY_Challenge #치키챌린지 #EL7ZUP #엘즈업 #CHEEKY #케이 #KEI #예은 #YEEUN #NewMusic #GOT7 #영재</content>
     <link href="https://www.tiktok.com/@el7zup_official_/video/7284201014348057874" rel="alternate"/>
     <published>2023-09-29T11:00:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@el7zup_official_/video/7284231917254298888</id>
+    <title>예은이가 사라져볼게 얍!✨ 여름이가 나타나볼게 짠!💕 #CHEEKY_Challenge #치키챌린지 #EL7ZUP #엘즈업 #CHEEKY #예은 #YEEUN #여름 #YEOREUM #change #changechallenge #체인지챌린지 #NewMusic </title>
+    <updated>2023-09-29T13:00:08+00:00</updated>
+    <content>예은이가 사라져볼게 얍!✨ 여름이가 나타나볼게 짠!💕 #CHEEKY_Challenge #치키챌린지 #EL7ZUP #엘즈업 #CHEEKY #예은 #YEEUN #여름 #YEOREUM #change #changechallenge #체인지챌린지 #NewMusic </content>
+    <link href="https://www.tiktok.com/@el7zup_official_/video/7284231917254298888" rel="alternate"/>
+    <published>2023-09-29T13:00:08+00:00</published>
   </entry>
 </feed>
