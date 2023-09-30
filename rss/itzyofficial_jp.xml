@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial_jp</id>
   <title>@itzyofficial_jp | TikTok</title>
-  <updated>2023-09-29T15:04:59+00:00</updated>
+  <updated>2023-09-30T04:01:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial_jp</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial_jp/video/7280923534384188673</id>
-    <title>ITZY JAPAN 1st Album『RINGO』 2023.10.18(wed) Release 「RINGO」Music Video Teaser #YEJI https://youtu.be/_paVthUi1OE #ITZY #RINGO #ITZY_RINGO</title>
-    <updated>2023-09-20T15:01:57+00:00</updated>
-    <content>ITZY JAPAN 1st Album『RINGO』 2023.10.18(wed) Release 「RINGO」Music Video Teaser #YEJI https://youtu.be/_paVthUi1OE #ITZY #RINGO #ITZY_RINGO</content>
-    <link href="https://www.tiktok.com/@itzyofficial_jp/video/7280923534384188673" rel="alternate"/>
-    <published>2023-09-20T15:01:57+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial_jp/video/7281297017035410689</id>
     <title>ITZY JAPAN 1st Album『RINGO』 2023.10.18(wed) Release 「RINGO」Music Video Teaser #LIA https://youtu.be/0gaaOniIZhI  #ITZY #RINGO #ITZY_RINGO</title>
@@ -91,5 +83,13 @@
     <content>ITZY JAPAN 1st Album『RINGO』 2023.10.18(wed) Release!!!!!MV Shorts 1 #ITZY #RINGO #ITZY_RINGO</content>
     <link href="https://www.tiktok.com/@itzyofficial_jp/video/7284264079181581570" rel="alternate"/>
     <published>2023-09-29T15:04:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial_jp/video/7284464115056233730</id>
+    <title>ITZY JAPAN 1st Album『RINGO』 2023.10.18(wed) Release DumTikiChallenge🍎🤭ver.2  #ITZY #RINGO #ITZY_RINGO  #DumTikiChallenge</title>
+    <updated>2023-09-30T04:01:15+00:00</updated>
+    <content>ITZY JAPAN 1st Album『RINGO』 2023.10.18(wed) Release DumTikiChallenge🍎🤭ver.2  #ITZY #RINGO #ITZY_RINGO  #DumTikiChallenge</content>
+    <link href="https://www.tiktok.com/@itzyofficial_jp/video/7284464115056233730" rel="alternate"/>
+    <published>2023-09-30T04:01:15+00:00</published>
   </entry>
 </feed>
