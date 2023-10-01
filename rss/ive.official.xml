@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-09-30T10:59:34+00:00</updated>
+  <updated>2023-10-01T04:29:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7281652626977033473</id>
-    <title>IVE THE 1st EP &lt;I'VE MINE&gt; Either Way Teaser LIZ https://youtu.be/MBF21zEboxA ALBUM RELEASE 2023.10.13 FRI #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie </title>
-    <updated>2023-09-22T14:11:12+00:00</updated>
-    <content>IVE THE 1st EP &lt;I'VE MINE&gt; Either Way Teaser LIZ https://youtu.be/MBF21zEboxA ALBUM RELEASE 2023.10.13 FRI #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie </content>
-    <link href="https://www.tiktok.com/@ive.official/video/7281652626977033473" rel="alternate"/>
-    <published>2023-09-22T14:11:12+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7281652971195223297</id>
     <title>IVE THE 1st EP &lt;I'VE MINE&gt; Either Way Teaser REI https://youtu.be/rQrJJ2vwn6Y ALBUM RELEASE 2023.10.13 FRI #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie </title>
@@ -91,5 +83,13 @@
     <content>Me, Obsessed with DIVE 🌃 #IVE #아이브 #アイヴ #ANYUJIN #안유진 #アンユジン #ユジン #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie </content>
     <link href="https://www.tiktok.com/@ive.official/video/7284571917586107650" rel="alternate"/>
     <published>2023-09-30T10:59:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7284842430648601858</id>
+    <title>나는 브레이크 없는 🐿🌰 #IVE #아이브 #アイヴ #GAEUL #가을 #ガウル #IVEMINE #Eitherway #OfftheRecord #Baddie #smokechallenge #스모크챌린지 </title>
+    <updated>2023-10-01T04:29:18+00:00</updated>
+    <content>나는 브레이크 없는 🐿🌰 #IVE #아이브 #アイヴ #GAEUL #가을 #ガウル #IVEMINE #Eitherway #OfftheRecord #Baddie #smokechallenge #스모크챌린지 </content>
+    <link href="https://www.tiktok.com/@ive.official/video/7284842430648601858" rel="alternate"/>
+    <published>2023-10-01T04:29:18+00:00</published>
   </entry>
 </feed>
