@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial_jp</id>
   <title>@itzyofficial_jp | TikTok</title>
-  <updated>2023-10-01T04:01:02+00:00</updated>
+  <updated>2023-10-01T06:00:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial_jp</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial_jp/video/7282036711884950785</id>
-    <title>ITZY JAPAN 1st Album『RINGO』 2023.10.18(wed) Release 「RINGO」Music Video Teaser #CHAERYEONG https://youtu.be/-SnsD02t2nw  #ITZY #RINGO #ITZY_RINGO</title>
-    <updated>2023-09-23T15:01:40+00:00</updated>
-    <content>ITZY JAPAN 1st Album『RINGO』 2023.10.18(wed) Release 「RINGO」Music Video Teaser #CHAERYEONG https://youtu.be/-SnsD02t2nw  #ITZY #RINGO #ITZY_RINGO</content>
-    <link href="https://www.tiktok.com/@itzyofficial_jp/video/7282036711884950785" rel="alternate"/>
-    <published>2023-09-23T15:01:40+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial_jp/video/7282407648446745858</id>
     <title>ITZY JAPAN 1st Album『RINGO』 2023.10.18(wed) Release 「RINGO」Music Video Teaser #YUNA https://youtu.be/n9FCMC4G2Ds #ITZY #RINGO #ITZY_RINGO</title>
@@ -91,5 +83,13 @@
     <content>ITZY JAPAN 1st Album『RINGO』 2023.10.18(wed) Release DumTikiChallenge🍎🤭ver.2.              #RYUJIN #CHAERYEONG #ITZY #RINGO #ITZY_RINGO  #DumTikiChallenge</content>
     <link href="https://www.tiktok.com/@itzyofficial_jp/video/7284835157125696770" rel="alternate"/>
     <published>2023-10-01T04:01:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial_jp/video/7284865940871777537</id>
+    <title>ITZY JAPAN 1st Album『RINGO』 2023.10.18(wed) Release DumTikiChallenge🍎🤭ver.2 #YEJI #LIA #YUNA #ITZY #RINGO #ITZY_RINGO  #DumTikiChallenge</title>
+    <updated>2023-10-01T06:00:32+00:00</updated>
+    <content>ITZY JAPAN 1st Album『RINGO』 2023.10.18(wed) Release DumTikiChallenge🍎🤭ver.2 #YEJI #LIA #YUNA #ITZY #RINGO #ITZY_RINGO  #DumTikiChallenge</content>
+    <link href="https://www.tiktok.com/@itzyofficial_jp/video/7284865940871777537" rel="alternate"/>
+    <published>2023-10-01T06:00:32+00:00</published>
   </entry>
 </feed>
