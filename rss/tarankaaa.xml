@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tarankaaa</id>
   <title>@tarankaaa | TikTok</title>
-  <updated>2023-09-29T13:29:46+00:00</updated>
+  <updated>2023-10-02T08:23:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tarankaaa</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7281586719688838407</id>
-    <title>#글램룩 #강해보이는얼굴  its always the second child 😔@lavendersunflower </title>
-    <updated>2023-09-22T09:55:25+00:00</updated>
-    <content>#글램룩 #강해보이는얼굴  its always the second child 😔@lavendersunflower </content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7281586719688838407" rel="alternate"/>
-    <published>2023-09-22T09:55:25+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7281596654728400135</id>
     <title>i need black contacts </title>
@@ -91,5 +83,13 @@
     <content>I posted a new vlog on my yt channel go check it out 🥺🤍</content>
     <link href="https://www.tiktok.com/@tarankaaa/video/7284239549356723463" rel="alternate"/>
     <published>2023-09-29T13:29:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7285273869999525138</id>
+    <title>[no title]</title>
+    <updated>2023-10-02T08:23:29+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7285273869999525138" rel="alternate"/>
+    <published>2023-10-02T08:23:29+00:00</published>
   </entry>
 </feed>
