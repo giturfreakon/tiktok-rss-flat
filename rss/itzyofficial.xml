@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-09-27T09:03:03+00:00</updated>
+  <updated>2023-10-04T01:17:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7277895097704860935</id>
-    <title>#키 선배님 좋아, #KEY 선배님 멋져 😎 #Good_and_Great 한 #CAKEChallenge 에 so grateful ✨ #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE #SHINee #샤이니 </title>
-    <updated>2023-09-12T11:10:04+00:00</updated>
-    <content>#키 선배님 좋아, #KEY 선배님 멋져 😎 #Good_and_Great 한 #CAKEChallenge 에 so grateful ✨ #ITZY #MIDZY  #ITZY_KILLMYDOUBT #ITZY_CAKE #SHINee #샤이니 </content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7277895097704860935" rel="alternate"/>
-    <published>2023-09-12T11:10:04+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7278263843774614785</id>
     <title>ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION D-4 #LIA Join BAND ITZY 🎸 ~ 2023.09.17 SUN 23:59 (KST) @ YES24 🎹 KOR https://bit.ly/3L7U5GE 🥁 GLOBAL https://bit.ly/3qZ8Ww8 #ITZY #MIDZY  #MIDZY3RDGENERATION</title>
@@ -91,5 +83,13 @@
     <content>추석맞이 있지’s PICK은!?🍂 #ITZY #MIDZY #추석 #CHUSEOK</content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7283428640816188674" rel="alternate"/>
     <published>2023-09-27T09:03:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7285906267506298114</id>
+    <title>MIDZY와 함께라면 "CAKE" 5000만 뷰도 Alright alright🍰  우리 함께 신나게 Shake it shake🎶 🎉Thank you MIDZY for 50M VIEWS🎉 🎬 https://youtu.be/0bIRwBpBcZQ #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE</title>
+    <updated>2023-10-04T01:17:42+00:00</updated>
+    <content>MIDZY와 함께라면 "CAKE" 5000만 뷰도 Alright alright🍰  우리 함께 신나게 Shake it shake🎶 🎉Thank you MIDZY for 50M VIEWS🎉 🎬 https://youtu.be/0bIRwBpBcZQ #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7285906267506298114" rel="alternate"/>
+    <published>2023-10-04T01:17:42+00:00</published>
   </entry>
 </feed>
