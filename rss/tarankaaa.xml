@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tarankaaa</id>
   <title>@tarankaaa | TikTok</title>
-  <updated>2023-10-04T13:36:55+00:00</updated>
+  <updated>2023-10-05T10:12:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tarankaaa</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7284212880793177362</id>
-    <title>I posted a new video on my yt channel🥺 link in bio</title>
-    <updated>2023-09-29T11:46:16+00:00</updated>
-    <content>I posted a new video on my yt channel🥺 link in bio</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7284212880793177362" rel="alternate"/>
-    <published>2023-09-29T11:46:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7284233859519024392</id>
-    <title>[no title]</title>
-    <updated>2023-09-29T13:07:42+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7284233859519024392" rel="alternate"/>
-    <published>2023-09-29T13:07:42+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7284239549356723463</id>
     <title>I posted a new vlog on my yt channel go check it out 🥺🤍</title>
@@ -91,5 +75,21 @@
     <content>daily vlog 🤍💌✨</content>
     <link href="https://www.tiktok.com/@tarankaaa/video/7286096812186914056" rel="alternate"/>
     <published>2023-10-04T13:36:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7286414872017997063</id>
+    <title>[no title]</title>
+    <updated>2023-10-05T10:11:07+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7286414872017997063" rel="alternate"/>
+    <published>2023-10-05T10:11:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7286415296276073735</id>
+    <title>I'm learning to do more vlogs on tiktok and I hope you will support me in this 🥺 I know it's not that good yet, but I'll get better and better!!!</title>
+    <updated>2023-10-05T10:12:47+00:00</updated>
+    <content>I'm learning to do more vlogs on tiktok and I hope you will support me in this 🥺 I know it's not that good yet, but I'll get better and better!!!</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7286415296276073735" rel="alternate"/>
+    <published>2023-10-05T10:12:47+00:00</published>
   </entry>
 </feed>
