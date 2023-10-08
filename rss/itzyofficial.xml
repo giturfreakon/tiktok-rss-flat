@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-10-04T01:17:42+00:00</updated>
+  <updated>2023-10-08T09:30:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7278263843774614785</id>
-    <title>ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION D-4 #LIA Join BAND ITZY 🎸 ~ 2023.09.17 SUN 23:59 (KST) @ YES24 🎹 KOR https://bit.ly/3L7U5GE 🥁 GLOBAL https://bit.ly/3qZ8Ww8 #ITZY #MIDZY  #MIDZY3RDGENERATION</title>
-    <updated>2023-09-13T11:01:00+00:00</updated>
-    <content>ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION D-4 #LIA Join BAND ITZY 🎸 ~ 2023.09.17 SUN 23:59 (KST) @ YES24 🎹 KOR https://bit.ly/3L7U5GE 🥁 GLOBAL https://bit.ly/3qZ8Ww8 #ITZY #MIDZY  #MIDZY3RDGENERATION</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7278263843774614785" rel="alternate"/>
-    <published>2023-09-13T11:01:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7278634756328131841</id>
     <title>ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION D-3 #RYUJIN Join BAND ITZY 🎸 ~ 2023.09.17 SUN 23:59 (KST) @ YES24 🎹 KOR https://bit.ly/3L7U5GE 🥁 GLOBAL https://bit.ly/3qZ8Ww8 #ITZY #MIDZY  #MIDZY3RDGENERATION</title>
@@ -91,5 +83,13 @@
     <content>MIDZY와 함께라면 "CAKE" 5000만 뷰도 Alright alright🍰  우리 함께 신나게 Shake it shake🎶 🎉Thank you MIDZY for 50M VIEWS🎉 🎬 https://youtu.be/0bIRwBpBcZQ #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE</content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7285906267506298114" rel="alternate"/>
     <published>2023-10-04T01:17:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7287517597610904834</id>
+    <title>공일즈의 #슈퍼파워챌린지 💪 #ITZY #MIDZY #RYUJIN #CHAERYEONG #SUPERPOWERCHALLENGE #힘쎈여자강남순 #StrongGirlNamsoon</title>
+    <updated>2023-10-08T09:30:17+00:00</updated>
+    <content>공일즈의 #슈퍼파워챌린지 💪 #ITZY #MIDZY #RYUJIN #CHAERYEONG #SUPERPOWERCHALLENGE #힘쎈여자강남순 #StrongGirlNamsoon</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7287517597610904834" rel="alternate"/>
+    <published>2023-10-08T09:30:17+00:00</published>
   </entry>
 </feed>
