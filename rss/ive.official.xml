@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-10-09T11:09:18+00:00</updated>
+  <updated>2023-10-09T12:13:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7282971530215116033</id>
-    <title>IVE라서 그래 ✨️ #EitherWaychallenge #이더웨이챌린지 #EitherWay #이더웨이 #OfftheRecord #Baddie #IVE #아이브 #アイヴ #ANYUJIN #안유진 #アンユジン #ユジン #1stEP #IVEMINE </title>
-    <updated>2023-09-26T03:29:15+00:00</updated>
-    <content>IVE라서 그래 ✨️ #EitherWaychallenge #이더웨이챌린지 #EitherWay #이더웨이 #OfftheRecord #Baddie #IVE #아이브 #アイヴ #ANYUJIN #안유진 #アンユジン #ユジン #1stEP #IVEMINE </content>
-    <link href="https://www.tiktok.com/@ive.official/video/7282971530215116033" rel="alternate"/>
-    <published>2023-09-26T03:29:15+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7283381329717103874</id>
     <title>모두 다 'IVE'야 🎉 #EitherWaychallenge #이더웨이챌린지 #EitherWay #이더웨이 #OfftheRecord #Baddie #IVE #아이브 #アイヴ #GAEUL #가을 #ガウル #JANGWONYOUNG #장원영 #ジャンウォニョン #ウォニョン #LIZ #리즈 #リズ #1stEP #IVEMINE </title>
@@ -91,5 +83,13 @@
     <content>IVE THE 1st EP &lt;I'VE MINE&gt; 'Baddie' TEASER https://youtu.be/MqROqoPQ8Go ALBUM RELEASE 2023.10.13 FRI 1PM (KST) #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie</content>
     <link href="https://www.tiktok.com/@ive.official/video/7287914200448388370" rel="alternate"/>
     <published>2023-10-09T11:09:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7287930764870585618</id>
+    <title>📸 IVE THE 1ST WORLD TOUR &lt;SHOW WHAT I HAVE&gt;  DIVE와 함께한 OUR TIME ✨ 모든 순간 다 like it ❤️‍🔥 #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie #SHOW_WHAT_I_HAVE</title>
+    <updated>2023-10-09T12:13:34+00:00</updated>
+    <content>📸 IVE THE 1ST WORLD TOUR &lt;SHOW WHAT I HAVE&gt;  DIVE와 함께한 OUR TIME ✨ 모든 순간 다 like it ❤️‍🔥 #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie #SHOW_WHAT_I_HAVE</content>
+    <link href="https://www.tiktok.com/@ive.official/video/7287930764870585618" rel="alternate"/>
+    <published>2023-10-09T12:13:34+00:00</published>
   </entry>
 </feed>
