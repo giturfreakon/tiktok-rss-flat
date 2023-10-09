@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tarankaaa</id>
   <title>@tarankaaa | TikTok</title>
-  <updated>2023-10-09T10:35:58+00:00</updated>
+  <updated>2023-10-09T09:03:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,30 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tarankaaa</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7286793222473469202</id>
+    <title>@ravvcoser 💖🥺</title>
+    <updated>2023-10-06T10:39:19+00:00</updated>
+    <content>@ravvcoser 💖🥺</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7286793222473469202" rel="alternate"/>
+    <published>2023-10-06T10:39:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7286822122666609927</id>
+    <title>[no title]</title>
+    <updated>2023-10-06T12:31:28+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7286822122666609927" rel="alternate"/>
+    <published>2023-10-06T12:31:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7287141233963601170</id>
+    <title>never say goodbye?👀 💖 #FANTASYBOYS #판타지보이즈 #NEWTOMORROW #ET손댄스</title>
+    <updated>2023-10-07T09:09:47+00:00</updated>
+    <content>never say goodbye?👀 💖 #FANTASYBOYS #판타지보이즈 #NEWTOMORROW #ET손댄스</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7287141233963601170" rel="alternate"/>
+    <published>2023-10-07T09:09:47+00:00</published>
+  </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7287165919636229383</id>
     <title>[no title]</title>
@@ -45,22 +69,6 @@
     <published>2023-10-07T14:30:37+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7287225599012146450</id>
-    <title>[no title]</title>
-    <updated>2023-10-07T14:37:10+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7287225599012146450" rel="alternate"/>
-    <published>2023-10-07T14:37:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7287225875018435848</id>
-    <title>[no title]</title>
-    <updated>2023-10-07T14:38:14+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7287225875018435848" rel="alternate"/>
-    <published>2023-10-07T14:38:14+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7287226395405602066</id>
     <title>[no title]</title>
     <updated>2023-10-07T14:40:15+00:00</updated>
@@ -83,13 +91,5 @@
     <content>We don’t say goodbye?🥺💖 #FANTASYBOYS #판타지보이즈 #NEWTOMORROW #ET손댄스</content>
     <link href="https://www.tiktok.com/@tarankaaa/video/7287881874918133010" rel="alternate"/>
     <published>2023-10-09T09:03:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7287905608244694279</id>
-    <title>[no title]</title>
-    <updated>2023-10-09T10:35:58+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7287905608244694279" rel="alternate"/>
-    <published>2023-10-09T10:35:58+00:00</published>
   </entry>
 </feed>
