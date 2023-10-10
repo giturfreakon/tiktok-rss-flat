@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-10-08T09:30:17+00:00</updated>
+  <updated>2023-10-10T14:04:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7278634756328131841</id>
-    <title>ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION D-3 #RYUJIN Join BAND ITZY 🎸 ~ 2023.09.17 SUN 23:59 (KST) @ YES24 🎹 KOR https://bit.ly/3L7U5GE 🥁 GLOBAL https://bit.ly/3qZ8Ww8 #ITZY #MIDZY  #MIDZY3RDGENERATION</title>
-    <updated>2023-09-14T11:00:19+00:00</updated>
-    <content>ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION D-3 #RYUJIN Join BAND ITZY 🎸 ~ 2023.09.17 SUN 23:59 (KST) @ YES24 🎹 KOR https://bit.ly/3L7U5GE 🥁 GLOBAL https://bit.ly/3qZ8Ww8 #ITZY #MIDZY  #MIDZY3RDGENERATION</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7278634756328131841" rel="alternate"/>
-    <published>2023-09-14T11:00:19+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7278667039173004546</id>
     <title>@Lisa Rhee 님과 #듀엣 reaction to ITZY 🍰CAKE🍰 #YEJI #LIA #Cake </title>
@@ -91,5 +83,13 @@
     <content>공일즈의 #슈퍼파워챌린지 💪 #ITZY #MIDZY #RYUJIN #CHAERYEONG #SUPERPOWERCHALLENGE #힘쎈여자강남순 #StrongGirlNamsoon</content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7287517597610904834" rel="alternate"/>
     <published>2023-10-08T09:30:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7288330360511859969</id>
+    <title>MIDZY의 응원으로 쌓아가는 trophy🏆🎵 #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE #ITZY_KillShot</title>
+    <updated>2023-10-10T14:04:13+00:00</updated>
+    <content>MIDZY의 응원으로 쌓아가는 trophy🏆🎵 #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE #ITZY_KillShot</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7288330360511859969" rel="alternate"/>
+    <published>2023-10-10T14:04:13+00:00</published>
   </entry>
 </feed>
