@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-10-02T13:56:53+00:00</updated>
+  <updated>2023-10-11T07:16:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7280906832934145287</id>
-    <title>MY pov 💙💻🦋 #BetterThings #aespa #æspa #에스파 #KARINA #카리나 #NINGNING #닝닝</title>
-    <updated>2023-09-20T13:57:07+00:00</updated>
-    <content>MY pov 💙💻🦋 #BetterThings #aespa #æspa #에스파 #KARINA #카리나 #NINGNING #닝닝</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7280906832934145287" rel="alternate"/>
-    <published>2023-09-20T13:57:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7281246847060937991</id>
-    <title>MY pov ⭐️💻🌙 #BetterThings #aespa #æspa #에스파 #GISELLE #지젤 #WINTER #윈터 </title>
-    <updated>2023-09-21T11:56:32+00:00</updated>
-    <content>MY pov ⭐️💻🌙 #BetterThings #aespa #æspa #에스파 #GISELLE #지젤 #WINTER #윈터 </content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7281246847060937991" rel="alternate"/>
-    <published>2023-09-21T11:56:32+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7281648873951464711</id>
     <title>MY: Would you do anything for me?  #aerichandesu: 💍✨  #aespa #æspa #에스파 #GISELLE #지젤</title>
@@ -103,5 +87,21 @@
     <content>Baby✨ #aespa #æspa #에스파 #KARINA #카리나</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7285359788098211079" rel="alternate"/>
     <published>2023-10-02T13:56:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7288592250123209992</id>
+    <title>#BetterThingsChallenge 💝🪸🦩 with #RIIZE #라이즈  #aespa #æspa #에스파  🌙 #GISELLE #지젤  ⭐️ #WINTER #윈터  🎸 #WONBIN #원빈  💂‍♂️ #SOHEE #소희  #BetterThings #aespaBetterThings</title>
+    <updated>2023-10-11T07:00:29+00:00</updated>
+    <content>#BetterThingsChallenge 💝🪸🦩 with #RIIZE #라이즈  #aespa #æspa #에스파  🌙 #GISELLE #지젤  ⭐️ #WINTER #윈터  🎸 #WONBIN #원빈  💂‍♂️ #SOHEE #소희  #BetterThings #aespaBetterThings</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7288592250123209992" rel="alternate"/>
+    <published>2023-10-11T07:00:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7288596430304939272</id>
+    <title>#BetterThingsChallenge 🫧🐠✨ with #RIIZE #라이즈 #aespa #æspa #에스파  💙 #KARINA #카리나  🦋 #NINGNING #닝닝 🐸 #SUGNCHAN #성찬 🦕 #ANTON #앤톤 #BetterThings #aespaBetterThings</title>
+    <updated>2023-10-11T07:16:41+00:00</updated>
+    <content>#BetterThingsChallenge 🫧🐠✨ with #RIIZE #라이즈 #aespa #æspa #에스파  💙 #KARINA #카리나  🦋 #NINGNING #닝닝 🐸 #SUGNCHAN #성찬 🦕 #ANTON #앤톤 #BetterThings #aespaBetterThings</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7288596430304939272" rel="alternate"/>
+    <published>2023-10-11T07:16:41+00:00</published>
   </entry>
 </feed>
