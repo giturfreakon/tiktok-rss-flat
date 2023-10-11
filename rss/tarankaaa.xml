@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tarankaaa</id>
   <title>@tarankaaa | TikTok</title>
-  <updated>2023-10-11T14:19:52+00:00</updated>
+  <updated>2023-10-11T14:18:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tarankaaa</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7287172881493019912</id>
+    <title>[no title]</title>
+    <updated>2023-10-07T11:12:36+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7287172881493019912" rel="alternate"/>
+    <published>2023-10-07T11:12:36+00:00</published>
+  </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7287190220116741394</id>
     <title>@ravvcoser  💖💃🏻</title>
@@ -83,13 +91,5 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@tarankaaa/video/7288705226377334034" rel="alternate"/>
     <published>2023-10-11T14:18:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7288705484876549384</id>
-    <title>#매끈파운데이션 LMAO</title>
-    <updated>2023-10-11T14:19:52+00:00</updated>
-    <content>#매끈파운데이션 LMAO</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7288705484876549384" rel="alternate"/>
-    <published>2023-10-11T14:19:52+00:00</published>
   </entry>
 </feed>
