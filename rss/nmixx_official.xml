@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nmixx_official</id>
   <title>@nmixx_official | TikTok</title>
-  <updated>2023-10-11T03:19:12+00:00</updated>
+  <updated>2023-10-12T02:18:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nmixx_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@nmixx_official/video/7261864546745273601</id>
-    <title>#BOYSTORY #SHUYANG #书漾 선배님과 함께 Z.I.P Z.I.P MINGLING MINGLING 🐑🐱 #NMIXX #엔믹스 #규진 #KYUJIN #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</title>
-    <updated>2023-07-31T06:23:25+00:00</updated>
-    <content>#BOYSTORY #SHUYANG #书漾 선배님과 함께 Z.I.P Z.I.P MINGLING MINGLING 🐑🐱 #NMIXX #엔믹스 #규진 #KYUJIN #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</content>
-    <link href="https://www.tiktok.com/@nmixx_official/video/7261864546745273601" rel="alternate"/>
-    <published>2023-07-31T06:23:25+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@nmixx_official/video/7261938901332348162</id>
     <title>#KISSOFLIFE #키스오브라이프 #나띠 #NATTY #벨 #BELLE 님과 함께 Shhh🤫O’Clock ❤️‍🔥🖤 #NMIXX #엔믹스 #릴리 #LILY #규진 #KYUJIN #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</title>
@@ -91,5 +83,13 @@
     <content>뀨🐱삐💞뽀🫶삐🎀뽀 뀨삐뽀⋰˚☆ #NMIXX #엔믹스 #규진 #KYUJIN</content>
     <link href="https://www.tiktok.com/@nmixx_official/video/7288535225880055048" rel="alternate"/>
     <published>2023-10-11T03:19:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@nmixx_official/video/7288890757136551186</id>
+    <title>Ugh...!✧⃛  As if🐨💝🐣 #NMIXX #엔믹스 #릴리 #LILY #배이 #BAE </title>
+    <updated>2023-10-12T02:18:51+00:00</updated>
+    <content>Ugh...!✧⃛  As if🐨💝🐣 #NMIXX #엔믹스 #릴리 #LILY #배이 #BAE </content>
+    <link href="https://www.tiktok.com/@nmixx_official/video/7288890757136551186" rel="alternate"/>
+    <published>2023-10-12T02:18:51+00:00</published>
   </entry>
 </feed>
