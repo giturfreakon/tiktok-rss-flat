@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-10-12T13:57:08+00:00</updated>
+  <updated>2023-10-13T07:05:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7282732774656691474</id>
-    <title>#BetterThingsChallenge 💚🍑🐠 with #JAEHYUN #aespa #æspa #에스파  #WINTER #윈터 #재현  #NCT #NCTU @NCT Official  #BetterThings #aespaBetterThings</title>
-    <updated>2023-09-25T12:02:43+00:00</updated>
-    <content>#BetterThingsChallenge 💚🍑🐠 with #JAEHYUN #aespa #æspa #에스파  #WINTER #윈터 #재현  #NCT #NCTU @NCT Official  #BetterThings #aespaBetterThings</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7282732774656691474" rel="alternate"/>
-    <published>2023-09-25T12:02:43+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7283306902874770696</id>
     <title>🎉 한국 MY 여러분, 드디어 시작합니다!  🎉
@@ -103,5 +95,13 @@
     <content>#BetterThingsChallenge KARINA at 🎡🇬🇧 #aespa #æspa #에스파  #KARINA #카리나 #BetterThings #aespaBetterThings</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7289070713439259922" rel="alternate"/>
     <published>2023-10-12T13:57:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7289335675244072200</id>
+    <title>🚨 한국의 MY 여러분, 'LYNK-POP: THE 1st VR CONCERT aespa' 티켓팅 하셨나요?! 에스파의 첫 VR콘서트를 보는 MY가 될 기회를 놓치지 마세요 ⏳  메가박스 앱 또는 홈페이지에서 티켓을 구매하고 우리 함께 æ-venture를 떠나요! 🚀 https://megabox.co.kr/event/detail?eventNo=14145 🚨 Korea MYs, have you secured your 'LYNK-POP: THE 1st VR</title>
+    <updated>2023-10-13T07:05:20+00:00</updated>
+    <content>🚨 한국의 MY 여러분, 'LYNK-POP: THE 1st VR CONCERT aespa' 티켓팅 하셨나요?! 에스파의 첫 VR콘서트를 보는 MY가 될 기회를 놓치지 마세요 ⏳  메가박스 앱 또는 홈페이지에서 티켓을 구매하고 우리 함께 æ-venture를 떠나요! 🚀 https://megabox.co.kr/event/detail?eventNo=14145 🚨 Korea MYs, have you secured your 'LYNK-POP: THE 1st VR CONCERT aespa' tickets yet?! Meet face to face with aespa in VR! ⏳ Get your tickets from the Megabox app and be part of this spectacular æ-venture! 🚀 https://megabox.co.kr/event/detail?eventNo=14145 #aespa #æspa #에스파 #LYNKPOP #에스파VR콘서트 #aespaVRconcert #AmazeVR #VR #VR콘서트 #VRconcert</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7289335675244072200" rel="alternate"/>
+    <published>2023-10-13T07:05:20+00:00</published>
   </entry>
 </feed>
