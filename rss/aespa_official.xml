@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-10-13T13:56:30+00:00</updated>
+  <updated>2023-10-13T14:45:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7285328874479619335</id>
-    <title>🚨𝓢.𝓞.𝓢🚨 #aespa #æspa #에스파 #GISELLE #지젤</title>
-    <updated>2023-10-02T11:56:55+00:00</updated>
-    <content>🚨𝓢.𝓞.𝓢🚨 #aespa #æspa #에스파 #GISELLE #지젤</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7285328874479619335" rel="alternate"/>
-    <published>2023-10-02T11:56:55+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7285359788098211079</id>
     <title>Baby✨ #aespa #æspa #에스파 #KARINA #카리나</title>
@@ -91,5 +83,13 @@
     <content>🌊💃🐬✨ #aespa #æspa #에스파 #KARINA #카리나 #NINGNING #닝닝 </content>
     <link href="https://www.tiktok.com/@aespa_official/video/7289441631491640584" rel="alternate"/>
     <published>2023-10-13T13:56:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7289454339129707794</id>
+    <title>#BetterThingsChallenge 🪸🫧🐠 with #TREASURE #트레저 #aespa #æspa #에스파 #GISELLE #지젤 #WINTER #윈터 #CHOIHYUNSUK #최현석 #HARUTO #하루토 #BetterThings #aespaBetterThings</title>
+    <updated>2023-10-13T14:45:48+00:00</updated>
+    <content>#BetterThingsChallenge 🪸🫧🐠 with #TREASURE #트레저 #aespa #æspa #에스파 #GISELLE #지젤 #WINTER #윈터 #CHOIHYUNSUK #최현석 #HARUTO #하루토 #BetterThings #aespaBetterThings</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7289454339129707794" rel="alternate"/>
+    <published>2023-10-13T14:45:48+00:00</published>
   </entry>
 </feed>
