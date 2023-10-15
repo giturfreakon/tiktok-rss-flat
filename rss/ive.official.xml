@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-10-14T05:00:30+00:00</updated>
+  <updated>2023-10-15T03:00:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7287914200448388370</id>
-    <title>IVE THE 1st EP &lt;I'VE MINE&gt; 'Baddie' TEASER https://youtu.be/MqROqoPQ8Go ALBUM RELEASE 2023.10.13 FRI 1PM (KST) #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie</title>
-    <updated>2023-10-09T11:09:18+00:00</updated>
-    <content>IVE THE 1st EP &lt;I'VE MINE&gt; 'Baddie' TEASER https://youtu.be/MqROqoPQ8Go ALBUM RELEASE 2023.10.13 FRI 1PM (KST) #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie</content>
-    <link href="https://www.tiktok.com/@ive.official/video/7287914200448388370" rel="alternate"/>
-    <published>2023-10-09T11:09:18+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7287930764870585618</id>
     <title>📸 IVE THE 1ST WORLD TOUR &lt;SHOW WHAT I HAVE&gt;  DIVE와 함께한 OUR TIME ✨ 모든 순간 다 like it ❤️‍🔥 #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie #SHOW_WHAT_I_HAVE</title>
@@ -91,5 +83,13 @@
     <content>#CRAVITY #MINHEE #HYEONGJUN 선배님과 함께 완성 돼 우리 #BaddieChallenge #NewMusic 🧀😈</content>
     <link href="https://www.tiktok.com/@ive.official/video/7289674590651993352" rel="alternate"/>
     <published>2023-10-14T05:00:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7290014694054579464</id>
+    <title>난 즐겨 #Kep1er #CHAEHYUN   #HUENING_BAHIYYIH 와의 #BaddieChallenge 🔭😈 #Baddie #IVE #아이브 #アイヴ #LIZ #케플러 #김채현 #휴닝바히에 #NewMusic</title>
+    <updated>2023-10-15T03:00:16+00:00</updated>
+    <content>난 즐겨 #Kep1er #CHAEHYUN   #HUENING_BAHIYYIH 와의 #BaddieChallenge 🔭😈 #Baddie #IVE #아이브 #アイヴ #LIZ #케플러 #김채현 #휴닝바히에 #NewMusic</content>
+    <link href="https://www.tiktok.com/@ive.official/video/7290014694054579464" rel="alternate"/>
+    <published>2023-10-15T03:00:16+00:00</published>
   </entry>
 </feed>
