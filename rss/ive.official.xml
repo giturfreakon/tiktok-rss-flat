@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-10-15T12:00:03+00:00</updated>
+  <updated>2023-10-16T10:29:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7288700902603607298</id>
-    <title>🎥 IVE 아이브 ‘I’VE MINE’ Highlight Medley https://youtu.be/TUIZBT3Akk8 #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie </title>
-    <updated>2023-10-11T14:02:08+00:00</updated>
-    <content>🎥 IVE 아이브 ‘I’VE MINE’ Highlight Medley https://youtu.be/TUIZBT3Akk8 #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie </content>
-    <link href="https://www.tiktok.com/@ive.official/video/7288700902603607298" rel="alternate"/>
-    <published>2023-10-11T14:02:08+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7289289344228084994</id>
     <title>IVE THE 1st EP &lt;I'VE MINE&gt; 'Baddie' MV https://youtu.be/Da4P2uT4mVc #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie </title>
@@ -91,5 +83,13 @@
     <content>I’m chasing, chasing 🏃Catch me if you can! 😈 #TOMORROW_X_TOGETHER #YEONJUN #HUENINGKAI 선배님과의 #BaddieChallenge  #Baddie #IVE #아이브 #アイヴ #ANYUJIN #안유진 #LEESEO #이서 #투모로우바이투게더 #연준 #휴닝카이 #NewMusic </content>
     <link href="https://www.tiktok.com/@ive.official/video/7290153790815161608" rel="alternate"/>
     <published>2023-10-15T12:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7290501619911757058</id>
+    <title>Imma baddie b, b, baddie (MV ver.) 👿💜 #BaddieChallenge #Baddie #Eitherway #OfftheRecord #IVE #아이브 #アイヴ #1stEP #IVEMINE #NewMusic </title>
+    <updated>2023-10-16T10:29:49+00:00</updated>
+    <content>Imma baddie b, b, baddie (MV ver.) 👿💜 #BaddieChallenge #Baddie #Eitherway #OfftheRecord #IVE #아이브 #アイヴ #1stEP #IVEMINE #NewMusic </content>
+    <link href="https://www.tiktok.com/@ive.official/video/7290501619911757058" rel="alternate"/>
+    <published>2023-10-16T10:29:49+00:00</published>
   </entry>
 </feed>
