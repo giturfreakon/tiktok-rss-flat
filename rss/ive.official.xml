@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-10-16T10:29:49+00:00</updated>
+  <updated>2023-10-17T09:00:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7289289344228084994</id>
-    <title>IVE THE 1st EP &lt;I'VE MINE&gt; 'Baddie' MV https://youtu.be/Da4P2uT4mVc #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie </title>
-    <updated>2023-10-13T04:05:36+00:00</updated>
-    <content>IVE THE 1st EP &lt;I'VE MINE&gt; 'Baddie' MV https://youtu.be/Da4P2uT4mVc #IVE #아이브 #アイヴ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie </content>
-    <link href="https://www.tiktok.com/@ive.official/video/7289289344228084994" rel="alternate"/>
-    <published>2023-10-13T04:05:36+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7289370900233735425</id>
     <title>Follow these moves and join IVE’s #BaddieChallenge 🐱 #Baddie #IVE #아이브 #アイヴ #1stEP #IVEMINE #EitherWay #OfftheRecord #NewMusic </title>
@@ -91,5 +83,13 @@
     <content>Imma baddie b, b, baddie (MV ver.) 👿💜 #BaddieChallenge #Baddie #Eitherway #OfftheRecord #IVE #아이브 #アイヴ #1stEP #IVEMINE #NewMusic </content>
     <link href="https://www.tiktok.com/@ive.official/video/7290501619911757058" rel="alternate"/>
     <published>2023-10-16T10:29:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7290849798565924104</id>
+    <title>Good &amp; Great한 명불허전 안무위키 💎👍🏻 #SHINee #KEY 선배님과의 #BaddieChallenge  #Baddie #IVE #아이브 #アイヴ #ANYUJIN #안유진 #샤이니 #키 #NewMusic </title>
+    <updated>2023-10-17T09:00:55+00:00</updated>
+    <content>Good &amp; Great한 명불허전 안무위키 💎👍🏻 #SHINee #KEY 선배님과의 #BaddieChallenge  #Baddie #IVE #아이브 #アイヴ #ANYUJIN #안유진 #샤이니 #키 #NewMusic </content>
+    <link href="https://www.tiktok.com/@ive.official/video/7290849798565924104" rel="alternate"/>
+    <published>2023-10-17T09:00:55+00:00</published>
   </entry>
 </feed>
