@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nmixx_official</id>
   <title>@nmixx_official | TikTok</title>
-  <updated>2023-10-17T13:57:08+00:00</updated>
+  <updated>2023-10-17T14:24:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nmixx_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@nmixx_official/video/7262234757776280833</id>
-    <title>#BOYNEXTDOOR #보이넥스트도어 #운학 님과 함께 키키키키 Keep Keep Mingling Mingling 🪩🐶  #NMIXX #엔믹스 #JIWOO #지우 #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</title>
-    <updated>2023-08-01T06:19:56+00:00</updated>
-    <content>#BOYNEXTDOOR #보이넥스트도어 #운학 님과 함께 키키키키 Keep Keep Mingling Mingling 🪩🐶  #NMIXX #엔믹스 #JIWOO #지우 #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</content>
-    <link href="https://www.tiktok.com/@nmixx_official/video/7262234757776280833" rel="alternate"/>
-    <published>2023-08-01T06:19:56+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@nmixx_official/video/7262310310248320257</id>
     <title>#투모로우바이투게더 #TOMORROW_X_TOGETHER #TXT #연준 #YEONJUN 님과 함께 Do Party Like That🎵🦊 #NMIXX #엔믹스 #해원 #HAEWON #규진 #KYUJIN #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</title>
@@ -91,5 +83,13 @@
     <content>I’ll be your friend👭 #NMIXX #엔믹스 #릴리 #LILY #HAPPY_LILY_DAY #LILY_Really_Lovely</content>
     <link href="https://www.tiktok.com/@nmixx_official/video/7290926133166574856" rel="alternate"/>
     <published>2023-10-17T13:57:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@nmixx_official/video/7290933066229402898</id>
+    <title>💞LOVE-LY LILY💞 #NMIXX #엔믹스 #릴리 #LILY #HAPPY_LILY_DAY #LILY_Really_Lovely</title>
+    <updated>2023-10-17T14:24:02+00:00</updated>
+    <content>💞LOVE-LY LILY💞 #NMIXX #엔믹스 #릴리 #LILY #HAPPY_LILY_DAY #LILY_Really_Lovely</content>
+    <link href="https://www.tiktok.com/@nmixx_official/video/7290933066229402898" rel="alternate"/>
+    <published>2023-10-17T14:24:02+00:00</published>
   </entry>
 </feed>
