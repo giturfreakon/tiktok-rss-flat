@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-10-18T07:01:48+00:00</updated>
+  <updated>2023-10-19T11:29:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7289372082356374786</id>
-    <title>Follow these moves and join IVE’s #BaddieChallenge 🐱 #Baddie #IVE #아이브 #アイヴ #1stEP #IVEMINE #EitherWay #OfftheRecord #NewMusic </title>
-    <updated>2023-10-13T09:26:37+00:00</updated>
-    <content>Follow these moves and join IVE’s #BaddieChallenge 🐱 #Baddie #IVE #아이브 #アイヴ #1stEP #IVEMINE #EitherWay #OfftheRecord #NewMusic </content>
-    <link href="https://www.tiktok.com/@ive.official/video/7289372082356374786" rel="alternate"/>
-    <published>2023-10-13T09:26:37+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7289372790594096386</id>
     <title>Follow these moves and join IVE’s #BaddieChallenge 🐱 #Baddie #IVE #아이브 #アイヴ #1stEP #IVEMINE #EitherWay #OfftheRecord #NewMusic </title>
@@ -91,5 +83,13 @@
     <content>MZ? 사월? 아무튼 너무 사랑스러운 #Baddie #주현영 님의 #BaddieChallenge (Easy ver.) 감사합니다 #IVE #아이브 #アイヴ #ANYUJIN #안유진 #NewMusic </content>
     <link href="https://www.tiktok.com/@ive.official/video/7291190189223857426" rel="alternate"/>
     <published>2023-10-18T07:01:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7291630305302023431</id>
+    <title>킥진이 앞에서는 절로 숙여지는 고개 🫨 #Baddie #IVE #아이브 #アイヴ #ANYUJIN #안유진 #BaddieChallenge #NewMusic </title>
+    <updated>2023-10-19T11:29:41+00:00</updated>
+    <content>킥진이 앞에서는 절로 숙여지는 고개 🫨 #Baddie #IVE #아이브 #アイヴ #ANYUJIN #안유진 #BaddieChallenge #NewMusic </content>
+    <link href="https://www.tiktok.com/@ive.official/video/7291630305302023431" rel="alternate"/>
+    <published>2023-10-19T11:29:41+00:00</published>
   </entry>
 </feed>
