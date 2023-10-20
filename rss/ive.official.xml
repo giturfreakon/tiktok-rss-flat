@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-10-20T02:02:24+00:00</updated>
+  <updated>2023-10-20T04:30:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7289376265159675143</id>
-    <title>#BaddieChallenge, #NCT127 #TAEYONG #JOHNNY 선배님과 함께 더 빛을 발하지 ✨ #Baddie #IVE #아이브 #アイヴ #GAEUL #LEESEO #NewMusic</title>
-    <updated>2023-10-13T09:42:51+00:00</updated>
-    <content>#BaddieChallenge, #NCT127 #TAEYONG #JOHNNY 선배님과 함께 더 빛을 발하지 ✨ #Baddie #IVE #아이브 #アイヴ #GAEUL #LEESEO #NewMusic</content>
-    <link href="https://www.tiktok.com/@ive.official/video/7289376265159675143" rel="alternate"/>
-    <published>2023-10-13T09:42:51+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7289636161507626247</id>
     <title>우리 DNA엔 은행장 blood runs 🏦🩷 (With. #LE_SSERAFIM #HONGEUNCHAE #이채민) #BaddieChallenge #Baddie #IVE #아이브 #アイヴ #JANGWONYOUNG #르세라핌 #홍은채 #NewMusic</title>
@@ -91,5 +83,13 @@
     <content>Pretty little majesty #Baddie 👑 #GIDLE #MIYEON 선배님과의 #BaddieChallenge (Easy ver.) 💕 #IVE #아이브 #アイヴ #GAEUL #가을 #LEESEO #이서 #여자아이들 #미연 #NewMusic </content>
     <link href="https://www.tiktok.com/@ive.official/video/7291855202301316370" rel="alternate"/>
     <published>2023-10-20T02:02:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7291893338955861266</id>
+    <title>I think I'll fall in love with you OTT 💕 #IVE #아이브 #アイヴ #Baddie #Eitherway #OfftheRecord #1stEP #IVEMINE #OTT #NewMusic</title>
+    <updated>2023-10-20T04:30:22+00:00</updated>
+    <content>I think I'll fall in love with you OTT 💕 #IVE #아이브 #アイヴ #Baddie #Eitherway #OfftheRecord #1stEP #IVEMINE #OTT #NewMusic</content>
+    <link href="https://www.tiktok.com/@ive.official/video/7291893338955861266" rel="alternate"/>
+    <published>2023-10-20T04:30:22+00:00</published>
   </entry>
 </feed>
