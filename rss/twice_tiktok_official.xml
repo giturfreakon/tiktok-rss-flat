@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@twice_tiktok_official</id>
   <title>@twice_tiktok_official | TikTok</title>
-  <updated>2023-09-26T03:01:54+00:00</updated>
+  <updated>2023-10-20T05:01:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @twice_tiktok_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_official/video/7279423304845348098</id>
-    <title>🎙️Sing along with JIHYO and feel the rhythm flow!🎙️ 🎵"Killin' Me Good (English Ver.)" JIHYO.lnk.to/KillinMeGood   #TWICE #트와이스 #JIHYO #지효 #KillinMeGood </title>
-    <updated>2023-09-16T14:00:18+00:00</updated>
-    <content>🎙️Sing along with JIHYO and feel the rhythm flow!🎙️ 🎵"Killin' Me Good (English Ver.)" JIHYO.lnk.to/KillinMeGood   #TWICE #트와이스 #JIHYO #지효 #KillinMeGood </content>
-    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7279423304845348098" rel="alternate"/>
-    <published>2023-09-16T14:00:18+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_official/video/7279593626240371969</id>
     <title>🧡Can't deny JIHYO's beauty🧡 🎵"Killin' Me Good (English Ver.)" JIHYO.lnk.to/KillinMeGood  #TWICE #트와이스 #JIHYO #지효 #KillinMeGood </title>
@@ -91,5 +83,13 @@
     <content>JYP Official 🐰X🐥 #TWICE #트와이스 #NAYEON #나연 #StrayKids #스트레이키즈 #필릭스 #Felix #IM_NAYEON #NOPROBLEM</content>
     <link href="https://www.tiktok.com/@twice_tiktok_official/video/7282964485269163266" rel="alternate"/>
     <published>2023-09-26T03:01:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_official/video/7291901346385595649</id>
+    <title>TWICE 8주년 TWICE RECORDS  팝업스토어를 성수 공간와디즈에서 만나보세요🍭 Come explore the TWICE RECORDS POP-UP STORE at GONGGAN wadiz Seongsu🍭 #트와이스 #TWICE #트와이스레코즈 #TWICERECORDS #TWICE_8TH_ANNIVERSARY</title>
+    <updated>2023-10-20T05:01:29+00:00</updated>
+    <content>TWICE 8주년 TWICE RECORDS  팝업스토어를 성수 공간와디즈에서 만나보세요🍭 Come explore the TWICE RECORDS POP-UP STORE at GONGGAN wadiz Seongsu🍭 #트와이스 #TWICE #트와이스레코즈 #TWICERECORDS #TWICE_8TH_ANNIVERSARY</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7291901346385595649" rel="alternate"/>
+    <published>2023-10-20T05:01:29+00:00</published>
   </entry>
 </feed>
