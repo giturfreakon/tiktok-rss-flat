@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-10-19T11:29:41+00:00</updated>
+  <updated>2023-10-20T02:02:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7289372790594096386</id>
-    <title>Follow these moves and join IVE’s #BaddieChallenge 🐱 #Baddie #IVE #아이브 #アイヴ #1stEP #IVEMINE #EitherWay #OfftheRecord #NewMusic </title>
-    <updated>2023-10-13T09:29:25+00:00</updated>
-    <content>Follow these moves and join IVE’s #BaddieChallenge 🐱 #Baddie #IVE #아이브 #アイヴ #1stEP #IVEMINE #EitherWay #OfftheRecord #NewMusic </content>
-    <link href="https://www.tiktok.com/@ive.official/video/7289372790594096386" rel="alternate"/>
-    <published>2023-10-13T09:29:25+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7289376265159675143</id>
     <title>#BaddieChallenge, #NCT127 #TAEYONG #JOHNNY 선배님과 함께 더 빛을 발하지 ✨ #Baddie #IVE #아이브 #アイヴ #GAEUL #LEESEO #NewMusic</title>
@@ -91,5 +83,13 @@
     <content>킥진이 앞에서는 절로 숙여지는 고개 🫨 #Baddie #IVE #아이브 #アイヴ #ANYUJIN #안유진 #BaddieChallenge #NewMusic </content>
     <link href="https://www.tiktok.com/@ive.official/video/7291630305302023431" rel="alternate"/>
     <published>2023-10-19T11:29:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7291855202301316370</id>
+    <title>Pretty little majesty #Baddie 👑 #GIDLE #MIYEON 선배님과의 #BaddieChallenge (Easy ver.) 💕 #IVE #아이브 #アイヴ #GAEUL #가을 #LEESEO #이서 #여자아이들 #미연 #NewMusic </title>
+    <updated>2023-10-20T02:02:24+00:00</updated>
+    <content>Pretty little majesty #Baddie 👑 #GIDLE #MIYEON 선배님과의 #BaddieChallenge (Easy ver.) 💕 #IVE #아이브 #アイヴ #GAEUL #가을 #LEESEO #이서 #여자아이들 #미연 #NewMusic </content>
+    <link href="https://www.tiktok.com/@ive.official/video/7291855202301316370" rel="alternate"/>
+    <published>2023-10-20T02:02:24+00:00</published>
   </entry>
 </feed>
