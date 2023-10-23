@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-10-23T05:01:51+00:00</updated>
+  <updated>2023-10-23T13:10:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7290849798565924104</id>
-    <title>Good &amp; Great한 명불허전 안무위키 💎👍🏻 #SHINee #KEY 선배님과의 #BaddieChallenge  #Baddie #IVE #아이브 #アイヴ #ANYUJIN #안유진 #샤이니 #키 #NewMusic </title>
-    <updated>2023-10-17T09:00:55+00:00</updated>
-    <content>Good &amp; Great한 명불허전 안무위키 💎👍🏻 #SHINee #KEY 선배님과의 #BaddieChallenge  #Baddie #IVE #아이브 #アイヴ #ANYUJIN #안유진 #샤이니 #키 #NewMusic </content>
-    <link href="https://www.tiktok.com/@ive.official/video/7290849798565924104" rel="alternate"/>
-    <published>2023-10-17T09:00:55+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7291190189223857426</id>
     <title>MZ? 사월? 아무튼 너무 사랑스러운 #Baddie #주현영 님의 #BaddieChallenge (Easy ver.) 감사합니다 #IVE #아이브 #アイヴ #ANYUJIN #안유진 #NewMusic </title>
@@ -91,5 +83,13 @@
     <content>설윤중심🐰 #NMIXX #SULLYOON 님과 함께한 #BaddieChallenge (Easy ver.) 이 조합 너무 기특해요 복복복 🫳🫳🫳 칭찬 도장 💯💯💯 #Baddie #IVE #아이브 #アイヴ #REI #레이 #LIZ #리즈 #엔믹스 #설윤 #NewMusic </content>
     <link href="https://www.tiktok.com/@ive.official/video/7293014704174157063" rel="alternate"/>
     <published>2023-10-23T05:01:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7293140712881704200</id>
+    <title>Off The Record Sped up ✨ #IVE #아이브 #アイヴ #ANYUJIN #안유진 #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie #NewMusic </title>
+    <updated>2023-10-23T13:10:49+00:00</updated>
+    <content>Off The Record Sped up ✨ #IVE #아이브 #アイヴ #ANYUJIN #안유진 #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie #NewMusic </content>
+    <link href="https://www.tiktok.com/@ive.official/video/7293140712881704200" rel="alternate"/>
+    <published>2023-10-23T13:10:49+00:00</published>
   </entry>
 </feed>
