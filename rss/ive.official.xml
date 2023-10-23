@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-10-23T03:30:33+00:00</updated>
+  <updated>2023-10-23T05:01:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7290501619911757058</id>
-    <title>Imma baddie b, b, baddie (MV ver.) 👿💜 #BaddieChallenge #Baddie #Eitherway #OfftheRecord #IVE #아이브 #アイヴ #1stEP #IVEMINE #NewMusic </title>
-    <updated>2023-10-16T10:29:49+00:00</updated>
-    <content>Imma baddie b, b, baddie (MV ver.) 👿💜 #BaddieChallenge #Baddie #Eitherway #OfftheRecord #IVE #아이브 #アイヴ #1stEP #IVEMINE #NewMusic </content>
-    <link href="https://www.tiktok.com/@ive.official/video/7290501619911757058" rel="alternate"/>
-    <published>2023-10-16T10:29:49+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7290849798565924104</id>
     <title>Good &amp; Great한 명불허전 안무위키 💎👍🏻 #SHINee #KEY 선배님과의 #BaddieChallenge  #Baddie #IVE #아이브 #アイヴ #ANYUJIN #안유진 #샤이니 #키 #NewMusic </title>
@@ -91,5 +83,13 @@
     <content>OTT challenge🎀🤍🎀  by.Wonyoung  #IVE #아이브 #アイヴ  #JANGWONYOUNG #장원영 #Baddie #Eitherway #OfftheRecord #1stEP #IVEMINE #OTT #NewMusic</content>
     <link href="https://www.tiktok.com/@ive.official/video/7292991167489166610" rel="alternate"/>
     <published>2023-10-23T03:30:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7293014704174157063</id>
+    <title>설윤중심🐰 #NMIXX #SULLYOON 님과 함께한 #BaddieChallenge (Easy ver.) 이 조합 너무 기특해요 복복복 🫳🫳🫳 칭찬 도장 💯💯💯 #Baddie #IVE #아이브 #アイヴ #REI #레이 #LIZ #리즈 #엔믹스 #설윤 #NewMusic </title>
+    <updated>2023-10-23T05:01:51+00:00</updated>
+    <content>설윤중심🐰 #NMIXX #SULLYOON 님과 함께한 #BaddieChallenge (Easy ver.) 이 조합 너무 기특해요 복복복 🫳🫳🫳 칭찬 도장 💯💯💯 #Baddie #IVE #아이브 #アイヴ #REI #레이 #LIZ #리즈 #엔믹스 #설윤 #NewMusic </content>
+    <link href="https://www.tiktok.com/@ive.official/video/7293014704174157063" rel="alternate"/>
+    <published>2023-10-23T05:01:51+00:00</published>
   </entry>
 </feed>
