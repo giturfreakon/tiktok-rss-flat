@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@el7zup_official_</id>
   <title>@el7zup_official_ | TikTok</title>
-  <updated>2023-10-18T10:00:00+00:00</updated>
+  <updated>2023-10-24T13:24:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @el7zup_official_</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@el7zup_official_/video/7283489786998967560</id>
-    <title>#치키챌린지 를 따라 하면 무슨 일이 일어날까요? CHEEKY가 #체인지챌린지 마법의 주문💫 #CHEEKY_Challenge #치키챌린지 #EL7ZUP #엘즈업 #CHEEKY #나나 #NANA #유키 #YUKI #change #changechallenge #NewMusic</title>
-    <updated>2023-09-27T13:00:18+00:00</updated>
-    <content>#치키챌린지 를 따라 하면 무슨 일이 일어날까요? CHEEKY가 #체인지챌린지 마법의 주문💫 #CHEEKY_Challenge #치키챌린지 #EL7ZUP #엘즈업 #CHEEKY #나나 #NANA #유키 #YUKI #change #changechallenge #NewMusic</content>
-    <link href="https://www.tiktok.com/@el7zup_official_/video/7283489786998967560" rel="alternate"/>
-    <published>2023-09-27T13:00:18+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@el7zup_official_/video/7283783540007832840</id>
     <title>STATION Z 설아의 우정이 깊어지는 밤💫 다같이 CHEEKY CHEEKY💕 @wjsn_cosmic @YEOREUM_OFFICIAL  #CHEEKY_Challenge #치키치키챌린지 #EL7ZUP #엘즈업 #CHEEKY #여름 #YEOREUM #연희 #YEONHEE #유키 #YUKI #설아 #SEOLA #우주소녀 #WJSN #NewMusic</title>
@@ -91,5 +83,13 @@
     <content>막내즈가 추는 깜찍한 어깨춤💕 #EL7ZUP #엘즈업 #휘서 #HWISEO #유키 #YUKI #NewMusic</content>
     <link href="https://www.tiktok.com/@el7zup_official_/video/7291223327522245889" rel="alternate"/>
     <published>2023-10-18T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@el7zup_official_/video/7293515367513738497</id>
+    <title>막내즈는 달리고 달리고 또 달리지 🏃🏻 스모크 챌린지🔥 ⠀ #TikTok #틱톡 #EL7ZUP #엘즈업 #휘서 #HWISEO #유키 #YUKI</title>
+    <updated>2023-10-24T13:24:42+00:00</updated>
+    <content>막내즈는 달리고 달리고 또 달리지 🏃🏻 스모크 챌린지🔥 ⠀ #TikTok #틱톡 #EL7ZUP #엘즈업 #휘서 #HWISEO #유키 #YUKI</content>
+    <link href="https://www.tiktok.com/@el7zup_official_/video/7293515367513738497" rel="alternate"/>
+    <published>2023-10-24T13:24:42+00:00</published>
   </entry>
 </feed>
