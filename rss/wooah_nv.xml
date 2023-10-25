@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@wooah_nv</id>
   <title>@wooah_nv | TikTok</title>
-  <updated>2023-10-18T11:05:26+00:00</updated>
+  <updated>2023-10-25T10:49:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @wooah_nv</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@wooah_nv/video/7269699453542550786</id>
-    <title>Cause I'm a bad girl bad girl #wooah #우아 #NANA #나나 </title>
-    <updated>2023-08-21T09:06:48+00:00</updated>
-    <content>Cause I'm a bad girl bad girl #wooah #우아 #NANA #나나 </content>
-    <link href="https://www.tiktok.com/@wooah_nv/video/7269699453542550786" rel="alternate"/>
-    <published>2023-08-21T09:06:48+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@wooah_nv/video/7272288442141216002</id>
     <title>What it is 🤷‍♀️ #wooah #우아 #LUCY #루시</title>
@@ -91,5 +83,13 @@
     <content>everyday NANA💭 #wooah #우아 #NANA #나나 </content>
     <link href="https://www.tiktok.com/@wooah_nv/video/7291252966634310914" rel="alternate"/>
     <published>2023-10-18T11:05:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@wooah_nv/video/7293846544032337154</id>
+    <title>와우는 세금 면제 🙌 #wooah #우아 #NANA #나나 </title>
+    <updated>2023-10-25T10:49:51+00:00</updated>
+    <content>와우는 세금 면제 🙌 #wooah #우아 #NANA #나나 </content>
+    <link href="https://www.tiktok.com/@wooah_nv/video/7293846544032337154" rel="alternate"/>
+    <published>2023-10-25T10:49:51+00:00</published>
   </entry>
 </feed>
