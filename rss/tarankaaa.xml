@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tarankaaa</id>
   <title>@tarankaaa | TikTok</title>
-  <updated>2023-10-24T10:27:06+00:00</updated>
+  <updated>2023-10-22T11:35:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tarankaaa</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7288993280254102791</id>
+    <title>[no title]</title>
+    <updated>2023-10-12T08:56:40+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7288993280254102791" rel="alternate"/>
+    <published>2023-10-12T08:56:40+00:00</published>
+  </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7290084345086364936</id>
     <title>[no title]</title>
@@ -45,28 +53,12 @@
     <published>2023-10-17T09:05:47+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7290852276443303176</id>
-    <title>[no title]</title>
-    <updated>2023-10-17T09:10:32+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7290852276443303176" rel="alternate"/>
-    <published>2023-10-17T09:10:32+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7292395208187186440</id>
     <title>[no title]</title>
     <updated>2023-10-21T12:57:53+00:00</updated>
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@tarankaaa/video/7292395208187186440" rel="alternate"/>
     <published>2023-10-21T12:57:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7292396094095445256</id>
-    <title>[no title]</title>
-    <updated>2023-10-21T13:01:19+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7292396094095445256" rel="alternate"/>
-    <published>2023-10-21T13:01:19+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7292744977040395527</id>
@@ -77,19 +69,27 @@
     <published>2023-10-22T11:35:11+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7293468536121462023</id>
-    <title>[no title]</title>
-    <updated>2023-10-24T10:22:56+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7293468536121462023" rel="alternate"/>
-    <published>2023-10-24T10:22:56+00:00</published>
+    <id>https://www.tiktok.com/@tarankaaa/video/6995151179823025409</id>
+    <title>which one is better? 😤 #fyp #fup</title>
+    <updated>2021-08-11T12:39:13+00:00</updated>
+    <content>which one is better? 😤 #fyp #fup</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/6995151179823025409" rel="alternate"/>
+    <published>2021-08-11T12:39:13+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7293469603265629448</id>
-    <title>@ravvcoser  </title>
-    <updated>2023-10-24T10:27:06+00:00</updated>
-    <content>@ravvcoser  </content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7293469603265629448" rel="alternate"/>
-    <published>2023-10-24T10:27:06+00:00</published>
+    <id>https://www.tiktok.com/@tarankaaa/video/6860825426948820229</id>
+    <title>おはよう !</title>
+    <updated>2020-08-14T13:06:48+00:00</updated>
+    <content>おはよう !</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/6860825426948820229" rel="alternate"/>
+    <published>2020-08-14T13:06:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/6829633817611930886</id>
+    <title>Finally 👻 #whipechallenge</title>
+    <updated>2020-05-22T11:47:19+00:00</updated>
+    <content>Finally 👻 #whipechallenge</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/6829633817611930886" rel="alternate"/>
+    <published>2020-05-22T11:47:19+00:00</published>
   </entry>
 </feed>

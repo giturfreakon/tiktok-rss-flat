@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-10-24T07:59:52+00:00</updated>
+  <updated>2023-10-25T05:42:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7291855202301316370</id>
-    <title>Pretty little majesty #Baddie 👑 #GIDLE #MIYEON 선배님과의 #BaddieChallenge (Easy ver.) 💕 #IVE #아이브 #アイヴ #GAEUL #가을 #LEESEO #이서 #여자아이들 #미연 #NewMusic </title>
-    <updated>2023-10-20T02:02:24+00:00</updated>
-    <content>Pretty little majesty #Baddie 👑 #GIDLE #MIYEON 선배님과의 #BaddieChallenge (Easy ver.) 💕 #IVE #아이브 #アイヴ #GAEUL #가을 #LEESEO #이서 #여자아이들 #미연 #NewMusic </content>
-    <link href="https://www.tiktok.com/@ive.official/video/7291855202301316370" rel="alternate"/>
-    <published>2023-10-20T02:02:24+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7291893338955861266</id>
     <title>I think I'll fall in love with you OTT 💕 #IVE #아이브 #アイヴ #Baddie #Eitherway #OfftheRecord #1stEP #IVEMINE #OTT #NewMusic</title>
@@ -91,5 +83,13 @@
     <content>Late night conversation 💬 #IVE #아이브 #アイヴ #REI #레이 #LEESEO #이서 #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie #NewMusic </content>
     <link href="https://www.tiktok.com/@ive.official/video/7293431668050758930" rel="alternate"/>
     <published>2023-10-24T07:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7293767224723131656</id>
+    <title>Baddie squirrel〰😎🐿 #Baddie #IVE #아이브 #アイヴ #GAEUL #가을 #BaddieChallenge #NewMusic </title>
+    <updated>2023-10-25T05:42:01+00:00</updated>
+    <content>Baddie squirrel〰😎🐿 #Baddie #IVE #아이브 #アイヴ #GAEUL #가을 #BaddieChallenge #NewMusic </content>
+    <link href="https://www.tiktok.com/@ive.official/video/7293767224723131656" rel="alternate"/>
+    <published>2023-10-25T05:42:01+00:00</published>
   </entry>
 </feed>
