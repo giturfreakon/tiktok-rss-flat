@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nmixx_official</id>
   <title>@nmixx_official | TikTok</title>
-  <updated>2023-10-20T06:18:08+00:00</updated>
+  <updated>2023-10-25T04:39:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nmixx_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@nmixx_official/video/7266320293101063426</id>
-    <title>#있지 #ITZY #예지 #유나 선배님과 함께 왕! 하고 먹어버린 Party O'Clock🎂🥊 #NMIXX #엔믹스 #설윤 #SULLYOON #규진 #KYUJIN #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</title>
-    <updated>2023-08-12T06:33:56+00:00</updated>
-    <content>#있지 #ITZY #예지 #유나 선배님과 함께 왕! 하고 먹어버린 Party O'Clock🎂🥊 #NMIXX #엔믹스 #설윤 #SULLYOON #규진 #KYUJIN #A_Midsummer_NMIXXs_Dream #Party_O_Clock #Party_O_Clock_Challenge</content>
-    <link href="https://www.tiktok.com/@nmixx_official/video/7266320293101063426" rel="alternate"/>
-    <published>2023-08-12T06:33:56+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@nmixx_official/video/7277428405568621831</id>
     <title>𝗡𝗦𝗪𝗘𝗥! 𝘾𝙖𝙣’𝙩 𝙡𝙚𝙩 𝙮𝙤𝙪 𝙜𝙤〰️ #NMIXX #엔믹스 #해원 #HAEWON  #지우 #JIWOO  #규진 #KYUJIN  #MIXX_UNIVERSITY</title>
@@ -91,5 +83,13 @@
     <content>강아지 시점🐶👀 ver.  #NMIXX #엔믹스 #배이 #BAE #지우 #JIWOO</content>
     <link href="https://www.tiktok.com/@nmixx_official/video/7291921105021979922" rel="alternate"/>
     <published>2023-10-20T06:18:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@nmixx_official/video/7293751026627169543</id>
+    <title>🤟😈😈🤟 #NMIXX #엔믹스 #지우 #JIWOO #규진 #KYUJIN</title>
+    <updated>2023-10-25T04:39:10+00:00</updated>
+    <content>🤟😈😈🤟 #NMIXX #엔믹스 #지우 #JIWOO #규진 #KYUJIN</content>
+    <link href="https://www.tiktok.com/@nmixx_official/video/7293751026627169543" rel="alternate"/>
+    <published>2023-10-25T04:39:10+00:00</published>
   </entry>
 </feed>
