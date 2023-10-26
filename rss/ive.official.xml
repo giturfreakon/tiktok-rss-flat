@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-10-25T05:42:01+00:00</updated>
+  <updated>2023-10-26T04:59:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7291893338955861266</id>
-    <title>I think I'll fall in love with you OTT 💕 #IVE #아이브 #アイヴ #Baddie #Eitherway #OfftheRecord #1stEP #IVEMINE #OTT #NewMusic</title>
-    <updated>2023-10-20T04:30:22+00:00</updated>
-    <content>I think I'll fall in love with you OTT 💕 #IVE #아이브 #アイヴ #Baddie #Eitherway #OfftheRecord #1stEP #IVEMINE #OTT #NewMusic</content>
-    <link href="https://www.tiktok.com/@ive.official/video/7291893338955861266" rel="alternate"/>
-    <published>2023-10-20T04:30:22+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7291962716829404424</id>
     <title>이보다 더 “현”란하고 폭“용”적일 수 없는, 박현용 PD님의 #BaddieChallenge 🫣 (우정 작가님의 특별출연이라 하고 구경이라고 읽는다…💕) #Baddie #IVE #아이브 #アイヴ #ANYUJIN #안유진 #채널십오야 #NewMusic </title>
@@ -91,5 +83,13 @@
     <content>Baddie squirrel〰😎🐿 #Baddie #IVE #아이브 #アイヴ #GAEUL #가을 #BaddieChallenge #NewMusic </content>
     <link href="https://www.tiktok.com/@ive.official/video/7293767224723131656" rel="alternate"/>
     <published>2023-10-25T05:42:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7294127334716656897</id>
+    <title>Pretty little risky baddie 👿🔥 (MV ver.) #BaddieChallenge #Baddie #Eitherway #OfftheRecord #IVE #아이브 #アイヴ #1stEP #IVEMINE #NewMusic </title>
+    <updated>2023-10-26T04:59:27+00:00</updated>
+    <content>Pretty little risky baddie 👿🔥 (MV ver.) #BaddieChallenge #Baddie #Eitherway #OfftheRecord #IVE #아이브 #アイヴ #1stEP #IVEMINE #NewMusic </content>
+    <link href="https://www.tiktok.com/@ive.official/video/7294127334716656897" rel="alternate"/>
+    <published>2023-10-26T04:59:27+00:00</published>
   </entry>
 </feed>
