@@ -15,7 +15,7 @@ jobs:
         with:
           deno-version: v1.10.x
       - name: Check out repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
         with:
           fetch-depth: 0
       - name: update apt
