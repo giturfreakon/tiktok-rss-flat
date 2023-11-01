@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@wooah_nv</id>
   <title>@wooah_nv | TikTok</title>
-  <updated>2023-10-25T10:49:51+00:00</updated>
+  <updated>2023-10-30T08:11:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @wooah_nv</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@wooah_nv/video/7272288442141216002</id>
-    <title>What it is 🤷‍♀️ #wooah #우아 #LUCY #루시</title>
-    <updated>2023-08-28T08:33:25+00:00</updated>
-    <content>What it is 🤷‍♀️ #wooah #우아 #LUCY #루시</content>
-    <link href="https://www.tiktok.com/@wooah_nv/video/7272288442141216002" rel="alternate"/>
-    <published>2023-08-28T08:33:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@wooah_nv/video/7273113022955097346</id>
-    <title>#HAPPY_SORA_DAY 💛 #wooah #우아 </title>
-    <updated>2023-08-30T13:53:12+00:00</updated>
-    <content>#HAPPY_SORA_DAY 💛 #wooah #우아 </content>
-    <link href="https://www.tiktok.com/@wooah_nv/video/7273113022955097346" rel="alternate"/>
-    <published>2023-08-30T13:53:12+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@wooah_nv/video/7274863462256282882</id>
     <title>Love wow! #wooah #우아 #MINSEO #민서 #LoveLeeChallenge </title>
@@ -91,5 +75,21 @@
     <content>와우는 세금 면제 🙌 #wooah #우아 #NANA #나나 </content>
     <link href="https://www.tiktok.com/@wooah_nv/video/7293846544032337154" rel="alternate"/>
     <published>2023-10-25T10:49:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@wooah_nv/video/7294556054745074952</id>
+    <title>😉💕💚 #wooah #우아 #WOOYEON #우연 </title>
+    <updated>2023-10-27T08:43:04+00:00</updated>
+    <content>😉💕💚 #wooah #우아 #WOOYEON #우연 </content>
+    <link href="https://www.tiktok.com/@wooah_nv/video/7294556054745074952" rel="alternate"/>
+    <published>2023-10-27T08:43:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@wooah_nv/video/7295661069333269767</id>
+    <title>lover 🫶 #wooah #우아 #WOOYEON #우연 #MINSEO #민서 </title>
+    <updated>2023-10-30T08:11:06+00:00</updated>
+    <content>lover 🫶 #wooah #우아 #WOOYEON #우연 #MINSEO #민서 </content>
+    <link href="https://www.tiktok.com/@wooah_nv/video/7295661069333269767" rel="alternate"/>
+    <published>2023-10-30T08:11:06+00:00</published>
   </entry>
 </feed>
