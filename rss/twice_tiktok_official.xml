@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@twice_tiktok_official</id>
   <title>@twice_tiktok_official | TikTok</title>
-  <updated>2023-10-23T11:06:03+00:00</updated>
+  <updated>2023-11-02T15:00:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @twice_tiktok_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_official/video/7282593516998413569</id>
-    <title>Shy NAYEON X Felix Behind-the-Scene Images #TWICE #트와이스 #NAYEON #나연 #StrayKids #스트레이키즈 #필릭스 #Felix #IM_NAYEON #NOPROBLEM</title>
-    <updated>2023-09-25T03:02:23+00:00</updated>
-    <content>Shy NAYEON X Felix Behind-the-Scene Images #TWICE #트와이스 #NAYEON #나연 #StrayKids #스트레이키즈 #필릭스 #Felix #IM_NAYEON #NOPROBLEM</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7282593516998413569" rel="alternate"/>
-    <published>2023-09-25T03:02:23+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_official/video/7282964485269163266</id>
     <title>JYP Official 🐰X🐥 #TWICE #트와이스 #NAYEON #나연 #StrayKids #스트레이키즈 #필릭스 #Felix #IM_NAYEON #NOPROBLEM</title>
@@ -67,6 +59,14 @@
     <content>2023 TWICE FANMEETING &lt;ONCE AGAIN&gt; Recap 🍭 #ONCE #원스 #TWICE #트와이스 #TWICE_8TH_ANNIVERSARY #ONCE_AGAIN</content>
     <link href="https://www.tiktok.com/@twice_tiktok_official/video/7293108555534568705" rel="alternate"/>
     <published>2023-10-23T11:06:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_official/video/7296879748465102087</id>
+    <title>TOUCHDOWN to ONCE’s Birthday!🎉🎂 #TWICE #트와이스 #ONCE #원스 #HappyONCEday #ONCE_8TH_BIRTHDAY </title>
+    <updated>2023-11-02T15:00:12+00:00</updated>
+    <content>TOUCHDOWN to ONCE’s Birthday!🎉🎂 #TWICE #트와이스 #ONCE #원스 #HappyONCEday #ONCE_8TH_BIRTHDAY </content>
+    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7296879748465102087" rel="alternate"/>
+    <published>2023-11-02T15:00:12+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_official/video/7268508838607785218</id>
