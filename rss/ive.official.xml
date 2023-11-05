@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-11-04T07:58:30+00:00</updated>
+  <updated>2023-11-05T07:59:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7294849170328849672</id>
-    <title>얘들아〰️ 아래 층 집에서 올라온다〰️ (부제: 슬릭백 첫 번째 시도 절망편) #IVE #아이브 #アイヴ #GAEUL #가을 #ガウル #REI #레이 #レイ #LIZ #리즈 #リズ #LEESEO #이서 #イソ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie #slickback </title>
-    <updated>2023-10-28T03:40:31+00:00</updated>
-    <content>얘들아〰️ 아래 층 집에서 올라온다〰️ (부제: 슬릭백 첫 번째 시도 절망편) #IVE #아이브 #アイヴ #GAEUL #가을 #ガウル #REI #레이 #レイ #LIZ #리즈 #リズ #LEESEO #이서 #イソ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie #slickback </content>
-    <link href="https://www.tiktok.com/@ive.official/video/7294849170328849672" rel="alternate"/>
-    <published>2023-10-28T03:40:31+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7294970660198157586</id>
     <title>고“개”도 개다 🐶 냥 다음에 멍 🐾 #Baddie #IVE #아이브 #アイヴ #ANYUJIN #안유진 #LIZ #리즈  #BaddieChallenge #NewMusic </title>
@@ -91,5 +83,13 @@
     <content>'IVE'S WEEK' DAY 5 😈 #BaddieChallenge #Baddie #Eitherway #OfftheRecord #IVE #아이브 #アイヴ #1stEP #IVEMINE</content>
     <link href="https://www.tiktok.com/@ive.official/video/7297513228496637185" rel="alternate"/>
     <published>2023-11-04T07:58:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7297884527429569794</id>
+    <title>'IVE'S WEEK' DAY 6 💬 #BaddieChallenge #Baddie #Eitherway #OfftheRecord #IVE #아이브 #アイヴ #1stEP #IVEMINE </title>
+    <updated>2023-11-05T07:59:17+00:00</updated>
+    <content>'IVE'S WEEK' DAY 6 💬 #BaddieChallenge #Baddie #Eitherway #OfftheRecord #IVE #아이브 #アイヴ #1stEP #IVEMINE </content>
+    <link href="https://www.tiktok.com/@ive.official/video/7297884527429569794" rel="alternate"/>
+    <published>2023-11-05T07:59:17+00:00</published>
   </entry>
 </feed>
