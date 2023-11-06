@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-11-06T13:00:07+00:00</updated>
+  <updated>2023-11-06T15:18:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7293912969019198727</id>
-    <title>aespa 에스파 'Drama' The Giant #GISELLE aespa 에스파 The 4th Mini Album 〖Drama〗  ➫ 2023.11.10 2PM (KST) / 0AM (ET) #aespa #æspa #에스파  #GISELLE #지젤 #Drama #aespaDrama</title>
-    <updated>2023-10-25T15:07:34+00:00</updated>
-    <content>aespa 에스파 'Drama' The Giant #GISELLE aespa 에스파 The 4th Mini Album 〖Drama〗  ➫ 2023.11.10 2PM (KST) / 0AM (ET) #aespa #æspa #에스파  #GISELLE #지젤 #Drama #aespaDrama</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7293912969019198727" rel="alternate"/>
-    <published>2023-10-25T15:07:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7295398147004714248</id>
-    <title>aespa 에스파 'Drama' The Scene | Mood Sampler aespa 에스파 The 4th Mini Album 〖Drama〗  ➫ 2023.11.10 2PM (KST) / 0AM (ET) #aespa #æspa #에스파  #Drama #aespaDrama</title>
-    <updated>2023-10-29T15:10:50+00:00</updated>
-    <content>aespa 에스파 'Drama' The Scene | Mood Sampler aespa 에스파 The 4th Mini Album 〖Drama〗  ➫ 2023.11.10 2PM (KST) / 0AM (ET) #aespa #æspa #에스파  #Drama #aespaDrama</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7295398147004714248" rel="alternate"/>
-    <published>2023-10-29T15:10:50+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7295998745454349575</id>
     <title>2024 SM ARTIST SEASON’S GREETINGS aespa
@@ -93,5 +77,21 @@
     <content>Calling out to Global MYs! The 4th Mini Album 'Drama' release is only 4 DAYS AWAY!   ❤Pre-order OFFICIAL exclusive versions HERE!!🎁   ❣️ Don’t forget the aespa photocard giveaway at these indie stores nearest to you! (while supplies last) #aespa #æspa #에스파 #Drama #aespaDrama</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7298333144900439314" rel="alternate"/>
     <published>2023-11-06T13:00:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7298367836366343432</id>
+    <title>I'M THE DRAMA #NINGNING aespa 에스파 The 4th Mini Album 〖Drama〗  ➫ 2023.11.10 2PM (KST) / 0AM (ET) #aespa #æspa #에스파 #NINGNING #닝닝 #Drama #aespaDrama</title>
+    <updated>2023-11-06T15:14:45+00:00</updated>
+    <content>I'M THE DRAMA #NINGNING aespa 에스파 The 4th Mini Album 〖Drama〗  ➫ 2023.11.10 2PM (KST) / 0AM (ET) #aespa #æspa #에스파 #NINGNING #닝닝 #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7298367836366343432" rel="alternate"/>
+    <published>2023-11-06T15:14:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7298368740217916680</id>
+    <title>I'M THE DRAMA #KARINA aespa 에스파 The 4th Mini Album 〖Drama〗  ➫ 2023.11.10 2PM (KST) / 0AM (ET) #aespa #æspa #에스파 #KARINA #카리나 #Drama #aespaDrama</title>
+    <updated>2023-11-06T15:18:16+00:00</updated>
+    <content>I'M THE DRAMA #KARINA aespa 에스파 The 4th Mini Album 〖Drama〗  ➫ 2023.11.10 2PM (KST) / 0AM (ET) #aespa #æspa #에스파 #KARINA #카리나 #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7298368740217916680" rel="alternate"/>
+    <published>2023-11-06T15:18:16+00:00</published>
   </entry>
 </feed>
