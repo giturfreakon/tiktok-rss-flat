@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-11-06T11:58:41+00:00</updated>
+  <updated>2023-11-06T13:00:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7293695482474319111</id>
-    <title>🌌 VR콘서트 공개 D-DAY!! 🌌 🎬 오늘부터 메가박스 코엑스에 오면 'LYNK-POP: THE 1st VR CONCERT aespa'를 만날 수 있어요 🎵 🚀 🔥 콘서트 1열을 뛰어넘는 이 생생한 경험을 놓치지 마세요 🎶✨  ⏳ 좌석이 빠르게 매진되고 있으니, 지금 바로 예매 하세요! 🌌 Korea MYs, It's Our VR Concert D-DAY!! 🌌 You can now experience 'LYNK-POP: THE 1st VR CONC</title>
-    <updated>2023-10-25T01:03:40+00:00</updated>
-    <content>🌌 VR콘서트 공개 D-DAY!! 🌌 🎬 오늘부터 메가박스 코엑스에 오면 'LYNK-POP: THE 1st VR CONCERT aespa'를 만날 수 있어요 🎵 🚀 🔥 콘서트 1열을 뛰어넘는 이 생생한 경험을 놓치지 마세요 🎶✨  ⏳ 좌석이 빠르게 매진되고 있으니, 지금 바로 예매 하세요! 🌌 Korea MYs, It's Our VR Concert D-DAY!! 🌌 You can now experience 'LYNK-POP: THE 1st VR CONCERT aespa' LIVE at Megabox, COEX. 🎵🚀 Don't miss this surreal experience! 🎶✨  #aespa #æspa #에스파 #LYNKPOP #에스파VR콘서트 #aespaVRconcert #AmazeVR #VR콘서트 #VRconcert #VR</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7293695482474319111" rel="alternate"/>
-    <published>2023-10-25T01:03:40+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7293912969019198727</id>
     <title>aespa 에스파 'Drama' The Giant #GISELLE aespa 에스파 The 4th Mini Album 〖Drama〗  ➫ 2023.11.10 2PM (KST) / 0AM (ET) #aespa #æspa #에스파  #GISELLE #지젤 #Drama #aespaDrama</title>
@@ -93,5 +85,13 @@
     <content>#ImtheDrama 🐶🔨 #aespa #æspa #에스파 #WINTER #윈터 #Drama #aespaDrama</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7298317310287252754" rel="alternate"/>
     <published>2023-11-06T11:58:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7298333144900439314</id>
+    <title>Calling out to Global MYs! The 4th Mini Album 'Drama' release is only 4 DAYS AWAY!   ❤Pre-order OFFICIAL exclusive versions HERE!!🎁   ❣️ Don’t forget the aespa photocard giveaway at these indie stores nearest to you! (while supplies last) #aespa #æspa #에스</title>
+    <updated>2023-11-06T13:00:07+00:00</updated>
+    <content>Calling out to Global MYs! The 4th Mini Album 'Drama' release is only 4 DAYS AWAY!   ❤Pre-order OFFICIAL exclusive versions HERE!!🎁   ❣️ Don’t forget the aespa photocard giveaway at these indie stores nearest to you! (while supplies last) #aespa #æspa #에스파 #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7298333144900439314" rel="alternate"/>
+    <published>2023-11-06T13:00:07+00:00</published>
   </entry>
 </feed>
