@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-11-05T15:14:56+00:00</updated>
+  <updated>2023-11-06T11:58:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7293170880899714311</id>
-    <title>aespa 에스파 'Drama' The Giant #WINTER  aespa 에스파 The 4th Mini Album 〖Drama〗  ➫ 2023.11.10 2PM (KST) / 0AM (ET) #aespa #æspa #에스파  #WINTER #윈터 #Drama #aespaDrama</title>
-    <updated>2023-10-23T15:07:54+00:00</updated>
-    <content>aespa 에스파 'Drama' The Giant #WINTER  aespa 에스파 The 4th Mini Album 〖Drama〗  ➫ 2023.11.10 2PM (KST) / 0AM (ET) #aespa #æspa #에스파  #WINTER #윈터 #Drama #aespaDrama</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7293170880899714311" rel="alternate"/>
-    <published>2023-10-23T15:07:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7293540856479403282</id>
-    <title>aespa 에스파 'Drama' The Giant #KARINA aespa 에스파 The 4th Mini Album 〖Drama〗  ➫ 2023.11.10 2PM (KST) / 0AM (ET) #aespa #æspa #에스파  #KARINA #카리나 #Drama #aespaDrama </title>
-    <updated>2023-10-24T15:03:35+00:00</updated>
-    <content>aespa 에스파 'Drama' The Giant #KARINA aespa 에스파 The 4th Mini Album 〖Drama〗  ➫ 2023.11.10 2PM (KST) / 0AM (ET) #aespa #æspa #에스파  #KARINA #카리나 #Drama #aespaDrama </content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7293540856479403282" rel="alternate"/>
-    <published>2023-10-24T15:03:35+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7293695482474319111</id>
     <title>🌌 VR콘서트 공개 D-DAY!! 🌌 🎬 오늘부터 메가박스 코엑스에 오면 'LYNK-POP: THE 1st VR CONCERT aespa'를 만날 수 있어요 🎵 🚀 🔥 콘서트 1열을 뛰어넘는 이 생생한 경험을 놓치지 마세요 🎶✨  ⏳ 좌석이 빠르게 매진되고 있으니, 지금 바로 예매 하세요! 🌌 Korea MYs, It's Our VR Concert D-DAY!! 🌌 You can now experience 'LYNK-POP: THE 1st VR CONC</title>
@@ -93,5 +77,21 @@
     <content>I'M THE DRAMA #WINTER aespa 에스파 The 4th Mini Album 〖Drama〗  ➫ 2023.11.10 2PM (KST) / 0AM (ET) #aespa #æspa #에스파 #WINTER #윈터 #Drama #aespaDrama</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7297996803138440455" rel="alternate"/>
     <published>2023-11-05T15:14:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7298317031529565448</id>
+    <title>#ImtheDrama #이게지젤이야 #aespa #æspa #에스파 #GISELLE #지젤 #Drama #aespaDrama</title>
+    <updated>2023-11-06T11:57:35+00:00</updated>
+    <content>#ImtheDrama #이게지젤이야 #aespa #æspa #에스파 #GISELLE #지젤 #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7298317031529565448" rel="alternate"/>
+    <published>2023-11-06T11:57:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7298317310287252754</id>
+    <title>#ImtheDrama 🐶🔨 #aespa #æspa #에스파 #WINTER #윈터 #Drama #aespaDrama</title>
+    <updated>2023-11-06T11:58:41+00:00</updated>
+    <content>#ImtheDrama 🐶🔨 #aespa #æspa #에스파 #WINTER #윈터 #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7298317310287252754" rel="alternate"/>
+    <published>2023-11-06T11:58:41+00:00</published>
   </entry>
 </feed>
