@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-11-07T06:03:32+00:00</updated>
+  <updated>2023-11-07T12:27:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7296378150257249543</id>
-    <title>한국 MY 여러분 LYNK-POP에서 저희 에스파를 만나보셨나요? 💖코엑스 메가박스에서 11/21까지 직접 체험할 수 있는 기회를 놓치지 마세요✨ Korea MY's have you met us in LYNK-POP yet? 💖 Don't miss your chance experiencing in-person till 11/21 at the Megabox, COEX✨ #aespa #æspa #에스파 #LYNKPOP #에스파VR콘서트 #aespaVRcon</title>
-    <updated>2023-11-01T06:33:45+00:00</updated>
-    <content>한국 MY 여러분 LYNK-POP에서 저희 에스파를 만나보셨나요? 💖코엑스 메가박스에서 11/21까지 직접 체험할 수 있는 기회를 놓치지 마세요✨ Korea MY's have you met us in LYNK-POP yet? 💖 Don't miss your chance experiencing in-person till 11/21 at the Megabox, COEX✨ #aespa #æspa #에스파 #LYNKPOP #에스파VR콘서트 #aespaVRconcert #AmazeVR #VR콘서트 #VRconcert #VR</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7296378150257249543" rel="alternate"/>
-    <published>2023-11-01T06:33:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7296430594588773639</id>
-    <title>I'm the one 💛🖤 #aespa #æspa #에스파 #GISELLE #지젤  #JEONSOMI #전소미</title>
-    <updated>2023-11-01T09:57:14+00:00</updated>
-    <content>I'm the one 💛🖤 #aespa #æspa #에스파 #GISELLE #지젤  #JEONSOMI #전소미</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7296430594588773639" rel="alternate"/>
-    <published>2023-11-01T09:57:14+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7297996418369867026</id>
     <title>I'M THE DRAMA #GISELLE aespa 에스파 The 4th Mini Album 〖Drama〗  ➫ 2023.11.10 2PM (KST) / 0AM (ET) #aespa #æspa #에스파 #GISELLE #지젤 #Drama #aespaDrama</title>
@@ -111,5 +95,21 @@
  #AmazeVR #VR콘서트 #VRconcert #VR</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7298596876264197394" rel="alternate"/>
     <published>2023-11-07T06:03:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7298695775930961159</id>
+    <title>#ImtheDrama 🏍️✨ #aespa #æspa #에스파 #NINGNING #닝닝 #Drama #aespaDrama</title>
+    <updated>2023-11-07T12:27:19+00:00</updated>
+    <content>#ImtheDrama 🏍️✨ #aespa #æspa #에스파 #NINGNING #닝닝 #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7298695775930961159" rel="alternate"/>
+    <published>2023-11-07T12:27:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7298695884106173714</id>
+    <title>#ImtheDrama 🕵️‍♀️✨ #aespa #æspa #에스파 #KARINA #카리나 #Drama #aespaDrama</title>
+    <updated>2023-11-07T12:27:44+00:00</updated>
+    <content>#ImtheDrama 🕵️‍♀️✨ #aespa #æspa #에스파 #KARINA #카리나 #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7298695884106173714" rel="alternate"/>
+    <published>2023-11-07T12:27:44+00:00</published>
   </entry>
 </feed>
