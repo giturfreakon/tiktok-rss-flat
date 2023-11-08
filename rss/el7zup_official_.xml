@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@el7zup_official_</id>
   <title>@el7zup_official_ | TikTok</title>
-  <updated>2023-11-08T10:00:09+00:00</updated>
+  <updated>2023-11-08T11:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @el7zup_official_</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@el7zup_official_/video/7284231917254298888</id>
-    <title>예은이가 사라져볼게 얍!✨ 여름이가 나타나볼게 짠!💕 #CHEEKY_Challenge #치키챌린지 #EL7ZUP #엘즈업 #CHEEKY #예은 #YEEUN #여름 #YEOREUM #change #changechallenge #체인지챌린지 #NewMusic </title>
-    <updated>2023-09-29T13:00:08+00:00</updated>
-    <content>예은이가 사라져볼게 얍!✨ 여름이가 나타나볼게 짠!💕 #CHEEKY_Challenge #치키챌린지 #EL7ZUP #엘즈업 #CHEEKY #예은 #YEEUN #여름 #YEOREUM #change #changechallenge #체인지챌린지 #NewMusic </content>
-    <link href="https://www.tiktok.com/@el7zup_official_/video/7284231917254298888" rel="alternate"/>
-    <published>2023-09-29T13:00:08+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@el7zup_official_/video/7284603018857827602</id>
     <title>쓱싹 닦으면 누가 나타날까요?✨ #치키챌린지 #체인지챌린지 #CHEEKY_Challenge #EL7ZUP #엘즈업 #CHEEKY #케이 #KEI #휘서 #HWISEO #change #changechallenge #NewMusic</title>
@@ -91,5 +83,13 @@
     <content>이렇게나 깜찍할 수가❣ #tripleS #지우 님과 함께한 #치키챌린지 😘 @tripleS  #CHEEKY_Challenge #치키챌린지 #EL7ZUP #엘즈업 #CHEEKY #연희 #YEONHEE #NewMusic</content>
     <link href="https://www.tiktok.com/@el7zup_official_/video/7299028933079551239" rel="alternate"/>
     <published>2023-11-08T10:00:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@el7zup_official_/video/7298570308200451330</id>
+    <title>칙칙폭폭 바다 기차🚞 칙칙폭폭 엘즈업과 함께 바다 따라 걸어보아요! 🗓 2023년 11월 9일 (목) 저녁 8시 첫방송! 📺 Mnet ㅣ TVING 스트리밍 #EL7ZUP #엘즈업 #EL7ZUP_AND_GO #엘즈업앤고</title>
+    <updated>2023-11-08T11:00:00+00:00</updated>
+    <content>칙칙폭폭 바다 기차🚞 칙칙폭폭 엘즈업과 함께 바다 따라 걸어보아요! 🗓 2023년 11월 9일 (목) 저녁 8시 첫방송! 📺 Mnet ㅣ TVING 스트리밍 #EL7ZUP #엘즈업 #EL7ZUP_AND_GO #엘즈업앤고</content>
+    <link href="https://www.tiktok.com/@el7zup_official_/video/7298570308200451330" rel="alternate"/>
+    <published>2023-11-08T11:00:00+00:00</published>
   </entry>
 </feed>
