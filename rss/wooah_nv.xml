@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@wooah_nv</id>
   <title>@wooah_nv | TikTok</title>
-  <updated>2023-11-08T12:33:06+00:00</updated>
+  <updated>2023-11-09T12:07:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @wooah_nv</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@wooah_nv/video/7283480007517703425</id>
-    <title>아기 MC 🫳🏻🫳🏻 #wooah #우아 #MINSEO #민서 </title>
-    <updated>2023-09-27T12:22:22+00:00</updated>
-    <content>아기 MC 🫳🏻🫳🏻 #wooah #우아 #MINSEO #민서 </content>
-    <link href="https://www.tiktok.com/@wooah_nv/video/7283480007517703425" rel="alternate"/>
-    <published>2023-09-27T12:22:22+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@wooah_nv/video/7288686084605742338</id>
     <title>🎵🐰🖤 #wooah #우아 #NANA #나나 </title>
@@ -91,5 +83,13 @@
     <content>주문하신 쇼요일의 나나 나왔습니다🐰💙 #wooah #우아 #NANA #나나 </content>
     <link href="https://www.tiktok.com/@wooah_nv/video/7299068347226918152" rel="alternate"/>
     <published>2023-11-08T12:33:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@wooah_nv/video/7299432722294983943</id>
+    <title>사르르르 - .*･｡ﾟ♡ #wooah #우아 #LUCY #루시 #MINSEO #민서 </title>
+    <updated>2023-11-09T12:07:02+00:00</updated>
+    <content>사르르르 - .*･｡ﾟ♡ #wooah #우아 #LUCY #루시 #MINSEO #민서 </content>
+    <link href="https://www.tiktok.com/@wooah_nv/video/7299432722294983943" rel="alternate"/>
+    <published>2023-11-09T12:07:02+00:00</published>
   </entry>
 </feed>
