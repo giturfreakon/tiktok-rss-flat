@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nmixx_official</id>
   <title>@nmixx_official | TikTok</title>
-  <updated>2023-10-29T06:59:14+00:00</updated>
+  <updated>2023-11-09T07:29:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nmixx_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@nmixx_official/video/7278141822826810642</id>
-    <title>I’ll be missing you🎵☀️ #NMIXX #엔믹스 #MIXX_UNIVERSITY</title>
-    <updated>2023-09-13T03:07:28+00:00</updated>
-    <content>I’ll be missing you🎵☀️ #NMIXX #엔믹스 #MIXX_UNIVERSITY</content>
-    <link href="https://www.tiktok.com/@nmixx_official/video/7278141822826810642" rel="alternate"/>
-    <published>2023-09-13T03:07:28+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@nmixx_official/video/7288535225880055048</id>
     <title>뀨🐱삐💞뽀🫶삐🎀뽀 뀨삐뽀⋰˚☆ #NMIXX #엔믹스 #규진 #KYUJIN</title>
@@ -91,5 +83,13 @@
     <content>𝙂𝙤𝙤𝙙𝙗𝙮𝙚 𝙎𝙪𝙢𝙢𝙚𝙧 🐶🐈‍⬛⛱ #NMIXX #엔믹스 #지우 #JIWOO #규진 #KYUJIN</content>
     <link href="https://www.tiktok.com/@nmixx_official/video/7295271460929555720" rel="alternate"/>
     <published>2023-10-29T06:59:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@nmixx_official/video/7299361174020246802</id>
+    <title>🐈‍⬛🐥아이셔x4😖 LIME💚 #NMIXX #엔믹스 #배이 #BAE #규진 #KYUJIN #LIME_CHALLENGE #BAEKAYEON_LIME #라임챌린지</title>
+    <updated>2023-11-09T07:29:24+00:00</updated>
+    <content>🐈‍⬛🐥아이셔x4😖 LIME💚 #NMIXX #엔믹스 #배이 #BAE #규진 #KYUJIN #LIME_CHALLENGE #BAEKAYEON_LIME #라임챌린지</content>
+    <link href="https://www.tiktok.com/@nmixx_official/video/7299361174020246802" rel="alternate"/>
+    <published>2023-11-09T07:29:24+00:00</published>
   </entry>
 </feed>
