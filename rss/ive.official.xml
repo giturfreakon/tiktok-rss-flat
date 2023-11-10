@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-11-09T08:00:02+00:00</updated>
+  <updated>2023-11-10T07:20:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7296052331156655362</id>
-    <title>내 DNA엔 blue blood runs 🐈‍⬛💜 #BaddieChallenge #Baddie #Eitherway #OfftheRecord #IVE #아이브 #アイヴ #1stEP #IVEMINE #NewMusic </title>
-    <updated>2023-10-31T09:29:25+00:00</updated>
-    <content>내 DNA엔 blue blood runs 🐈‍⬛💜 #BaddieChallenge #Baddie #Eitherway #OfftheRecord #IVE #아이브 #アイヴ #1stEP #IVEMINE #NewMusic </content>
-    <link href="https://www.tiktok.com/@ive.official/video/7296052331156655362" rel="alternate"/>
-    <published>2023-10-31T09:29:25+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7296400359650626818</id>
     <title>'IVE'S WEEK' DAY 2 ❤ #BaddieChallenge #Baddie #Eitherway #OfftheRecord #IVE #아이브 #アイヴ #1stEP #IVEMINE </title>
@@ -91,5 +83,13 @@
     <content>'IVE'S WEEK' DAY 10 ✨ #BaddieChallenge #Baddie #Eitherway #OfftheRecord #IVE #아이브 #アイヴ #1stEP #IVEMINE</content>
     <link href="https://www.tiktok.com/@ive.official/video/7299369068321148167" rel="alternate"/>
     <published>2023-11-09T08:00:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7299730023819267330</id>
+    <title>IMMA Baddie, REI 🐣😈 #IVE #아이브 #アイヴ #REI #레이 #レイ</title>
+    <updated>2023-11-10T07:20:45+00:00</updated>
+    <content>IMMA Baddie, REI 🐣😈 #IVE #아이브 #アイヴ #REI #레이 #レイ</content>
+    <link href="https://www.tiktok.com/@ive.official/video/7299730023819267330" rel="alternate"/>
+    <published>2023-11-10T07:20:45+00:00</published>
   </entry>
 </feed>
