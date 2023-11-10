@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-11-10T06:31:01+00:00</updated>
+  <updated>2023-11-10T08:05:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7298317310287252754</id>
-    <title>#ImtheDrama 🐶🔨 #aespa #æspa #에스파 #WINTER #윈터 #Drama #aespaDrama</title>
-    <updated>2023-11-06T11:58:41+00:00</updated>
-    <content>#ImtheDrama 🐶🔨 #aespa #æspa #에스파 #WINTER #윈터 #Drama #aespaDrama</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7298317310287252754" rel="alternate"/>
-    <published>2023-11-06T11:58:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7298333144900439314</id>
-    <title>Calling out to Global MYs! The 4th Mini Album 'Drama' release is only 4 DAYS AWAY!   ❤Pre-order OFFICIAL exclusive versions HERE!!🎁   ❣️ Don’t forget the aespa photocard giveaway at these indie stores nearest to you! (while supplies last) #aespa #æspa #에스</title>
-    <updated>2023-11-06T13:00:07+00:00</updated>
-    <content>Calling out to Global MYs! The 4th Mini Album 'Drama' release is only 4 DAYS AWAY!   ❤Pre-order OFFICIAL exclusive versions HERE!!🎁   ❣️ Don’t forget the aespa photocard giveaway at these indie stores nearest to you! (while supplies last) #aespa #æspa #에스파 #Drama #aespaDrama</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7298333144900439314" rel="alternate"/>
-    <published>2023-11-06T13:00:07+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7298367836366343432</id>
     <title>I'M THE DRAMA #NINGNING aespa 에스파 The 4th Mini Album 〖Drama〗  ➫ 2023.11.10 2PM (KST) / 0AM (ET) #aespa #æspa #에스파 #NINGNING #닝닝 #Drama #aespaDrama</title>
@@ -111,5 +95,21 @@
     <content>#ImtheDrama 1, 2, 3 깜짝 놀랄 다음 Scene 🎬  #aespa #에스파  #WINTER #윈터  #NINGNING #닝닝  #Drama #aespaDrama</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7299717210627394818" rel="alternate"/>
     <published>2023-11-10T06:31:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7299740065868172545</id>
+    <title>#ImtheDrama with #ANYUJIN 😈🩶   #IVE #안유진  #aespa #KARINA #카리나  #Drama #aespaDrama</title>
+    <updated>2023-11-10T07:59:44+00:00</updated>
+    <content>#ImtheDrama with #ANYUJIN 😈🩶   #IVE #안유진  #aespa #KARINA #카리나  #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7299740065868172545" rel="alternate"/>
+    <published>2023-11-10T07:59:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7299741446045748481</id>
+    <title>#ImtheDrama 날카로운 눈 안에 비친 #ANYUJIN 🐶💙   #IVE #안유진  #aespa #KARINA #카리나  #Drama #aespaDrama</title>
+    <updated>2023-11-10T08:05:04+00:00</updated>
+    <content>#ImtheDrama 날카로운 눈 안에 비친 #ANYUJIN 🐶💙   #IVE #안유진  #aespa #KARINA #카리나  #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7299741446045748481" rel="alternate"/>
+    <published>2023-11-10T08:05:04+00:00</published>
   </entry>
 </feed>
