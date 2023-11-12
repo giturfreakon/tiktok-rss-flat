@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-11-11T12:02:25+00:00</updated>
+  <updated>2023-11-12T07:59:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7299741446045748481</id>
-    <title>#ImtheDrama 날카로운 눈 안에 비친 #ANYUJIN 🐶💙   #IVE #안유진  #aespa #KARINA #카리나  #Drama #aespaDrama</title>
-    <updated>2023-11-10T08:05:04+00:00</updated>
-    <content>#ImtheDrama 날카로운 눈 안에 비친 #ANYUJIN 🐶💙   #IVE #안유진  #aespa #KARINA #카리나  #Drama #aespaDrama</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7299741446045748481" rel="alternate"/>
-    <published>2023-11-10T08:05:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7299770532889627905</id>
-    <title>#ImtheDrama 1, 2, 3 깜짝 놀랄 다음 Scene 🎬  #YENA #최예나  #LE_SSERAFIM #르세라핌 #KIMCHAEWON #김채원  #KIMMINJU #김민주   #aespa #KARINA #카리나  #Drama #aespaDrama</title>
-    <updated>2023-11-10T09:57:56+00:00</updated>
-    <content>#ImtheDrama 1, 2, 3 깜짝 놀랄 다음 Scene 🎬  #YENA #최예나  #LE_SSERAFIM #르세라핌 #KIMCHAEWON #김채원  #KIMMINJU #김민주   #aespa #KARINA #카리나  #Drama #aespaDrama</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7299770532889627905" rel="alternate"/>
-    <published>2023-11-10T09:57:56+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7299771265961692417</id>
     <title>#ImtheDrama with 💗💛❤️💙  #YENA #최예나   #LE_SSERAFIM #르세라핌 #KIMCHAEWON #김채원   #KIMMINJU #김민주   #aespa #KARINA #카리나   #Drama #aespaDrama</title>
@@ -91,5 +75,21 @@
     <content>#ImtheDrama Oh my god 🫢 #박재범 #aespa #NINGNING #닝닝 #Drama #aespaDrama</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7300173697191578898" rel="alternate"/>
     <published>2023-11-11T12:02:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7300481823610506503</id>
+    <title>#ImtheDrama with #MARK 🐯🩶 #NCT127 #마크 #aespa #WINTER #윈터 #Drama #aespaDrama</title>
+    <updated>2023-11-12T07:58:06+00:00</updated>
+    <content>#ImtheDrama with #MARK 🐯🩶 #NCT127 #마크 #aespa #WINTER #윈터 #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7300481823610506503" rel="alternate"/>
+    <published>2023-11-12T07:58:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7300482259612601607</id>
+    <title>#ImtheDrama Hold up, What? 🫣 #Billlie #TSUKI #츠키 #aespa #GISELLE #지젤 #Drama #aespaDrama</title>
+    <updated>2023-11-12T07:59:47+00:00</updated>
+    <content>#ImtheDrama Hold up, What? 🫣 #Billlie #TSUKI #츠키 #aespa #GISELLE #지젤 #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7300482259612601607" rel="alternate"/>
+    <published>2023-11-12T07:59:47+00:00</published>
   </entry>
 </feed>
