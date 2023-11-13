@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-11-12T14:35:10+00:00</updated>
+  <updated>2023-11-13T09:08:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7297142154005171458</id>
-    <title>'IVE'S WEEK' DAY 4 💘 #BaddieChallenge #Baddie #Eitherway #OfftheRecord #IVE #아이브 #アイヴ #1stEP #IVEMINE </title>
-    <updated>2023-11-03T07:58:29+00:00</updated>
-    <content>'IVE'S WEEK' DAY 4 💘 #BaddieChallenge #Baddie #Eitherway #OfftheRecord #IVE #아이브 #アイヴ #1stEP #IVEMINE </content>
-    <link href="https://www.tiktok.com/@ive.official/video/7297142154005171458" rel="alternate"/>
-    <published>2023-11-03T07:58:29+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7297513228496637185</id>
     <title>'IVE'S WEEK' DAY 5 😈 #BaddieChallenge #Baddie #Eitherway #OfftheRecord #IVE #아이브 #アイヴ #1stEP #IVEMINE</title>
@@ -91,5 +83,13 @@
     <content>체리체리🍒 뽀삐뽀🐰🎀 #IVE #아이브 #アイヴ #JANGWONYOUNG #장원영 #ジャンウォニョン #ウォニョン</content>
     <link href="https://www.tiktok.com/@ive.official/video/7300584142520061186" rel="alternate"/>
     <published>2023-11-12T14:35:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7300871079306759431</id>
+    <title>[Teaser] SOYEON of (G)I-DLE X WINTER of aespa X #LIZ of #IVE 'NOBODY' https://youtu.be/vM4z2I1ZFZ4 Release 2023. 11. 16 6PM (KST) #아이브 #アイヴ #리즈 #リズ #NOBODY</title>
+    <updated>2023-11-13T09:08:37+00:00</updated>
+    <content>[Teaser] SOYEON of (G)I-DLE X WINTER of aespa X #LIZ of #IVE 'NOBODY' https://youtu.be/vM4z2I1ZFZ4 Release 2023. 11. 16 6PM (KST) #아이브 #アイヴ #리즈 #リズ #NOBODY</content>
+    <link href="https://www.tiktok.com/@ive.official/video/7300871079306759431" rel="alternate"/>
+    <published>2023-11-13T09:08:37+00:00</published>
   </entry>
 </feed>
