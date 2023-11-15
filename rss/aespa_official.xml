@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-11-15T10:01:33+00:00</updated>
+  <updated>2023-11-15T11:59:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7300916600901815570</id>
-    <title>You know We're savage 🤟 #JEONSOMI #전소미 #LE_SSERAFIM #르세라핌 #HUHYUNJIN #허윤진 #aespa #에스파  #GISELLE #지젤 #WINTER #윈터 #ImtheDrama #Drama #aespaDrama</title>
-    <updated>2023-11-13T12:05:14+00:00</updated>
-    <content>You know We're savage 🤟 #JEONSOMI #전소미 #LE_SSERAFIM #르세라핌 #HUHYUNJIN #허윤진 #aespa #에스파  #GISELLE #지젤 #WINTER #윈터 #ImtheDrama #Drama #aespaDrama</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7300916600901815570" rel="alternate"/>
-    <published>2023-11-13T12:05:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7301254821930110215</id>
-    <title>#ImtheDrama with #YEONJUN 🦊🎬 #TOMORROW_X_TOGETHER #TXT #투모로우바이투게더 #연준  #aespa #KARINA #카리나 #Drama #aespaDrama</title>
-    <updated>2023-11-14T09:57:43+00:00</updated>
-    <content>#ImtheDrama with #YEONJUN 🦊🎬 #TOMORROW_X_TOGETHER #TXT #투모로우바이투게더 #연준  #aespa #KARINA #카리나 #Drama #aespaDrama</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7301254821930110215" rel="alternate"/>
-    <published>2023-11-14T09:57:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7301255324550302994</id>
-    <title>#ImtheDrama with #TEN 🐱🎬 #WayV #텐  #aespa #NINGNING #닝닝  #Drama #aespaDrama</title>
-    <updated>2023-11-14T09:59:40+00:00</updated>
-    <content>#ImtheDrama with #TEN 🐱🎬 #WayV #텐  #aespa #NINGNING #닝닝  #Drama #aespaDrama</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7301255324550302994" rel="alternate"/>
-    <published>2023-11-14T09:59:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7301256154443779335</id>
-    <title>#ImtheDrama with #KUN 🐻🎬 #WayV #쿤 #aespa #NINGNING #닝닝 #Drama #aespaDrama</title>
-    <updated>2023-11-14T10:02:54+00:00</updated>
-    <content>#ImtheDrama with #KUN 🐻🎬 #WayV #쿤 #aespa #NINGNING #닝닝 #Drama #aespaDrama</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7301256154443779335" rel="alternate"/>
-    <published>2023-11-14T10:02:54+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7301285721892015368</id>
     <title>#ImtheDrama with #RIMA 💗🖤 #NiziU #리마 #aespa #GISELLE #지젤  #Drama #aespaDrama</title>
@@ -91,5 +59,37 @@
     <content>#ImtheDrama with #REDLIC ❤️‍🔥❤️‍🔥❤️‍🔥 #레드릭  #KARINA #카리나 #GISELLE #지젤 #WINTER #윈터 #NINGNING #닝닝 #aespa #Drama #aespaDrama</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7301626889267891458" rel="alternate"/>
     <published>2023-11-15T10:01:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7301656876968627457</id>
+    <title>#ImtheDrama with #YOUNGJI 🩶🎞️ #영지 #aespa #NINGNING #닝닝 #Drama #aespaDrama</title>
+    <updated>2023-11-15T11:57:56+00:00</updated>
+    <content>#ImtheDrama with #YOUNGJI 🩶🎞️ #영지 #aespa #NINGNING #닝닝 #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7301656876968627457" rel="alternate"/>
+    <published>2023-11-15T11:57:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7301657013207993601</id>
+    <title>#ImtheDrama Oh my god 😲🫢😱 #영지 #aespa #NINGNING #닝닝 #Drama #aespaDrama</title>
+    <updated>2023-11-15T11:58:26+00:00</updated>
+    <content>#ImtheDrama Oh my god 😲🫢😱 #영지 #aespa #NINGNING #닝닝 #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7301657013207993601" rel="alternate"/>
+    <published>2023-11-15T11:58:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7301657105784687874</id>
+    <title>굳이 막지 말아 이건 우리 #Drama 🎬🩶 #영지 #aespa #NINGNING #닝닝 #Drama #aespaDrama</title>
+    <updated>2023-11-15T11:58:49+00:00</updated>
+    <content>굳이 막지 말아 이건 우리 #Drama 🎬🩶 #영지 #aespa #NINGNING #닝닝 #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7301657105784687874" rel="alternate"/>
+    <published>2023-11-15T11:58:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7301657270553709826</id>
+    <title>🌀🌀🌀 #fordason #aespa #에스파 #NINGNING #닝닝 #YOUNGJI #영지</title>
+    <updated>2023-11-15T11:59:28+00:00</updated>
+    <content>🌀🌀🌀 #fordason #aespa #에스파 #NINGNING #닝닝 #YOUNGJI #영지</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7301657270553709826" rel="alternate"/>
+    <published>2023-11-15T11:59:28+00:00</published>
   </entry>
 </feed>
