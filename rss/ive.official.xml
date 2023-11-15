@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-11-13T09:08:37+00:00</updated>
+  <updated>2023-11-15T08:04:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7297513228496637185</id>
-    <title>'IVE'S WEEK' DAY 5 😈 #BaddieChallenge #Baddie #Eitherway #OfftheRecord #IVE #아이브 #アイヴ #1stEP #IVEMINE</title>
-    <updated>2023-11-04T07:58:30+00:00</updated>
-    <content>'IVE'S WEEK' DAY 5 😈 #BaddieChallenge #Baddie #Eitherway #OfftheRecord #IVE #아이브 #アイヴ #1stEP #IVEMINE</content>
-    <link href="https://www.tiktok.com/@ive.official/video/7297513228496637185" rel="alternate"/>
-    <published>2023-11-04T07:58:30+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7297884527429569794</id>
     <title>'IVE'S WEEK' DAY 6 💬 #BaddieChallenge #Baddie #Eitherway #OfftheRecord #IVE #아이브 #アイヴ #1stEP #IVEMINE </title>
@@ -91,5 +83,13 @@
     <content>[Teaser] SOYEON of (G)I-DLE X WINTER of aespa X #LIZ of #IVE 'NOBODY' https://youtu.be/vM4z2I1ZFZ4 Release 2023. 11. 16 6PM (KST) #아이브 #アイヴ #리즈 #リズ #NOBODY</content>
     <link href="https://www.tiktok.com/@ive.official/video/7300871079306759431" rel="alternate"/>
     <published>2023-11-13T09:08:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7301596804481666305</id>
+    <title>𝑵𝒐𝒕𝒉𝒊𝒏𝒈 𝒍𝒊𝒌𝒆 𝒕𝒉𝒆 𝒓𝒆𝒈𝒖𝒍𝒂𝒓𝒔 🌟💖 #박재범 선배님과의 #BaddieChallenge @jayparkisoverparty #Baddie #IVE #아이브 #アイヴ #LEESEO #이서 #イソ #JayPark #NewMusic </title>
+    <updated>2023-11-15T08:04:50+00:00</updated>
+    <content>𝑵𝒐𝒕𝒉𝒊𝒏𝒈 𝒍𝒊𝒌𝒆 𝒕𝒉𝒆 𝒓𝒆𝒈𝒖𝒍𝒂𝒓𝒔 🌟💖 #박재범 선배님과의 #BaddieChallenge @jayparkisoverparty #Baddie #IVE #아이브 #アイヴ #LEESEO #이서 #イソ #JayPark #NewMusic </content>
+    <link href="https://www.tiktok.com/@ive.official/video/7301596804481666305" rel="alternate"/>
+    <published>2023-11-15T08:04:50+00:00</published>
   </entry>
 </feed>
