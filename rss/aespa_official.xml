@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-11-16T10:04:32+00:00</updated>
+  <updated>2023-11-16T11:58:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7301626400543345922</id>
-    <title>#ImtheDrama 1, 2, 3 깜짝 놀랄 다음 🐶✨ #popipoLIVE  #aespa #에스파 #KARINA #카리나 #WINTER #윈터 #Drama #aespaDrama</title>
-    <updated>2023-11-15T09:59:39+00:00</updated>
-    <content>#ImtheDrama 1, 2, 3 깜짝 놀랄 다음 🐶✨ #popipoLIVE  #aespa #에스파 #KARINA #카리나 #WINTER #윈터 #Drama #aespaDrama</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7301626400543345922" rel="alternate"/>
-    <published>2023-11-15T09:59:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7301626645188709634</id>
-    <title>날 굳이 막지 말아 이건 내 #Drama 🎞️🦋 #aespa #에스파  #NINGNING #닝닝 #ImtheDrama #aespaDrama</title>
-    <updated>2023-11-15T10:00:37+00:00</updated>
-    <content>날 굳이 막지 말아 이건 내 #Drama 🎞️🦋 #aespa #에스파  #NINGNING #닝닝 #ImtheDrama #aespaDrama</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7301626645188709634" rel="alternate"/>
-    <published>2023-11-15T10:00:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7301626889267891458</id>
-    <title>#ImtheDrama with #REDLIC ❤️‍🔥❤️‍🔥❤️‍🔥 #레드릭  #KARINA #카리나 #GISELLE #지젤 #WINTER #윈터 #NINGNING #닝닝 #aespa #Drama #aespaDrama</title>
-    <updated>2023-11-15T10:01:33+00:00</updated>
-    <content>#ImtheDrama with #REDLIC ❤️‍🔥❤️‍🔥❤️‍🔥 #레드릭  #KARINA #카리나 #GISELLE #지젤 #WINTER #윈터 #NINGNING #닝닝 #aespa #Drama #aespaDrama</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7301626889267891458" rel="alternate"/>
-    <published>2023-11-15T10:01:33+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7301656876968627457</id>
     <title>#ImtheDrama with #YOUNGJI 🩶🎞️ #영지 #aespa #NINGNING #닝닝 #Drama #aespaDrama</title>
@@ -91,5 +67,29 @@
     <content>#ImtheDrama 내 본능을 당겨 Zoooooooom 📸 #aespa #에스파  #KARINA #카리나 #Drama #aespaDrama</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7301998744889740545" rel="alternate"/>
     <published>2023-11-16T10:04:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7302027763773459713</id>
+    <title>#ImtheDrama with #CHUNGHA 💟 #청하 #aespa #WINTER #윈터 #Drama #aespaDrama</title>
+    <updated>2023-11-16T11:57:09+00:00</updated>
+    <content>#ImtheDrama with #CHUNGHA 💟 #청하 #aespa #WINTER #윈터 #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7302027763773459713" rel="alternate"/>
+    <published>2023-11-16T11:57:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7302027933915434241</id>
+    <title>#ImtheDrama with #CHAEHYUN 🎞️💙 #Kep1er #김채현 #aespa #KARINA #카리나 #Drama #aespaDrama</title>
+    <updated>2023-11-16T11:57:50+00:00</updated>
+    <content>#ImtheDrama with #CHAEHYUN 🎞️💙 #Kep1er #김채현 #aespa #KARINA #카리나 #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7302027933915434241" rel="alternate"/>
+    <published>2023-11-16T11:57:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7302028137762770178</id>
+    <title>#ImtheDrama 날카로운 눈 안에 비친 #CHAEHYUN 🏎️💨 #Kep1er #김채현 #aespa #KARINA #카리나 #Drama #aespaDrama</title>
+    <updated>2023-11-16T11:58:36+00:00</updated>
+    <content>#ImtheDrama 날카로운 눈 안에 비친 #CHAEHYUN 🏎️💨 #Kep1er #김채현 #aespa #KARINA #카리나 #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7302028137762770178" rel="alternate"/>
+    <published>2023-11-16T11:58:36+00:00</published>
   </entry>
 </feed>
