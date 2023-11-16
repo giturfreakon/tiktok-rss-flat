@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-11-16T09:04:09+00:00</updated>
+  <updated>2023-11-16T09:28:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7298626480420998402</id>
-    <title>'IVE'S WEEK' DAY 8 🖤 #BaddieChallenge #Baddie #Eitherway #OfftheRecord #IVE #아이브 #アイヴ #1stEP #IVEMINE </title>
-    <updated>2023-11-07T07:58:28+00:00</updated>
-    <content>'IVE'S WEEK' DAY 8 🖤 #BaddieChallenge #Baddie #Eitherway #OfftheRecord #IVE #아이브 #アイヴ #1stEP #IVEMINE </content>
-    <link href="https://www.tiktok.com/@ive.official/video/7298626480420998402" rel="alternate"/>
-    <published>2023-11-07T07:58:28+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7298997611560815874</id>
     <title>'IVE'S WEEK' DAY 9 🐈‍⬛ #BaddieChallenge #Baddie #Eitherway #OfftheRecord #IVE #아이브 #アイヴ #1stEP #IVEMINE </title>
@@ -91,5 +83,13 @@
     <content>SOYEON of (G)I-DLE X WINTER of aespa X #LIZ of #IVE ‘NOBODY' MV https://youtu.be/N68rwFjyinI #아이브 #アイヴ #리즈 #リズ #NOBODY </content>
     <link href="https://www.tiktok.com/@ive.official/video/7301983182222560514" rel="alternate"/>
     <published>2023-11-16T09:04:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7301989565257092354</id>
+    <title>YOKOHAMA I-TING SHOW WHAT I HAVE DAY2 #IVE #아이브 #アイヴ #SHOW_WHAT_I_HAVE #IVE_WORLD_TOUR </title>
+    <updated>2023-11-16T09:28:56+00:00</updated>
+    <content>YOKOHAMA I-TING SHOW WHAT I HAVE DAY2 #IVE #아이브 #アイヴ #SHOW_WHAT_I_HAVE #IVE_WORLD_TOUR </content>
+    <link href="https://www.tiktok.com/@ive.official/video/7301989565257092354" rel="alternate"/>
+    <published>2023-11-16T09:28:56+00:00</published>
   </entry>
 </feed>
