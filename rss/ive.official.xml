@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-11-15T09:33:20+00:00</updated>
+  <updated>2023-11-16T09:04:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7298255512976559362</id>
-    <title>'IVE'S WEEK' DAY 7 💦 #BaddieChallenge #Baddie #Eitherway #OfftheRecord #IVE #아이브 #アイヴ #1stEP #IVEMINE </title>
-    <updated>2023-11-06T07:58:57+00:00</updated>
-    <content>'IVE'S WEEK' DAY 7 💦 #BaddieChallenge #Baddie #Eitherway #OfftheRecord #IVE #아이브 #アイヴ #1stEP #IVEMINE </content>
-    <link href="https://www.tiktok.com/@ive.official/video/7298255512976559362" rel="alternate"/>
-    <published>2023-11-06T07:58:57+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7298626480420998402</id>
     <title>'IVE'S WEEK' DAY 8 🖤 #BaddieChallenge #Baddie #Eitherway #OfftheRecord #IVE #아이브 #アイヴ #1stEP #IVEMINE </title>
@@ -91,5 +83,13 @@
     <content>YOKOHAMA I-TING SHOW WHAT I HAVE DAY1 #IVE #아이브 #アイヴ  #SHOW_WHAT_I_HAVE</content>
     <link href="https://www.tiktok.com/@ive.official/video/7301619615577279746" rel="alternate"/>
     <published>2023-11-15T09:33:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7301983182222560514</id>
+    <title>SOYEON of (G)I-DLE X WINTER of aespa X #LIZ of #IVE ‘NOBODY' MV https://youtu.be/N68rwFjyinI #아이브 #アイヴ #리즈 #リズ #NOBODY </title>
+    <updated>2023-11-16T09:04:09+00:00</updated>
+    <content>SOYEON of (G)I-DLE X WINTER of aespa X #LIZ of #IVE ‘NOBODY' MV https://youtu.be/N68rwFjyinI #아이브 #アイヴ #리즈 #リズ #NOBODY </content>
+    <link href="https://www.tiktok.com/@ive.official/video/7301983182222560514" rel="alternate"/>
+    <published>2023-11-16T09:04:09+00:00</published>
   </entry>
 </feed>
