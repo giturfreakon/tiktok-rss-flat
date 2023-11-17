@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-11-16T11:58:36+00:00</updated>
+  <updated>2023-11-17T02:17:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7301656876968627457</id>
-    <title>#ImtheDrama with #YOUNGJI 🩶🎞️ #영지 #aespa #NINGNING #닝닝 #Drama #aespaDrama</title>
-    <updated>2023-11-15T11:57:56+00:00</updated>
-    <content>#ImtheDrama with #YOUNGJI 🩶🎞️ #영지 #aespa #NINGNING #닝닝 #Drama #aespaDrama</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7301656876968627457" rel="alternate"/>
-    <published>2023-11-15T11:57:56+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7301657013207993601</id>
     <title>#ImtheDrama Oh my god 😲🫢😱 #영지 #aespa #NINGNING #닝닝 #Drama #aespaDrama</title>
@@ -91,5 +83,13 @@
     <content>#ImtheDrama 날카로운 눈 안에 비친 #CHAEHYUN 🏎️💨 #Kep1er #김채현 #aespa #KARINA #카리나 #Drama #aespaDrama</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7302028137762770178" rel="alternate"/>
     <published>2023-11-16T11:58:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7302249456873786625</id>
+    <title>3𝓇𝒹 𝒶𝑒𝓈𝓅𝒶 ℬ𝒾𝓇𝓉𝒽𝒹𝒶𝓎✨ #aespa #에스파 #FOR3VERwithaespa #에스파의_드라마틱한_3주년 #Drama #aespaDrama #MYDRAMA_aespa</title>
+    <updated>2023-11-17T02:17:29+00:00</updated>
+    <content>3𝓇𝒹 𝒶𝑒𝓈𝓅𝒶 ℬ𝒾𝓇𝓉𝒽𝒹𝒶𝓎✨ #aespa #에스파 #FOR3VERwithaespa #에스파의_드라마틱한_3주년 #Drama #aespaDrama #MYDRAMA_aespa</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7302249456873786625" rel="alternate"/>
+    <published>2023-11-17T02:17:29+00:00</published>
   </entry>
 </feed>
