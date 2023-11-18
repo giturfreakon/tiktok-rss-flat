@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-11-17T04:19:34+00:00</updated>
+  <updated>2023-11-18T09:58:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7301657105784687874</id>
-    <title>굳이 막지 말아 이건 우리 #Drama 🎬🩶 #영지 #aespa #NINGNING #닝닝 #Drama #aespaDrama</title>
-    <updated>2023-11-15T11:58:49+00:00</updated>
-    <content>굳이 막지 말아 이건 우리 #Drama 🎬🩶 #영지 #aespa #NINGNING #닝닝 #Drama #aespaDrama</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7301657105784687874" rel="alternate"/>
-    <published>2023-11-15T11:58:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7301657270553709826</id>
-    <title>🌀🌀🌀 #fordason #aespa #에스파 #NINGNING #닝닝 #YOUNGJI #영지</title>
-    <updated>2023-11-15T11:59:28+00:00</updated>
-    <content>🌀🌀🌀 #fordason #aespa #에스파 #NINGNING #닝닝 #YOUNGJI #영지</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7301657270553709826" rel="alternate"/>
-    <published>2023-11-15T11:59:28+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7301997131840195842</id>
     <title>#ImtheDrama Girls in the back 💁🏻‍♀️✨ #aespa #에스파  #GISELLE #지젤#지제ᄅama #aespaDrama</title>
@@ -91,5 +75,21 @@
     <content>#NOBODY by #WINTER  #NOBODY_challenge  #aespa #æspa #에스파 #윈터 #노바디 </content>
     <link href="https://www.tiktok.com/@aespa_official/video/7302280930696203538" rel="alternate"/>
     <published>2023-11-17T04:19:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7302738999989357842</id>
+    <title>#ImtheDrama 1, 2, 3 깜짝 놀랄 다음 Scene 🎬 #SESONEON #새소년 #Soyoon #황소윤  #aespa #KARINA #카리나 #Drama #aespaDrama</title>
+    <updated>2023-11-18T09:57:07+00:00</updated>
+    <content>#ImtheDrama 1, 2, 3 깜짝 놀랄 다음 Scene 🎬 #SESONEON #새소년 #Soyoon #황소윤  #aespa #KARINA #카리나 #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7302738999989357842" rel="alternate"/>
+    <published>2023-11-18T09:57:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7302739379792006408</id>
+    <title>#ImtheDrama with #ParkSoeun #Jihan 💞💙 #Weeekly #위클리 #박소은 #지한 #aespa #KARINA #카리나 #Drama #aespaDrama</title>
+    <updated>2023-11-18T09:58:35+00:00</updated>
+    <content>#ImtheDrama with #ParkSoeun #Jihan 💞💙 #Weeekly #위클리 #박소은 #지한 #aespa #KARINA #카리나 #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7302739379792006408" rel="alternate"/>
+    <published>2023-11-18T09:58:35+00:00</published>
   </entry>
 </feed>
