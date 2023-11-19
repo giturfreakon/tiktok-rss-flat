@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-11-19T06:02:29+00:00</updated>
+  <updated>2023-11-19T11:57:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7302027763773459713</id>
-    <title>#ImtheDrama with #CHUNGHA 💟 #청하 #aespa #WINTER #윈터 #Drama #aespaDrama</title>
-    <updated>2023-11-16T11:57:09+00:00</updated>
-    <content>#ImtheDrama with #CHUNGHA 💟 #청하 #aespa #WINTER #윈터 #Drama #aespaDrama</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7302027763773459713" rel="alternate"/>
-    <published>2023-11-16T11:57:09+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7302027933915434241</id>
     <title>#ImtheDrama with #CHAEHYUN 🎞️💙 #Kep1er #김채현 #aespa #KARINA #카리나 #Drama #aespaDrama</title>
@@ -91,5 +83,13 @@
     <content>굳이 막지 말아 이건 🐻🦋 #Drama  #레드벨벳 #RedVelvet #슬기 #SEULGI  #aespa #NINGNING #닝닝 #Drama #aespaDrama</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7303049617988455682" rel="alternate"/>
     <published>2023-11-19T06:02:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7303141153648561416</id>
+    <title>#ImtheDrama 날카로운 눈 안에 비친 #SINB 🐱💙 #VIVIZ #비비지 #신비 #aespa #KARINA #카리나 #Drama #aespaDrama</title>
+    <updated>2023-11-19T11:57:39+00:00</updated>
+    <content>#ImtheDrama 날카로운 눈 안에 비친 #SINB 🐱💙 #VIVIZ #비비지 #신비 #aespa #KARINA #카리나 #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7303141153648561416" rel="alternate"/>
+    <published>2023-11-19T11:57:39+00:00</published>
   </entry>
 </feed>
