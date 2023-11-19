@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-11-18T09:58:35+00:00</updated>
+  <updated>2023-11-19T06:02:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7301997131840195842</id>
-    <title>#ImtheDrama Girls in the back 💁🏻‍♀️✨ #aespa #에스파  #GISELLE #지젤#지제ᄅama #aespaDrama</title>
-    <updated>2023-11-16T09:58:19+00:00</updated>
-    <content>#ImtheDrama Girls in the back 💁🏻‍♀️✨ #aespa #에스파  #GISELLE #지젤#지제ᄅama #aespaDrama</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7301997131840195842" rel="alternate"/>
-    <published>2023-11-16T09:58:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7301998049734216962</id>
-    <title>🌙: Hold up, What?  🦋: Oh my god #aespa #에스파 #GISELLE #지젤 #NINGNING #닝닝 #ImtheDrama #Drama #aespaDrama</title>
-    <updated>2023-11-16T10:01:51+00:00</updated>
-    <content>🌙: Hold up, What?  🦋: Oh my god #aespa #에스파 #GISELLE #지젤 #NINGNING #닝닝 #ImtheDrama #Drama #aespaDrama</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7301998049734216962" rel="alternate"/>
-    <published>2023-11-16T10:01:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7301998744889740545</id>
-    <title>#ImtheDrama 내 본능을 당겨 Zoooooooom 📸 #aespa #에스파  #KARINA #카리나 #Drama #aespaDrama</title>
-    <updated>2023-11-16T10:04:32+00:00</updated>
-    <content>#ImtheDrama 내 본능을 당겨 Zoooooooom 📸 #aespa #에스파  #KARINA #카리나 #Drama #aespaDrama</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7301998744889740545" rel="alternate"/>
-    <published>2023-11-16T10:04:32+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7302027763773459713</id>
     <title>#ImtheDrama with #CHUNGHA 💟 #청하 #aespa #WINTER #윈터 #Drama #aespaDrama</title>
@@ -91,5 +67,29 @@
     <content>#ImtheDrama with #ParkSoeun #Jihan 💞💙 #Weeekly #위클리 #박소은 #지한 #aespa #KARINA #카리나 #Drama #aespaDrama</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7302739379792006408" rel="alternate"/>
     <published>2023-11-18T09:58:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7303048790288764162</id>
+    <title>#ImtheDrama with #IRENE #SEULGI 🐰🐻 #RedVelvet #레드벨벳 #아이린 #슬기  #aespa #에스파 #KARINA #카리나 #WINTER #윈터 #Drama #aespaDrama</title>
+    <updated>2023-11-19T05:59:18+00:00</updated>
+    <content>#ImtheDrama with #IRENE #SEULGI 🐰🐻 #RedVelvet #레드벨벳 #아이린 #슬기  #aespa #에스파 #KARINA #카리나 #WINTER #윈터 #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7303048790288764162" rel="alternate"/>
+    <published>2023-11-19T05:59:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7303049191331253506</id>
+    <title>🐤: Hold up, What?  🦋: Oh my god #RedVelvet #레드벨벳 #조이 #JOY #aespa #에스파 #NINGNING #닝닝 #Drama #aespaDrama</title>
+    <updated>2023-11-19T06:00:51+00:00</updated>
+    <content>🐤: Hold up, What?  🦋: Oh my god #RedVelvet #레드벨벳 #조이 #JOY #aespa #에스파 #NINGNING #닝닝 #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7303049191331253506" rel="alternate"/>
+    <published>2023-11-19T06:00:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7303049617988455682</id>
+    <title>굳이 막지 말아 이건 🐻🦋 #Drama  #레드벨벳 #RedVelvet #슬기 #SEULGI  #aespa #NINGNING #닝닝 #Drama #aespaDrama</title>
+    <updated>2023-11-19T06:02:29+00:00</updated>
+    <content>굳이 막지 말아 이건 🐻🦋 #Drama  #레드벨벳 #RedVelvet #슬기 #SEULGI  #aespa #NINGNING #닝닝 #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7303049617988455682" rel="alternate"/>
+    <published>2023-11-19T06:02:29+00:00</published>
   </entry>
 </feed>
