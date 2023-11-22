@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-11-22T09:59:48+00:00</updated>
+  <updated>2023-11-22T12:00:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7302739379792006408</id>
-    <title>#ImtheDrama with #ParkSoeun #Jihan 💞💙 #Weeekly #위클리 #박소은 #지한 #aespa #KARINA #카리나 #Drama #aespaDrama</title>
-    <updated>2023-11-18T09:58:35+00:00</updated>
-    <content>#ImtheDrama with #ParkSoeun #Jihan 💞💙 #Weeekly #위클리 #박소은 #지한 #aespa #KARINA #카리나 #Drama #aespaDrama</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7302739379792006408" rel="alternate"/>
-    <published>2023-11-18T09:58:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7303048790288764162</id>
-    <title>#ImtheDrama with #IRENE #SEULGI 🐰🐻 #RedVelvet #레드벨벳 #아이린 #슬기  #aespa #에스파 #KARINA #카리나 #WINTER #윈터 #Drama #aespaDrama</title>
-    <updated>2023-11-19T05:59:18+00:00</updated>
-    <content>#ImtheDrama with #IRENE #SEULGI 🐰🐻 #RedVelvet #레드벨벳 #아이린 #슬기  #aespa #에스파 #KARINA #카리나 #WINTER #윈터 #Drama #aespaDrama</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7303048790288764162" rel="alternate"/>
-    <published>2023-11-19T05:59:18+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7303049191331253506</id>
     <title>🐤: Hold up, What?  🦋: Oh my god #RedVelvet #레드벨벳 #조이 #JOY #aespa #에스파 #NINGNING #닝닝 #Drama #aespaDrama</title>
@@ -91,5 +75,21 @@
     <content>굳이 막지 말아 이건 Sweet #Drama 🤫 #ENHYPEN #엔하이픈 #SUNGHOON #성훈 #aespa #NINGNING #닝닝 #Drama #aespaDrama</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7304224034290519303" rel="alternate"/>
     <published>2023-11-22T09:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7304254450800119048</id>
+    <title>#ImtheDrama with #SULLYOON 🤍💙 #NMIXX #엔믹스 #설윤 #aespa #KARINA #카리나 #Drama #aespaDrama</title>
+    <updated>2023-11-22T11:57:50+00:00</updated>
+    <content>#ImtheDrama with #SULLYOON 🤍💙 #NMIXX #엔믹스 #설윤 #aespa #KARINA #카리나 #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7304254450800119048" rel="alternate"/>
+    <published>2023-11-22T11:57:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7304255187131043090</id>
+    <title>#ImtheDrama 내 본능을 당겨 Zoooooooom 📸 #NMIXX #엔믹스 #SULLYOON #설윤 #aespa #KARINA #카리나 #Drama #aespaDrama</title>
+    <updated>2023-11-22T12:00:41+00:00</updated>
+    <content>#ImtheDrama 내 본능을 당겨 Zoooooooom 📸 #NMIXX #엔믹스 #SULLYOON #설윤 #aespa #KARINA #카리나 #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7304255187131043090" rel="alternate"/>
+    <published>2023-11-22T12:00:41+00:00</published>
   </entry>
 </feed>
