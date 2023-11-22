@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-11-21T14:09:12+00:00</updated>
+  <updated>2023-11-22T03:59:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7300871079306759431</id>
-    <title>[Teaser] SOYEON of (G)I-DLE X WINTER of aespa X #LIZ of #IVE 'NOBODY' https://youtu.be/vM4z2I1ZFZ4 Release 2023. 11. 16 6PM (KST) #아이브 #アイヴ #리즈 #リズ #NOBODY</title>
-    <updated>2023-11-13T09:08:37+00:00</updated>
-    <content>[Teaser] SOYEON of (G)I-DLE X WINTER of aespa X #LIZ of #IVE 'NOBODY' https://youtu.be/vM4z2I1ZFZ4 Release 2023. 11. 16 6PM (KST) #아이브 #アイヴ #리즈 #リズ #NOBODY</content>
-    <link href="https://www.tiktok.com/@ive.official/video/7300871079306759431" rel="alternate"/>
-    <published>2023-11-13T09:08:37+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7301596804481666305</id>
     <title>𝑵𝒐𝒕𝒉𝒊𝒏𝒈 𝒍𝒊𝒌𝒆 𝒕𝒉𝒆 𝒓𝒆𝒈𝒖𝒍𝒂𝒓𝒔 🌟💖 #박재범 선배님과의 #BaddieChallenge @jayparkisoverparty #Baddie #IVE #아이브 #アイヴ #LEESEO #이서 #イソ #JayPark #NewMusic </title>
@@ -91,5 +83,13 @@
     <content>더 낼 수 있지, 리즈 만나면 💵 #IVE #아이브 #アイヴ #LIZ #리즈 #リズ #HappyLIZday #아기고양이_리즈_탄생일 🐾</content>
     <link href="https://www.tiktok.com/@ive.official/video/7303917215324097794" rel="alternate"/>
     <published>2023-11-21T14:09:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7304131275307224338</id>
+    <title>요코하마에서도 귀여워서 미안해 헤헤 😛🙏 #IVE #아이브 #アイヴ #ANYUJIN #안유진 #アンユジン #ユジン #LEESEO #이서 #イソ #SHOW_WHAT_I_HAVE #IVE_WORLD_TOUR </title>
+    <updated>2023-11-22T03:59:53+00:00</updated>
+    <content>요코하마에서도 귀여워서 미안해 헤헤 😛🙏 #IVE #아이브 #アイヴ #ANYUJIN #안유진 #アンユジン #ユジン #LEESEO #이서 #イソ #SHOW_WHAT_I_HAVE #IVE_WORLD_TOUR </content>
+    <link href="https://www.tiktok.com/@ive.official/video/7304131275307224338" rel="alternate"/>
+    <published>2023-11-22T03:59:53+00:00</published>
   </entry>
 </feed>
