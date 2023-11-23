@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-11-23T09:57:20+00:00</updated>
+  <updated>2023-11-23T11:59:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7303049617988455682</id>
-    <title>굳이 막지 말아 이건 🐻🦋 #Drama  #레드벨벳 #RedVelvet #슬기 #SEULGI  #aespa #NINGNING #닝닝 #Drama #aespaDrama</title>
-    <updated>2023-11-19T06:02:29+00:00</updated>
-    <content>굳이 막지 말아 이건 🐻🦋 #Drama  #레드벨벳 #RedVelvet #슬기 #SEULGI  #aespa #NINGNING #닝닝 #Drama #aespaDrama</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7303049617988455682" rel="alternate"/>
-    <published>2023-11-19T06:02:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7303141153648561416</id>
-    <title>#ImtheDrama 날카로운 눈 안에 비친 #SINB 🐱💙 #VIVIZ #비비지 #신비 #aespa #KARINA #카리나 #Drama #aespaDrama</title>
-    <updated>2023-11-19T11:57:39+00:00</updated>
-    <content>#ImtheDrama 날카로운 눈 안에 비친 #SINB 🐱💙 #VIVIZ #비비지 #신비 #aespa #KARINA #카리나 #Drama #aespaDrama</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7303141153648561416" rel="alternate"/>
-    <published>2023-11-19T11:57:39+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7303852925619621127</id>
     <title>#ImtheDrama with #NATTY 🤘 #KISSOFLIFE #나띠 #aespa #NINGNING #닝닝 #Drama #aespaDrama</title>
@@ -91,5 +75,21 @@
     <content>#ImtheDrama Oh my god 🤨 #BIBI #비비 #NINGNING #닝닝 #aespa #Drama #aespaDrama</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7304594486703820040" rel="alternate"/>
     <published>2023-11-23T09:57:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7304625555507268871</id>
+    <title>When MYs fall in love in 3 seconds 🍃💕 #aespa #에스파 #KARINA #카리나</title>
+    <updated>2023-11-23T11:57:53+00:00</updated>
+    <content>When MYs fall in love in 3 seconds 🍃💕 #aespa #에스파 #KARINA #카리나</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7304625555507268871" rel="alternate"/>
+    <published>2023-11-23T11:57:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7304625896722369800</id>
+    <title>🍒🍃🐈‍⬛ #aespa #에스파 #KARINA #카리나 #LE_SSERAFIM #르세라핌 #HONGEUNCHAE #홍은채</title>
+    <updated>2023-11-23T11:59:13+00:00</updated>
+    <content>🍒🍃🐈‍⬛ #aespa #에스파 #KARINA #카리나 #LE_SSERAFIM #르세라핌 #HONGEUNCHAE #홍은채</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7304625896722369800" rel="alternate"/>
+    <published>2023-11-23T11:59:13+00:00</published>
   </entry>
 </feed>
