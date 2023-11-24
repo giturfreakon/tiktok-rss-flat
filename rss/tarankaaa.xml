@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tarankaaa</id>
   <title>@tarankaaa | TikTok</title>
-  <updated>2023-11-23T12:05:34+00:00</updated>
+  <updated>2023-11-24T08:09:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,46 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tarankaaa</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7300478304371445010</id>
-    <title>[no title]</title>
-    <updated>2023-11-12T07:44:26+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7300478304371445010" rel="alternate"/>
-    <published>2023-11-12T07:44:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7300915329050479879</id>
-    <title>[no title]</title>
-    <updated>2023-11-13T12:00:18+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7300915329050479879" rel="alternate"/>
-    <published>2023-11-13T12:00:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7301268088014572808</id>
-    <title>Why do our dads look like models when they were young? </title>
-    <updated>2023-11-14T10:49:13+00:00</updated>
-    <content>Why do our dads look like models when they were young? </content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7301268088014572808" rel="alternate"/>
-    <published>2023-11-14T10:49:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7301648267002006791</id>
-    <title>Leeaning to make more vids like this for my TikTok 💖 do you like unboxing videos? #makeupunboxing #koreanmakeup #asmrtiktok </title>
-    <updated>2023-11-15T11:24:28+00:00</updated>
-    <content>Leeaning to make more vids like this for my TikTok 💖 do you like unboxing videos? #makeupunboxing #koreanmakeup #asmrtiktok </content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7301648267002006791" rel="alternate"/>
-    <published>2023-11-15T11:24:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7303100001188711688</id>
-    <title>[no title]</title>
-    <updated>2023-11-19T09:17:58+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7303100001188711688" rel="alternate"/>
-    <published>2023-11-19T09:17:58+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7304296696178167058</id>
     <title>[no title]</title>
@@ -67,6 +27,46 @@
     <content>do u like to workout?👀 #ootd #데일리룩 #겨울ootd </content>
     <link href="https://www.tiktok.com/@tarankaaa/video/7304627536762244359" rel="alternate"/>
     <published>2023-11-23T12:05:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7304932764472724743</id>
+    <title>[no title]</title>
+    <updated>2023-11-24T07:50:03+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7304932764472724743" rel="alternate"/>
+    <published>2023-11-24T07:50:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7304934966721334536</id>
+    <title>#치아미백 </title>
+    <updated>2023-11-24T07:58:34+00:00</updated>
+    <content>#치아미백 </content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7304934966721334536" rel="alternate"/>
+    <published>2023-11-24T07:58:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7304935586324909320</id>
+    <title>[no title]</title>
+    <updated>2023-11-24T08:00:59+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7304935586324909320" rel="alternate"/>
+    <published>2023-11-24T08:00:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7304936157123513608</id>
+    <title>[no title]</title>
+    <updated>2023-11-24T08:03:12+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7304936157123513608" rel="alternate"/>
+    <published>2023-11-24T08:03:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7304937675025288456</id>
+    <title>[no title]</title>
+    <updated>2023-11-24T08:09:05+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7304937675025288456" rel="alternate"/>
+    <published>2023-11-24T08:09:05+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/6995151179823025409</id>
