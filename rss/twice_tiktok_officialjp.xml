@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@twice_tiktok_officialjp</id>
   <title>@twice_tiktok_officialjp | TikTok</title>
-  <updated>2023-09-26T11:02:38+00:00</updated>
+  <updated>2023-11-24T11:55:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @twice_tiktok_officialjp</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_officialjp/video/7260787255604792584</id>
-    <title>MISAMO JAPAN 1st MINI ALBUM『Masterpiece』 2023.07.26 Release 「Do not touch」 MOMO × JIHYO #MOMO #JIHYO #TWICE #MISAMO #Masterpiece #Donottouch</title>
-    <updated>2023-07-28T08:42:55+00:00</updated>
-    <content>MISAMO JAPAN 1st MINI ALBUM『Masterpiece』 2023.07.26 Release 「Do not touch」 MOMO × JIHYO #MOMO #JIHYO #TWICE #MISAMO #Masterpiece #Donottouch</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_officialjp/video/7260787255604792584" rel="alternate"/>
-    <published>2023-07-28T08:42:55+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_officialjp/video/7260836796701986066</id>
     <title>MISAMO JAPAN 1st MINI ALBUM『Masterpiece』 2023.07.26 Release 「Do not touch」 MINA × CHAEYOUNG #MINA #CHAEYOUNG #TWICE #MISAMO #Masterpiece #Donottouch</title>
@@ -91,5 +83,13 @@
     <content>TWICE 4th BEST ALBUM『#TWICE4』数量限定生産アナログ盤 2023.09.27 Release You don't need any license to love TWICE!✨ 『#TWICE4』アナログ盤、見るほどどんどん見吸い込まれませんか？ https://www.twicejapan.com/feature/bestalbumVINYL #TWICE #TWICE2 #TWICE3 #TWICE4 #VINYL</content>
     <link href="https://www.tiktok.com/@twice_tiktok_officialjp/video/7283088369679224066" rel="alternate"/>
     <published>2023-09-26T11:02:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_officialjp/video/7304996028082670856</id>
+    <title>MISAMO JAPAN SHOWCASE "Masterpiece" DVD＆Blu-ray 2023.12.20 Release 🎵Behind The Curtain #MISAMO #Masterpiece #JAPANSHOWCASE2023 #BehindTheCurtain</title>
+    <updated>2023-11-24T11:55:32+00:00</updated>
+    <content>MISAMO JAPAN SHOWCASE "Masterpiece" DVD＆Blu-ray 2023.12.20 Release 🎵Behind The Curtain #MISAMO #Masterpiece #JAPANSHOWCASE2023 #BehindTheCurtain</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_officialjp/video/7304996028082670856" rel="alternate"/>
+    <published>2023-11-24T11:55:32+00:00</published>
   </entry>
 </feed>
