@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-11-24T05:29:26+00:00</updated>
+  <updated>2023-11-24T07:56:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7304192818359192839</id>
-    <title>#ImtheDrama Welcome to 'DRAMA CITY' 🌃⚡️ #aespa #에스파 #Drama #aespaDrama #aespaWEEK</title>
-    <updated>2023-11-22T07:58:40+00:00</updated>
-    <content>#ImtheDrama Welcome to 'DRAMA CITY' 🌃⚡️ #aespa #에스파 #Drama #aespaDrama #aespaWEEK</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7304192818359192839" rel="alternate"/>
-    <published>2023-11-22T07:58:40+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7304223827922308370</id>
     <title>#ImtheDrama with #HEESEUNG #SUNGHOON 🍊😈 #ENHYPEN #엔하이픈 #희승 #성훈 #KARINA #카리나  #WINTER #윈터 #aespa #Drama #aespaDrama</title>
@@ -91,5 +83,13 @@
     <content>Jingle bell, jingle bell, jingle bell rock 🔔 #Jinglebellrock_Challenge 🤟  #Jinglebellrock #aespa #에스파  #KARINA #카리나 #WINTER #윈터</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7304896532749257991" rel="alternate"/>
     <published>2023-11-24T05:29:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7304934483826887943</id>
+    <title>Dancin' and prancin' in Jingle Bell Square In the frosty air 🎄 #Jinglebellrock_Challenge 🤟  #Jinglebellrock #aespa #에스파  #KARINA #카리나 #WINTER #윈터</title>
+    <updated>2023-11-24T07:56:40+00:00</updated>
+    <content>Dancin' and prancin' in Jingle Bell Square In the frosty air 🎄 #Jinglebellrock_Challenge 🤟  #Jinglebellrock #aespa #에스파  #KARINA #카리나 #WINTER #윈터</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7304934483826887943" rel="alternate"/>
+    <published>2023-11-24T07:56:40+00:00</published>
   </entry>
 </feed>
