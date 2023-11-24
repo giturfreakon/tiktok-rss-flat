@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-11-24T07:56:40+00:00</updated>
+  <updated>2023-11-24T09:57:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7304223827922308370</id>
-    <title>#ImtheDrama with #HEESEUNG #SUNGHOON 🍊😈 #ENHYPEN #엔하이픈 #희승 #성훈 #KARINA #카리나  #WINTER #윈터 #aespa #Drama #aespaDrama</title>
-    <updated>2023-11-22T09:58:59+00:00</updated>
-    <content>#ImtheDrama with #HEESEUNG #SUNGHOON 🍊😈 #ENHYPEN #엔하이픈 #희승 #성훈 #KARINA #카리나  #WINTER #윈터 #aespa #Drama #aespaDrama</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7304223827922308370" rel="alternate"/>
-    <published>2023-11-22T09:58:59+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7304224034290519303</id>
     <title>굳이 막지 말아 이건 Sweet #Drama 🤫 #ENHYPEN #엔하이픈 #SUNGHOON #성훈 #aespa #NINGNING #닝닝 #Drama #aespaDrama</title>
@@ -91,5 +83,13 @@
     <content>Dancin' and prancin' in Jingle Bell Square In the frosty air 🎄 #Jinglebellrock_Challenge 🤟  #Jinglebellrock #aespa #에스파  #KARINA #카리나 #WINTER #윈터</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7304934483826887943" rel="alternate"/>
     <published>2023-11-24T07:56:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7304965551707802888</id>
+    <title>STOP✋ #aespa #에스파 #KARINA #카리나</title>
+    <updated>2023-11-24T09:57:16+00:00</updated>
+    <content>STOP✋ #aespa #에스파 #KARINA #카리나</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7304965551707802888" rel="alternate"/>
+    <published>2023-11-24T09:57:16+00:00</published>
   </entry>
 </feed>
