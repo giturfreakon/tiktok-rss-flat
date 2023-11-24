@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-11-23T07:23:22+00:00</updated>
+  <updated>2023-11-24T04:59:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7301989565257092354</id>
-    <title>YOKOHAMA I-TING SHOW WHAT I HAVE DAY2 #IVE #아이브 #アイヴ #SHOW_WHAT_I_HAVE #IVE_WORLD_TOUR </title>
-    <updated>2023-11-16T09:28:56+00:00</updated>
-    <content>YOKOHAMA I-TING SHOW WHAT I HAVE DAY2 #IVE #아이브 #アイヴ #SHOW_WHAT_I_HAVE #IVE_WORLD_TOUR </content>
-    <link href="https://www.tiktok.com/@ive.official/video/7301989565257092354" rel="alternate"/>
-    <published>2023-11-16T09:28:56+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7302045437068922120</id>
     <title>📸 IVE THE 1ST WORLD TOUR &lt;SHOW WHAT I HAVE&gt;  in YOKOHAMA ✨ DAY 2 ✨ 뛰어들게 YOKOHAMA 💙🩷 #IVE #아이브 #アイヴ #SHOW_WHAT_I_HAVE #IVE_WORLD_TOUR </title>
@@ -91,5 +83,13 @@
     <content>SHOW WHAT I HAVE in YOKOHAMA ‘Catch me if you can’ (Backstage ver.) #IVE #아이브 #アイヴ #ANYUJIN #안유진 #アンユジン #ユジン #REI #레이 #レイ #LEESEO #이서 #イソ #SHOW_WHAT_I_HAVE #IVE_WORLD_TOUR</content>
     <link href="https://www.tiktok.com/@ive.official/video/7304554799549254919" rel="alternate"/>
     <published>2023-11-23T07:23:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7304888877876071698</id>
+    <title>SHOW WHAT I HAVE in YOKOHAMA Sound Check 🎤✅ #IVE #아이브 #アイヴ #SHOW_WHAT_I_HAVE #IVE_WORLD_TOUR</title>
+    <updated>2023-11-24T04:59:44+00:00</updated>
+    <content>SHOW WHAT I HAVE in YOKOHAMA Sound Check 🎤✅ #IVE #아이브 #アイヴ #SHOW_WHAT_I_HAVE #IVE_WORLD_TOUR</content>
+    <link href="https://www.tiktok.com/@ive.official/video/7304888877876071698" rel="alternate"/>
+    <published>2023-11-24T04:59:44+00:00</published>
   </entry>
 </feed>
