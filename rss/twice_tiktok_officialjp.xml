@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@twice_tiktok_officialjp</id>
   <title>@twice_tiktok_officialjp | TikTok</title>
-  <updated>2023-11-25T11:55:05+00:00</updated>
+  <updated>2023-11-26T11:54:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @twice_tiktok_officialjp</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_officialjp/video/7262275090035903762</id>
-    <title>MISAMO JAPAN 1st MINI ALBUM『Masterpiece』 2023.07.26 Release 「Do not touch」 SANA × DAHYUN #SANA #DAHYUN #TWICE #MISAMO #Masterpiece #Donottouch</title>
-    <updated>2023-08-01T08:56:29+00:00</updated>
-    <content>MISAMO JAPAN 1st MINI ALBUM『Masterpiece』 2023.07.26 Release 「Do not touch」 SANA × DAHYUN #SANA #DAHYUN #TWICE #MISAMO #Masterpiece #Donottouch</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_officialjp/video/7262275090035903762" rel="alternate"/>
-    <published>2023-08-01T08:56:29+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_officialjp/video/7262320295795494151</id>
     <title>MISAMO「Do not touch」のChoreography Videoは見ていただけましたか～？ 撮影の合間に撮ったダンスも公開♡ 是非皆さんも踊ってくださいね！ #MISAMO #Masterpiece #Donottouch</title>
@@ -91,5 +83,13 @@
     <content>MISAMO JAPAN SHOWCASE "Masterpiece" DVD＆Blu-ray 2023.12.20 Release 🎵It’s not easy for you #MISAMO #Masterpiece #JAPANSHOWCASE2023 #Itsnoteasyforyou</content>
     <link href="https://www.tiktok.com/@twice_tiktok_officialjp/video/7305367003085196552" rel="alternate"/>
     <published>2023-11-25T11:55:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_officialjp/video/7305737836882332946</id>
+    <title>MISAMO JAPAN SHOWCASE "Masterpiece" DVD＆Blu-ray 2023.12.20 Release 🎵Rewind you #MISAMO #Masterpiece #JAPANSHOWCASE2023 #Rewindyou</title>
+    <updated>2023-11-26T11:54:07+00:00</updated>
+    <content>MISAMO JAPAN SHOWCASE "Masterpiece" DVD＆Blu-ray 2023.12.20 Release 🎵Rewind you #MISAMO #Masterpiece #JAPANSHOWCASE2023 #Rewindyou</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_officialjp/video/7305737836882332946" rel="alternate"/>
+    <published>2023-11-26T11:54:07+00:00</published>
   </entry>
 </feed>
