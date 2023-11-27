@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@twice_tiktok_officialjp</id>
   <title>@twice_tiktok_officialjp | TikTok</title>
-  <updated>2023-11-26T11:54:07+00:00</updated>
+  <updated>2023-11-27T11:57:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @twice_tiktok_officialjp</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_officialjp/video/7262320295795494151</id>
-    <title>MISAMO「Do not touch」のChoreography Videoは見ていただけましたか～？ 撮影の合間に撮ったダンスも公開♡ 是非皆さんも踊ってくださいね！ #MISAMO #Masterpiece #Donottouch</title>
-    <updated>2023-08-01T11:51:52+00:00</updated>
-    <content>MISAMO「Do not touch」のChoreography Videoは見ていただけましたか～？ 撮影の合間に撮ったダンスも公開♡ 是非皆さんも踊ってくださいね！ #MISAMO #Masterpiece #Donottouch</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_officialjp/video/7262320295795494151" rel="alternate"/>
-    <published>2023-08-01T11:51:52+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_officialjp/video/7265289960800963848</id>
     <title>MISAMO「Do not touch」のChoreography Videoどうでしたか？✨ 皆さんも是非踊ってみてくださいねー！ #MISAMO #Masterpiece #Donottouch</title>
@@ -91,5 +83,13 @@
     <content>MISAMO JAPAN SHOWCASE "Masterpiece" DVD＆Blu-ray 2023.12.20 Release 🎵Rewind you #MISAMO #Masterpiece #JAPANSHOWCASE2023 #Rewindyou</content>
     <link href="https://www.tiktok.com/@twice_tiktok_officialjp/video/7305737836882332946" rel="alternate"/>
     <published>2023-11-26T11:54:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_officialjp/video/7306109832774372626</id>
+    <title>MISAMO JAPAN SHOWCASE "Masterpiece" DVD＆Blu-ray 2023.12.20 Release 🎵Funny Valentine #MISAMO #Masterpiece #JAPANSHOWCASE2023 #FunnyValentine</title>
+    <updated>2023-11-27T11:57:39+00:00</updated>
+    <content>MISAMO JAPAN SHOWCASE "Masterpiece" DVD＆Blu-ray 2023.12.20 Release 🎵Funny Valentine #MISAMO #Masterpiece #JAPANSHOWCASE2023 #FunnyValentine</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_officialjp/video/7306109832774372626" rel="alternate"/>
+    <published>2023-11-27T11:57:39+00:00</published>
   </entry>
 </feed>
