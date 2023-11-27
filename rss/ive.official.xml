@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-11-24T07:00:31+00:00</updated>
+  <updated>2023-11-27T07:59:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7302244826412600578</id>
-    <title>IVE THE 1ST WORLD TOUR &lt;SHOW WHAT I HAVE&gt; in YOKOHAMA (Outfit Change) #IVE #아이브 #アイヴ #GAEUL #가을 #ガウル #SHOW_WHAT_I_HAVE #IVE_WORLD_TOUR </title>
-    <updated>2023-11-17T01:59:31+00:00</updated>
-    <content>IVE THE 1ST WORLD TOUR &lt;SHOW WHAT I HAVE&gt; in YOKOHAMA (Outfit Change) #IVE #아이브 #アイヴ #GAEUL #가을 #ガウル #SHOW_WHAT_I_HAVE #IVE_WORLD_TOUR </content>
-    <link href="https://www.tiktok.com/@ive.official/video/7302244826412600578" rel="alternate"/>
-    <published>2023-11-17T01:59:31+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7302275868414512402</id>
     <title>NOBODY Challenge 같이 뛰어들어 Come in 🛗💄🥂 #NOBODY by #LIZ #NOBODY_Challenge #IVE #아이브 #アイヴ #리즈 #リズ #노바디</title>
@@ -91,5 +83,13 @@
     <content>I-VIEW 👀 REI in YOKOHAMA #IVE #아이브 #アイヴ #REI #레이 #レイ #SHOW_WHAT_I_HAVE #IVE_WORLD_TOUR</content>
     <link href="https://www.tiktok.com/@ive.official/video/7304920000660278535" rel="alternate"/>
     <published>2023-11-24T07:00:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7306048430814596354</id>
+    <title>Catch me if you can! 💨 #BaddieChallenge #Baddie #IVE #아이브 #アイヴ #1stEP #IVEMINE #NewMusic </title>
+    <updated>2023-11-27T07:59:26+00:00</updated>
+    <content>Catch me if you can! 💨 #BaddieChallenge #Baddie #IVE #아이브 #アイヴ #1stEP #IVEMINE #NewMusic </content>
+    <link href="https://www.tiktok.com/@ive.official/video/7306048430814596354" rel="alternate"/>
+    <published>2023-11-27T07:59:26+00:00</published>
   </entry>
 </feed>
