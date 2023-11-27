@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@twice_tiktok_official</id>
   <title>@twice_tiktok_official | TikTok</title>
-  <updated>2023-11-24T14:00:29+00:00</updated>
+  <updated>2023-11-27T14:07:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @twice_tiktok_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@twice_tiktok_official/video/7297066303976639746</id>
-    <title>2023 TWICE FANMEETING &lt;ONCE AGAIN&gt;  국민 첫사랑즈의 '영원한 사랑'🤍🫧 #TWICE #트와이스 #ONCE #원스 #HappyONCEday #ONCE_8TH_BIRTHDAY</title>
-    <updated>2023-11-03T03:04:08+00:00</updated>
-    <content>2023 TWICE FANMEETING &lt;ONCE AGAIN&gt;  국민 첫사랑즈의 '영원한 사랑'🤍🫧 #TWICE #트와이스 #ONCE #원스 #HappyONCEday #ONCE_8TH_BIRTHDAY</content>
-    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7297066303976639746" rel="alternate"/>
-    <published>2023-11-03T03:04:08+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_official/video/7297066670714146049</id>
     <title>2023 TWICE FANMEETING &lt;ONCE AGAIN&gt;  너 T야? 큐티~ 가 부르는 'CANDY'🍭  #TWICE #트와이스 #ONCE #원스 #HappyONCEday #ONCE_8TH_BIRTHDAY</title>
@@ -83,6 +75,14 @@
     <content>Who's enjoying "I CAN'T STOP ME (feat.#BOYSLIKEGIRLS)"? 👀 The collaboration you never knew you needed!  🐰🐯 #ICANTSTOPME (feat. BOYS LIKE GIRLS) Challenge With #NAYEON #CHAEYOUNG #TWICE #트와이스 #REMIX #THEREMIXES </content>
     <link href="https://www.tiktok.com/@twice_tiktok_official/video/7305028231105629447" rel="alternate"/>
     <published>2023-11-24T14:00:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@twice_tiktok_official/video/7306143169329040648</id>
+    <title>🐰🐶🦄🍓 Jjimbangpa + Strawberry Unit does the More &amp; More (LEE HAE SOL Sped Up Remix) Challenge! 🌪  Can you do it too? 🫵 #MOREandMORE (LEE HAE SOL Sped Up Remix) Challenge With #NAYEON #JEONGYEON #JIHYO #CHAEYOUNG  #TWICE #트와이스 #REMIX #THEREMIXES #SpedUpRemi</title>
+    <updated>2023-11-27T14:07:01+00:00</updated>
+    <content>🐰🐶🦄🍓 Jjimbangpa + Strawberry Unit does the More &amp; More (LEE HAE SOL Sped Up Remix) Challenge! 🌪  Can you do it too? 🫵 #MOREandMORE (LEE HAE SOL Sped Up Remix) Challenge With #NAYEON #JEONGYEON #JIHYO #CHAEYOUNG  #TWICE #트와이스 #REMIX #THEREMIXES #SpedUpRemix</content>
+    <link href="https://www.tiktok.com/@twice_tiktok_official/video/7306143169329040648" rel="alternate"/>
+    <published>2023-11-27T14:07:01+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@twice_tiktok_official/video/7302295860606405906</id>
