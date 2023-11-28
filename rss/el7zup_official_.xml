@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@el7zup_official_</id>
   <title>@el7zup_official_ | TikTok</title>
-  <updated>2023-11-15T11:00:00+00:00</updated>
+  <updated>2023-11-28T11:01:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @el7zup_official_</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@el7zup_official_/video/7293515367513738497</id>
-    <title>막내즈는 달리고 달리고 또 달리지 🏃🏻 스모크 챌린지🔥 ⠀ #TikTok #틱톡 #EL7ZUP #엘즈업 #휘서 #HWISEO #유키 #YUKI</title>
-    <updated>2023-10-24T13:24:42+00:00</updated>
-    <content>막내즈는 달리고 달리고 또 달리지 🏃🏻 스모크 챌린지🔥 ⠀ #TikTok #틱톡 #EL7ZUP #엘즈업 #휘서 #HWISEO #유키 #YUKI</content>
-    <link href="https://www.tiktok.com/@el7zup_official_/video/7293515367513738497" rel="alternate"/>
-    <published>2023-10-24T13:24:42+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@el7zup_official_/video/7294650706764614914</id>
     <title>태어났을 때부터 난 love ya❤‍🔥 #트레저 #최현석 님과 함께한 #치키챌린지 😘 @yg_treasure_tiktok  #CHEEKY_Challenge #치키챌린지 #EL7ZUP #엘즈업 #CHEEKY #휘서 #HWISEO #NewMusic</title>
@@ -91,5 +83,13 @@
     <content>김케이 본업 직캠 미리보기 너는 내 맘 모르지 아츄🤭💕 🗓 2023년 11월 16일 (목) 저녁 8시 3-4회 방송 📺 Mnet ㅣ TVING 스트리밍 #EL7ZUP #엘즈업 #EL7ZUP_AND_GO #엘즈업앤고</content>
     <link href="https://www.tiktok.com/@el7zup_official_/video/7300818674326228225" rel="alternate"/>
     <published>2023-11-15T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@el7zup_official_/video/7306466455237840130</id>
+    <title>도쿄 타워 앞에서 짱구즈🗼 징글벨❤️ 징글벨💚 징글벨~락🎄 @YEOREUM_OFFICIAL  #EL7ZUP #엘즈업 #여름 #YEOREUM #휘서 #HWISEO #NewMusic</title>
+    <updated>2023-11-28T11:01:33+00:00</updated>
+    <content>도쿄 타워 앞에서 짱구즈🗼 징글벨❤️ 징글벨💚 징글벨~락🎄 @YEOREUM_OFFICIAL  #EL7ZUP #엘즈업 #여름 #YEOREUM #휘서 #HWISEO #NewMusic</content>
+    <link href="https://www.tiktok.com/@el7zup_official_/video/7306466455237840130" rel="alternate"/>
+    <published>2023-11-28T11:01:33+00:00</published>
   </entry>
 </feed>
