@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-11-30T13:58:07+00:00</updated>
+  <updated>2023-12-01T09:58:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7305739213083806984</id>
-    <title>🔥❤️‍🔥🔥  #aespa #에스파 #GISELLE #지젤</title>
-    <updated>2023-11-26T11:59:27+00:00</updated>
-    <content>🔥❤️‍🔥🔥  #aespa #에스파 #GISELLE #지젤</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7305739213083806984" rel="alternate"/>
-    <published>2023-11-26T11:59:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7305769782618393874</id>
-    <title>WE BACK AGAINNN! 💙⭐️ #aespa #에스파 #KARINA #카리나 #WINTER #윈터</title>
-    <updated>2023-11-26T13:58:05+00:00</updated>
-    <content>WE BACK AGAINNN! 💙⭐️ #aespa #에스파 #KARINA #카리나 #WINTER #윈터</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7305769782618393874" rel="alternate"/>
-    <published>2023-11-26T13:58:05+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7306079029575109889</id>
     <title>📸  #aespa #에스파 #NINGNING #닝닝</title>
@@ -91,5 +75,21 @@
     <content>#ImtheDrama with #DEX 💁‍♀️   #덱스 #GISELLE #지젤 #aespa #Drama #aespaDrama</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7307254136133766407" rel="alternate"/>
     <published>2023-11-30T13:58:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7307563400404552968</id>
+    <title>MY의 본능을 당겨 Zoooom 📸 #aespa #에스파 #KARINA #카리나 #ImtheDrama #Drama #aespaDrama</title>
+    <updated>2023-12-01T09:58:14+00:00</updated>
+    <content>MY의 본능을 당겨 Zoooom 📸 #aespa #에스파 #KARINA #카리나 #ImtheDrama #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7307563400404552968" rel="alternate"/>
+    <published>2023-12-01T09:58:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7307563582261120264</id>
+    <title>🌊🪸🧸 #aespa #에스파 #KARINA #카리나</title>
+    <updated>2023-12-01T09:58:56+00:00</updated>
+    <content>🌊🪸🧸 #aespa #에스파 #KARINA #카리나</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7307563582261120264" rel="alternate"/>
+    <published>2023-12-01T09:58:56+00:00</published>
   </entry>
 </feed>
