@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nmixx_official</id>
   <title>@nmixx_official | TikTok</title>
-  <updated>2023-11-09T07:29:24+00:00</updated>
+  <updated>2023-12-02T13:23:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nmixx_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@nmixx_official/video/7288535225880055048</id>
-    <title>뀨🐱삐💞뽀🫶삐🎀뽀 뀨삐뽀⋰˚☆ #NMIXX #엔믹스 #규진 #KYUJIN</title>
-    <updated>2023-10-11T03:19:12+00:00</updated>
-    <content>뀨🐱삐💞뽀🫶삐🎀뽀 뀨삐뽀⋰˚☆ #NMIXX #엔믹스 #규진 #KYUJIN</content>
-    <link href="https://www.tiktok.com/@nmixx_official/video/7288535225880055048" rel="alternate"/>
-    <published>2023-10-11T03:19:12+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@nmixx_official/video/7288890757136551186</id>
     <title>Ugh...!✧⃛  As if🐨💝🐣 #NMIXX #엔믹스 #릴리 #LILY #배이 #BAE </title>
@@ -91,5 +83,13 @@
     <content>🐈‍⬛🐥아이셔x4😖 LIME💚 #NMIXX #엔믹스 #배이 #BAE #규진 #KYUJIN #LIME_CHALLENGE #BAEKAYEON_LIME #라임챌린지</content>
     <link href="https://www.tiktok.com/@nmixx_official/video/7299361174020246802" rel="alternate"/>
     <published>2023-11-09T07:29:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@nmixx_official/video/7307987389924838663</id>
+    <title>Come a so-soñar🌪️ #NMIXX #엔믹스 #Fe3O4_BREAK #Soñar #Soñar_Challenge </title>
+    <updated>2023-12-02T13:23:31+00:00</updated>
+    <content>Come a so-soñar🌪️ #NMIXX #엔믹스 #Fe3O4_BREAK #Soñar #Soñar_Challenge </content>
+    <link href="https://www.tiktok.com/@nmixx_official/video/7307987389924838663" rel="alternate"/>
+    <published>2023-12-02T13:23:31+00:00</published>
   </entry>
 </feed>
