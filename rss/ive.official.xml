@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-11-28T11:13:34+00:00</updated>
+  <updated>2023-12-02T01:59:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7302322208477629703</id>
-    <title>YOKOHAMA, YOU ARE SO CHERISH🖤 #IVE #아이브 #アイヴ #SHOW_WHAT_I_HAVE #IVE_WORLD_TOUR</title>
-    <updated>2023-11-17T06:59:44+00:00</updated>
-    <content>YOKOHAMA, YOU ARE SO CHERISH🖤 #IVE #아이브 #アイヴ #SHOW_WHAT_I_HAVE #IVE_WORLD_TOUR</content>
-    <link href="https://www.tiktok.com/@ive.official/video/7302322208477629703" rel="alternate"/>
-    <published>2023-11-17T06:59:44+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7303917215324097794</id>
     <title>더 낼 수 있지, 리즈 만나면 💵 #IVE #아이브 #アイヴ #LIZ #리즈 #リズ #HappyLIZday #아기고양이_리즈_탄생일 🐾</title>
@@ -91,5 +83,13 @@
     <content>Don't stop, REI! 😘 #IVE #아이브 #アイヴ #REI #레이 #レイ</content>
     <link href="https://www.tiktok.com/@ive.official/video/7306469551858846994" rel="alternate"/>
     <published>2023-11-28T11:13:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7307811155722915073</id>
+    <title>Can't take my eyes off IVE 🧐 #IVE #아이브 #アイヴ #HappyIVEday #IVE_2nd_Anniversary #우리의_DECEMBER_영원히_EVER ⭐</title>
+    <updated>2023-12-02T01:59:43+00:00</updated>
+    <content>Can't take my eyes off IVE 🧐 #IVE #아이브 #アイヴ #HappyIVEday #IVE_2nd_Anniversary #우리의_DECEMBER_영원히_EVER ⭐</content>
+    <link href="https://www.tiktok.com/@ive.official/video/7307811155722915073" rel="alternate"/>
+    <published>2023-12-02T01:59:43+00:00</published>
   </entry>
 </feed>
