@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-10-23T01:04:56+00:00</updated>
+  <updated>2023-12-02T10:26:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7279042244718415106</id>
-    <title>@Leenie 님과 #듀엣 #itzy_cake #RYUJIN</title>
-    <updated>2023-09-15T13:21:35+00:00</updated>
-    <content>@Leenie 님과 #듀엣 #itzy_cake #RYUJIN</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7279042244718415106" rel="alternate"/>
-    <published>2023-09-15T13:21:35+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7279376943269596418</id>
     <title>ITZY OFFICIAL FANCLUB MIDZY 3RD GENERATION D-1 #YUNA Join BAND ITZY 🎸 ~ 2023.09.17 SUN 23:59 (KST) @ YES24 🎹 KOR https://bit.ly/3L7U5GE 🥁 GLOBAL https://bit.ly/3qZ8Ww8 #ITZY #MIDZY  #MIDZY3RDGENERATION</title>
@@ -91,5 +83,13 @@
     <content>ITZY의 쌩얼메이크업템🧡 메이블린 뉴욕 신상 베이스 톤업, 비타민C 파운데이션 #핏미스킨틴트 올리브영 온라인몰에서 만나요😘 #메이블린 #메이블린뉴욕 #maybelline #ITZY #있지 #핏미스킨틴트 #비타민베이스</content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7292953616653077762" rel="alternate"/>
     <published>2023-10-23T01:04:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7307941889527778567</id>
+    <title>NOW LEEEAAAAAAAAN #ITZY #있지 #MIDZY #wopchallenge #wop </title>
+    <updated>2023-12-02T10:26:58+00:00</updated>
+    <content>NOW LEEEAAAAAAAAN #ITZY #있지 #MIDZY #wopchallenge #wop </content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7307941889527778567" rel="alternate"/>
+    <published>2023-12-02T10:26:58+00:00</published>
   </entry>
 </feed>
