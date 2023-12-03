@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-12-03T01:40:56+00:00</updated>
+  <updated>2023-12-03T15:02:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7283428310581824769</id>
-    <title>추석에는 맛있는 떡 #CAKEChallenge  #ITZY #MIDZY #추석 #CHUSEOK</title>
-    <updated>2023-09-27T09:01:45+00:00</updated>
-    <content>추석에는 맛있는 떡 #CAKEChallenge  #ITZY #MIDZY #추석 #CHUSEOK</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7283428310581824769" rel="alternate"/>
-    <published>2023-09-27T09:01:45+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7283428640816188674</id>
     <title>추석맞이 있지’s PICK은!?🍂 #ITZY #MIDZY #추석 #CHUSEOK</title>
@@ -91,5 +83,13 @@
     <content>위글위글🐰💕 #ITZY #있지 #MIDZY #YUNA #유나 #wigglewiggle</content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7308177401727520018" rel="alternate"/>
     <published>2023-12-03T01:40:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7308383858293050625</id>
+    <title>ITZY &lt;BORN TO BE&gt; ANNOUNCEMENT https://youtu.be/UvlMDhdpIvk 📌 ALBUM RELEASE  2024.01.08 MON 6PM (KST) | 4AM (EST) #ITZY #MIDZY #ITZYComeback #ITZY_BORNTOBE</title>
+    <updated>2023-12-03T15:02:02+00:00</updated>
+    <content>ITZY &lt;BORN TO BE&gt; ANNOUNCEMENT https://youtu.be/UvlMDhdpIvk 📌 ALBUM RELEASE  2024.01.08 MON 6PM (KST) | 4AM (EST) #ITZY #MIDZY #ITZYComeback #ITZY_BORNTOBE</content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7308383858293050625" rel="alternate"/>
+    <published>2023-12-03T15:02:02+00:00</published>
   </entry>
 </feed>
