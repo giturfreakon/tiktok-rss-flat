@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-12-01T09:58:56+00:00</updated>
+  <updated>2023-12-03T10:00:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7306079029575109889</id>
-    <title>📸  #aespa #에스파 #NINGNING #닝닝</title>
-    <updated>2023-11-27T09:58:10+00:00</updated>
-    <content>📸  #aespa #에스파 #NINGNING #닝닝</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7306079029575109889" rel="alternate"/>
-    <published>2023-11-27T09:58:10+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7306110029260803346</id>
     <title>#Drama The Scene 🎞️  #Wicked #aespa #에스파 #ImtheDrama #aespaDrama</title>
@@ -91,5 +83,13 @@
     <content>🌊🪸🧸 #aespa #에스파 #KARINA #카리나</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7307563582261120264" rel="alternate"/>
     <published>2023-12-01T09:58:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7308306183083789569</id>
+    <title>Jingle Bell Rock 🐶🔔 #Jinglebellrock_Challenge 🤟 #Jinglebellrock #aespa #에스파 #WINTER #윈터#크리스마스 </title>
+    <updated>2023-12-03T10:00:38+00:00</updated>
+    <content>Jingle Bell Rock 🐶🔔 #Jinglebellrock_Challenge 🤟 #Jinglebellrock #aespa #에스파 #WINTER #윈터#크리스마스 </content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7308306183083789569" rel="alternate"/>
+    <published>2023-12-03T10:00:38+00:00</published>
   </entry>
 </feed>
