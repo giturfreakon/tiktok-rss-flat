@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-12-03T10:00:38+00:00</updated>
+  <updated>2023-12-04T11:58:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7306110029260803346</id>
-    <title>#Drama The Scene 🎞️  #Wicked #aespa #에스파 #ImtheDrama #aespaDrama</title>
-    <updated>2023-11-27T11:58:25+00:00</updated>
-    <content>#Drama The Scene 🎞️  #Wicked #aespa #에스파 #ImtheDrama #aespaDrama</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7306110029260803346" rel="alternate"/>
-    <published>2023-11-27T11:58:25+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7306450112140627208</id>
     <title>thank u #taylor  #aespa #에스파 #NINGNING #닝닝</title>
@@ -91,5 +83,13 @@
     <content>Jingle Bell Rock 🐶🔔 #Jinglebellrock_Challenge 🤟 #Jinglebellrock #aespa #에스파 #WINTER #윈터#크리스마스 </content>
     <link href="https://www.tiktok.com/@aespa_official/video/7308306183083789569" rel="alternate"/>
     <published>2023-12-03T10:00:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7308707692061756673</id>
+    <title>WASSUP #MMA 🔥 #aespa #에스파 #KARINA #카리나 #NINGNING #닝닝 #Drama #ImtheDrama #aespaDrama #MMA2023 #Melon #멜론뮤직어워드</title>
+    <updated>2023-12-04T11:58:42+00:00</updated>
+    <content>WASSUP #MMA 🔥 #aespa #에스파 #KARINA #카리나 #NINGNING #닝닝 #Drama #ImtheDrama #aespaDrama #MMA2023 #Melon #멜론뮤직어워드</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7308707692061756673" rel="alternate"/>
+    <published>2023-12-04T11:58:42+00:00</published>
   </entry>
 </feed>
