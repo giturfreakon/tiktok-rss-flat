@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tarankaaa</id>
   <title>@tarankaaa | TikTok</title>
-  <updated>2023-11-30T14:11:14+00:00</updated>
+  <updated>2023-12-05T11:34:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tarankaaa</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@tarankaaa/video/7305363043121138952</id>
-    <title>[no title]</title>
-    <updated>2023-11-25T11:39:42+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@tarankaaa/video/7305363043121138952" rel="alternate"/>
-    <published>2023-11-25T11:39:42+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/7305382636262935826</id>
     <title>get unready with me ^^  #nightroutine #skincare #koreanskincare </title>
@@ -67,6 +59,14 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@tarankaaa/video/7307257515186670855" rel="alternate"/>
     <published>2023-11-30T14:11:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tarankaaa/video/7309072557347573010</id>
+    <title>Practicing korean and trying not to be so shy lol 🥹🥲</title>
+    <updated>2023-12-05T11:34:32+00:00</updated>
+    <content>Practicing korean and trying not to be so shy lol 🥹🥲</content>
+    <link href="https://www.tiktok.com/@tarankaaa/video/7309072557347573010" rel="alternate"/>
+    <published>2023-12-05T11:34:32+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@tarankaaa/video/6995151179823025409</id>
