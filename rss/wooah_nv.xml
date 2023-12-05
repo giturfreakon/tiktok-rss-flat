@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@wooah_nv</id>
   <title>@wooah_nv | TikTok</title>
-  <updated>2023-12-01T12:34:05+00:00</updated>
+  <updated>2023-12-05T04:22:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @wooah_nv</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@wooah_nv/video/7294556054745074952</id>
-    <title>😉💕💚 #wooah #우아 #WOOYEON #우연 </title>
-    <updated>2023-10-27T08:43:04+00:00</updated>
-    <content>😉💕💚 #wooah #우아 #WOOYEON #우연 </content>
-    <link href="https://www.tiktok.com/@wooah_nv/video/7294556054745074952" rel="alternate"/>
-    <published>2023-10-27T08:43:04+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@wooah_nv/video/7295661069333269767</id>
     <title>lover 🫶 #wooah #우아 #WOOYEON #우연 #MINSEO #민서 </title>
@@ -91,5 +83,13 @@
     <content>HEY HEY 🌷💕 #wooah #우아 #WOOYEON #우연 </content>
     <link href="https://www.tiktok.com/@wooah_nv/video/7307603563352509714" rel="alternate"/>
     <published>2023-12-01T12:34:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@wooah_nv/video/7308961345829997832</id>
+    <title>HOP-HOP🤓‼️ #wooah #우아 #NANA #나나 </title>
+    <updated>2023-12-05T04:22:59+00:00</updated>
+    <content>HOP-HOP🤓‼️ #wooah #우아 #NANA #나나 </content>
+    <link href="https://www.tiktok.com/@wooah_nv/video/7308961345829997832" rel="alternate"/>
+    <published>2023-12-05T04:22:59+00:00</published>
   </entry>
 </feed>
