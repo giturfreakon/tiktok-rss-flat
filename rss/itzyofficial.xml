@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itzyofficial</id>
   <title>@itzyofficial | TikTok</title>
-  <updated>2023-12-05T09:00:22+00:00</updated>
+  <updated>2023-12-05T09:29:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@itzyofficial/video/7287517597610904834</id>
-    <title>공일즈의 #슈퍼파워챌린지 💪 #ITZY #MIDZY #RYUJIN #CHAERYEONG #SUPERPOWERCHALLENGE #힘쎈여자강남순 #StrongGirlNamsoon</title>
-    <updated>2023-10-08T09:30:17+00:00</updated>
-    <content>공일즈의 #슈퍼파워챌린지 💪 #ITZY #MIDZY #RYUJIN #CHAERYEONG #SUPERPOWERCHALLENGE #힘쎈여자강남순 #StrongGirlNamsoon</content>
-    <link href="https://www.tiktok.com/@itzyofficial/video/7287517597610904834" rel="alternate"/>
-    <published>2023-10-08T09:30:17+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7288330360511859969</id>
     <title>MIDZY의 응원으로 쌓아가는 trophy🏆🎵 #ITZY #MIDZY #ITZY_KILLMYDOUBT #ITZY_CAKE #ITZY_KillShot</title>
@@ -83,6 +75,14 @@
     <content>🩵 Santa tell us 🩵 #ITZY #있지 #YEJI #예지 #RYUJIN #류진 #CHAERYEONG #채령 #YUNA #유나 #santatellme #santatellmechallenge </content>
     <link href="https://www.tiktok.com/@itzyofficial/video/7309032828509932818" rel="alternate"/>
     <published>2023-12-05T09:00:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@itzyofficial/video/7309040428240719111</id>
+    <title>Santa, we failed 🤣 #ITZY #있지 #YEJI #예지 #RYUJIN #류진 #CHAERYEONG #채령 #YUNA #유나 #santatellme #santatellmechallenge </title>
+    <updated>2023-12-05T09:29:51+00:00</updated>
+    <content>Santa, we failed 🤣 #ITZY #있지 #YEJI #예지 #RYUJIN #류진 #CHAERYEONG #채령 #YUNA #유나 #santatellme #santatellmechallenge </content>
+    <link href="https://www.tiktok.com/@itzyofficial/video/7309040428240719111" rel="alternate"/>
+    <published>2023-12-05T09:29:51+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7308383858293050625</id>
