@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nmixx_official</id>
   <title>@nmixx_official | TikTok</title>
-  <updated>2023-12-04T10:11:27+00:00</updated>
+  <updated>2023-12-05T09:44:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://giturfreakon.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nmixx_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@nmixx_official/video/7290933066229402898</id>
-    <title>💞LOVE-LY LILY💞 #NMIXX #엔믹스 #릴리 #LILY #HAPPY_LILY_DAY #LILY_Really_Lovely</title>
-    <updated>2023-10-17T14:24:02+00:00</updated>
-    <content>💞LOVE-LY LILY💞 #NMIXX #엔믹스 #릴리 #LILY #HAPPY_LILY_DAY #LILY_Really_Lovely</content>
-    <link href="https://www.tiktok.com/@nmixx_official/video/7290933066229402898" rel="alternate"/>
-    <published>2023-10-17T14:24:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@nmixx_official/video/7291563338612395282</id>
-    <title>🐥: 지금 난 간절히 원해🧎한조각의 피스옵쮸🐶 (📱Clean ver.) #NMIXX #엔믹스 #배이 #BAE #지우 #JIWOO</title>
-    <updated>2023-10-19T07:09:49+00:00</updated>
-    <content>🐥: 지금 난 간절히 원해🧎한조각의 피스옵쮸🐶 (📱Clean ver.) #NMIXX #엔믹스 #배이 #BAE #지우 #JIWOO</content>
-    <link href="https://www.tiktok.com/@nmixx_official/video/7291563338612395282" rel="alternate"/>
-    <published>2023-10-19T07:09:49+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@nmixx_official/video/7291921105021979922</id>
     <title>강아지 시점🐶👀 ver.  #NMIXX #엔믹스 #배이 #BAE #지우 #JIWOO</title>
@@ -91,5 +75,21 @@
     <content>하늘 위로 닻을 던져봐⚓ #NMIXX #엔믹스 #해원 #HAEWON #지우 #JIWOO #규진 #KYUJIN #Fe3O4_BREAK #Soñar #Soñar_Challenge</content>
     <link href="https://www.tiktok.com/@nmixx_official/video/7308680058544131336" rel="alternate"/>
     <published>2023-12-04T10:11:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@nmixx_official/video/7309042836861684999</id>
+    <title>༓༝̩̩̥͙Woo🐶🐱like it༓༝̩̩̥͙ #NMIXX #엔믹스 #지우 #JIWOO #규진 #KYUJIN #Fe3O4_BREAK #Soñar #Soñar_Challenge</title>
+    <updated>2023-12-05T09:39:11+00:00</updated>
+    <content>༓༝̩̩̥͙Woo🐶🐱like it༓༝̩̩̥͙ #NMIXX #엔믹스 #지우 #JIWOO #규진 #KYUJIN #Fe3O4_BREAK #Soñar #Soñar_Challenge</content>
+    <link href="https://www.tiktok.com/@nmixx_official/video/7309042836861684999" rel="alternate"/>
+    <published>2023-12-05T09:39:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@nmixx_official/video/7309044155706002695</id>
+    <title>Just feel the #Soñar 🤟with #StrayKids #스트레이키즈 #Changbin #창빈 #NMIXX #엔믹스 #규진 #KYUJIN #Fe3O4_BREAK #Soñar #Soñar_Challenge</title>
+    <updated>2023-12-05T09:44:19+00:00</updated>
+    <content>Just feel the #Soñar 🤟with #StrayKids #스트레이키즈 #Changbin #창빈 #NMIXX #엔믹스 #규진 #KYUJIN #Fe3O4_BREAK #Soñar #Soñar_Challenge</content>
+    <link href="https://www.tiktok.com/@nmixx_official/video/7309044155706002695" rel="alternate"/>
+    <published>2023-12-05T09:44:19+00:00</published>
   </entry>
 </feed>
